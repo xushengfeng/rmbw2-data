@@ -3,7 +3,7 @@
     "13121a93": {
       "name": "课时作业",
       "id": "13121a93",
-      "visitTime": 1712585094682,
+      "visitTime": 1712659982797,
       "updateTime": 1710857536336,
       "type": "text",
       "sections": [
@@ -2811,7 +2811,7 @@
     },
     "6ea57e6e": {
       "title": "18.3",
-      "lastPosi": 0.8980120316292476,
+      "lastPosi": 0.8978851717884567,
       "text": "\n5G mobile technology has officially begun rolling out across the globe，which indicates a dynamic acceleration (加速) in our world of connectivity.It promotes operational cooperation tourism hasn't experienced before. It also transforms the travel experience.\nThis is perceived from both the way the industry operates and the side of the traveler.\n\n5G opens up a new way of accessing information and delivering business value. It's expected to offer organizations a wireless network that transforms the way people and machines use data.Unlike previous network generations,5G is now being seen as not just a consumer platform，but a primary communications platform that can also provide cloud connectivity and edge processing that can offer real­time business insights and automated responses，and eventually integrate the billions of Internet of things devices and data that are available.\n\nAs travel companies have transformed their operations with new digital systems，their focus has moved from the technology itself to the improved business outcomes and enhanced guest and passenger experiences driven by the technology. 5G's capabilities can support that change. With advanced connectivity speeds and low latency(延时)，guests can share their personal data to receive custom recommendations from travel companies in real time that should provide meaningful experiences. Virtual experiences give guests an early taste of the destination. For example，guests can involve themselves in viewing rooms and hotel facilities，or preview local attractions as they plan their trips.\n\nTo prepare to roll out this new technology，travel companies should ensure they have a thorough understanding of their guests' expectations on what makes a first­rank travel experience. Then they should find ways to adapt their processes and services to meet them.\n\n\n",
       "words": {
         "c4eb088c": {
@@ -8338,15 +8338,15 @@
       "last_review": "2024-02-23T01:00:24.787Z"
     },
     "2bfc2e3a": {
-      "due": "2024-03-28T12:14:25.933Z",
-      "stability": 0,
-      "difficulty": 0,
+      "due": "2024-04-09T11:05:58.647Z",
+      "stability": 3.4574,
+      "difficulty": 5.2238,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 0,
+      "reps": 1,
       "lapses": 0,
-      "state": 0,
-      "last_review": "2024-03-28T12:14:25.933Z"
+      "state": 1,
+      "last_review": "2024-04-09T10:55:58.647Z"
     },
     "2c099f4f": {
       "due": "2024-05-25T03:13:29.446Z",
@@ -8415,15 +8415,15 @@
       "last_review": "2024-03-31T03:25:31.455Z"
     },
     "2f2bb524": {
-      "due": "2024-03-28T12:25:54.023Z",
-      "stability": 0,
-      "difficulty": 0,
+      "due": "2024-04-09T11:01:21.221Z",
+      "stability": 1.9502,
+      "difficulty": 6.4737,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 0,
+      "reps": 1,
       "lapses": 0,
-      "state": 0,
-      "last_review": "2024-03-28T12:25:54.023Z"
+      "state": 1,
+      "last_review": "2024-04-09T10:56:21.221Z"
     },
     "2f457e00": {
       "due": "2024-06-22T14:53:58.941Z",
@@ -8525,15 +8525,15 @@
       "last_review": "2024-03-31T03:25:58.871Z"
     },
     "35bc2820": {
-      "due": "2024-03-28T12:20:48.894Z",
-      "stability": 0,
-      "difficulty": 0,
+      "due": "2024-04-09T11:06:16.168Z",
+      "stability": 3.4574,
+      "difficulty": 5.2238,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 0,
+      "reps": 1,
       "lapses": 0,
-      "state": 0,
-      "last_review": "2024-03-28T12:20:48.894Z"
+      "state": 1,
+      "last_review": "2024-04-09T10:56:16.168Z"
     },
     "36df437b": {
       "due": "2024-05-07T12:50:16.769Z",
@@ -8745,15 +8745,15 @@
       "last_review": "2024-03-14T14:57:46.390Z"
     },
     "423f9ae0": {
-      "due": "2024-03-28T12:17:29.112Z",
-      "stability": 0,
-      "difficulty": 0,
+      "due": "2024-04-09T11:06:08.563Z",
+      "stability": 3.4574,
+      "difficulty": 5.2238,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 0,
+      "reps": 1,
       "lapses": 0,
-      "state": 0,
-      "last_review": "2024-03-28T12:17:29.112Z"
+      "state": 1,
+      "last_review": "2024-04-09T10:56:08.563Z"
     },
     "4240af13": {
       "due": "2024-04-29T14:59:32.613Z",
@@ -10197,15 +10197,15 @@
       "last_review": "2024-03-31T03:12:57.458Z"
     },
     "88a55a5b": {
-      "due": "2024-03-28T12:15:08.488Z",
-      "stability": 0,
-      "difficulty": 0,
+      "due": "2024-04-09T11:06:04.621Z",
+      "stability": 3.4574,
+      "difficulty": 5.2238,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 0,
+      "reps": 1,
       "lapses": 0,
-      "state": 0,
-      "last_review": "2024-03-28T12:15:08.488Z"
+      "state": 1,
+      "last_review": "2024-04-09T10:56:04.621Z"
     },
     "88c514fb": {
       "due": "2024-05-05T12:47:56.194Z",
@@ -10967,15 +10967,15 @@
       "last_review": "2024-03-02T09:14:28.155Z"
     },
     "ab88ac77": {
-      "due": "2024-03-28T12:13:56.831Z",
-      "stability": 0,
-      "difficulty": 0,
+      "due": "2024-04-09T11:00:54.097Z",
+      "stability": 1.9502,
+      "difficulty": 6.4737,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 0,
+      "reps": 1,
       "lapses": 0,
-      "state": 0,
-      "last_review": "2024-03-28T12:13:56.831Z"
+      "state": 1,
+      "last_review": "2024-04-09T10:55:54.097Z"
     },
     "abcfef50": {
       "due": "2024-06-09T16:11:43.374Z",
@@ -11913,15 +11913,15 @@
       "last_review": "2024-03-14T14:50:24.547Z"
     },
     "db21c48d": {
-      "due": "2024-03-28T12:18:25.416Z",
-      "stability": 0,
-      "difficulty": 0,
+      "due": "2024-04-09T11:06:13.147Z",
+      "stability": 3.4574,
+      "difficulty": 5.2238,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 0,
+      "reps": 1,
       "lapses": 0,
-      "state": 0,
-      "last_review": "2024-03-28T12:18:25.416Z"
+      "state": 1,
+      "last_review": "2024-04-09T10:56:13.147Z"
     },
     "dbcb4224": {
       "due": "2024-04-01T09:10:35.290Z",
@@ -50060,6 +50060,48 @@
       "rating": null,
       "state": null,
       "duration": null
+    },
+    "1712660154097": {
+      "cardId": "ab88ac77",
+      "rating": 2,
+      "state": 0,
+      "duration": 8112
+    },
+    "1712660158647": {
+      "cardId": "2bfc2e3a",
+      "rating": 3,
+      "state": 0,
+      "duration": 4443
+    },
+    "1712660164621": {
+      "cardId": "88a55a5b",
+      "rating": 3,
+      "state": 0,
+      "duration": 4620
+    },
+    "1712660168563": {
+      "cardId": "423f9ae0",
+      "rating": 3,
+      "state": 0,
+      "duration": 3271
+    },
+    "1712660173147": {
+      "cardId": "db21c48d",
+      "rating": 3,
+      "state": 0,
+      "duration": 4075
+    },
+    "1712660176168": {
+      "cardId": "35bc2820",
+      "rating": 3,
+      "state": 0,
+      "duration": 2933
+    },
+    "1712660181221": {
+      "cardId": "2f2bb524",
+      "rating": 2,
+      "state": 0,
+      "duration": 4450
     }
   }
 }
