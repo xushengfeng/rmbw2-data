@@ -3,7 +3,7 @@
     "13121a93": {
       "name": "课时作业",
       "id": "13121a93",
-      "visitTime": 1712659982797,
+      "visitTime": 1712660443525,
       "updateTime": 1710857536336,
       "type": "text",
       "sections": [
@@ -73,7 +73,7 @@
     "NCE3": {
       "name": "新概念英语三",
       "id": "NCE3",
-      "visitTime": 1712590519251,
+      "visitTime": 1712669405452,
       "updateTime": 1702077339701,
       "type": "text",
       "sections": [
@@ -144,7 +144,7 @@
     "gk": {
       "name": "高考词汇",
       "id": "gk",
-      "visitTime": 1712590499725,
+      "visitTime": 1712667145709,
       "updateTime": 1709174552735,
       "type": "word",
       "sections": [
@@ -2811,7 +2811,7 @@
     },
     "6ea57e6e": {
       "title": "18.3",
-      "lastPosi": 0.8978851717884567,
+      "lastPosi": 0.8979971061288591,
       "text": "\n5G mobile technology has officially begun rolling out across the globe，which indicates a dynamic acceleration (加速) in our world of connectivity.It promotes operational cooperation tourism hasn't experienced before. It also transforms the travel experience.\nThis is perceived from both the way the industry operates and the side of the traveler.\n\n5G opens up a new way of accessing information and delivering business value. It's expected to offer organizations a wireless network that transforms the way people and machines use data.Unlike previous network generations,5G is now being seen as not just a consumer platform，but a primary communications platform that can also provide cloud connectivity and edge processing that can offer real­time business insights and automated responses，and eventually integrate the billions of Internet of things devices and data that are available.\n\nAs travel companies have transformed their operations with new digital systems，their focus has moved from the technology itself to the improved business outcomes and enhanced guest and passenger experiences driven by the technology. 5G's capabilities can support that change. With advanced connectivity speeds and low latency(延时)，guests can share their personal data to receive custom recommendations from travel companies in real time that should provide meaningful experiences. Virtual experiences give guests an early taste of the destination. For example，guests can involve themselves in viewing rooms and hotel facilities，or preview local attractions as they plan their trips.\n\nTo prepare to roll out this new technology，travel companies should ensure they have a thorough understanding of their guests' expectations on what makes a first­rank travel experience. Then they should find ways to adapt their processes and services to meet them.\n\n\n",
       "words": {
         "c4eb088c": {
@@ -7202,9 +7202,114 @@
     },
     "nce34": {
       "title": "4",
-      "lastPosi": 0,
+      "lastPosi": 0.1980440097799511,
       "text": "## Lesson 4\nThe double life of Alfred Bloggs\n\nThese days, people who do manual work often receive far more money than people who work in offices. People who work in offices are frequently referred to as \"white-collar workers' for the simple reason that they usually wear a collar and tie to go to work. Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers. This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation.\nWhen he got married, Alf was too embarrassed to say anything to his wife about his job. He simply told her that he worked for the Corporation. Every morning, he left home dressed in a smart black suit. He then changed into overalls and spent the next eight hours as a dustman. Before returning home at night. He took a shower and changed back into his suit. Alf did this for over two years and his fellow dustmen kept his secret Alf's wife has never discovered that she married a dustman and she never will, for Alf has just found another job. He will soon be working in an office. He will be earning only half as much as he used to, but he feels that his rise in status is well worth the loss of money. From now on, he will wear a suit all day and others will call him 'Mr. Bloggs', not 'Alf'.\n",
-      "words": {}
+      "words": {
+        "a92a5a2a": {
+          "id": "manual",
+          "index": [
+            72,
+            78
+          ],
+          "cIndex": [
+            46,
+            144
+          ],
+          "visit": true,
+          "type": "word"
+        },
+        "7f5baca5": {
+          "id": "collar",
+          "index": [
+            273,
+            279
+          ],
+          "cIndex": [
+            145,
+            301
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "7e21ccd9": {
+          "id": "sacrifice",
+          "index": [
+            371,
+            380
+          ],
+          "cIndex": [
+            302,
+            442
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "170c3608": {
+          "id": "privilege",
+          "index": [
+            400,
+            409
+          ],
+          "cIndex": [
+            302,
+            442
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "6901c320": {
+          "id": "dustman",
+          "index": [
+            541,
+            548
+          ],
+          "cIndex": [
+            443,
+            578
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "e0ae311d": {
+          "id": "overalls",
+          "index": [
+            803,
+            811
+          ],
+          "cIndex": [
+            781,
+            855
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "fe9c86a7": {
+          "id": "shower",
+          "index": [
+            899,
+            905
+          ],
+          "cIndex": [
+            888,
+            936
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "87ae1de3": {
+          "id": "fellow",
+          "index": [
+            978,
+            984
+          ],
+          "cIndex": [
+            937,
+            1122
+          ],
+          "visit": false,
+          "type": "word"
+        }
+      }
     },
     "nce340": {
       "title": "40",
@@ -7352,7 +7457,7 @@
     },
     "words": {
       "title": "words",
-      "lastPosi": 0.03397149848855621,
+      "lastPosi": 0,
       "text": "",
       "words": {}
     }
@@ -8105,6 +8210,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-02-23T00:37:12.182Z"
+    },
+    "1f14117a": {
+      "due": "2024-04-09T13:32:41.922Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-09T13:32:41.923Z"
     },
     "20572c50": {
       "due": "2024-05-16T03:20:29.480Z",
@@ -13603,7 +13719,7 @@
       "word": "assist",
       "means": [
         {
-          "text": "help\nəˈsɪst\n🤝",
+          "text": "help\n🤝",
           "contexts": [
             {
               "text": "A limited number of scholarships are available to assist students who demonstrate financial need",
@@ -13626,7 +13742,7 @@
       "word": "associate",
       "means": [
         {
-          "text": "əˈsoʊʃiˌeɪt\n👩‍🏫\n\"an associate professor\" 是一个职称，指的是在大学或其他教育机构中担任副教授（associate professor）职位的人员。通常来说，副教授比助理教授（assistant professor）地位更高一些，在学术界有更多的经验和资格。",
+          "text": "👩‍🏫\n\"an associate professor\" 是一个职称，指的是在大学或其他教育机构中担任副教授（associate professor）职位的人员。通常来说，副教授比助理教授（assistant professor）地位更高一些，在学术界有更多的经验和资格。",
           "contexts": [
             {
               "text": "said senior study author Jennifer Aubrey，an associate professor at the UA",
@@ -13759,7 +13875,7 @@
       "word": "attendance",
       "means": [
         {
-          "text": "Being present\n出席；到场\n/əˈtɛndəns/\n👥 出席\n= presence\n≈ participation\n- absence, nonattendance",
+          "text": "Being present\n出席；到场\n👥 出席\n= presence\n≈ participation\n- absence, nonattendance",
           "contexts": [
             {
               "text": "C．Having a full attendance",
@@ -14035,7 +14151,7 @@
       "word": "bother",
       "means": [
         {
-          "text": "to give someone trouble or worry\n使人感到焦虑或不安\nˈbɒðər\n😣\n= annoy\n- comfort, ease, relieve, console",
+          "text": "to give someone trouble or worry\n使人感到焦虑或不安\n😣\n= annoy\n- comfort, ease, relieve, console",
           "contexts": [
             {
               "text": " So many times, negative thoughts bothered me",
@@ -14081,7 +14197,7 @@
       "word": "bouncy",
       "means": [
         {
-          "text": "able to recoil or bounce back easily\n能够反弹或弹回的能力\nˈbaʊnsi\n🦘\n= springy\n- still",
+          "text": "able to recoil or bounce back easily\n能够反弹或弹回的能力\n🦘\n= springy\n- still",
           "contexts": [
             {
               "text": "In the 1930s，George Nissen was inspired to make a bouncy “net” after seeing a circus performance",
@@ -14334,7 +14450,7 @@
       "word": "circus",
       "means": [
         {
-          "text": "马戏团\nˈsɜːrkəs\n🎪",
+          "text": "马戏团\n🎪",
           "contexts": [
             {
               "text": "In the 1930s，George Nissen was inspired to make a bouncy “net” after seeing a circus performance",
@@ -14472,7 +14588,7 @@
       "word": "colonization",
       "means": [
         {
-          "text": "殖民地\nˌkɑlənəˈzeɪʃən\n≈ settlement",
+          "text": "殖民地\n≈ settlement",
           "contexts": [
             {
               "text": "Tobogganing，or sledding (乘雪橇)，likely comes before the colonization of North America",
@@ -14922,7 +15038,7 @@
       "word": "coordinator",
       "means": [
         {
-          "text": "活动组织者\n/koʊˈɔːrdɪˌneɪtər/\n= manager, organizer",
+          "text": "活动组织者\n= manager, organizer",
           "contexts": [
             {
               "text": "said Prama Rahman，a coordinator for the BC Parks Foundation",
@@ -15107,7 +15223,7 @@
       "word": "dare",
       "means": [
         {
-          "text": "brave\n勇敢的; 大胆的\ndeər\n😳\n= brave\n≈ bold",
+          "text": "brave\n勇敢的; 大胆的\n😳\n= brave\n≈ bold",
           "contexts": [
             {
               "text": "Cresta Run is considered the birthplace of the skeleton，a particularly daring form of sledding",
@@ -15130,7 +15246,7 @@
       "word": "debatable",
       "means": [
         {
-          "text": "open to discussion or argument\n存在争议的; 值得商榷的\ndɪˈbeɪtəbl\n🤔\n= uncertain\n≈ arguable, questionable, doubtful",
+          "text": "open to discussion or argument\n存在争议的; 值得商榷的\n🤔\n= uncertain\n≈ arguable, questionable, doubtful",
           "contexts": [
             {
               "text": "The origin is debatable in snowy northern New York",
@@ -15153,7 +15269,7 @@
       "word": "decade",
       "means": [
         {
-          "text": "十年的时间\nˈdɛkeɪd\nfor decades，数十年",
+          "text": "十年的时间\nfor decades，数十年",
           "contexts": [
             {
               "text": "The skeleton sledding was limited to the Cresta Run for decades ",
@@ -15211,7 +15327,7 @@
       "word": "declare",
       "means": [
         {
-          "text": "affirm or assert\n断言或声明\ndɪˈklɛər\n⚠️\n= announce",
+          "text": "affirm or assert\n断言或声明\n⚠️\n= announce",
           "contexts": [
             {
               "text": " The doctor declared it a serious injury",
@@ -15373,7 +15489,7 @@
       "word": "demonstrate",
       "means": [
         {
-          "text": "show clearly\nto clearly show the existence or truth of something by giving proof or evidence\n清楚地展示；通过给出证据或证明来清楚地展示某事物的存在或真实性\nˈdɛmənstreɪt\n= show, prove",
+          "text": "show clearly\nto clearly show the existence or truth of something by giving proof or evidence\n清楚地展示；通过给出证据或证明来清楚地展示某事物的存在或真实性\n= show, prove",
           "contexts": [
             {
               "text": "A limited number of scholarships are available to assist students who demonstrate financial need",
@@ -15914,7 +16030,7 @@
       "word": "earn",
       "means": [
         {
-          "text": "to gain or obtain something through effort or work\n通过努力或工作获得或获取某物\nɜːrn\n= gain, acquire",
+          "text": "to gain or obtain something through effort or work\n通过努力或工作获得或获取某物\n= gain, acquire",
           "contexts": [
             {
               "text": "It earned its name after competitors started swinging back and forth to speed up the sled",
@@ -16006,7 +16122,7 @@
       "word": "engaged",
       "means": [
         {
-          "text": "involved\nparticipating actively\n参与积极的\nɪnˈɡeɪdʒd",
+          "text": "involved\nparticipating actively\n参与积极的",
           "contexts": [
             {
               "text": "and helps to grow the number of people who are more engaged environmental advocates",
@@ -16098,7 +16214,7 @@
       "word": "entertaining",
       "means": [
         {
-          "text": "enjoyable\nproviding amusement or enjoyment\n提供娱乐或享受的\nˌɪn.təˈteɪ.nɪŋ\n= amusing, fun, enjoyable",
+          "text": "enjoyable\nproviding amusement or enjoyment\n提供娱乐或享受的\n= amusing, fun, enjoyable",
           "contexts": [
             {
               "text": "He thought it more entertaining for performers to continue bouncing instead of landing in a net",
@@ -16121,7 +16237,7 @@
       "word": "entertainment",
       "means": [
         {
-          "text": "the action of providing or being provided with amusement or enjoyment.\n提供或享受娱乐的行为\nˌɛntərˈteɪnmənt\n🎬",
+          "text": "the action of providing or being provided with amusement or enjoyment.\n提供或享受娱乐的行为\n🎬",
           "contexts": [
             {
               "text": "An entertainment magazine",
@@ -16259,7 +16375,7 @@
       "word": "estimated",
       "means": [
         {
-          "text": "大约估计的\nˈɛstɪˌmeɪtɪd\n📸 预估的，估计的\n= guessed",
+          "text": "大约估计的\n📸 预估的，估计的\n= guessed",
           "contexts": [
             {
               "text": "With an estimated 93 million selfies taken each day，they aren't going away anytime soon，nor should they",
@@ -16305,7 +16421,7 @@
       "word": "evidence",
       "means": [
         {
-          "text": "证据\nˈɛvɪdəns\n🔍\n= proof",
+          "text": "证据\n🔍\n= proof",
           "contexts": [
             {
               "text": "however，where there's evidence that Albany held bobsled (a sled used by two or more people) races as early as 1885",
@@ -16553,7 +16669,7 @@
       "word": "extreme",
       "means": [
         {
-          "text": "非常严重的，极端\nɪkˈstriːm",
+          "text": "非常严重的，极端",
           "contexts": [
             {
               "text": "Weather，climate and water extremes are increasing",
@@ -16599,7 +16715,7 @@
       "word": "fairly",
       "means": [
         {
-          "text": "相对\nˈfeərli\n= quite, pretty\n≈ relatively, reasonably\n- unfairly",
+          "text": "相对\n= quite, pretty\n≈ relatively, reasonably\n- unfairly",
           "contexts": [
             {
               "text": "Trampolines are great for both fun and exercise，but they are a fairly recent invention",
@@ -16875,7 +16991,7 @@
       "word": "financial",
       "means": [
         {
-          "text": "relating to finance\nrelated to money or managing money\n与金融相关的\nfɪˈnænʃəl\n💸\n= money, economic\n- nonfinancial",
+          "text": "relating to finance\nrelated to money or managing money\n与金融相关的\n💸\n= money, economic\n- nonfinancial",
           "contexts": [
             {
               "text": "A limited number of scholarships are available to assist students who demonstrate financial need",
@@ -17216,7 +17332,7 @@
       "word": "general",
       "means": [
         {
-          "text": "not detailed or specific\n一般的；普遍的\nˈdʒɛnərəl\n≈ common",
+          "text": "not detailed or specific\n一般的；普遍的\n≈ common",
           "contexts": [
             {
               "text": "The program allows doctors to write more general prescriptions for time spent out in nature",
@@ -17401,7 +17517,7 @@
       "word": "handful",
       "means": [
         {
-          "text": "a small number or amount\n一小撮；一小部分\nˈhænd.fʊl\n🤏\n= few",
+          "text": "a small number or amount\n一小撮；一小部分\n🤏\n= few",
           "contexts": [
             {
               "text": "Bobsledding initially overtook skeleton sledding in popularity，becoming one of a handful of sports played at the first Winter Games in 1924",
@@ -17447,7 +17563,7 @@
       "word": "heal",
       "means": [
         {
-          "text": "recover\nto become healthy again\n恢复健康\nhiːl\n🌱",
+          "text": "recover\nto become healthy again\n恢复健康\n🌱",
           "contexts": [
             {
               "text": " I even planted various plants to help me heal",
@@ -17700,7 +17816,7 @@
       "word": "income",
       "means": [
         {
-          "text": "收入\nˈɪnkʌm\n💰",
+          "text": "收入\n💰",
           "contexts": [
             {
               "text": "Income can affect one's access to nature，an issue that PaRx is trying to address in Canada",
@@ -17896,7 +18012,7 @@
       "word": "initial",
       "means": [
         {
-          "text": "first\nɪˈnɪʃəl\n= first\n首批",
+          "text": "= first\n首批",
           "contexts": [
             {
               "text": "partnered with Parks Canada to provide doctors across four provinces with an initial run of 100 passes that can be prescribed",
@@ -17919,7 +18035,7 @@
       "word": "initiative",
       "means": [
         {
-          "text": "ɪˈnɪʃ.ə.tɪv\n= project, program",
+          "text": "= project, program",
           "contexts": [
             {
               "text": "PaRx，a health initiative launched by the BC Parks Foundation in 2019",
@@ -18128,7 +18244,7 @@
       "word": "integrity",
       "means": [
         {
-          "text": "the quality of being honest and having strong moral principles\n诚实和具有强烈道德原则的品质\nɪnˈtɛɡrɪti\n= honesty\n≈ ethics, morality, principles",
+          "text": "the quality of being honest and having strong moral principles\n诚实和具有强烈道德原则的品质\n= honesty\n≈ ethics, morality, principles",
           "contexts": [
             {
               "text": "Personal integrity",
@@ -18232,7 +18348,7 @@
       "word": "invest",
       "means": [
         {
-          "text": "to put money, effort, time, etc. into something to make a profit or get an advantage\n将钱、精力、时间等投入到某事以获利或获得优势\n时间投入\nɪnˈvest\n= spend, commit",
+          "text": "to put money, effort, time, etc. into something to make a profit or get an advantage\n将钱、精力、时间等投入到某事以获利或获得优势\n时间投入\n= spend, commit",
           "contexts": [
             {
               "text": "The study，by researchers at the University of Arizona(UA)，found that selfie editing and time invested in creating and selecting the perfect selfie were both related to self­objectification，",
@@ -18255,7 +18371,7 @@
       "word": "investigate",
       "means": [
         {
-          "text": "进行系统和正式的调查或审查\nɪnˈvɛstɪɡeɪt\n🕵️‍♂️\n= examine, explore",
+          "text": "进行系统和正式的调查或审查\n🕵️‍♂️\n= examine, explore",
           "contexts": [
             {
               "text": " However, as the evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar",
@@ -18278,7 +18394,7 @@
       "word": "involve",
       "means": [
         {
-          "text": "participate\n涉及\nɪnˈvɒlv\n= include, contain",
+          "text": "participate\n涉及\n= include, contain",
           "contexts": [
             {
               "text": "Bobsledding，meanwhile，involves teams of two to four in which the person in front controls directions and the player in back brakes when needed",
@@ -18822,6 +18938,29 @@
         }
       ]
     },
+    "manual": {
+      "word": "manual",
+      "means": [
+        {
+          "text": "体力的",
+          "contexts": [
+            {
+              "text": "These days, people who do manual work often receive far more money than people who work in offices",
+              "index": [
+                26,
+                32
+              ],
+              "source": {
+                "book": "NCE3",
+                "sections": 3,
+                "id": "a92a5a2a"
+              }
+            }
+          ],
+          "card_id": "1f14117a"
+        }
+      ]
+    },
     "matter": {
       "word": "matter",
       "means": [
@@ -18849,7 +18988,7 @@
       "word": "mature",
       "means": [
         {
-          "text": "fully developed in body or mind, as a person\n成熟的；成年的；熟悉的；老练的\nməˈtʃʊr\n= adult, grown-up\n≈ developed, developing\n- childish",
+          "text": "fully developed in body or mind, as a person\n成熟的；成年的；熟悉的；老练的\n= adult, grown-up\n≈ developed, developing\n- childish",
           "contexts": [
             {
               "text": "The admission committee is now looking for mature，academically motivated students who will graduate from high school and enter college in 2022",
@@ -18872,7 +19011,7 @@
       "word": "meanwhile",
       "means": [
         {
-          "text": "at the same time\n同时\nˈmiːnwaɪl\n= while",
+          "text": "at the same time\n同时\n= while",
           "contexts": [
             {
               "text": "Bobsledding，meanwhile，involves teams of two to four in which the person in front controls directions and the player in back brakes when needed",
@@ -18964,7 +19103,7 @@
       "word": "metal",
       "means": [
         {
-          "text": "金属的\nˈmɛtəl\n🔩\n≈ iron, steel",
+          "text": "金属的\n🔩\n≈ iron, steel",
           "contexts": [
             {
               "text": "So，at the age of 16，he made it by stretching thick cloth in a metal frame",
@@ -19240,7 +19379,7 @@
       "word": "obliged",
       "means": [
         {
-          "text": "forced\n被迫做某事\nəˈblaɪdʒd",
+          "text": "forced\n被迫做某事",
           "contexts": [
             {
               "text": " However, as the evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar",
@@ -19378,7 +19517,7 @@
       "word": "opportunity",
       "means": [
         {
-          "text": "a chance\nˌɑpərˈtuːnəti\n机会",
+          "text": "a chance\n机会",
           "contexts": [
             {
               "text": "giving me an opportunity to spend time with myself and my family",
@@ -19424,7 +19563,7 @@
       "word": "otherwise",
       "means": [
         {
-          "text": "in a different way\n以不同的方式，特殊条件\nˈʌðərwaɪz\n没有特殊方式（情况）能支付……",
+          "text": "in a different way\n以不同的方式，特殊条件\n没有特殊方式（情况）能支付……",
           "contexts": [
             {
               "text": "Doctors  utilizing  the new national parks pass program are urged to prioritize patients who might not otherwise be able to afford these passes",
@@ -19608,7 +19747,7 @@
       "word": "participate",
       "means": [
         {
-          "text": "to take part in activities\nto join in or be involved in activities\n参与活动\nˈpɑːrtɪsɪpeɪt\n💬 参与\n= join, take part",
+          "text": "to take part in activities\nto join in or be involved in activities\n参与活动\n💬 参与\n= join, take part",
           "contexts": [
             {
               "text": "When class is not in session，you can participate in creative and social activities",
@@ -19631,7 +19770,7 @@
       "word": "participation",
       "means": [
         {
-          "text": "参与\nˌpɑːrtɪsɪˈpeɪʃn\n= attending",
+          "text": "参与\n= attending",
           "contexts": [
             {
               "text": "In the early stages of my time at Peel Park Primary，my two main aims were to reform the PE course and to increase our participation in competitive sports",
@@ -20230,7 +20369,7 @@
       "word": "predicted",
       "means": [
         {
-          "text": "预测\nprɪˈdɪktɪd\n🔮 \n≈ expected\n- unpredicted",
+          "text": "预测\n🔮 \n≈ expected\n- unpredicted",
           "contexts": [
             {
               "text": "Selfie editing and selfie investment predicted self­objectification",
@@ -20369,7 +20508,7 @@
       "word": "prioritize",
       "means": [
         {
-          "text": "优先考虑；优先处理\npraɪˈɔrəˌtaɪz\n⏰\n= prior, focus",
+          "text": "优先考虑；优先处理\n⏰\n= prior, focus",
           "contexts": [
             {
               "text": "Doctors  utilizing  the new national parks pass program are urged to prioritize patients who might not otherwise be able to afford these passes",
@@ -20480,7 +20619,7 @@
       "word": "promote",
       "means": [
         {
-          "text": "积极支持或促进某事物的增长或发展\nprəˈmoʊt\n= encourage\n≈ support",
+          "text": "积极支持或促进某事物的增长或发展\n= encourage\n≈ support",
           "contexts": [
             {
               "text": "Promote free admission to parks",
@@ -20573,7 +20712,7 @@
       "word": "psychology",
       "means": [
         {
-          "text": "study of behavior and mind\n行为和心理的研究\nsaɪˈkɑːlədʒi",
+          "text": "study of behavior and mind\n行为和心理的研究",
           "contexts": [
             {
               "text": "A psychology textbook",
@@ -20826,7 +20965,7 @@
       "word": "reassess",
       "means": [
         {
-          "text": "重新评估\nˌriːəˈsɛs\n= review",
+          "text": "重新评估\n= review",
           "contexts": [
             {
               "text": "organizers plan to routinely reassess this number as the program grows",
@@ -20850,7 +20989,7 @@
       "word": "receive",
       "means": [
         {
-          "text": "接收\nrɪ'siːv\n📩\n= accepted",
+          "text": "接收\n📩\n= accepted",
           "contexts": [
             {
               "text": "We have already received many rental requests",
@@ -20988,7 +21127,7 @@
       "word": "reform",
       "means": [
         {
-          "text": "make changes in something in order to improve it\nrɪˈfɔːm\n改革",
+          "text": "make changes in something in order to improve it\n改革",
           "contexts": [
             {
               "text": "In the early stages of my time at Peel Park Primary，my two main aims were to reform the PE course and to increase our participation in competitive sports",
@@ -21011,7 +21150,7 @@
       "word": "refundable",
       "means": [
         {
-          "text": "able to be refunded\ncapable of being refunded\n能够退款的\nrɪˈfʌndəbəl\n💸 可退还的",
+          "text": "able to be refunded\ncapable of being refunded\n能够退款的\n💸 可退还的",
           "contexts": [
             {
               "text": "There is also a non-­refundable $75 application fee and $100 health insurance",
@@ -21093,7 +21232,7 @@
       "word": "rely",
       "means": [
         {
-          "text": "depend on\nrɪˈlaɪ\n= depend, trust",
+          "text": "depend on\n= depend, trust",
           "contexts": [
             {
               "text": "However，when adolescent girls spend too much time struggling over which photo of themselves to post，or rely heavily on editing apps to alter their images，there may be cause for concern",
@@ -21162,7 +21301,7 @@
       "word": "rental",
       "means": [
         {
-          "text": "租聘\nˈrɛntəl",
+          "text": "租聘",
           "contexts": [
             {
               "text": "We have already received many rental requests",
@@ -21392,7 +21531,7 @@
       "word": "routinely",
       "means": [
         {
-          "text": "定期或频繁地\nˈruː.tɪn.li\n= regularly, frequently",
+          "text": "定期或频繁地\n= regularly, frequently",
           "contexts": [
             {
               "text": "organizers plan to routinely reassess this number as the program grows",
@@ -21576,7 +21715,7 @@
       "word": "selfie",
       "means": [
         {
-          "text": "ˈsɛlfi\n📸\n自拍",
+          "text": "📸\n自拍",
           "contexts": [
             {
               "text": "A study of teenage girls' selfie­taking (自拍) behavior found that taking and sharing selfies on social media is not linked to poor body image or appearance concerns",
@@ -21963,7 +22102,7 @@
       "word": "sled",
       "means": [
         {
-          "text": "一种在雪地或冰面上滑行的雪橇状载具\nslɛd\n🛷\n= sled",
+          "text": "一种在雪地或冰面上滑行的雪橇状载具\n🛷\n= sled",
           "contexts": [
             {
               "text": "the skeleton sledding is a steel sled with a slim appearance",
@@ -22263,7 +22402,7 @@
       "word": "steel",
       "means": [
         {
-          "text": "metal\n钢\nstiːl\n🔩\n≈ iron",
+          "text": "metal\n钢\n🔩\n≈ iron",
           "contexts": [
             {
               "text": "the skeleton sledding is a steel sled with a slim appearance",
@@ -22355,7 +22494,7 @@
       "word": "stretch",
       "means": [
         {
-          "text": "extend or spread out to a greater or the full length\nstrɛtʃ",
+          "text": "extend or spread out to a greater or the full length",
           "contexts": [
             {
               "text": "So，at the age of 16，he made it by stretching thick cloth in a metal frame",
@@ -22401,7 +22540,7 @@
       "word": "struggle",
       "means": [
         {
-          "text": "have difficulty with something\nˈstrʌɡəl",
+          "text": "have difficulty with something",
           "contexts": [
             {
               "text": "However，when adolescent girls spend too much time struggling over which photo of themselves to post，or rely heavily on editing apps to alter their images，there may be cause for concern",
@@ -22723,7 +22862,7 @@
       "word": "thick",
       "means": [
         {
-          "text": "厚\nθɪk\n👖\n- thin, narrow",
+          "text": "厚\n👖\n- thin, narrow",
           "contexts": [
             {
               "text": "So，at the age of 16，he made it by stretching thick cloth in a metal frame",
@@ -22920,7 +23059,7 @@
       "word": "transcript",
       "means": [
         {
-          "text": "a written record of a student's academic achievement\n学生成绩单\nˈtrænˌskrɪpt\n📜\n= record",
+          "text": "a written record of a student's academic achievement\n学生成绩单\n📜\n= record",
           "contexts": [
             {
               "text": "At the end of the program，you'll receive a written evaluation from your instructor，as well as a transcript．",
@@ -22989,7 +23128,7 @@
       "word": "tuition",
       "means": [
         {
-          "text": "the amount of money paid for the teaching of a subject\n学费，教学费用\ntjuːˈɪʃən\n= fee\n≈ cost, payment",
+          "text": "the amount of money paid for the teaching of a subject\n学费，教学费用\n= fee\n≈ cost, payment",
           "contexts": [
             {
               "text": "The program fee includes tuition，room and board，and activity costs for the full two weeks",
@@ -23012,7 +23151,7 @@
       "word": "urge",
       "means": [
         {
-          "text": "敦促\nɜːrdʒ\n💪\n= encourage\n≈ advise, recommend, prompt",
+          "text": "敦促\n💪\n= encourage\n≈ advise, recommend, prompt",
           "contexts": [
             {
               "text": "Doctors  utilizing  the new national parks pass program are urged to prioritize patients who might not otherwise be able to afford these passes",
@@ -23035,7 +23174,7 @@
       "word": "vapor",
       "means": [
         {
-          "text": "水蒸气\n/ˈveɪpər/",
+          "text": "水蒸气",
           "contexts": [
             {
               "text": "We have more water vapor in the atmosphere，which is worsening extreme rainfall and deadly flooding",
@@ -26310,6 +26449,17 @@
       "state": 2,
       "last_review": "2024-03-14T15:15:26.817Z"
     },
+    "manual": {
+      "due": "2024-04-09T13:32:41.881Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-09T13:32:41.881Z"
+    },
     "matter": {
       "due": "2024-04-04T15:24:25.218Z",
       "stability": 0,
@@ -28542,6 +28692,7 @@
     "1ebcdfe1": "pine",
     "1ef1daaf": "surgery",
     "1ef78e39": "otherwise",
+    "1f14117a": "manual",
     "20572c50": "fairly",
     "208f6dfb": "hump",
     "20eba19f": "recreational",
@@ -50102,6 +50253,18 @@
       "rating": 2,
       "state": 0,
       "duration": 4450
+    },
+    "1712669561882": {
+      "cardId": "manual",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712669561923": {
+      "cardId": "1f14117a",
+      "rating": null,
+      "state": null,
+      "duration": null
     }
   }
 }
