@@ -73,7 +73,7 @@
     "NCE3": {
       "name": "新概念英语三",
       "id": "NCE3",
-      "visitTime": 1712916843512,
+      "visitTime": 1712922249335,
       "updateTime": 1712916480922,
       "type": "text",
       "sections": [
@@ -7386,7 +7386,7 @@
     },
     "nce35": {
       "title": "5. The facts",
-      "lastPosi": 0,
+      "lastPosi": 0.06611570247933884,
       "text": "Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics. Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic. When the article arrived, the editor read the first sentence and then refused to publish it. The article began: 'Hundreds of steps lead to the high wall which surrounds the president's palace'. The editor at once sent the journalist a fax instructing him find out the exact number of steps and the height of the wall.\nThe journalist immediately set out to obtain these important facts, but the took a long time to send them. Meanwhile, the editor was getting impatient, for the magazine would soon go to press. He sent the journalist two more faxes, but received no reply. He sent yet another fax informing the journalist that if he did not reply soon he would be fired. When the journalist again failed to reply, the editor reluctantly published the article as it had originally been written. A week later, the editor at last received a fax from the journalist. Not only had the poor man been arrested, but he had been sent to prison as well. However, he had at last been allowed to send a fax in which he informed the editor that the he had been arrested while counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president's palace.\n",
       "words": {
         "6f4a2365": {
@@ -7531,6 +7531,19 @@
           ],
           "visit": true,
           "type": "word"
+        },
+        "33d189c0": {
+          "id": "journalist",
+          "index": [
+            133,
+            143
+          ],
+          "cIndex": [
+            121,
+            262
+          ],
+          "visit": true,
+          "type": "word"
         }
       }
     },
@@ -7590,7 +7603,7 @@
     },
     "nce36": {
       "title": "6. Smash-and-grab",
-      "lastPosi": 0,
+      "lastPosi": 0.7901774502594531,
       "text": "The expensive shops in a famous arcade near Piccadilly were just opening. At this time of the morning, the arcade was almost empty. Mr. Taylor, the owner of a jewellery shop was admiring a new display. Two of his assistants had been working busily since eight o'clock and had only just finished. Diamond necklaces and rings had been beautifully arranged on a background of black velvet. After gazing at the display for several minutes, Mr. Taylor went back into his shop.\nThe silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade. It came to a stop outside the jeweller's. One man stayed at the wheel while two others with black stockings over their faces jumped out and smashed the window of the shop with iron bars. While this was going on, Mr. Taylor was upstairs. He and his staff began throwing furniture out of the window. Chairs and tables went flying into the arcade. One of the thieves was struck by a heavy statue, but he was too busy helping himself to diamonds to notice any pain. The raid was all over in three minutes, for the men scrambled back into the car and it moved off at a fantastic speed. Just as it was leaving, Mr. Taylor rushed out and ran after it throwing ashtrays and vases, but it was impossible to stop the thieves. They had got away with thousands of pounds worth of diamonds.\n",
       "words": {
         "076ed720": {
@@ -7600,10 +7613,10 @@
             168
           ],
           "cIndex": [
-            136,
+            132,
             202
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "c7dcbd99": {
@@ -7616,7 +7629,7 @@
             296,
             387
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "67d74849": {
@@ -7629,20 +7642,7 @@
             296,
             387
           ],
-          "visit": false,
-          "type": "word"
-        },
-        "a3dd6555": {
-          "id": "gaze",
-          "index": [
-            393,
-            399
-          ],
-          "cIndex": [
-            387,
-            440
-          ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "b0ca0d81": {
@@ -7655,7 +7655,7 @@
             472,
             591
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "55b6b97d": {
@@ -7678,10 +7678,10 @@
             738
           ],
           "cIndex": [
-            633,
+            667,
             778
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "5d10499c": {
@@ -7759,7 +7759,7 @@
             132,
             202
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "cf7f690e": {
@@ -7772,7 +7772,7 @@
             0,
             74
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "26ea98a8": {
@@ -7782,10 +7782,10 @@
             698
           ],
           "cIndex": [
-            633,
-            778
+            667,
+            715
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "3dd6a651": {
@@ -7798,7 +7798,7 @@
             472,
             591
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "26dfe461": {
@@ -7811,7 +7811,20 @@
             778,
             828
           ],
-          "visit": false,
+          "visit": true,
+          "type": "word"
+        },
+        "c76452e8": {
+          "id": "gaze",
+          "index": [
+            393,
+            399
+          ],
+          "cIndex": [
+            387,
+            471
+          ],
+          "visit": true,
           "type": "word"
         }
       }
@@ -7842,7 +7855,7 @@
     },
     "words": {
       "title": "words",
-      "lastPosi": 0.738381947351778,
+      "lastPosi": null,
       "text": "",
       "words": {}
     }
@@ -7902,6 +7915,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-03-31T03:16:27.029Z"
+    },
+    "63963151": {
+      "due": "2024-04-12T11:48:01.378Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-12T11:48:01.378Z"
     },
     "67884273": {
       "due": "2024-06-03T14:52:43.512Z",
@@ -8201,15 +8225,15 @@
       "last_review": "2024-03-14T15:02:13.101Z"
     },
     "0dcd8131": {
-      "due": "2024-04-11T11:23:42.759Z",
+      "due": "2024-04-16T11:37:36.613Z",
       "stability": 3.5878,
       "difficulty": 6.473800000000001,
-      "elapsed_days": 0.010290138888888889,
-      "scheduled_days": 0,
-      "reps": 2,
+      "elapsed_days": 1.0165955324074074,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2024-04-11T11:13:42.759Z"
+      "state": 2,
+      "last_review": "2024-04-12T11:37:36.613Z"
     },
     "0e301f5f": {
       "due": "2024-04-16T11:12:53.316Z",
@@ -8399,15 +8423,15 @@
       "last_review": "2024-04-05T14:55:09.376Z"
     },
     "181ff3b2": {
-      "due": "2024-04-11T11:24:27.310Z",
+      "due": "2024-04-17T11:38:59.726Z",
       "stability": 3.5878,
       "difficulty": 6.473800000000001,
-      "elapsed_days": 0.007446550925925926,
-      "scheduled_days": 0,
-      "reps": 2,
+      "elapsed_days": 1.0170418518518518,
+      "scheduled_days": 5,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2024-04-11T11:14:27.310Z"
+      "state": 2,
+      "last_review": "2024-04-12T11:38:59.726Z"
     },
     "190aaa99": {
       "due": "2024-05-12T14:39:52.285Z",
@@ -8575,15 +8599,15 @@
       "last_review": "2024-03-14T14:57:54.436Z"
     },
     "1ef1daaf": {
-      "due": "2024-04-12T00:54:36.774Z",
-      "stability": 43.32519914396236,
-      "difficulty": 3.148,
-      "elapsed_days": 6.010998449074074,
-      "scheduled_days": 43,
-      "reps": 2,
+      "due": "2025-01-10T11:40:13.661Z",
+      "stability": 273.0343479250208,
+      "difficulty": 2.31442,
+      "elapsed_days": 43.44834359953704,
+      "scheduled_days": 273,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2024-02-29T00:54:36.774Z"
+      "last_review": "2024-04-12T11:40:13.661Z"
     },
     "1ef78e39": {
       "due": "2024-04-13T00:37:12.182Z",
@@ -8597,15 +8621,15 @@
       "last_review": "2024-02-23T00:37:12.182Z"
     },
     "1f14117a": {
-      "due": "2024-04-11T11:19:12.495Z",
+      "due": "2024-04-17T11:35:17.921Z",
       "stability": 3.5878,
       "difficulty": 5.2239,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "elapsed_days": 1.0181183564814815,
+      "scheduled_days": 5,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2024-04-11T11:09:12.495Z"
+      "state": 2,
+      "last_review": "2024-04-12T11:35:17.921Z"
     },
     "20572c50": {
       "due": "2024-05-16T03:20:29.480Z",
@@ -8784,15 +8808,15 @@
       "last_review": "2024-04-11T11:14:42.169Z"
     },
     "288d08db": {
-      "due": "2024-04-11T11:19:50.256Z",
+      "due": "2024-04-17T11:35:21.875Z",
       "stability": 3.5878,
       "difficulty": 6.473800000000001,
-      "elapsed_days": 0.9810529050925926,
-      "scheduled_days": 0,
-      "reps": 2,
+      "elapsed_days": 1.0177270717592592,
+      "scheduled_days": 5,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2024-04-11T11:09:50.256Z"
+      "state": 2,
+      "last_review": "2024-04-12T11:35:21.875Z"
     },
     "29cce7fe": {
       "due": "2024-04-23T07:10:12.337Z",
@@ -8881,6 +8905,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-03-14T14:52:22.287Z"
+    },
+    "2d04d2ab": {
+      "due": "2024-04-12T11:49:48.279Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-12T11:49:48.279Z"
     },
     "2dffb87f": {
       "due": "2024-05-24T14:10:04.164Z",
@@ -9024,6 +9059,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-04-11T10:49:03.844Z"
+    },
+    "3345c4f6": {
+      "due": "2024-04-18T11:42:26.621Z",
+      "stability": 5.8,
+      "difficulty": 3.9899999999999998,
+      "elapsed_days": 0,
+      "scheduled_days": 6,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2024-04-12T11:42:26.621Z"
     },
     "35840d5d": {
       "due": "2024-06-25T03:25:58.871Z",
@@ -9202,15 +9248,15 @@
       "last_review": "2024-03-31T03:21:55.813Z"
     },
     "3d9ffb4a": {
-      "due": "2024-04-11T11:20:05.317Z",
+      "due": "2024-04-17T11:35:28.376Z",
       "stability": 3.5878,
       "difficulty": 5.2239,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "elapsed_days": 1.0176279976851852,
+      "scheduled_days": 5,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2024-04-11T11:10:05.317Z"
+      "state": 2,
+      "last_review": "2024-04-12T11:35:28.376Z"
     },
     "3e2e3d17": {
       "due": "2024-05-19T16:11:02.151Z",
@@ -9322,6 +9368,17 @@
       "state": 2,
       "last_review": "2024-03-05T12:48:15.695Z"
     },
+    "437a8771": {
+      "due": "2024-04-18T11:42:43.227Z",
+      "stability": 5.8,
+      "difficulty": 3.9899999999999998,
+      "elapsed_days": 0,
+      "scheduled_days": 6,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2024-04-12T11:42:43.227Z"
+    },
     "43d4d871": {
       "due": "2024-06-28T03:09:13.751Z",
       "stability": 89.11844915327102,
@@ -9378,15 +9435,15 @@
       "last_review": "2024-03-31T03:22:57.847Z"
     },
     "469e0367": {
-      "due": "2024-04-11T11:21:15.053Z",
+      "due": "2024-04-17T11:37:24.904Z",
       "stability": 3.5878,
       "difficulty": 5.2239,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "elapsed_days": 1.0181695717592592,
+      "scheduled_days": 5,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2024-04-11T11:11:15.053Z"
+      "state": 2,
+      "last_review": "2024-04-12T11:37:24.904Z"
     },
     "47ab64de": {
       "due": "2024-05-07T12:50:23.873Z",
@@ -9488,15 +9545,15 @@
       "last_review": "2024-03-17T03:54:18.231Z"
     },
     "4bbbed07": {
-      "due": "2024-04-12T10:39:37.069Z",
-      "stability": 0,
-      "difficulty": 0,
+      "due": "2024-04-18T11:42:01.682Z",
+      "stability": 5.8,
+      "difficulty": 3.9899999999999998,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 0,
+      "scheduled_days": 6,
+      "reps": 1,
       "lapses": 0,
-      "state": 0,
-      "last_review": "2024-04-12T10:39:37.069Z"
+      "state": 2,
+      "last_review": "2024-04-12T11:42:01.682Z"
     },
     "4bbea90e": {
       "due": "2024-06-28T03:16:49.671Z",
@@ -9532,15 +9589,15 @@
       "last_review": "2024-03-31T03:12:21.946Z"
     },
     "4cd77fdd": {
-      "due": "2024-04-12T10:41:04.816Z",
-      "stability": 0,
-      "difficulty": 0,
+      "due": "2024-04-18T11:42:05.103Z",
+      "stability": 5.8,
+      "difficulty": 3.9899999999999998,
       "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 0,
+      "scheduled_days": 6,
+      "reps": 1,
       "lapses": 0,
-      "state": 0,
-      "last_review": "2024-04-12T10:41:04.816Z"
+      "state": 2,
+      "last_review": "2024-04-12T11:42:05.103Z"
     },
     "4d4d352d": {
       "due": "2024-09-27T10:57:19.403Z",
@@ -9554,15 +9611,15 @@
       "last_review": "2024-04-11T10:57:19.403Z"
     },
     "4db2112d": {
-      "due": "2024-04-11T11:21:48.254Z",
+      "due": "2024-04-17T11:37:31.638Z",
       "stability": 3.5878,
       "difficulty": 5.2239,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "elapsed_days": 1.0178632407407406,
+      "scheduled_days": 5,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2024-04-11T11:11:48.254Z"
+      "state": 2,
+      "last_review": "2024-04-12T11:37:31.638Z"
     },
     "4dfe2850": {
       "due": "2024-06-13T16:13:19.839Z",
@@ -9730,15 +9787,15 @@
       "last_review": "2024-04-11T10:56:14.328Z"
     },
     "54c97ca6": {
-      "due": "2024-04-12T11:10:44.962Z",
-      "stability": 1.0799012390444993,
-      "difficulty": 9.431379999999999,
-      "elapsed_days": 0.9803289930555555,
-      "scheduled_days": 1,
-      "reps": 9,
+      "due": "2024-04-15T11:42:14.678Z",
+      "stability": 2.8954652656506195,
+      "difficulty": 8.5349662,
+      "elapsed_days": 1.0218717129629629,
+      "scheduled_days": 3,
+      "reps": 10,
       "lapses": 1,
       "state": 2,
-      "last_review": "2024-04-11T11:10:44.962Z"
+      "last_review": "2024-04-12T11:42:14.678Z"
     },
     "54cb648c": {
       "due": "2024-06-02T10:53:39.107Z",
@@ -9983,15 +10040,26 @@
       "last_review": "2024-04-11T11:12:37.409Z"
     },
     "60b34390": {
-      "due": "2024-04-12T00:53:45.418Z",
-      "stability": 43.3276885317493,
-      "difficulty": 3.148,
-      "elapsed_days": 6.011422233796297,
-      "scheduled_days": 43,
-      "reps": 2,
+      "due": "2024-08-21T11:39:23.353Z",
+      "stability": 131.33846106933038,
+      "difficulty": 3.16582,
+      "elapsed_days": 43.448355729166664,
+      "scheduled_days": 131,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2024-02-29T00:53:45.418Z"
+      "last_review": "2024-04-12T11:39:23.353Z"
+    },
+    "60db166e": {
+      "due": "2024-04-12T11:49:14.731Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-12T11:49:14.731Z"
     },
     "623e06e6": {
       "due": "2024-06-30T14:59:50.139Z",
@@ -10026,6 +10094,17 @@
       "state": 1,
       "last_review": "2024-02-23T01:01:51.920Z"
     },
+    "62a93af2": {
+      "due": "2024-04-12T11:46:06.304Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-12T11:46:06.304Z"
+    },
     "62b6b08e": {
       "due": "2024-11-13T11:01:29.276Z",
       "stability": 215.78061307552673,
@@ -10038,15 +10117,15 @@
       "last_review": "2024-04-11T11:01:29.276Z"
     },
     "62ff7881": {
-      "due": "2024-04-12T11:12:18.358Z",
-      "stability": 0.1478,
-      "difficulty": 7.723700000000001,
-      "elapsed_days": 0.012697743055555556,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2024-04-14T11:42:21.239Z",
+      "stability": 1.563189559806509,
+      "difficulty": 7.695763,
+      "elapsed_days": 1.0208666782407407,
+      "scheduled_days": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2024-04-11T11:12:18.358Z"
+      "last_review": "2024-04-12T11:42:21.239Z"
     },
     "636d262d": {
       "due": "2024-11-11T03:22:06.757Z",
@@ -10247,15 +10326,15 @@
       "last_review": "2024-03-31T03:11:19.440Z"
     },
     "6d898753": {
-      "due": "2024-04-11T11:39:11.319Z",
-      "stability": 1.1173430383006773,
-      "difficulty": 8.6893,
-      "elapsed_days": 12.810383877314814,
-      "scheduled_days": 1,
-      "reps": 7,
+      "due": "2024-04-15T11:39:15.424Z",
+      "stability": 3.0208081256232022,
+      "difficulty": 8.651707,
+      "elapsed_days": 2.000047511574074,
+      "scheduled_days": 3,
+      "reps": 8,
       "lapses": 1,
       "state": 2,
-      "last_review": "2024-04-10T11:39:11.319Z"
+      "last_review": "2024-04-12T11:39:15.424Z"
     },
     "6e3b36df": {
       "due": "2024-06-13T16:12:36.922Z",
@@ -10289,6 +10368,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-03-31T03:13:44.229Z"
+    },
+    "704dcf5b": {
+      "due": "2024-04-18T11:42:32.169Z",
+      "stability": 5.8,
+      "difficulty": 3.9899999999999998,
+      "elapsed_days": 0,
+      "scheduled_days": 6,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2024-04-12T11:42:32.169Z"
     },
     "70ba0d99": {
       "due": "2024-04-16T11:13:34.936Z",
@@ -10465,6 +10555,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-02-22T12:14:34.001Z"
+    },
+    "78b68ab2": {
+      "due": "2024-04-12T11:45:35.722Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-12T11:45:35.722Z"
     },
     "78e914d3": {
       "due": "2024-05-14T03:18:22.532Z",
@@ -10676,15 +10777,15 @@
       "last_review": "2024-03-14T14:39:58.645Z"
     },
     "83c4da08": {
-      "due": "2024-04-12T00:54:19.268Z",
-      "stability": 43.32693345706307,
-      "difficulty": 3.148,
-      "elapsed_days": 6.011293692129629,
-      "scheduled_days": 43,
-      "reps": 2,
+      "due": "2024-08-21T11:39:57.721Z",
+      "stability": 131.3378444555208,
+      "difficulty": 3.16582,
+      "elapsed_days": 43.44836172453704,
+      "scheduled_days": 131,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2024-02-29T00:54:19.268Z"
+      "last_review": "2024-04-12T11:39:57.721Z"
     },
     "8402ad05": {
       "due": "2024-02-23T05:01:45.629Z",
@@ -10840,6 +10941,17 @@
       "state": 2,
       "last_review": "2024-03-14T14:46:42.267Z"
     },
+    "8a37533d": {
+      "due": "2024-04-18T11:42:29.664Z",
+      "stability": 5.8,
+      "difficulty": 3.9899999999999998,
+      "elapsed_days": 0,
+      "scheduled_days": 6,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2024-04-12T11:42:29.664Z"
+    },
     "8ac99ba7": {
       "due": "2024-11-12T10:59:19.204Z",
       "stability": 215.10808258634682,
@@ -10972,6 +11084,17 @@
       "state": 2,
       "last_review": "2024-04-11T11:13:05.364Z"
     },
+    "8eefab42": {
+      "due": "2024-04-18T11:42:40.250Z",
+      "stability": 5.8,
+      "difficulty": 3.9899999999999998,
+      "elapsed_days": 0,
+      "scheduled_days": 6,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2024-04-12T11:42:40.250Z"
+    },
     "906101cf": {
       "due": "2024-04-21T10:58:47.339Z",
       "stability": 10.4871,
@@ -11050,15 +11173,15 @@
       "last_review": "2024-04-05T14:54:13.334Z"
     },
     "92d5b30e": {
-      "due": "2024-04-11T11:16:26.662Z",
+      "due": "2024-04-12T11:44:38.671Z",
       "stability": 3.5878,
       "difficulty": 6.473800000000001,
-      "elapsed_days": 0,
+      "elapsed_days": 1.0161112152777778,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2024-04-11T11:11:26.662Z"
+      "last_review": "2024-04-12T11:34:38.671Z"
     },
     "92da0b40": {
       "due": "2024-05-12T14:54:53.863Z",
@@ -11424,15 +11547,15 @@
       "last_review": "2024-03-31T03:23:50.517Z"
     },
     "a4c43a95": {
-      "due": "2024-04-11T11:21:02.797Z",
+      "due": "2024-04-17T11:37:20.931Z",
       "stability": 3.5878,
       "difficulty": 5.2239,
-      "elapsed_days": 0,
-      "scheduled_days": 0,
-      "reps": 1,
+      "elapsed_days": 1.0182654398148148,
+      "scheduled_days": 5,
+      "reps": 2,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2024-04-11T11:11:02.797Z"
+      "state": 2,
+      "last_review": "2024-04-12T11:37:20.931Z"
     },
     "a561961c": {
       "due": "2024-10-27T03:13:36.638Z",
@@ -11589,15 +11712,15 @@
       "last_review": "2024-03-02T09:14:28.155Z"
     },
     "ab88ac77": {
-      "due": "2024-04-11T11:18:20.993Z",
+      "due": "2024-04-14T11:35:13.715Z",
       "stability": 1.9502,
       "difficulty": 6.4737,
-      "elapsed_days": 2.0086446296296296,
-      "scheduled_days": 0,
-      "reps": 2,
+      "elapsed_days": 1.018665763888889,
+      "scheduled_days": 2,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2024-04-11T11:08:20.993Z"
+      "state": 2,
+      "last_review": "2024-04-12T11:35:13.715Z"
     },
     "abcfef50": {
       "due": "2024-06-09T16:11:43.374Z",
@@ -11666,15 +11789,15 @@
       "last_review": "2024-03-14T14:46:10.258Z"
     },
     "b206172a": {
-      "due": "2024-04-11T11:24:08.691Z",
+      "due": "2024-04-12T11:48:54.941Z",
       "stability": 3.5878,
       "difficulty": 6.473800000000001,
-      "elapsed_days": 0.008165960648148148,
+      "elapsed_days": 1.0172019675925925,
       "scheduled_days": 0,
-      "reps": 2,
+      "reps": 3,
       "lapses": 0,
       "state": 1,
-      "last_review": "2024-04-11T11:14:08.691Z"
+      "last_review": "2024-04-12T11:38:54.941Z"
     },
     "b2524909": {
       "due": "2024-06-17T03:11:25.730Z",
@@ -11688,26 +11811,26 @@
       "last_review": "2024-03-31T03:11:25.730Z"
     },
     "b2675966": {
-      "due": "2024-04-11T11:25:09.836Z",
+      "due": "2024-04-14T11:39:03.618Z",
       "stability": 1.0107820677238555,
       "difficulty": 9.3025,
-      "elapsed_days": 0.003933275462962963,
-      "scheduled_days": 0,
-      "reps": 5,
+      "elapsed_days": 1.0165946990740742,
+      "scheduled_days": 2,
+      "reps": 6,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2024-04-11T11:15:09.836Z"
+      "state": 2,
+      "last_review": "2024-04-12T11:39:03.618Z"
     },
     "b2d87063": {
-      "due": "2024-04-12T11:00:51.360Z",
-      "stability": 0.1478,
-      "difficulty": 7.723700000000001,
-      "elapsed_days": 5.832323333333333,
-      "scheduled_days": 1,
-      "reps": 2,
+      "due": "2024-04-16T11:42:08.945Z",
+      "stability": 3.86139179060561,
+      "difficulty": 6.844363,
+      "elapsed_days": 1.028675752314815,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2024-04-11T11:00:51.360Z"
+      "last_review": "2024-04-12T11:42:08.945Z"
     },
     "b2d878c4": {
       "due": "2024-11-29T11:37:27.263Z",
@@ -11930,15 +12053,15 @@
       "last_review": "2024-04-10T11:37:46.735Z"
     },
     "bc4c8c09": {
-      "due": "2024-04-12T01:25:10.427Z",
-      "stability": 43.336591074448826,
-      "difficulty": 3.148,
-      "elapsed_days": 6.012937800925926,
-      "scheduled_days": 43,
-      "reps": 2,
+      "due": "2024-08-21T11:41:28.274Z",
+      "stability": 131.30696018346163,
+      "difficulty": 3.16582,
+      "elapsed_days": 43.427984340277774,
+      "scheduled_days": 131,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2024-02-29T01:25:10.427Z"
+      "last_review": "2024-04-12T11:41:28.274Z"
     },
     "bc7d6cc1": {
       "due": "2024-04-16T01:26:21.401Z",
@@ -11974,15 +12097,15 @@
       "last_review": "2024-04-11T11:11:53.580Z"
     },
     "bcc9f22c": {
-      "due": "2024-04-11T11:17:17.437Z",
+      "due": "2024-04-12T11:45:04.550Z",
       "stability": 3.5878,
       "difficulty": 5.2239,
-      "elapsed_days": 0,
+      "elapsed_days": 1.0192952893518519,
       "scheduled_days": 0,
-      "reps": 1,
+      "reps": 2,
       "lapses": 0,
       "state": 1,
-      "last_review": "2024-04-11T11:07:17.437Z"
+      "last_review": "2024-04-12T11:35:04.550Z"
     },
     "be26a0c9": {
       "due": "2024-04-15T00:49:55.476Z",
@@ -12051,15 +12174,15 @@
       "last_review": "2024-03-31T03:18:45.103Z"
     },
     "c0e07c8c": {
-      "due": "2024-04-12T00:54:33.581Z",
-      "stability": 43.32611725899837,
-      "difficulty": 3.148,
-      "elapsed_days": 6.01115474537037,
-      "scheduled_days": 43,
-      "reps": 2,
-      "lapses": 0,
-      "state": 2,
-      "last_review": "2024-02-29T00:54:33.581Z"
+      "due": "2024-04-12T11:45:08.909Z",
+      "stability": 6.142031789544004,
+      "difficulty": 4.86862,
+      "elapsed_days": 43.448325555555556,
+      "scheduled_days": 0,
+      "reps": 3,
+      "lapses": 1,
+      "state": 3,
+      "last_review": "2024-04-12T11:40:08.909Z"
     },
     "c22ebb1e": {
       "due": "2024-06-03T14:49:10.924Z",
@@ -12260,15 +12383,15 @@
       "last_review": "2024-03-14T14:57:22.743Z"
     },
     "ccb5d705": {
-      "due": "2024-04-12T03:20:03.898Z",
-      "stability": 12.153274975215322,
-      "difficulty": 6.1668,
-      "elapsed_days": 13.976942164351852,
-      "scheduled_days": 12,
-      "reps": 3,
+      "due": "2024-05-13T11:41:35.384Z",
+      "stability": 30.534955284382004,
+      "difficulty": 6.154432,
+      "elapsed_days": 12.348281087962963,
+      "scheduled_days": 31,
+      "reps": 4,
       "lapses": 0,
       "state": 2,
-      "last_review": "2024-03-31T03:20:03.898Z"
+      "last_review": "2024-04-12T11:41:35.384Z"
     },
     "cd0c1a48": {
       "due": "2024-04-16T11:14:56.687Z",
@@ -12588,6 +12711,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-04-11T11:08:53.561Z"
+    },
+    "db9a20ec": {
+      "due": "2024-04-18T11:42:36.145Z",
+      "stability": 5.8,
+      "difficulty": 3.9899999999999998,
+      "elapsed_days": 0,
+      "scheduled_days": 6,
+      "reps": 1,
+      "lapses": 0,
+      "state": 2,
+      "last_review": "2024-04-12T11:42:36.145Z"
     },
     "dbcb4224": {
       "due": "2024-07-21T10:54:30.109Z",
@@ -12918,6 +13052,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-03-01T01:26:08.738Z"
+    },
+    "eb8cf8a2": {
+      "due": "2024-04-12T11:44:54.898Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-12T11:44:54.898Z"
     },
     "ebb3cd4e": {
       "due": "2024-04-16T14:46:05.223Z",
@@ -13283,15 +13428,15 @@
       "last_review": "2024-03-28T16:12:17.625Z"
     },
     "febf0abe": {
-      "due": "2024-04-12T10:39:19.236Z",
-      "stability": 0,
-      "difficulty": 0,
+      "due": "2024-04-12T11:51:58.430Z",
+      "stability": 2.4,
+      "difficulty": 4.93,
       "elapsed_days": 0,
       "scheduled_days": 0,
-      "reps": 0,
+      "reps": 1,
       "lapses": 0,
-      "state": 0,
-      "last_review": "2024-04-12T10:39:19.236Z"
+      "state": 1,
+      "last_review": "2024-04-12T11:41:58.430Z"
     },
     "febf18b3": {
       "due": "2024-12-07T10:49:54.250Z",
@@ -14137,6 +14282,29 @@
         }
       ]
     },
+    "arcade": {
+      "word": "arcade",
+      "means": [
+        {
+          "text": "商场",
+          "contexts": [
+            {
+              "text": "The expensive shops in a famous arcade near Piccadilly were just opening.",
+              "index": [
+                32,
+                38
+              ],
+              "source": {
+                "book": "NCE3",
+                "sections": "nce36",
+                "id": "cf7f690e"
+              }
+            }
+          ],
+          "card_id": "3345c4f6"
+        }
+      ]
+    },
     "argue": {
       "word": "argue",
       "means": [
@@ -14705,6 +14873,29 @@
             }
           ],
           "card_id": "0ef5f67d"
+        }
+      ]
+    },
+    "blare": {
+      "word": "blare",
+      "means": [
+        {
+          "text": "发出刺耳的声音",
+          "contexts": [
+            {
+              "text": "The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade.",
+              "index": [
+                86,
+                93
+              ],
+              "source": {
+                "book": "NCE3",
+                "sections": "nce36",
+                "id": "b0ca0d81"
+              }
+            }
+          ],
+          "card_id": "62a93af2"
         }
       ]
     },
@@ -15784,7 +15975,7 @@
       "word": "custom",
       "means": [
         {
-          "text": "定制的",
+          "text": "定制的，客制的",
           "contexts": [
             {
               "text": "guests can share their personal data to receive custom recommendations from travel companies in real time",
@@ -16308,6 +16499,29 @@
             }
           ],
           "card_id": "061b54dd"
+        }
+      ]
+    },
+    "display": {
+      "word": "display",
+      "means": [
+        {
+          "text": "展品",
+          "contexts": [
+            {
+              "text": "Mr. Taylor, the owner of a jewellery shop was admiring a new display.",
+              "index": [
+                61,
+                68
+              ],
+              "source": {
+                "book": "NCE3",
+                "sections": "nce36",
+                "id": "18487eeb"
+              }
+            }
+          ],
+          "card_id": "704dcf5b"
         }
       ]
     },
@@ -18057,6 +18271,29 @@
         }
       ]
     },
+    "gaze": {
+      "word": "gaze",
+      "means": [
+        {
+          "text": "盯",
+          "contexts": [
+            {
+              "text": "After gazing at the display for several minutes, Mr. Taylor went back into his shop.",
+              "index": [
+                6,
+                12
+              ],
+              "source": {
+                "book": "NCE3",
+                "sections": "nce36",
+                "id": "c76452e8"
+              }
+            }
+          ],
+          "card_id": "437a8771"
+        }
+      ]
+    },
     "general": {
       "word": "general",
       "means": [
@@ -18400,6 +18637,29 @@
             }
           ],
           "card_id": "26b04eaa"
+        }
+      ]
+    },
+    "horn": {
+      "word": "horn",
+      "means": [
+        {
+          "text": "喇叭📢",
+          "contexts": [
+            {
+              "text": "The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade.",
+              "index": [
+                81,
+                85
+              ],
+              "source": {
+                "book": "NCE3",
+                "sections": "nce36",
+                "id": "3dd6a651"
+              }
+            }
+          ],
+          "card_id": "78b68ab2"
         }
       ]
     },
@@ -19270,6 +19530,52 @@
         }
       ]
     },
+    "jewellery": {
+      "word": "jewellery",
+      "means": [
+        {
+          "text": "首饰",
+          "contexts": [
+            {
+              "text": "Mr. Taylor, the owner of a jewellery shop was admiring a new display.",
+              "index": [
+                27,
+                36
+              ],
+              "source": {
+                "book": "NCE3",
+                "sections": "nce36",
+                "id": "076ed720"
+              }
+            }
+          ],
+          "card_id": "8a37533d"
+        }
+      ]
+    },
+    "journalist": {
+      "word": "journalist",
+      "means": [
+        {
+          "text": "记者",
+          "contexts": [
+            {
+              "text": "Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic.",
+              "index": [
+                12,
+                22
+              ],
+              "source": {
+                "book": "NCE3",
+                "sections": "nce35",
+                "id": "33d189c0"
+              }
+            }
+          ],
+          "card_id": "eb8cf8a2"
+        }
+      ]
+    },
     "keen": {
       "word": "keen",
       "means": [
@@ -20099,6 +20405,29 @@
         }
       ]
     },
+    "necklace": {
+      "word": "necklace",
+      "means": [
+        {
+          "text": "项链",
+          "contexts": [
+            {
+              "text": "Diamond necklaces and rings had been beautifully arranged on a background of black velvet.",
+              "index": [
+                8,
+                17
+              ],
+              "source": {
+                "book": "NCE3",
+                "sections": "nce36",
+                "id": "c7dcbd99"
+              }
+            }
+          ],
+          "card_id": "db9a20ec"
+        }
+      ]
+    },
     "neutrality": {
       "word": "neutrality",
       "means": [
@@ -20616,7 +20945,7 @@
       "word": "particulate",
       "means": [
         {
-          "text": "尤指固体物质的一小部分或微粒",
+          "text": "尤指固体物质的一小部分或 微粒",
           "contexts": [
             {
               "text": "technology that attaches to exhaust systems  of diesel  generators to  collect  particulate  matter",
@@ -23082,6 +23411,29 @@
         }
       ]
     },
+    "smash": {
+      "word": "smash",
+      "means": [
+        {
+          "text": "打碎",
+          "contexts": [
+            {
+              "text": "two others with black stockings over their faces jumped out and smashed the window of the shop with iron bars. ",
+              "index": [
+                64,
+                71
+              ],
+              "source": {
+                "book": "NCE3",
+                "sections": "nce36",
+                "id": "f81c5c15"
+              }
+            }
+          ],
+          "card_id": "60db166e"
+        }
+      ]
+    },
     "soot": {
       "word": "soot",
       "means": [
@@ -23333,6 +23685,29 @@
             }
           ],
           "card_id": "a8455dfd"
+        }
+      ]
+    },
+    "stocking": {
+      "word": "stocking",
+      "means": [
+        {
+          "text": "丝袜",
+          "contexts": [
+            {
+              "text": "two others with black stockings over their faces",
+              "index": [
+                22,
+                31
+              ],
+              "source": {
+                "book": "NCE3",
+                "sections": "nce36",
+                "id": "26ea98a8"
+              }
+            }
+          ],
+          "card_id": "63963151"
         }
       ]
     },
@@ -24062,6 +24437,29 @@
         }
       ]
     },
+    "upstairs": {
+      "word": "upstairs",
+      "means": [
+        {
+          "text": "楼上",
+          "contexts": [
+            {
+              "text": "While this was going on, Mr. Taylor was upstairs.",
+              "index": [
+                40,
+                48
+              ],
+              "source": {
+                "book": "NCE3",
+                "sections": "nce36",
+                "id": "26dfe461"
+              }
+            }
+          ],
+          "card_id": "2d04d2ab"
+        }
+      ]
+    },
     "urge": {
       "word": "urge",
       "means": [
@@ -24105,6 +24503,29 @@
             }
           ],
           "card_id": "4eebf317"
+        }
+      ]
+    },
+    "velvet": {
+      "word": "velvet",
+      "means": [
+        {
+          "text": "天鹅绒",
+          "contexts": [
+            {
+              "text": "Diamond necklaces and rings had been beautifully arranged on a background of black velvet.",
+              "index": [
+                83,
+                89
+              ],
+              "source": {
+                "book": "NCE3",
+                "sections": "nce36",
+                "id": "67d74849"
+              }
+            }
+          ],
+          "card_id": "8eefab42"
         }
       ]
     },
@@ -24889,6 +25310,17 @@
       "state": 2,
       "last_review": "2024-03-14T15:26:34.354Z"
     },
+    "arcade": {
+      "due": "2024-04-12T11:27:28.565Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-12T11:27:28.565Z"
+    },
     "argue": {
       "due": "2024-03-21T15:48:45.289Z",
       "stability": 15.328943243987704,
@@ -25141,6 +25573,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-03-31T03:32:51.119Z"
+    },
+    "blare": {
+      "due": "2024-04-12T11:46:06.293Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-12T11:46:06.293Z"
     },
     "block": {
       "due": "2024-04-30T04:05:47.264Z",
@@ -25878,6 +26321,17 @@
       "lapses": 2,
       "state": 3,
       "last_review": "2024-04-11T11:32:48.784Z"
+    },
+    "display": {
+      "due": "2024-04-12T11:28:53.781Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-12T11:28:53.781Z"
     },
     "distribute": {
       "due": "2024-04-03T05:13:14.355Z",
@@ -26682,6 +27136,17 @@
       "state": 0,
       "last_review": "2024-04-03T16:05:02.082Z"
     },
+    "gaze": {
+      "due": "2024-04-12T11:34:09.384Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-12T11:34:09.384Z"
+    },
     "general": {
       "due": "2024-04-11T12:44:55.117Z",
       "stability": 36.61824471750752,
@@ -26846,6 +27311,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-03-14T15:19:45.794Z"
+    },
+    "horn": {
+      "due": "2024-04-12T11:45:35.704Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-12T11:45:35.704Z"
     },
     "hospitality": {
       "due": "2024-02-22T18:14:46.990Z",
@@ -27220,6 +27696,28 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-03-16T04:08:57.485Z"
+    },
+    "jewellery": {
+      "due": "2024-04-12T11:28:42.738Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-12T11:28:42.738Z"
+    },
+    "journalist": {
+      "due": "2024-04-12T11:44:54.885Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-12T11:44:54.885Z"
     },
     "keen": {
       "due": "2024-04-11T11:36:46.729Z",
@@ -27616,6 +28114,17 @@
       "lapses": 0,
       "state": 0,
       "last_review": "2024-04-08T15:09:03.499Z"
+    },
+    "necklace": {
+      "due": "2024-04-12T11:29:05.058Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-12T11:29:05.058Z"
     },
     "neutrality": {
       "due": "2024-02-24T11:12:39.651Z",
@@ -28981,6 +29490,17 @@
       "state": 2,
       "last_review": "2024-03-31T03:32:14.495Z"
     },
+    "smash": {
+      "due": "2024-04-12T11:49:14.720Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-12T11:49:14.720Z"
+    },
     "soot": {
       "due": "2024-04-03T16:09:07.280Z",
       "stability": 0,
@@ -29101,6 +29621,17 @@
       "lapses": 1,
       "state": 2,
       "last_review": "2024-03-16T04:17:06.846Z"
+    },
+    "stocking": {
+      "due": "2024-04-12T11:48:01.326Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-12T11:48:01.326Z"
     },
     "storey": {
       "due": "2024-04-08T14:27:47.888Z",
@@ -29443,6 +29974,17 @@
       "state": 1,
       "last_review": "2024-04-11T12:31:06.772Z"
     },
+    "upstairs": {
+      "due": "2024-04-12T11:49:48.226Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-12T11:49:48.226Z"
+    },
     "urge": {
       "due": "2024-04-11T12:43:57.709Z",
       "stability": 36.61772847133675,
@@ -29464,6 +30006,17 @@
       "lapses": 0,
       "state": 1,
       "last_review": "2024-04-11T12:37:25.690Z"
+    },
+    "velvet": {
+      "due": "2024-04-12T11:29:58.162Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-12T11:29:58.162Z"
     },
     "venue": {
       "due": "2024-06-07T03:33:20.447Z",
@@ -29669,6 +30222,7 @@
     "29043884": "plank",
     "44885552": "existence",
     "55441746": "excite",
+    "63963151": "stocking",
     "67884273": "thread",
     "70121859": "towering",
     "83269096": "reality",
@@ -29753,6 +30307,7 @@
     "2c099f4f": "deceased",
     "2c83ffe6": "term",
     "2cc2eb7d": "scholar",
+    "2d04d2ab": "upstairs",
     "2dffb87f": "at­length",
     "2e3d9b24": "lip",
     "2f19e024": "participate",
@@ -29766,6 +30321,7 @@
     "31a21ba9": "mindset",
     "32810ec2": "facility",
     "32becf1e": "yard",
+    "3345c4f6": "arcade",
     "35840d5d": "muscular",
     "35bc2820": "enhance",
     "36df437b": "identity",
@@ -29792,6 +30348,7 @@
     "4240af13": "divorce",
     "42dbcf06": "wedding",
     "434ef09f": "private",
+    "437a8771": "gaze",
     "43d4d871": "significant",
     "4475f9c8": "safeguard",
     "4505f4c9": "entertainment",
@@ -29853,8 +30410,10 @@
     "5f66819d": "roughly",
     "5fd54c02": "first­rank",
     "60b34390": "claim",
+    "60db166e": "smash",
     "623e06e6": "severe",
     "625116f0": "commercial",
+    "62a93af2": "blare",
     "62b6b08e": "suffer",
     "62ff7881": "throughout",
     "636d262d": "roast",
@@ -29879,6 +30438,7 @@
     "6e3b36df": "fellow",
     "6f8f15d3": "abuse",
     "701494b1": "assume",
+    "704dcf5b": "display",
     "70ba0d99": "diesel",
     "7124f704": "struggle",
     "716564d9": "dare",
@@ -29895,6 +30455,7 @@
     "766d4c3d": "run",
     "76c4dc42": "access",
     "77be26da": "senior",
+    "78b68ab2": "horn",
     "78e914d3": "faith",
     "795faaff": "superb",
     "7b24c743": "instant",
@@ -29926,6 +30487,7 @@
     "88d83635": "separate",
     "89a9c643": "renter",
     "8a113b91": "obliged",
+    "8a37533d": "jewellery",
     "8ac99ba7": "parade",
     "8c00da8e": "atmosphere",
     "8c7b4acc": "wealth",
@@ -29937,6 +30499,7 @@
     "8e14a9e8": "extinction",
     "8e580265": "fingertip",
     "8eb31b31": "process",
+    "8eefab42": "velvet",
     "906101cf": "generator",
     "906d1d20": "argue",
     "90a938be": "venue",
@@ -30076,6 +30639,7 @@
     "da7d4905": "fascinated",
     "dae8b541": "advocate",
     "db21c48d": "automated",
+    "db9a20ec": "necklace",
     "dbcb4224": "prioritize",
     "dbff337d": "park",
     "dcc737d9": "part",
@@ -30105,6 +30669,7 @@
     "ea58ebc0": "pave",
     "eaeee77c": "mature",
     "eb3ed983": "makeup",
+    "eb8cf8a2": "journalist",
     "ebb3cd4e": "critical",
     "ec7d9c4f": "drainage",
     "ec7e7b8a": "grocer",
@@ -52953,6 +53518,342 @@
     },
     "1712918464816": {
       "cardId": "4cd77fdd",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712921248565": {
+      "cardId": "arcade",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712921248604": {
+      "cardId": "3345c4f6",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712921322738": {
+      "cardId": "jewellery",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712921322780": {
+      "cardId": "8a37533d",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712921333781": {
+      "cardId": "display",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712921333797": {
+      "cardId": "704dcf5b",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712921345058": {
+      "cardId": "necklace",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712921345080": {
+      "cardId": "db9a20ec",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712921398162": {
+      "cardId": "velvet",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712921398193": {
+      "cardId": "8eefab42",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712921649384": {
+      "cardId": "gaze",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712921649421": {
+      "cardId": "437a8771",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712921678671": {
+      "cardId": "92d5b30e",
+      "rating": 2,
+      "state": 1,
+      "duration": 7469
+    },
+    "1712921704550": {
+      "cardId": "bcc9f22c",
+      "rating": 2,
+      "state": 1,
+      "duration": 24922
+    },
+    "1712921713715": {
+      "cardId": "ab88ac77",
+      "rating": 3,
+      "state": 1,
+      "duration": 8203
+    },
+    "1712921717921": {
+      "cardId": "1f14117a",
+      "rating": 4,
+      "state": 1,
+      "duration": 1896
+    },
+    "1712921721875": {
+      "cardId": "288d08db",
+      "rating": 4,
+      "state": 1,
+      "duration": 2658
+    },
+    "1712921728376": {
+      "cardId": "3d9ffb4a",
+      "rating": 4,
+      "state": 1,
+      "duration": 5140
+    },
+    "1712921840931": {
+      "cardId": "a4c43a95",
+      "rating": 4,
+      "state": 1,
+      "duration": 2712
+    },
+    "1712921844904": {
+      "cardId": "469e0367",
+      "rating": 4,
+      "state": 1,
+      "duration": 2523
+    },
+    "1712921851638": {
+      "cardId": "4db2112d",
+      "rating": 4,
+      "state": 1,
+      "duration": 5508
+    },
+    "1712921856613": {
+      "cardId": "0dcd8131",
+      "rating": 3,
+      "state": 1,
+      "duration": 4062
+    },
+    "1712921934941": {
+      "cardId": "b206172a",
+      "rating": 2,
+      "state": 1,
+      "duration": 20317
+    },
+    "1712921939726": {
+      "cardId": "181ff3b2",
+      "rating": 4,
+      "state": 1,
+      "duration": 3936
+    },
+    "1712921943618": {
+      "cardId": "b2675966",
+      "rating": 4,
+      "state": 3,
+      "duration": 2496
+    },
+    "1712921955424": {
+      "cardId": "6d898753",
+      "rating": 3,
+      "state": 2,
+      "duration": 10549
+    },
+    "1712921963353": {
+      "cardId": "60b34390",
+      "rating": 3,
+      "state": 2,
+      "duration": 6965
+    },
+    "1712921997721": {
+      "cardId": "83c4da08",
+      "rating": 3,
+      "state": 2,
+      "duration": 13506
+    },
+    "1712922008909": {
+      "cardId": "c0e07c8c",
+      "rating": 1,
+      "state": 2,
+      "duration": 9920
+    },
+    "1712922013661": {
+      "cardId": "1ef1daaf",
+      "rating": 4,
+      "state": 2,
+      "duration": 3862
+    },
+    "1712922088274": {
+      "cardId": "bc4c8c09",
+      "rating": 3,
+      "state": 2,
+      "duration": 5358
+    },
+    "1712922095384": {
+      "cardId": "ccb5d705",
+      "rating": 3,
+      "state": 2,
+      "duration": 5705
+    },
+    "1712922118430": {
+      "cardId": "febf0abe",
+      "rating": 3,
+      "state": 0,
+      "duration": 20205
+    },
+    "1712922121682": {
+      "cardId": "4bbbed07",
+      "rating": 4,
+      "state": 0,
+      "duration": 1802
+    },
+    "1712922125103": {
+      "cardId": "4cd77fdd",
+      "rating": 4,
+      "state": 0,
+      "duration": 1954
+    },
+    "1712922128945": {
+      "cardId": "b2d87063",
+      "rating": 4,
+      "state": 2,
+      "duration": 2611
+    },
+    "1712922134678": {
+      "cardId": "54c97ca6",
+      "rating": 4,
+      "state": 2,
+      "duration": 4430
+    },
+    "1712922141239": {
+      "cardId": "62ff7881",
+      "rating": 3,
+      "state": 2,
+      "duration": 5160
+    },
+    "1712922146621": {
+      "cardId": "3345c4f6",
+      "rating": 4,
+      "state": 0,
+      "duration": 3867
+    },
+    "1712922149664": {
+      "cardId": "8a37533d",
+      "rating": 4,
+      "state": 0,
+      "duration": 1793
+    },
+    "1712922152169": {
+      "cardId": "704dcf5b",
+      "rating": 4,
+      "state": 0,
+      "duration": 1305
+    },
+    "1712922156145": {
+      "cardId": "db9a20ec",
+      "rating": 4,
+      "state": 0,
+      "duration": 2755
+    },
+    "1712922160250": {
+      "cardId": "8eefab42",
+      "rating": 4,
+      "state": 0,
+      "duration": 2928
+    },
+    "1712922163227": {
+      "cardId": "437a8771",
+      "rating": 4,
+      "state": 0,
+      "duration": 1759
+    },
+    "1712922294885": {
+      "cardId": "journalist",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712922294898": {
+      "cardId": "eb8cf8a2",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712922335704": {
+      "cardId": "horn",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712922335722": {
+      "cardId": "78b68ab2",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712922366293": {
+      "cardId": "blare",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712922366304": {
+      "cardId": "62a93af2",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712922481326": {
+      "cardId": "stocking",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712922481378": {
+      "cardId": "63963151",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712922554720": {
+      "cardId": "smash",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712922554731": {
+      "cardId": "60db166e",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712922588226": {
+      "cardId": "upstairs",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1712922588279": {
+      "cardId": "2d04d2ab",
       "rating": null,
       "state": null,
       "duration": null
