@@ -44,19 +44,6 @@
       "lastPosi": 18,
       "language": "en"
     },
-    "5c156b0a": {
-      "name": "新书",
-      "id": "5c156b0a",
-      "visitTime": 1709988875277,
-      "updateTime": 0,
-      "type": "text",
-      "sections": [
-        "49f04d71"
-      ],
-      "canEdit": true,
-      "lastPosi": 0,
-      "language": "en"
-    },
     "CET-4 Select": {
       "name": "CET-4精选",
       "id": "CET-4 Select",
@@ -2331,12 +2318,6 @@
           "type": "word"
         }
       }
-    },
-    "49f04d71": {
-      "title": "新章节",
-      "lastPosi": 0,
-      "text": "",
-      "words": {}
     },
     "4ad09b94": {
       "title": "B2",
@@ -7045,19 +7026,6 @@
             434
           ],
           "visit": true,
-          "type": "word"
-        },
-        "7d6debbc": {
-          "id": " ",
-          "index": [
-            235,
-            236
-          ],
-          "cIndex": [
-            206,
-            365
-          ],
-          "visit": false,
           "type": "word"
         }
       }
