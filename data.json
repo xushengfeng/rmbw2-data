@@ -3,8 +3,8 @@
     "13121a93": {
       "name": "课时作业",
       "id": "13121a93",
-      "visitTime": 1713194967055,
-      "updateTime": 1710857536336,
+      "visitTime": 1713227299013,
+      "updateTime": 1713227584750,
       "type": "text",
       "sections": [
         "c4f28bc5",
@@ -41,7 +41,7 @@
         "6ea57e6e"
       ],
       "canEdit": true,
-      "lastPosi": 15,
+      "lastPosi": 18,
       "language": "en"
     },
     "CET-4 Select": {
@@ -131,7 +131,7 @@
     "gk": {
       "name": "高考词汇",
       "id": "gk",
-      "visitTime": 1713059582353,
+      "visitTime": 1713205245108,
       "updateTime": 1713075062139,
       "type": "word",
       "sections": [
@@ -425,8 +425,8 @@
       }
     },
     "0e414945": {
-      "title": "5.1",
-      "lastPosi": 0,
+      "title": "5.1 The Impact of Weather-related Disasters and Hope for the Future",
+      "lastPosi": 0.8281294876779309,
       "text": "The number of weather­related disasters has increased by five times over the past 50 years，the latest report by the World Meteorological (气象) Organization(WMO)said on September 1.However，thanks to improved early warning systems and disaster management，the number of death from these hazards (危险) has been almost three times less.\n\nAccording to the WMO，from 1970 to 2019，weather，climate and water hazards accounted for 50 percent of all disasters.Among the top 10 hazards that led to the largest loss of human life during this period were droughts，storms，floods and extreme temperatures.However，deaths fell from over 50,000 in the 1970s to less than 20,000 in the 2010s.\n\n“Weather，climate and water extremes are increasing and will become more frequent and severe in many parts of the world as a result of climate change，” says WMO Secretary­General Petteri Taalas.\n\n“That means more heatwaves，drought and forest fires such as those we have observed recently in Europe and North America.We have more water vapor in the atmosphere，which is worsening extreme rainfall and deadly flooding.The warming of the oceans has affected the frequency and area of existence of the most intense tropical storms.”\n\n“Economic losses are increasing as exposure increases.But behind the statistics lies a message of hope.Improved multi­hazard early warning systems have led to a significant reduction in deaths.Quite simply，we are better than ever before at saving lives，” Taalas said.\n\n1．What do we know from the first paragraph?\n\nA．Disasters connected with weather have gone up.\n\nB．The number of weather­related disasters has decreased.\n\nC．The number of deaths from hazards has been increasing.\n\nD．Early warning systems has made disasters decline much.\n\n解析：细节理解题。由第一段第一句“The number of weather­related disasters has increased by five times over the past 50 years，the latest report by the World Meteorological Organization (WMO) said on September 1.”可知，与气候相关的灾难增多了。\n\n答案：A\n\n2．What will happen according to Petteri Taalas?\n\nA．There will be more extreme weather.\n\nB．Extreme rainfall will no longer exist.\n\nC．Water vapor in the atmosphere will go down.\n\nD．Human will conquer extreme weather in the end.\n\n解析：细节理解题。由第三段佩蒂瑞·塔拉斯说的话“Weather，climate and water extremes are increasing and will become more frequent and severe in many parts of the world as a result of climate change”可知，佩蒂瑞·塔拉斯认为极端天气会增多。\n\n答案：A\n\n3．What is hopeful behind the bad news?\n\nA．Improved warning systems will save economic losses.\n\nB．Economic losses are going down as exposure increases.\n\nC．More lives will be saved thanks to early warning systems.\n\nD．Improved early warning systems will control extreme weather.\n\n解析：细节理解题。由最后一段中的“But behind the statistics lies a message of hope.Improved multi­hazard early warning systems have led to a significant reduction in deaths.”可知，预警系统会拯救更多生命。\n\n答案：C\n\n4．Where may the text be taken from?\n\nA．A novel.　　　　　\tB．A brochure.\n\nC．A guideline.  \tD．A magazine.\n\n解析：推理判断题。由第三段中的says WMO Secretary­General Petteri Taalas和第五段中的Taalas said可知，文章引用了世界气象组织官员的话，所以最可能出自电视或广播的专题节目，magazine有“(电视、广播)专题节目”的意思。\n\n答案：D",
       "words": {
         "79663698": {
@@ -649,23 +649,88 @@
           ],
           "visit": true,
           "type": "word"
+        },
+        "31076b9a": {
+          "id": "disaster",
+          "index": [
+            232,
+            240
+          ],
+          "cIndex": [
+            179,
+            329
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "68d93828": {
+          "id": "management",
+          "index": [
+            241,
+            251
+          ],
+          "cIndex": [
+            179,
+            329
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "0db23e21": {
+          "id": "droughts",
+          "index": [
+            538,
+            546
+          ],
+          "cIndex": [
+            331,
+            669
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "f4afb97c": {
+          "id": "extreme",
+          "index": [
+            565,
+            572
+          ],
+          "cIndex": [
+            538,
+            586
+          ],
+          "visit": true,
+          "type": "word"
+        },
+        "9c74696c": {
+          "id": "Economic",
+          "index": [
+            1200,
+            1208
+          ],
+          "cIndex": [
+            1199,
+            1466
+          ],
+          "visit": false,
+          "type": "word"
         }
       }
     },
     "0f235141": {
-      "title": "12.1",
-      "lastPosi": 0.6318073334779779,
-      "text": "# Chinese elements highlighted at Olympic closing ceremony\n\nThe curtains came down on the closing ceremony of the Beijing 2022 Winter Olympic Games Sunday night at Bird's Nest in Beijing.During the ceremony，many Chinese cultural elements were put into the design of the grand show，expressing some Chinese romance.They became the highlights of the closing ceremony and let's take a look.\n\n## Festive lanterns\n\nThe closing ceremony began with a large snowflake torch appearing in the sky，echoing the moment from the opening ceremony.Then accompanied by cheerful music，children hung traditional Chinese festive lanterns，lighting up the emblem (徽章) of the Winter Olympics，which originated from the Chinese character for winter，“dong”．\n\n## The Chinese knot\n\nThe 12 Chinese zodiac (生肖)­themed ice cars created an outline of a Chinese knot with their wheel trails.And then it was enlarged，and an enormous “Chinese knot” was presented using digital AR technology.Each ribbon could be clearly seen，and all of the ribbons twisted together，symbolizing unity and a good fortune.\n\n## Fish and riches\n\nDuring the closing ceremony，the Malanhua Children's Choir from a mountainous area of Fuping county in Hebei Province performed again，this time with different clothes.The Chinese paper­cut of double fish was seen on their clothes，meaning “rich and have a surplus in the next year” in Chinese culture.\n\n## Willow (柳树) branches for farewell\n\nIn ancient times，Chinese people broke a willow branch and gave it to their friends，family or relatives when seeing them off，as willow sounds like “stay” in Mandarin.Willow branches appeared in the closing ceremony，expressing Chinese people's hospitality and bidding farewell to the world guests.\n\n1．Which of the following is inspired by a Chinese character?\n\nA．Festive lanterns.\n\nB．A snowflake torch.\n\n_C．The emblem.\n\nD．Cheerful music.\n\n\n2．What characteristic did “The Chinese knot” and “Fish and riches” share?\n\nA．Both employed AR technology.\n\n_B．Both symbolized a wealthy life.\n\nC．Both were created by ice cars.\n\nD．Both were performed by children.\n\n\n3．Which one can be adopted as a symbol of departure?\n\nA．Festive lanterns.\n\nB．The Chinese knot.\n\nC．Fish and riches.\n\n_D．Willow branches\n",
+      "title": "12.1 Chinese elements highlighted at Olympic closing ceremony",
+      "lastPosi": 0.4966190034147506,
+      "text": "The curtains came down on the closing ceremony of the Beijing 2022 Winter Olympic Games Sunday night at Bird's Nest in Beijing.During the ceremony，many Chinese cultural elements were put into the design of the grand show，expressing some Chinese romance.They became the highlights of the closing ceremony and let's take a look.\n\n## Festive lanterns\n\nThe closing ceremony began with a large snowflake torch appearing in the sky，echoing the moment from the opening ceremony.Then accompanied by cheerful music，children hung traditional Chinese festive lanterns，lighting up the emblem (徽章) of the Winter Olympics，which originated from the Chinese character for winter，“dong”．\n\n## The Chinese knot\n\nThe 12 Chinese zodiac (生肖)­themed ice cars created an outline of a Chinese knot with their wheel trails.And then it was enlarged，and an enormous “Chinese knot” was presented using digital AR technology.Each ribbon could be clearly seen，and all of the ribbons twisted together，symbolizing unity and a good fortune.\n\n## Fish and riches\n\nDuring the closing ceremony，the Malanhua Children's Choir from a mountainous area of Fuping county in Hebei Province performed again，this time with different clothes.The Chinese paper­cut of double fish was seen on their clothes，meaning “rich and have a surplus in the next year” in Chinese culture.\n\n## Willow (柳树) branches for farewell\n\nIn ancient times，Chinese people broke a willow branch and gave it to their friends，family or relatives when seeing them off，as willow sounds like “stay” in Mandarin.Willow branches appeared in the closing ceremony，expressing Chinese people's hospitality and bidding farewell to the world guests.\n\n1．Which of the following is inspired by a Chinese character?\n\nA．Festive lanterns.\n\nB．A snowflake torch.\n\n_C．The emblem.\n\nD．Cheerful music.\n\n\n2．What characteristic did “The Chinese knot” and “Fish and riches” share?\n\nA．Both employed AR technology.\n\n_B．Both symbolized a wealthy life.\n\nC．Both were created by ice cars.\n\nD．Both were performed by children.\n\n\n3．Which one can be adopted as a symbol of departure?\n\nA．Festive lanterns.\n\nB．The Chinese knot.\n\nC．Fish and riches.\n\n_D．Willow branches\n",
       "words": {
         "12800929": {
           "id": "enormous",
           "index": [
-            889,
-            897
+            829,
+            837
           ],
           "cIndex": [
-            857,
-            954
+            797,
+            894
           ],
           "visit": true,
           "type": "word"
@@ -673,12 +738,12 @@
         "b6042f7a": {
           "id": "curtain",
           "index": [
-            64,
-            72
+            4,
+            12
           ],
           "cIndex": [
-            60,
-            186
+            0,
+            126
           ],
           "visit": true,
           "type": "word"
@@ -686,12 +751,12 @@
         "3547da30": {
           "id": "grand",
           "index": [
-            270,
-            275
+            210,
+            215
           ],
           "cIndex": [
-            187,
-            312
+            127,
+            252
           ],
           "visit": true,
           "type": "word"
@@ -699,12 +764,12 @@
         "d3b4c4fe": {
           "id": "accompany",
           "index": [
-            536,
-            547
+            476,
+            487
           ],
           "cIndex": [
-            531,
-            730
+            471,
+            670
           ],
           "visit": true,
           "type": "word"
@@ -712,12 +777,12 @@
         "f0cbe317": {
           "id": "trail",
           "index": [
-            850,
-            856
+            790,
+            796
           ],
           "cIndex": [
-            753,
-            856
+            693,
+            796
           ],
           "visit": true,
           "type": "word"
@@ -725,12 +790,12 @@
         "dbad7d76": {
           "id": "ribbon",
           "index": [
-            960,
-            966
+            900,
+            906
           ],
           "cIndex": [
-            955,
-            1065
+            895,
+            1005
           ],
           "visit": true,
           "type": "word"
@@ -738,12 +803,12 @@
         "887f8c36": {
           "id": "surplus",
           "index": [
-            1342,
-            1349
+            1282,
+            1289
           ],
           "cIndex": [
-            1254,
-            1386
+            1194,
+            1326
           ],
           "visit": true,
           "type": "word"
@@ -751,12 +816,12 @@
         "ea28d340": {
           "id": "farewell",
           "index": [
-            1693,
-            1701
+            1633,
+            1641
           ],
           "cIndex": [
-            1592,
-            1721
+            1532,
+            1661
           ],
           "visit": true,
           "type": "word"
@@ -764,12 +829,12 @@
         "072e77c5": {
           "id": "bid",
           "index": [
-            1685,
-            1692
+            1625,
+            1632
           ],
           "cIndex": [
-            1592,
-            1721
+            1532,
+            1661
           ],
           "visit": true,
           "type": "word"
@@ -777,21 +842,86 @@
         "0b9fe18d": {
           "id": "hospitality",
           "index": [
-            1669,
-            1680
+            1609,
+            1620
           ],
           "cIndex": [
-            1592,
-            1721
+            1532,
+            1661
           ],
           "visit": true,
+          "type": "word"
+        },
+        "75f8df0d": {
+          "id": "expressing",
+          "index": [
+            221,
+            231
+          ],
+          "cIndex": [
+            0,
+            326
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "204558d7": {
+          "id": "hung",
+          "index": [
+            515,
+            519
+          ],
+          "cIndex": [
+            349,
+            670
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "2536c865": {
+          "id": "outline",
+          "index": [
+            747,
+            754
+          ],
+          "cIndex": [
+            693,
+            1006
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "834f9712": {
+          "id": "twisted",
+          "index": [
+            952,
+            959
+          ],
+          "cIndex": [
+            693,
+            1006
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "1e4d2e5c": {
+          "id": "county",
+          "index": [
+            1120,
+            1126
+          ],
+          "cIndex": [
+            1028,
+            1327
+          ],
+          "visit": false,
           "type": "word"
         }
       }
     },
     "1f34ca8a": {
       "title": "13.4 The Eco-Friendly Beijing 2022 Winter Olympic Games",
-      "lastPosi": 0.7895464330990271,
+      "lastPosi": 0,
       "text": "In a bid to hold a simple，safe and yet splendid Winter Games，the opening ceremony of the Beijing 2022 Winter Olympic Games was not lengthy or marked with a large­scale performance.The Olympic cauldron (主火炬) at the snowflake­themed ceremony was small，but the flames conveyed significant messages of greener Olympic Games.\n\nThe use of advanced technologies such as artificial intelligence，machine vision,5G and cloud broadcasting added to the novelty of the opening ceremony.The performances，which carried forward the theme of global peace and shared future for humankind，focused on environmental protection，and human health and physical fitness.\n\nTo reduce the carbon footprint of the Winter Games，all the Olympic venues were run on clean energy.For example，about 70 percent of the materials used in the Games were obtained through renting，including new sporting equipment，furniture in the Olympic village，and technical devices.Also，the medal platforms were made of recyclable and environmentally friendly materials.\n\nMore importantly，thrift，a traditional Chinese virtue，can help build a healthy social environment for China to realize its targets of peaking carbon emissions before 2030 and carbon neutrality before 2060.All this made the 2022 Winter Games an important Olympics to focus on achieving carbon neutrality.\n\n",
       "words": {
         "13104971": {
@@ -962,6 +1092,19 @@
           ],
           "visit": true,
           "type": "word"
+        },
+        "36b1a6d9": {
+          "id": "achieving",
+          "index": [
+            1291,
+            1300
+          ],
+          "cIndex": [
+            1221,
+            1319
+          ],
+          "visit": false,
+          "type": "word"
         }
       }
     },
@@ -1044,8 +1187,8 @@
       "words": {}
     },
     "23a5cfa0": {
-      "title": "4.1",
-      "lastPosi": 0.2737342305951266,
+      "title": "4.1 How Did Sledding Develop in Switzerland?",
+      "lastPosi": 0.23789526762616225,
       "text": "Tobogganing，or sledding (乘雪橇)，likely comes before the colonization of North America.Records show that Canada's First Peoples used small sleds to transport their belongings and food between camps，Raymond Flower writes in The History of Skiing and Other Winter Sports.But modern­day sled races can trace their origins back to the Swiss Alps in the late 1800s when British tourists decided to race in wooden luges (a sled used by one person) that locals had used to travel through snow.The origin is debatable in snowy northern New York，however，where there's evidence that Albany held bobsled (a sled used by two or more people) races as early as 1885.\n\nWherever they began，sled races quickly became popular.The famous Cresta Run，named after the Swiss town near the base of its course，was built in 1885 using snowbanks.The first organized competition was in 1898，hosted by the first bobsled club in nearby St.Moritz (a city in Switzerland)．It was then that sledding began to separate from the luge to include two new sports: bob sledding，and skeleton sledding (俯式雪橇)．\n\nCresta Run is considered the birthplace of the skeleton，a particularly daring form of sledding.Unlike the luge，where competitors ride feet­first on a sled with metal runners，the skeleton sledding is a steel sled with a slim appearance.Riders lie down on the sled head­first，then drop suddenly down an ice track.Bobsledding，meanwhile，involves teams of two to four in which the person in front controls directions and the player in back brakes when needed.It earned its name after competitors started swinging back and forth to speed up the sled.\n\nBobsledding initially overtook skeleton sledding in popularity，becoming one of a handful of sports played at the first Winter Games in 1924.The skeleton sledding was limited to the Cresta Run for decades because other bob runs around the world were not built for the steel skeleton sled.But in the 1970s，adjustments were made to both the skeleton and bob runs in order to include the event at future winter games.\n\n【语篇解读】　本文是一篇说明文。文章主要介绍了雪橇运动在瑞士的发展。\n\n1．What can we infer about Raymond Flower?\n\nA．He is a writer.\n\nB．He is good at sledding.\n\nC．He invented the sledding race.\n\nD．He set the first record of sledding.\n\n解析：推理判断题。根据第一段中的“Records show that Canada's First Peoples used small sleds to transport their belongings and food between camps，Raymond Flower writes in The History of Skiing and Other Winter Sports.”可以推断出，雷蒙德·弗拉沃是一位作家。\n\n答案：A\n\n2．How does skeleton sledding differ from the luge?\n\nA．Skeleton sledding runs on metal runners.\n\nB．Skeleton sledding doesn't have back brakes.\n\nC．Riders on skeleton sledding sled with their feet.\n\nD．Skeleton sledding needs players to lie down on it head­first.\n\n解析：细节理解题。根据第三段中的“Unlike the luge，where competitors ride feet­first on a sled with metal runners，the skeleton sledding is a steel sled with a slim appearance.Riders lie down on the sled head­first，then drop suddenly down an ice track.”可知，俯式雪橇与无舵雪橇的不同之处是，俯式雪橇需要运动员在滑行时头朝下躺在上面。\n\n答案：D\n\n3．What limited the popularity of skeleton sledding?\n\nA．Its special shape.\n\nB．Its speed.\n\nC．Its steel runners.\n\nD．Its unsuitable adjustments.\n\n解析：细节理解题。根据最后一段中的“The skeleton sledding was limited to the Cresta Run for decades because other bob runs around the world were not built for the steel skeleton sled.”可知，俯式雪橇数十年来受限于克雷斯塔滑道是因为其他地方的雪橇滑道不适合钢架的俯式雪橇，因此限制了俯式雪橇的普及的是它的钢骨架。\n\n答案：C\n\n4．What can be the best title for the text?\n\nA．Why Is Sledding So Popular?\n\nB．How Did Sledding Develop in Switzerland?\n\nC．What Are Sledding Adventures about?\n\nD．How Did People Kill Time in North America?\n\n解析：标题归纳题。通读全文，尤其是第二段可知，文章介绍了雪橇运动在瑞士的发展，因此B项是最佳标题。\n\n答案：B",
       "words": {
         "5747b86e": {
@@ -1228,6 +1371,71 @@
             1300
           ],
           "visit": true,
+          "type": "word"
+        },
+        "77a4a376": {
+          "id": "trace",
+          "index": [
+            296,
+            301
+          ],
+          "cIndex": [
+            0,
+            649
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "306302d1": {
+          "id": "luge",
+          "index": [
+            990,
+            994
+          ],
+          "cIndex": [
+            937,
+            1064
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "d6a415c4": {
+          "id": "slim",
+          "index": [
+            1285,
+            1289
+          ],
+          "cIndex": [
+            1066,
+            1610
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "266bf624": {
+          "id": "adjustments",
+          "index": [
+            1916,
+            1927
+          ],
+          "cIndex": [
+            1752,
+            2025
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "46fb24a9": {
+          "id": "competition",
+          "index": [
+            836,
+            847
+          ],
+          "cIndex": [
+            651,
+            937
+          ],
+          "visit": false,
           "type": "word"
         }
       }
@@ -1513,8 +1721,8 @@
       }
     },
     "25b33625": {
-      "title": "4.2",
-      "lastPosi": 0,
+      "title": "4.2 PaRx，a Nature Prescription Program",
+      "lastPosi": 0.34335989247463006,
       "text": "A walk in the park may be just what the doctor ordered.A new program launched last month in Canada gives some doctors the option of providing patients with a free annual pass to the country's national parks as part of an effort to increase access to nature and the health benefits.\n\nPaRx，a health initiative launched by the BC Parks Foundation in 2019，partnered with Parks Canada to provide doctors across four provinces with an initial run of 100 passes that can be prescribed (开处方)．The program allows doctors to write more general prescriptions for time spent out in nature; two hours a week，at least 20 minutes at a time，is what PaRx director Dr.Melissa Lem suggests.\n\n“Given the growing body of evidence that indicates nature time can improve all kinds of different physical and mental health conditions，we're hoping that our PaRx program not only improves patient health，but reduces costs to the health­care system，and helps to grow the number of people who are more engaged environmental advocates，” said Prama Rahman，a coordinator for the BC Parks Foundation.\n\nDoctors have been catching on，instructing their patients to turn to nature to improve their health and they're getting creative in how they do it.Dr.Robert Zarr，a doctor based in Washington，began prescribing accessible outdoor activities for his young patients and even created a searchable online database of local parks to make it easier.\n\nBut getting outside isn't always as easy as it might sound.Income can affect one's access to nature，an issue that PaRx is trying to address in Canada.Doctors  utilizing  the new national parks pass program are urged to prioritize patients who might not otherwise be able to afford these passes.\n\nWhile only 100 adult passes，which give holders access to more than 80 national parks，historic sites and nature reserves，have initially been made available，organizers plan to routinely reassess this number as the program grows，the BC Parks Foundation told NPR.\n\n【语篇解读】　本文是一篇新闻报道。文章主要介绍了健康方案PaRx的目的及其在实施中遇到的问题。\n\n5．What is PaRx intended to do?\n\nA．Qualify doctors to prescribe.\n\nB．Give patients free access to parks.\n\nC．Promote free admission to parks.\n\nD．Advocate 20 minutes' walk a day.\n\n解析：细节理解题。根据第一段第二句“A new program launched last month in Canada gives some doctors the option of providing patients with a free annual pass to the country's national parks as part of an effort to increase access to nature and the health benefits.”及第二段第一句“PaRx，a health initiative launched by the BC Parks Foundation in 2019，partnered with Parks Canada to provide doctors across four provinces with an initial run of 100 passes that can be prescribed.”可知，PaRx这个方案是用来给患者发放免费公园通行证的。\n\n答案：B\n\n6．What does the underlined word “utilizing” in paragraph 5 probably mean?\n\nA．Financing.　　　　\tB．Setting up.\n\nC．Evaluating. \tD．Carrying out.\n\n解析：词义猜测题。根据画线词所在句“Doctors utilizing the new national parks pass program are urged to prioritize patients who might not otherwise be able to afford these passes.”中的后半部分可知，医生被要求给收入不高的患者优先发放免费通行证，由此可推知，医生首先得有这一项目的使用权才能给患者发放，因而画线词utilizing表示“使用”与carrying out“执行”意思相近。\n\n答案：D\n\n7．What can we infer from the last paragraph?\n\nA．The BC Parks Foundation is expanding rapidly.\n\nB．The program has signed up 80 national parks.\n\nC．More people will benefit from the program.\n\nD．Those living close to parks can gain priority.\n\n解析：推理判断题。根据最后一段内容可知，目前的通行证数量不多，但组织者会定期评估数据做出调整，由此推知，这样就会有越来越多的人因此受益。\n\n答案：C\n\n8．Which is the best title for the text?\n\nA．PaRx，a Nature Prescription Program\n\nB．BC Parks Foundation in Canada\n\nC．Year­long Passes to National Parks\n\nD．A New Study on Benefits of Walk\n\n解析：标题归纳题。本文主要介绍了PaRx健康方案的目的及实施中遇到的问题，故A项“PaRx，a Nature Prescription Program”可以概括文章内容，适合作为本文标题。\n\n答案：A\n\n",
       "words": {
         "36371165": {
@@ -1763,12 +1971,38 @@
           ],
           "visit": true,
           "type": "word"
+        },
+        "a621867e": {
+          "id": "utilizing",
+          "index": [
+            1569,
+            1578
+          ],
+          "cIndex": [
+            1410,
+            1704
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "40a54ab4": {
+          "id": "expanding",
+          "index": [
+            3162,
+            3171
+          ],
+          "cIndex": [
+            3133,
+            3180
+          ],
+          "visit": false,
+          "type": "word"
         }
       }
     },
     "2676497f": {
-      "title": "13.1",
-      "lastPosi": 0.3606142838365233,
+      "title": "13.1 A letter written to a 12-year-old girl in Lithuania was delivered almost 51 years later",
+      "lastPosi": 0,
       "text": "A letter written to a 12­year­old girl in Lithuania was delivered in December，almost 51 years after it was sent by a pen pal in Poland.“I thought that someone was  pranking  me，” said Genovefa Klonovska after being handed the letter，which included a handmade colored rose and two paper dolls.\n\nThe letter，together with 17 others，fell out of a ventilation hole (通风口) this summer，dirty and wrinkled，as a wall was taken down in a former post office on the suburb of Vilnius.Jurgis Vilnius，owner of the building immediately called the post office.“I'm so happy they got interested，” said he.\n\nStreet names and their numbering have changed in Vilnius，and post office workers spent months looking for the right houses and talking to current renters and neighbors，tracking down where the recipients moved to.Only five were found.In several cases children of late recipients were handed a lost letter.\n\n“We felt a moral duty to do this，” said Deimante Zebrauskaite，head of the customer experience department at Lithuania Post.\n\nOne lady compared the experience to receiving a message from a bottle thrown into the sea.People were emotional.“Some felt they saw a part of daily life of their deceased parents，” Zebrauskaite said.\n\nIn the letter to Klonovska，sent from Koezary in Poland and stamped in 1970，a girl named Ewa complains buses no longer reach her village，so she has to walk in minus 23 degree Celsius cold，and asks for pictures of actors.\n\nNow in her 60s，Klonovska has no memory of Ewa.She probably wrote Ewa after finding her address advertising for pen pals in a newspaper，and the relationship ceased after the letter got undelivered.\n\n“So good that the letter didn't matter much.The loss was not life­changing，” said Klonovska. “What if they delivered a lost letter from a suitor (求婚者) to his love，and their wedding never happened？”\n\n1．What does the underlined word “pranking” in paragraph 1 mean?\n\nA．Brightening.　　　　　\tB．Embarrassing.\n\n_C．Tricking. \tD．Pleasing.\n\n\n2．What happened to the letters in paragraph 2?\n\n_A．They were accidentally found.\n\nB．They remained well­preserved.\n\nC．They were delivered by the former post office.\n\nD．They were hidden by the owner of the building.\n\n\n3．Which of the following best describes the present post office in Vilnius?\n\nA．Generous. \t_B．Dutiful.\n\nC．Honest. \tD．Cautious.\n\n4．What can we learn from what Klonovska said?\n\nA．Klonovska refused a suitor.\n\nB．Klonovska stopped the wedding.\n\nC．The undelivered letter ruined the relationship.\n\n_D．The undelivered letter made little difference to her.\n",
       "words": {
         "8f5dd566": {
@@ -1964,6 +2198,19 @@
             892
           ],
           "visit": true,
+          "type": "word"
+        },
+        "383194e3": {
+          "id": "recipients",
+          "index": [
+            856,
+            866
+          ],
+          "cIndex": [
+            589,
+            893
+          ],
+          "visit": false,
           "type": "word"
         }
       }
@@ -2166,6 +2413,58 @@
           ],
           "visit": true,
           "type": "word"
+        },
+        "b002581b": {
+          "id": "external",
+          "index": [
+            422,
+            430
+          ],
+          "cIndex": [
+            317,
+            485
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "c87b7277": {
+          "id": "worthy",
+          "index": [
+            773,
+            779
+          ],
+          "cIndex": [
+            620,
+            834
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "a1eb4160": {
+          "id": "aware",
+          "index": [
+            1787,
+            1792
+          ],
+          "cIndex": [
+            1755,
+            1807
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "6cdfa7f8": {
+          "id": "sense",
+          "index": [
+            57,
+            62
+          ],
+          "cIndex": [
+            0,
+            317
+          ],
+          "visit": false,
+          "type": "word"
         }
       }
     },
@@ -2327,7 +2626,7 @@
     },
     "5e9a8771": {
       "title": "2.3",
-      "lastPosi": 0,
+      "lastPosi": 0.6847697696738335,
       "text": " Life can take any turn at any time or movement. It is unpredictable.One truth about life is that we can't spend it alone to live the journey.\n\nOn March 16, 2020, my left leg was injured. The doctor declared it a serious injury, and I would be in bed for three months. As a full­time social worker, I hardly had time to visit my home. However, my broken leg stopped all my work, which was bad and also good, giving me an opportunity to spend time with myself and my family.\n\nI was upset. How would I spend three months in bed at home? Early in my injury and before my operation, there were so many ups and downs in my confidence. So many times, negative thoughts bothered me.\n\nI felt very depressed but each time I got support from my family and friends. I decided to change my lifestyle according to the situation. It was not so simple or easy. I began to practice thinking deeply in silence, read books, and talk with friends. I even planted various plants to help me heal. It was relaxing to water them.\n\nEventually, I am fully recovered，feeling relaxed. At the time of struggle and tough situations, we feel the need of someone who can spend time with us. Their kind presence gives us so much strength and support. They just meet in our heart and family, and just need our love and friendship.\n",
       "words": {
         "ccac036a": {
@@ -2798,6 +3097,19 @@
           ],
           "visit": true,
           "type": "word"
+        },
+        "bfbd45b5": {
+          "id": "ferries",
+          "index": [
+            1883,
+            1890
+          ],
+          "cIndex": [
+            1820,
+            1891
+          ],
+          "visit": false,
+          "type": "word"
         }
       }
     },
@@ -3166,8 +3478,8 @@
       }
     },
     "7064f6d4": {
-      "title": "2.1",
-      "lastPosi": 0,
+      "title": "2.1 Great inventors and their amazing inventions created by children",
+      "lastPosi": 0.22793649631076388,
       "text": "Great inventors like Thomas Edison have impacted people's lives with their inventions.While their contributions are certainly valuable，the following amazing inventions were actually created by children!\n\n## The trampoline\n\nTrampolines are great for both fun and exercise，but they are a fairly recent invention.In the 1930s，George Nissen was inspired to make a bouncy “net” after seeing a circus performance.He thought it more entertaining for performers to continue bouncing instead of landing in a net.So，at the age of 16，he made it by stretching thick cloth in a metal frame.\n\n## The Popsicle\n\nCold weather led to the creation of a delicious invention—the Popsicle.Frank Epperson was just 11 years old when he accidentally created his first Popsicle.He was making himself a soda drink and left his glass outside overnight.When he found it in the morning，it had frozen solid with the stir (搅拌)stick still in the glass.And the first Popsicle was born.\n\n## Braille\n\nThree­year­old Louis Braille experienced a serious eye injury that blinded him in both eyes.He struggled to read by moving his fingers across raised letters，but that proved very difficult.At the age of twelve，Louis learned about a communication system where messages could be read silently with fingertips.He changed it and created Braille.It's now used around the world!\n\n## BEACON\n\nWhen Hannah Herbst was just 14 years old，she was named America's Top Young Scientist for inventing a device called BEACON.After receiving a letter from her Ethiopian pen pal，Hannah was inspired to create a device that could convert the energy from ocean waves into electricity which she hopes will help people without easy access to electricity.\n\n【语篇解读】　本文是一篇应用文。文章主要介绍了几项青少年的发明\n\n1．Which of the inventions greatly benefits the blind?\n\nA．The trampoline.\n\nB．The Popsicle.\n\nC．Braille.\n\nD．BEACON.\n\n解析：细节理解题。根据题干“Which of the inventions greatly benefits the blind？”可锁定第四段中的“Three­year­old Louis Braille experienced a serious eye injury that blinded him in both eyes.”，由此可知，Braille盲文使盲人受 益。\n\n答案：C\n\n2．Who was awarded a national title for his/her invention?\n\nA．George Nissen.\n\nB．Frank Epperson.\n\nC．Louis Braille.\n\nD．Hannah Herbst.\n\n解析：细节理解题。 根据题干中的a national title可以定位到BEACON中的“When Hannah Herbst was just 14 years old，she was named America's Top Young Scientist for inventing a device called BEACON.”。故D项正确。\n\n答案：D\n\n3．What do the child inventors have in common?\n\nA．They were all awarded for their amazing inventions.\n\nB．They all made improvements on previous inventions.\n\nC．They were all teenagers when they made their inventions.\n\nD．They all invented great things that influence people's lives.\n\n解析：推理判断题。根据第一段中的have impacted people's lives和the following amazing inventions并通过第二段至第五段可知，孩子们的四种发明——蹦床、棒冰、盲文、海浪发电装置都很棒，它们影响了人们的生活。故D项正确。\n\n答案：D\n\n\n\n\n",
       "words": {
         "3d17aa96": {
@@ -3260,12 +3572,90 @@
           ],
           "visit": true,
           "type": "word"
+        },
+        "5db2b227": {
+          "id": "certainly",
+          "index": [
+            116,
+            125
+          ],
+          "cIndex": [
+            0,
+            202
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "105c626d": {
+          "id": "creation",
+          "index": [
+            620,
+            628
+          ],
+          "cIndex": [
+            596,
+            951
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "ac064b5b": {
+          "id": "communication",
+          "index": [
+            1196,
+            1209
+          ],
+          "cIndex": [
+            965,
+            1336
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "dd4a6083": {
+          "id": "device",
+          "index": [
+            1555,
+            1561
+          ],
+          "cIndex": [
+            1349,
+            1694
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "1787d56b": {
+          "id": "convert",
+          "index": [
+            1573,
+            1580
+          ],
+          "cIndex": [
+            1349,
+            1694
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "65739c59": {
+          "id": "stick",
+          "index": [
+            894,
+            899
+          ],
+          "cIndex": [
+            596,
+            951
+          ],
+          "visit": false,
+          "type": "word"
         }
       }
     },
     "7a7431cd": {
-      "title": "2.2",
-      "lastPosi": 0.8875133578186144,
+      "title": "2.2 The Impact of Selfies on Teenage Girls",
+      "lastPosi": 0,
       "text": "A study of teenage girls' selfie­taking (自拍) behavior found that taking and sharing selfies on social media is not linked to poor body image or appearance concerns.However，when adolescent girls spend too much time struggling over which photo of themselves to post，or rely heavily on editing apps to alter their images，there may be cause for concern.\n\nThe study，by researchers at the University of Arizona(UA)，found that selfie editing and time invested in creating and selecting the perfect selfie were both related to self­objectification，which led to body shame，appearance anxiety and more negative appearance evaluations in teen girls.“Self­objectification is the idea that you come to think of yourself as an external object to be viewed by other people，” said senior study author Jennifer Aubrey，an associate professor at the UA.\n\nBased on a study of 278 teenage girls，“Our main finding was that we really shouldn't be too worried about kids who take selfies and share them; that's not where the negative effects come from.It's the investment and the editing that yielded negative effects，” Aubrey said.“Selfie editing and selfie investment predicted self­objectification，and girls who self­objectify were more likely to feel shameful about their bodies or anxious about their appearance.”\n\n“Self­objectification is the pathway to so many things in adolescence that we want to prevent，” Aubrey said.“So，interventions really should focus on how we can encourage girls to develop an awareness of themselves that doesn't only depend on what they look like to other people.” The researchers said parents and caregivers of adolescent girls should be aware that if a teen seems to be obsessed (痴迷的)，it might be time for a talk.\n\nThe researchers also note that there can be different motivations for sharing selfies.“Selfies are a part of the media landscape，but you should post them for reasons other than trying to get people to admire your appearance or your body，” Aubrey said.With an estimated 93 million selfies taken each day，they aren't going away anytime soon，nor should they.The important thing to remember is: Selfies aren't bad.Just don't obsess.\n\n【语篇解读】　本文是一篇说明文。很多青春期的女孩沉迷于自拍，这很可能导致她们对自己的身体感到羞耻和外貌焦虑。科学家们对此进行了研究并鼓励女孩们形成健康的自我意识。\n\n4．What behavior of adolescent girls may cause concern?\n\nA．Taking selfies.\n\nB．Caring about their images.\n\nC．Sharing selfies on social media.\n\nD．Overusing editing apps to beautify their images.\n\n解析：细节理解题。根据第一段最后一句可知，过度使用编辑应用程序来美化照片可能会引起担忧。\n\n答案：D\n\n5．From the text，what can we learn about self­objectification?\n\nA．It predicts selfie investment.\n\nB．It is linked to selfie obsession.\n\nC．It prevents problems in adolescence.\n\nD．It contributes to objective evaluation.\n\n解析：推理判断题。根据第二段中的“The study，by researchers at the University of Arizona (UA)，found that selfie editing and time invested in creating and selecting the perfect selfie were both related to self­objectification”和第三段中的“Selfie editing and selfie investment predicted self­objectification”可推知，自我物化与沉迷于自拍有关。\n\n答案：B\n\n6．What should interventions center on?\n\nA．When to have a talk with teen girls.\n\nB．When to end selfie­taking behavior.\n\nC．How to help form a healthy self­awareness.\n\nD．How to prevent teenage girls' craze for selfies.\n\n解析：细节理解题。根据第四段中的“So，interventions really should focus on how we can encourage girls to develop an awareness of themselves that doesn't only depend on what they look like to other people.”可知，干预应以如何帮助青少年女孩形成健康的自我意识为中心。\n\n答案：C\n\n7．From which is the text probably taken?\n\nA．A travel brochure.\n\nB．A science newspaper.\n\nC．A psychology textbook.\n\nD．An entertainment magazine.\n\n解析：推理判断题。通读全文可知，文章介绍了与青少年心理健康相关的科学研究，再结合文章最后的建议“The important thing to remember is：Selfies aren't bad.Just don't obsess.”可推知，文章很可能来自一份科学报。\n\n答案：B",
       "words": {
         "25859b26": {
@@ -3488,18 +3878,70 @@
           ],
           "visit": true,
           "type": "word"
+        },
+        "5d67e9f8": {
+          "id": "external",
+          "index": [
+            713,
+            721
+          ],
+          "cIndex": [
+            639,
+            834
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "de4771e3": {
+          "id": "anxious",
+          "index": [
+            1262,
+            1269
+          ],
+          "cIndex": [
+            1109,
+            1294
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "19cdb81d": {
+          "id": "investment",
+          "index": [
+            1037,
+            1047
+          ],
+          "cIndex": [
+            836,
+            1109
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "d82941f0": {
+          "id": "landscape",
+          "index": [
+            1847,
+            1856
+          ],
+          "cIndex": [
+            1815,
+            2156
+          ],
+          "visit": false,
+          "type": "word"
         }
       }
     },
     "8556a7c2": {
       "title": "考纲3000词",
-      "lastPosi": 0.6046691147502232,
+      "lastPosi": 0.15020092755263323,
       "text": "a\nabandon\nability\nable\nabnormal\naboard\nabout\nabove\nabroad\nabsence\nabsent\nabsolutely\nabsorb\nabstract\nabuse\nacademic\naccent\naccept\naccess\naccident\naccommodation\naccompany\naccording to\naccount\naccurate\naccuse\nache\nachieve\nachievement\nacid\nacknowledge\nacquire\nacross\nact\naction\nactive\nactivity\nactor\nactress\nactually\nAD\nadapt\nadaptation\nadd\naddict\naddition\naddress\nadjust\nadministration\nadmire\nadmit\nadopt\nadorable\nadult\nadvance\nadvantage\nadventure\nadvertise\nadvertisement\nadvice\nadvise\nadvocate\naffair\naffect\nafford\nafraid\nAfrica\nAfrican\nafter\nafternoon\nafterward\nagain\nagainst\nage\nagency\nagenda\nago\nagree\nagreement\nagriculture\nahead\naid\naim\nair\nairline\nairport\nalarm\nalcohol\nalive\nall\nallow\nalmost\nalone\nalong\nalongside\naloud\nalready\nalso\nalternative\nalthough\naltogether\nalways\na.m.\namateur\namazing\nambition\nambitious\nambulance\nAmerica\nAmerican\namong\namount\namuse\nanalyse\nancestor\nancient\nand\nanger\nangle\nangry\nanimal\nankle\nannounce\nannoy\nannual\nanother\nanswer\nant\nanticipate\nantique\nanxiety\nanxious\nany\nanybody\nanyhow\nanyone\nanything\nanyway\nanywhere\napart\napartment\napologise\napparently\nappeal\nappear\nappetite\napplaud\napple\napplicant\napplication\napply\nappointment\nappreciate\napproach\nappropriate\napprove\nApril\narch\narchitect\narea\nargue\narise\narm\narmy\naround\narrangement\narrest\narrive\narrow\nart\narticle\nartificial\nartist\nas\nashamed\nAsia\nAsian\naside\nask\nasleep\naspect\nassess\nassign\nassistant\nassociation\nassume\nassumption\nastonish\nastronaut\nastronomer\nat\nathlete\nAtlantic\natmosphere\nattach\nattack\nattain\nattempt\nattend\nattention\nattitude\nattract\naudience\nAugust\naunt\nAustralia\nAustralian\nauthor\nauthority\nautomatic\nautonomous\nautumn\navailable\naverage\navoid\nawake\naward\naware\naway\nawesome\nawful\nawkward\nbaby\nback\nbackground\nbackward\nbacon\nbad\nbadminton\nbag\nbakery\nbalance\nball\nballet\nballoon\nbamboo\nban\nbanana\nband\nbank\nbar\nbarbecue\nbarely\nbark\nbarrier\nbase\nbaseball\nbasic\nbasin\nbasis\nbasket\nbasketball\nbat\nbath\nbathroom\nbattery\nbattle\nbay\nBC\nbe\nbeach\nbean\nbean curd\nbear\nbeard\nbeat\nbeautiful\nbeauty\nbecause\nbecome\nbed\nbedroom\nbeef\nbeer\nbefore\nbegin\nbehalf\nbehave\nbehaviour\nbehavior\nbehind\nbeing\nbelief\nbelieve\nbell\nbelong\nbelow\nbelt\nbend\nbeneath\nbenefit\nbeside\nbest\nbet\nbetter\nbetween\nbeyond\nbig\nbike\nbill\nbillion\nbiology\nbird\nbirth\nbirthday\nbiscuit\nbit\nbite\nbitter\nblack\nblackboard\nblame\nblank\nblanket\nbleed\nbless\nblind\nblock\nblog\nblood\nblouse\nblow\nblue\nboard\nboat\nbody\nboil\nbomb\nbond\nbone\nbonus\nbook\nboost\nboot\nborder\nbored\nboring\nborn\nborrow\nboss\nbotanical\nboth\nbother\nbottle\nbottom\nbounce\nbound\nboundary\nbow\nbowl\nbowling\nbox\nboxing\nboy\nbrain\nbranch\nbrave\nbread\nbreak\nbreakfast\nbreast\nbreath\nbreathe\nbrick\nbride\nbridegroom\nbridge\nbrief\nbright\nbrilliant\nbring\nBritain\nBritish\nbroad\nbroadcast\nbrochure\nbrother\nbrown\nbrush\nbudget\nbuffet\nbuild\nbuilding\nbunch\nburn\nbury\nbus\nbusiness\nbusy\nbut\nbutcher\nbutter\nbutton\nbuy\nby\ncabbage\ncafé\ncafeteria\ncage\ncake\ncalculate\ncalendar\ncall\ncalligraphy\ncalm\ncalorie\ncamel\ncamera\ncamp\ncampaign\ncampus\ncan\nCanada\nCanadian\ncanal\ncancel\ncancer\ncandidate\ncandle\ncandy\ncanteen\ncap\ncapable\ncapacity\ncapital\ncapsule\ncaptain\ncar\ncarbon\ncard\ncare\ncareer\ncareful\ncareless\ncarpet\ncarrot\ncarry\ncartoon\ncarve\ncase\ncash\ncast\ncastle\ncat\ncatch\ncategory\ncattle\ncause\ncave\ncease\nceiling\ncelebrate\ncelebrity\ncell\ncent\ncentimetre\ncentral\ncentre\ncentury\ncertain\ncertainly\ncertificate\nchain\nchair\nchairman\nchairwoman\nchalk\nchallenge\nchampion\nchance\nchange\nchannel\nchaos\nchapter\ncharacter\ncharacteristic\ncharge\ncharity\nchart\nchat\ncheap\ncheat\ncheck\ncheek\ncheer\ncheese\nchef\nchemical\nchemist\nchemistry\nchess\nchest\nchew\nchicken\nchief\nchild\nChina\nchina\nChinese\nchocolate\nchoice\nchoke\nchoose\nchopsticks\nchorus\nChristmas\nchurch\ncigarette\ncinema\ncircle\ncircuit\ncircumstance\ncircus\ncite\ncitizen\ncity\ncivil\ncivilian\ncivilisation\nclaim\nclap\nclarify\nclass\nclassic\nclassmate\nclassroom\nclay\nclean\nclear\nclerk\nclever\nclick\nclient\nclimate\nclimb\nclinic\nclock\nclone\nclose\ncloth\nclothes\ncloud\ncloudy\nclub\nclue\ncoach\ncoal\ncoast\ncoat\ncoffee\ncoin\ncold\ncollapse\ncollar\ncollect\ncollection\ncollege\ncolour\ncolumn\ncombine\ncome\ncomedy\ncomfort\ncomfortable\ncomic\ncomment\ncommercial\ncommit\ncommitment\ncommittee\ncommon\ncommunicate\ncommunication\ncommunist\ncommunity\ncompany\ncompare\ncomparison\ncompete\ncompetence\ncompetition\ncomplain\ncomplete\ncomplex\ncomplicated\ncomponent\ncompose\ncomposition\ncomprehension\ncomprehensive\ncomprise\ncomputer\nconcentrate\nconcept\nconcern\nconcert\nconclude\nconclusion\nconcrete\ncondition\nconduct\nconference\nconfidence\nconfirm\nconflict\nConfucianism\nConfucius\nconfused\ncongratulation\nconnect\nconsequence\nconservation\nconsider\nconsist\nconsistent\nconstant\nconstitution\nconstruction\nconsultant\nconsultation\nconsume\nconsumption\ncontact\ncontain\ncontemporary\ncontent\ncontest\ncontext\ncontinent\ncontinue\ncontract\ncontradictory\ncontrary\ncontrast\ncontribution\ncontrol\nconvenient\nconventional\nconversation\nconvince\ncook\ncookie\ncool\ncooperate\ncopy\ncore\ncorn\ncorner\ncorporate\ncorrect\ncorrespond\ncost\ncostume\ncottage\ncotton\ncough\ncould\ncouncil\ncount\ncountry\ncountryside\ncounty\ncouple\ncourage\ncourse\ncourt\ncousin\ncover\ncoverage\ncow\ncrash\ncrayon\ncrazy\ncream\ncreate\ncreative\ncreature\ncredit\ncrew\ncrime\ncrisis\ncriterion\ncritical\ncriticise\ncrop\ncross\ncrowd\ncrucial\ncruel\ncry\ncuisine\nculture\ncup\ncupboard\ncure\ncurious\ncurrent\ncurtain\ncustom\ncustomer\ncut\ncute\ncycle\ndaily\ndamage\ndamp\ndance\ndanger\ndangerous\ndare\ndark\ndata\ndatabase\ndate\ndaughter\nday\ndead\ndeadline\ndeaf\ndeal\ndear\ndeath\ndebate\ndebt\ndecade\nDecember\ndecent\ndecide\ndecision\ndeclare\ndecline\ndecorate\ndecrease\ndeep\ndeer\ndefeat\ndefence\ndefend\ndefinitely\ndefinition\ndegree\ndelay\ndelete\ndelicate\ndelicious\ndeliver\ndemand\ndemonstrate\ndentist\ndeny\ndepartment\ndeparture\ndepend\ndepress\ndepth\ndescribe\ndescription\ndesert\ndeserve\ndesign\ndesire\ndesk\ndesperate\ndespite\ndessert\ndestination\ndestroy\ndetail\ndetect\ndetective\ndetermine\ndevelop\ndevelopment\ndevice\ndevote\ndiagram\ndialogue\ndiamond\ndiary\ndictionary\ndie\ndiet\ndiffer\ndifference\ndifferent\ndifficult\ndifficulty\ndig\ndigest\ndigital\ndignity\ndimension\ndining\ndinner\ndinosaur\ndirect\ndirection\ndirector\ndirectory\ndirty\ndisability\ndisabled\ndisappear\ndisappointed\ndisaster\ndiscipline\ndiscount\ndiscover\ndiscovery\ndiscrimination\ndiscuss\ndiscussion\ndisease\ndish\ndisk\ndismiss\ndisplay\ndistance\ndistant\ndistinct\ndistinguish\ndistribution\ndistrict\ndisturb\ndive\ndiverse\ndivide\ndivision\ndizzy\ndo\ndoctor\ndocument\ndog\ndollar\ndolphin\ndomain\ndomestic\ndominate\ndonate\ndoor\ndormitory\ndouble\ndoubt\ndown\ndownload\ndownstairs\ndowntown\ndozen\ndraft\ndrag\ndragon\ndrama\ndramatic\ndraw\ndrawer\ndream\ndress\ndrill\ndrink\ndrive\ndriver\ndrop\ndrought\ndrug\ndry\nduck\ndue to\ndumpling\nduration\nduring\ndust\nduty\ndynamic\ndynasty\neach\neager\neagle\near\nearly\nearn\nearth\nearthquake\nease\neast\neastern\neasy\neat\necology\neconomic\nedge\neditor\neducation\neducator\neffect\nefficient\neffort\negg\neight\neighteen\neighth\neighty\neither\nelder\nelderly\nelection\nelectricity\nelectronic\nelegant\nelement\nelephant\neleven\nelse\nelsewhere\nemail\nembarrassed\nemerge\nemergency\nemotion\nemperor\nemphasis\nemploy\nempty\nenable\nencounter\nencourage\nend\nenemy\nenergetic\nenergy\nengage\nengine\nengineer\nEngland\nEnglish\nenhance\nenjoy\nenormous\nenough\nensure\nenter\nenterprise\nentertainment\nenthusiastic\nentirely\nentitle\nentrance\nentry\nenvelope\nenvironment\nenvy\nepisode\nequal\nequator\nequipment\nera\neraser\nerror\nerupt\nescape\nespecially\nessay\nessential\nestablish\nestate\nestimate\nEurope\nEuropean\nevaluate\neve\neven\nevening\nevent\neventually\never\nevery\neverybody\neveryday\neveryone\neverything\neverywhere\nevidence\nexactly\nexam\nexamine\nexample\nexcellent\nexcept\nexceptional\nexchange\nexcited\nexciting\nexcuse\nexercise\nexhibition\nexist\nexit\nexpand\nexpansion\nexpect\nexpectation\nexpense\nexpensive\nexperience\nexperiment\nexpert\nexplain\nexplode\nexplore\nexport\nexpose\nexposure\nexpress\nextend\nextension\nextent\nexternal\nextinction\nextra\nextraordinary\nextremely\neye\nfabric\nface\nfacilitate\nfacility\nfact\nfactor\nfactory\nfail\nfailure\nfair\nfaith\nfall\nfalse\nfamiliar\nfamily\nfamous\nfan\nfancy\nfantastic\nfantasy\nfar\nfarm\nfarmer\nfashion\nfast\nfat\nfather\nfault\nfavour\nfavourite\nfear\nfeature\nFebruary\nfee\nfeed\nfeel\nfeeling\nfellow\nfemale\nfence\nfestival\nfetch\nfever\nfew\nfibre\nfiction\nfield\nfifteen\nfifth\nfifty\nfight\nfigure\nfile\nfill\nfilm\nfinally\nfinance\nfinancial\nfind\nfinding\nfine\nfinger\nfinish\nfire\nfirm\nfirst\nfish\nfisherman\nfist\nfit\nfive\nfix\nflag\nflash\nflat\nflavour\nflexible\nflight\nflood\nfloor\nflour\nflow\nflower\nflu\nfluent\nfly\nfocus\nfoggy\nfold\nfolk\nfollow\nfond\nfood\nfoot\nfootball\nfor\nforce\nforecast\nforehead\nforeign\nforest\nforever\nforget\nforgive\nfork\nform\nformal\nformat\nformer\nfortunately\nforty\nforward\nfound\nfoundation\nfountain\nfour\nfourteen\nfourth\nfox\nFrance\nfrank\nfree\nfreedom\nfreeze\nFrench\nfrequency\nfrequently\nfresh\nfriction\nFriday\nfridge\nfriend\nfriendly\nfriendship\nfrightened\nfrog\nfrom\nfront\nfrontier\nfrost\nfruit\nfry\nfuel\nfull\nfun\nfunction\nfund\nfundamental\nfunny\nfurniture\nfurther\nfuture\ngain\ngallery\ngame\ngap\ngarbage\ngarden\ngarlic\ngas\ngate\ngather\ngender\ngeneral\ngenerate\ngeneration\ngenerous\ngenius\ngentle\ngentleman\ngenuine\ngeography\ngeometry\nGerman\nGermany\nget\ngift\ngifted\ngiraffe\ngirl\ngive\nglad\nglass\nglobal\nglobe\nglove\nglue\ngo\ngoal\ngoat\ngold\ngolf\ngood\ngoodbye\ngoods\ngovernment\ngrab\ngrade\ngradually\ngraduate\ngrain\ngrammar\ngramme\ngrand\ngranddaughter\ngrandfather\ngrandmother\ngrandparent\ngrandson\ngrape\ngrasp\ngrass\ngrateful\ngravity\ngreat\ngreedy\ngreen\ngreenhouse\ngreet\ngrey\ngrocery\nground\ngroup\ngrow\nguarantee\nguard\nguess\nguest\nguidance\nguide\nguideline\nguilty\nguitar\ngun\nguy\ngym\ngymnastics\nhabit\nhabitat\nhair\nhalf\nhall\nham\nhamburger\nhand\nhandbag\nhandkerchief\nhandle\nhandsome\nhandwriting\nhang\nhappen\nhappy\nhard\nhardly\nharm\nharmful\nharmonious\nharmony\nharvest\nhat\nhatch\nhate\nhave\nhe\nhead\nheadache\nhealth\nhealthy\nhear\nheart\nheat\nheavy\nheight\nhello\nhelp\nhelpful\nhen\nhence\nher\nherb\nhere\nhero\nhers\nherself\nhesitate\nhi\nhide\nhigh\nhighlight\nhike\nhill\nhim\nhimself\nhire\nhis\nhistoric\nhistory\nhit\nhobby\nhold\nhole\nholiday\nhome\nhometown\nhomework\nhonest\nhoney\nhonour\nhope\nhorrible\nhorse\nhospital\nhost\nhot\nhotel\nhour\nhouse\nhousehold\nhousework\nhousing\nhow\nhowever\nhug\nhuge\nhuman\nhumble\nhumorous\nhundred\nhungry\nhunt\nhurricane\nhurry\nhurt\nhusband\nhydrogen\nI\nice\nice-cream\nidea\nideal\nidentical\nidentify\nidentity\nidiom\nif\nignore\nill\nillegal\nillness\nillustrate\nimage\nimagine\nimmediately\nimpact\nimply\nimport\nimportant\nimpossible\nimpress\nimpression\nimprove\nin\ninch\nincident\ninclude\nincome\nincrease\nincredible\nindeed\nindependent\nIndia\nIndian\nindicate\nindividual\nindustry\ninfection\ninfer\ninfluence\ninfluential\ninformation\ninitial\ninitiative\ninjury\ninner\ninnocent\ninnovation\ninput\ninquire\ninsect\ninside\ninsight\ninsist\ninspection\ninspire\ninstance\ninstant\ninstead\ninstitute\ninstitution\ninstruction\ninstrument\ninsurance\nintegrate\nintegrity\nintelligent\nintend\nintense\nintention\ninteraction\ninterest\ninteresting\ninternal\ninternational\nInternet\ninterpret\ninterrupt\nintervention\ninterview\ninto\nintroduce\nintroduction\ninvent\ninvention\ninvestigate\ninvestment\ninvite\ninvolve\niron\nisland\nissue\nit\nitem\nits\nitself\njacket\njam\nJanuary\nJapan\nJapanese\njaw\njazz\njeans\njob\njog\njoin\njoint\njoke\njournal\njournalist\njourney\njoy\njudge\njuice\nJuly\njump\nJune\njungle\njunior\njust\njustice\njustify\nkangaroo\nkeep\nkettle\nkey\nkeyboard\nkick\nkid\nkill\nkilo\nkilometre\nkind\nkindergarten\nking\nkingdom\nkiss\nkit\nkitchen\nkite\nknee\nknife\nknock\nknow\nknowledge\nlab\nlabel\nlabour\nlack\nlady\nlake\nlamb\nlamp\nland\nlandscape\nlanguage\nlantern\nlap\nlaptop\nlarge\nlast\nlate\nlater\nlaugh\nlaunch\nlaw\nlawyer\nlay\nlazy\nlead\nleader\nleadership\nleaf\nleague\nleak\nlearn\nleast\nleather\nleave\nlecture\nleft\nleg\nlegal\nleisure\nlemon\nlend\nlength\nless\nlesson\nlet\nletter\nlevel\nliberation\nliberty\nlibrarian\nlibrary\nlicense\nlie\nlife\nlift\nlight\nlike\nlikely\nlimit\nlimited\nline\nlink\nlion\nliquid\nlist\nlisten\nliterally\nliterary\nliterature\nlitter\nlittle\nlive\nlively\nliving\nload\nloan\nlocal\nlocation\nlock\nlog\nlogical\nLondon\nlonely\nlong\nlook\nloose\nlose\nloss\nlot\nloud\nlove\nlovely\nlow\nlower\nluck\nlucky\nlunar\nlunch\nlung\nluxury\nmachine\nmad\nmadam\nmagazine\nmagic\nmail\nmain\nmaintain\nmajor\nmajority\nmake\nmale\nman\nmanage\nmanager\nmankind\nmanner\nmany\nmap\nmarathon\nMarch\nmarch\nmark\nmarket\nmarriage\nmarry\nmass\nmassive\nmaster\nmatch\nmaterial\nmaths\nmatter\nmature\nmaximum\nMay\nmay\nmaybe\nme\nmeal\nmean\nmeaning\nmeans\nmeasure\nmeat\nmechanic\nmedal\nmedical\nmedicine\nmedium\nmeet\nmeeting\nmember\nmembership\nmemorial\nmemory\nmental\nmention\nmenu\nmercy\nmerely\nmerry\nmess\nmessage\nmetal\nmethod\nmetre\nmicroscope\nmiddle\nmidnight\nmight\nmild\nmile\nmilitary\nmilk\nmillimetre\nmillion\nmind\nmine\nmineral\nminimum\nminister\nminor\nminority\nminute\nmirror\nMiss\nmiss\nmissile\nmissing\nmission\nmist\nmistake\nmix\nmixture\nmobile phone\nmode\nmodel\nmodern\nmoment\nMonday\nmoney\nmonitor\nmonkey\nmonth\nmonthly\nmood\nmoon\nmoral\nmore\nmoreover\nmorning\nmosquito\nmost\nmostly\nmother\nmotion\nmotivate\nmotive\nmotor\nmount\nmountain\nmouse\nmouth\nmove\nmovement\nmovie\nMr\nMrs\nMs\nmuch\nmud\nmultiple\nmurder\nmuscle\nmuseum\nmushroom\nmusic\nmusician\nmust\nmy\nmyself\nnail\nname\nnarrow\nnation\nnational\nnationality\nnative\nnatural\nnature\nnavy\nnear\nnearby\nnearly\nneat\nnecessary\nneck\nneed\nneedle\nnegative\nnegotiate\nneighbour\nneighbourhood\nneither\nnephew\nnervous\nnest\nnet\nnetwork\nnever\nnevertheless\nnew\nnews\nnewspaper\nnext\nnice\nniece\nnight\nnine\nnineteen\nninety\nninth\nno\nnoble\nnobody\nnod\nnoise\nnoisy\nnone\nnoodle\nnoon\nnor\nnormal\nnorth\nnorthern\nnose\nnot\nnote\nnotebook\nnothing\nnotice\nnovel\nnovelist\nNovember\nnow\nnowadays\nnowhere\nnuclear\nnumber\nnurse\nnut\nnutrition\nobject\nobjective\nobserve\nobtain\nobviously\noccasion\noccupation\noccupy\noccur\nocean\no’clock\nOctober\nodd\nof\noff\noffer\noffice\nofficer\nofficial\noften\noil\nOK\nold\nOlympics\non\nonce\none\nonion\nonline\nonly\nonto\nopen\nopera\noperation\noperator\nopinion\nopponent\nopportunity\noppose\nopposite\noptimistic\noption\nor\norange\norbit\norder\nordinary\norgan\norganic\norganisation\norigin\noriginal\nother\notherwise\nought to\nour\nours\nourselves\nout\noutcome\noutgoing\noutline\noutput\noutside\noutstanding\nover\noverall\novercome\noverseas\nowe\nown\noxygen\npace\nPacific\npack\npackage\npage\npain\npaint\npair\npalace\npale\npan\npancake\npanda\npanel\npanic\npaper\nparagraph\nparcel\npardon\nparent\npark\nparking\npart\nparticipate\nparticular\npartner\nparty\npass\npassage\npassenger\npassion\npassive\npassport\npast\npatent\npath\npatience\npatient\npattern\npay\nPE\npeace\npeak\npear\npen\npencil\npeople\npepper\nper\nperceive\npercent\npercentage\nperfect\nperformance\nperhaps\nperiod\npermanent\npermit\nperson\npersonal\npersonality\npersuade\npessimistic\npet\npetrol\nphase\nphenomenon\nphilosophy\nphone\nphoto\nphotographer\nphrase\nphysician\nphysics\npiano\npick\npicnic\npicture\npie\npiece\npig\npill\npilot\npink\npioneer\npipe\npity\nplace\nplain\nplan\nplane\nplanet\nplant\nplastic\nplate\nplatform\nplay\nplayer\nplayground\npleasant\nplease\npleasure\nplenty\nplot\nplug\nplus\np.m.\npocket\npoem\npoet\npoetry\npoint\npoison\npolar\npole\npolice\npoliceman\npolicewoman\npolicy\npolish\npolite\npolitical\npolitician\npolitics\npollute\npollution\npond\npool\npoor\npopular\npopulation\npork\nport\npose\nposition\npositive\npossession\npossible\npost\npostcard\nposter\npostman\npostpone\npot\npotato\npotential\npound\npour\npower\npractical\npractice\npraise\npray\nprecious\nprecisely\npredict\nprefer\npreference\nprejudice\npremier\nprepare\npresent\npresentation\npreserve\npresident\npress\npressure\npretend\npretty\nprevent\nprevious\nprice\npride\nprimary\nprimitive\nprinciple\nprint\nprior\npriority\nprison\nprivate\nprize\nprobably\nproblem\nprocedure\nproceed\nprocess\nproduce\nproduct\nprofession\nprofessional\nprofessor\nprofile\nprofit\nprogramme\nprogress\nprohibit\nproject\npromise\npromote\npronounce\npronunciation\nproof\nproper\nproperty\nproposal\nprospect\nprotect\nprotein\nprotest\nproud\nprove\nprovide\nprovince\npsychology\npub\npublic\npublish\npudding\npull\npunish\npupil\npurchase\npure\npurple\npurpose\npurse\npursue\npush\nput\nqualification\nqualify\nquality\nquantity\nquarter\nqueen\nquestion\nquick\nquiet\nquit\nquite\nquote\nrabbit\nrace\nracial\nradiation\nradio\nradium\nrailway\nrain\nrainbow\nrainy\nraise\nrandom\nrange\nrank\nrapid\nrare\nrate\nrather\nrating\nraw\nray\nreach\nreact\nreaction\nread\nready\nreal\nrealise\nrealistic\nreality\nreally\nreason\nrecall\nreceipt\nreceive\nrecently\nreceptionist\nrecipe\nrecite\nrecognise\nrecognition\nrecommend\nrecord\nrecording\nrecover\nrecreation\nrecycle\nred\nreduce\nrefer\nreference\nreflect\nreform\nrefresh\nrefuse\nregard\nregardless\nregion\nregister\nregret\nregular\nreject\nrelate\nrelationship\nrelative\nrelax\nrelay\nrelease\nrelevant\nreliable\nrelief\nrely\nremain\nremarkable\nremember\nremind\nremote\nremove\nrent\nrepair\nrepeat\nreplace\nreply\nreport\nrepresent\nrepresentative\nrepublic\nreputation\nrequest\nrequire\nrescue\nresearch\nreserve\nresident\nresign\nresistance\nresolution\nresolve\nresource\nrespect\nrespective\nrespond\nresponse\nresponsibility\nresponsible\nrest\nrestaurant\nrestore\nrestrict\nresult\nretire\nreturn\nreveal\nreview\nrevise\nreward\nrhyme\nrice\nrich\nriddle\nride\nright\nrigid\nring\nripe\nrise\nrisk\nriver\nroad\nroast\nrobot\nrock\nrocket\nrole\nroll\nromantic\nroof\nroom\nroot\nrope\nrose\nround\nroute\nroutine\nrow\nroyal\nrubber\nrubbish\nrude\nrugby\nruin\nrule\nruler\nrun\nrural\nrush\nRussia\nRussian\nsad\nsafe\nsafety\nsail\nsalad\nsalary\nsale\nsalesman\nsaleswoman\nsalt\nsalty\nsame\nsample\nsand\nsandwich\nsatellite\nsatisfaction\nsatisfy\nSaturday\nsaucer\nsausage\nsave\nsaving\nsay\nsaying\nscare\nscarf\nscene\nschedule\nscholarship\nschool\nschoolbag\nscience\nscientific\nscientist\nscissors\nscore\nscream\nscreen\nsculpture\nsea\nsearch\nseason\nseat\nsecond\nsecondary\nsecret\nsecretary\nsection\nsecure\nsecurity\nsee\nseed\nseek\nseem\nseize\nseldom\nselect\nsell\nsend\nsenior\nsense\nsensitive\nsentence\nseparate\nSeptember\nseries\nserious\nservant\nserve\nservice\nsession\nset\nsetting\nsettle\nseven\nseventeen\nseventh\nseventy\nseveral\nsevere\nsew\nsex\nshade\nshadow\nshake\nshall\nshallow\nshame\nshape\nshare\nshark\nsharp\nshave\nshe\nsheep\nsheet\nshelf\nshelter\nshift\nshine\nship\nshirt\nshock\nshoe\nshoot\nshop\nshore\nshort\nshortage\nshorts\nshould\nshoulder\nshout\nshow\nshower\nshut\nshy\nsick\nside\nsight\nsign\nsignal\nsignificant\nsilence\nsilent\nsilk\nsilly\nsilver\nsimilar\nsimple\nsince\nsincerely\nsing\nsingle\nsink\nsir\nsister\nsit\nsite\nsituation\nsix\nsixteen\nsixth\nsixty\nsize\nskate\nskateboard\nski\nskill\nskin\nskip\nskirt\nsky\nsleep\nsleepy\nslice\nslide\nslightly\nslim\nslip\nslow\nsmall\nsmart\nsmell\nsmile\nsmog\nsmoke\nsmooth\nsnack\nsnake\nsneeze\nsnow\nsnowy\nso\nsoccer\nsocial\nsocialist\nsociety\nsock\nsofa\nsoft\nsoftware\nsoil\nsolar\nsoldier\nsolid\nsolution\nsolve\nsome\nsomebody\nsomehow\nsomeone\nsomething\nsometimes\nsomewhat\nsomewhere\nson\nsong\nsoon\nsorrow\nsorry\nsort\nsoul\nsound\nsoup\nsour\nsource\nsouth\nsouthern\nsow\nspace\nspare\nspeak\nspeaker\nspecial\nspecialist\nspecies\nspecific\nspeech\nspeed\nspell\nspend\nspirit\nsplendid\nsponsor\nspoon\nsport\nspot\nspread\nspring\nspy\nsquare\nstability\nstadium\nstaff\nstage\nstair\nstamp\nstand\nstandard\nstar\nstare\nstart\nstarve\nstate\nstation\nstatistic\nstatue\nstay\nsteak\nsteal\nsteam\nsteel\nstep\nstick\nstill\nstimulate\nstomach\nstomachache\nstone\nstop\nstore\nstorm\nstory\nstraight\nstraightforward\nstrait\nstrange\nstranger\nstrategy\nstrawberry\nstream\nstreet\nstrength\nstrengthen\nstress\nstretch\nstrict\nstrike\nstring\nstrong\nstructure\nstruggle\nstudent\nstudio\nstudy\nstuff\nstupid\nstyle\nsubject\nsubjective\nsubmit\nsubscribe\nsubsequent\nsubstance\nsubstantial\nsuburb\nsubway\nsucceed\nsuccess\nsuccessful\nsuch\nsudden\nsuffer\nsufficient\nsugar\nsuggest\nsuggestion\nsuit\nsuitable\nsum\nsummary\nsummer\nsun\nSunday\nsunny\nsuper\nsuperb\nsuperior\nsupermarket\nsupply\nsupport\nsuppose\nsure\nsurf\nsurface\nsurgeon\nsurgery\nsurprise\nsurround\nsurrounding\nsurvey\nsurvive\nsuspect\nsuspend\nsustain\nsweat\nsweater\nsweep\nsweet\nswim\nswimming\nswing\nswitch\nsymbol\nsympathy\nsymphony\nsystem\ntable\ntablet\ntackle\ntail\ntailor\ntake\ntale\ntalent\ntalk\ntall\ntank\ntape\ntarget\ntask\ntaste\ntax\ntaxi\ntea\nteach\nteacher\nteam\nteapot\ntear\ntechnique\ntechnology\nteenager\ntelephone\ntelescope\ntelevision\ntell\ntemperature\ntemple\ntemporary\nten\ntend\ntendency\ntennis\ntension\ntenth\nterm\nterrible\nterritory\ntest\ntext\nthan\nthank\nthat\nthe\ntheatre\ntheft\ntheir\nthem\ntheme\nthemselves\nthen\ntheory\nthere\ntherefore\nthese\nthey\nthick\nthin\nthing\nthink\nthinking\nthird\nthirsty\nthirteen\nthirty\nthis\nthorough\nthose\nthough\nthought\nthousand\nthreat\nthreaten\nthree\nthrough\nthroughout\nthrow\nthunder\nThursday\nthus\nticket\ntidy\ntie\ntiger\ntight\ntime\ntiny\ntip\ntired\ntissue\ntitle\nto\ntoast\ntobacco\ntoday\ntogether\ntoilet\ntolerate\ntomato\ntomorrow\nton\ntone\ntonight\ntoo\ntool\ntooth\ntoothache\ntop\ntopic\ntotal\ntouch\ntough\ntour\ntourist\ntournament\ntoward\ntowards\ntowel\ntower\ntown\ntoy\ntrack\ntrade\ntradition\ntraditional\ntraffic\ntrain\ntraining\ntransform\ntranslate\ntransport\ntrap\ntravel\ntreasure\ntreat\ntreatment\ntree\ntrend\ntrial\ntrick\ntrip\ntrouble\ntrousers\ntruck\ntrue\ntrunk\ntrust\ntruth\ntry\nT-shirt\ntube\nTuesday\ntune\nturkey\nturn\ntwelfth\ntwelve\ntwentieth\ntwenty\ntwice\ntwin\ntwo\ntype\ntyphoon\ntypical\nugly\nUK\nultimately\numbrella\nuncle\nunder\nunderground\nunderstand\nuniform\nunique\nunit\nuniverse\nuniversity\nunless\nuntil\nunusual\nup\nupdate\nupon\nupper\nupset\nurban\nurge\nurgent\nUS\nus\nuse\nused\nuseful\nusual\nusually\nvacation\nvalley\nvaluable\nvalue\nvariation\nvariety\nvarious\nvary\nvase\nvast\nvegetable\nvehicle\nvenue\nversion\nvery\nvictim\nvictory\nvideo\nview\nvillage\nviolence\nviolin\nvirtual\nvirtue\nvirus\nvisible\nvision\nvisit\nvisitor\nvisual\nvital\nvivid\nvocabulary\nvoice\nvolcano\nvolleyball\nvolume\nvolunteer\nvote\nwage\nwaist\nwait\nwake\nwalk\nwall\nwallet\nwander\nwant\nwar\nward\nwarm\nwarn\nwarning\nwash\nwashroom\nwaste\nwatch\nwater\nwatermelon\nwave\nway\nwe\nweak\nwealth\nweapon\nwear\nweather\nwebsite\nwedding\nWednesday\nweed\nweek\nweekday\nweekend\nweekly\nweep\nweigh\nweight\nwelcome\nwelfare\nwell\nwest\nwestern\nwet\nwhale\nwhat\nwhatever\nwheat\nwheel\nwhen\nwhenever\nwhere\nwhether\nwhich\nwhile\nwhisper\nwhite\nwho\nwhole\nwhom\nwhose\nwhy\nwide\nwidespread\nwife\nWi-Fi\nwild\nwill\nwin\nwind\nwindow\nwindy\nwine\nwing\nwinner\nwinter\nwire\nwisdom\nwise\nwish\nwith\nwithdraw\nwithin\nwithout\nwitness\nwoman\nwonder\nwonderful\nwood\nwool\nword\nwork\nworker\nworld\nworry\nworse\nworst\nworth\nworthwhile\nworthy\nwould\nwound\nwrap\nwrestle\nwrinkle\nwrist\nwrite\nwriter\nwrong\nX-ray\nyard\nyear\nyellow\nyes\nyesterday\nyet\nyoghurt\nyou\nyoung\nyour\nyours\nyourself\nyouth\nzero\nzone\nzoo",
       "words": {}
     },
     "86efd66c": {
-      "title": "6.2",
-      "lastPosi": 0.49450656889014644,
+      "title": "6.2 Akiša Peters: Teaching Dakota Language to Preserve Culture",
+      "lastPosi": 0,
       "text": "At just 19 years old，Akiša Peters teaches at the Sisseton Wahpeton Tribal College.He specializes in a language that is thousands of years old，the Dakota language，spoken by the Dakota people.\n\n“The Dakota language is ‘the most important aspect' of Dakota culture.Without it，our Dakota culture would no longer exist！” Peters claimed.“I was lucky to grow up around many first­language Dakota speakers.But now the elderly continually passed away and at the end of their lives，they just wanted to know their families would continue to have the language.One of the problems our people have is finding ways to get at­length and consistent exposure to the language.”\n\nAside from instructing at the college level，Peters uses social media to share videos that integrate humor，culture，and basic­level conversation to help teach Dakota.In his free time，he visits Dakota elders.He also started an online group of youth to converse and share the knowledge of the language in a safe and supportive space.\n\nAkiša Peters wants to tell the youth that if they want to learn their own language，sit with their elders and learn from them.Endless vocabulary sheets could discourage them from learning.Standards created by non­speakers could also do that.“Within the next decade，I assume，me，my colleagues，and other Dakota­learning relatives will have children and start a new generation of Dakota.I also hope my brothers and sisters will take the path we laid out for them and continue to learn and speak Dakota.On my reservation there are numerous young people working on the comeback of the language.I'm hopeful because I'm definitely not alone，” Akiša Peters told Teen vogue.\n\n\n5．Why does Akiša Peters teach the Dakota language?\n\nA．To enrich his experience.\n\nB．To record its written form.\n\n_C．To prevent it dying out.\n\nD．To make it known globally.\n\n\n6．What can we say about Akiša Peters according to paragraph 3?\n\nA．Learned.  \t_B．Creative.\n\nC．Approachable.  \tD．Cooperative.\n\n\n7．What does Akiša Peters expect the young people to do?\n\nA．Deal with vocabulary sheets.\n\nB．Sustain the given standards.\n\n_C．Communicate with their elders.\n\nD．Learn from their teachers.\n\n\n8．Which section of a website is the text probably taken from?\n\nA．Research.  B．Business.\n\nC．Fashion.  _D．Culture.\n\n",
       "words": {
         "22824352": {
@@ -3722,12 +4164,64 @@
           ],
           "visit": true,
           "type": "word"
+        },
+        "1b41c250": {
+          "id": "elderly",
+          "index": [
+            410,
+            417
+          ],
+          "cIndex": [
+            332,
+            658
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "ebb7ab9f": {
+          "id": "Aside",
+          "index": [
+            660,
+            665
+          ],
+          "cIndex": [
+            660,
+            989
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "4801c0f7": {
+          "id": "Within",
+          "index": [
+            1232,
+            1238
+          ],
+          "cIndex": [
+            1232,
+            1654
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "d0779a8d": {
+          "id": "definitely",
+          "index": [
+            1602,
+            1612
+          ],
+          "cIndex": [
+            1578,
+            1654
+          ],
+          "visit": false,
+          "type": "word"
         }
       }
     },
     "8bc0879e": {
-      "title": "4.3",
-      "lastPosi": 0,
+      "title": "4.3 Active Schools Framework: A PE Teacher's Journey",
+      "lastPosi": 0.5264502782941077,
       "text": "As a young boy，I loved being active.All I really wanted to do was to put on my football shoes and play out with my friends.As I've got older，my love for physical activity hasn't declined.This is why I was so eager to be involved in the Creating Active Schools framework as a PE teacher.\n\nIn the early stages of my time at Peel Park Primary，my two main aims were to reform the PE course and to increase our participation in competitive sports.We achieved these successfully in a short time.\n\nJust as I'll never love art，many of our pupils will never love football or tennis.That's why finding a way to move，which works for each child，is vital.What we can do is get opportunities for every child to love being physically active.\n\nWe therefore opened our own school Bike Library.We have already received many rental requests.We also thought about how to arrange the school day，allowing all children to access our equipment freely and easily.Besides，we also have a “PA” lesson which has a total free choice for the children.They can swing on the trees，go on the bikes and play games with their friends.This change from thinking has improved participation in the “traditional PE” from pupils，who typically didn't love sports.A win­win situation!\n\nNow I'm looking forward to our next step on this journey to improving pupils' lives.The potential of this project as it expands，is huge.",
       "words": {
         "cfb0040d": {
@@ -3807,6 +4301,84 @@
           ],
           "visit": true,
           "type": "word"
+        },
+        "cae59de7": {
+          "id": "eager",
+          "index": [
+            208,
+            213
+          ],
+          "cIndex": [
+            0,
+            286
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "81a8e58d": {
+          "id": "framework",
+          "index": [
+            260,
+            269
+          ],
+          "cIndex": [
+            0,
+            286
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "a5237867": {
+          "id": "stages",
+          "index": [
+            301,
+            307
+          ],
+          "cIndex": [
+            288,
+            489
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "0269d7c0": {
+          "id": "achieved",
+          "index": [
+            445,
+            453
+          ],
+          "cIndex": [
+            288,
+            489
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "6fef75b7": {
+          "id": "competitive",
+          "index": [
+            423,
+            434
+          ],
+          "cIndex": [
+            288,
+            489
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "b244020d": {
+          "id": "expands",
+          "index": [
+            1362,
+            1369
+          ],
+          "cIndex": [
+            1242,
+            1378
+          ],
+          "visit": false,
+          "type": "word"
         }
       }
     },
@@ -3817,8 +4389,8 @@
       "words": {}
     },
     "8ffc0429": {
-      "title": "12.2",
-      "lastPosi": 0.17000470432699372,
+      "title": "12.2 The Scandal in the Camel Beauty Contest",
+      "lastPosi": 0.3801218969582101,
       "text": "Twelve prized camels have been disqualified from a beauty contest in Saudi Arabia after their owners tried to beautify their looks with Botox (肉毒杆菌素)．\n\nThousands of camels are paraded at the King Abdulaziz Camel Festival to be judged on their shapely lips and humps.The festival，which also features camel racing and camel milk tasting，has combined prize money of $57 million.\n\nThis year's event has been stuck in scandal after the 20 million Saudi riyals in prize money for each category tempted some owners to cheat.\n\nThe key features in camel beauty are considered to be delicate ears and a big nose.Judges are also looking for perfectly placed humps，muscular physiques and leathery mouths.But there are strict rules against the use of drugs in the lips，or shaved or clipped body parts.\n\nAli Al Mazrouei，the son of a top Emirati breeder，said Botox was used for the lips，the nose and even the jaw.“It makes the head more inflated，so when the camel comes，it's like ‘Oh look at how big that head is.It has big lips，a big nose’，” he said.\n\nIn the lead up to the festival，Saudi media reported that a vet had been caught giving camels plastic surgery including Botox injections and reducing the size of their ears.\n\nChief judge Fawzan Al­Madi said the camel was “a symbol of Saudi Arabia”．“We used to preserve it out of necessity; now we preserve it as a pastime，” he said.The camel beauty contest was first held in 2000 and last year was relocated from a remote desert area to a permanent venue north of the capital，Riyadh.\n\n4．Why did some people cheat in the camel beauty contest?\n\n_A．Because they wanted to get the big prize.\n\nB．Because they intended to show off their camels.\n\nC．Because they were proud of their camels' humps.\n\nD．Because they expected their camels to win in racing.\n\n5．What is focused in the fourth paragraph?\n\nA．The goal of the contest.\n\nB．The rules for the judges.\n\n_C．The standards of judgement.\n\nD．The kinds of different camels.\n\n\n6．Which of the following isn't considered a feature of camel beauty?\n\nA．Big lips.　　　　　　　\t_B．Big ears.\n\nC．Big heads.  \tD．Big noses.\n\n\n7．What can we infer from the last paragraph?\n\nA．Arabians find it tiring to raise camels.\n\nB．People in Saudi Arabia depend on camels to live.\n\n_C．Saudi government takes the camel festival seriously.\n\nD．Camels were raised for fun in the past in Saudi Arabia.\n",
       "words": {
         "51800337": {
@@ -4105,6 +4677,45 @@
             1519
           ],
           "visit": true,
+          "type": "word"
+        },
+        "de844368": {
+          "id": "camels",
+          "index": [
+            14,
+            20
+          ],
+          "cIndex": [
+            0,
+            150
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "20763e7d": {
+          "id": "stuck",
+          "index": [
+            404,
+            409
+          ],
+          "cIndex": [
+            377,
+            517
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "7642aafa": {
+          "id": "Judges",
+          "index": [
+            602,
+            608
+          ],
+          "cIndex": [
+            519,
+            788
+          ],
+          "visit": false,
           "type": "word"
         }
       }
@@ -4610,8 +5221,8 @@
       "words": {}
     },
     "bcb79528": {
-      "title": "5.2",
-      "lastPosi": 0,
+      "title": "5.2 Lessons from a Natural Disaster",
+      "lastPosi": 0.3993035403366222,
       "text": "Many people think that there should be some sort of universal service around cash，forcing banks to provide it and sellers to accept it.I disagree，but I do understand why they think that forcing the additional costs associated with cash on financial institutions and merchants seems appealing.\n\nOne of their arguments is that cash is a necessary fallback，the only payment method that society can depend on in the event of nuclear war or natural disaster and therefore businesses should be forced to keep the ability to distribute and collect notes and coins.They think that cash is the backup in a disaster.It really isn't.When things go really wrong，it is the people who keep their money in cash who suffer the most.\n\nRemember the Japanese disaster of a decade back，where following a severe earthquake off the northeast coast of Japan's Honshu Island in 2011，a huge tsunami (海啸) towering a hundred feet above the ground went crashing into cities，towns and villages destroying more than 500 square kilometers.Since Japan remains a cash­based society and a great many people keep their savings in cash in their homes，the disaster led to the unusual phenomenon of safes and cash washing up on beaches.Yasuo Kimura，a former bank employee then aged 67，said that he had many friends who lost everything.“I had tried to convince them to put their money in a bank，” he said.“They always thought it was safer to keep it at home.”\n\nAnother argument they make is that electronic payment can be bad for privacy，making cash remain the best backup.They ask “How do you stop data thieves and data brokers from monitoring your buying history？” and suggest paying in cash is the answer.Personally，I think using privacy­enhancing (增强隐私的) technologies when making electronic payments is a better answer，but that's a discussion for another day.\n\n5．What makes many people think it necessary to force cash service on banks?\n\nA．The duty of banks.\n\n_B．The reliability of cash.\n\nC．The need to cut costs.\n\nD．The demand from sellers.\n\n\n6．What was one of the results of the Japanese disaster in 2011?\n\nA．The quake destroyed over 500 square kilometers.\n\nB．100 towers were swallowed by the tsunami.\n\nC．Japanese started to keep money in banks.\n\n_D．Many Japanese lost their backup money.\n\n\n7．What does the author think of electronic payment?\n\nA．It is not good for privacy.\n\n_B．It still leaves much to be desired.\n\nC．It is safer than cash payment.\n\nD．It often falls into the wrong hands.\n\n\n8．What can be the best title for the text?\n\nA．Is E­payment Safe?\n\nB．Lessons from a Natural Disaster\n\n_C．Is Cash the Backup?\n\nD．Appeal of Universal Cash Service\n",
       "words": {
         "cbdd3d4b": {
@@ -4768,6 +5379,84 @@
             1296
           ],
           "visit": true,
+          "type": "word"
+        },
+        "5f167835": {
+          "id": "universal",
+          "index": [
+            52,
+            61
+          ],
+          "cIndex": [
+            0,
+            292
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "5e4c859d": {
+          "id": "accept",
+          "index": [
+            125,
+            131
+          ],
+          "cIndex": [
+            0,
+            292
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "7ceba260": {
+          "id": "payment",
+          "index": [
+            363,
+            370
+          ],
+          "cIndex": [
+            294,
+            716
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "9b46d62f": {
+          "id": "coast",
+          "index": [
+            820,
+            825
+          ],
+          "cIndex": [
+            718,
+            1298
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "9daf8ce8": {
+          "id": "employee",
+          "index": [
+            1225,
+            1233
+          ],
+          "cIndex": [
+            718,
+            1298
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "2cb98d77": {
+          "id": "discussion",
+          "index": [
+            1797,
+            1807
+          ],
+          "cIndex": [
+            1628,
+            1824
+          ],
+          "visit": false,
           "type": "word"
         }
       }
@@ -5014,10 +5703,23 @@
       }
     },
     "c4f28bc5": {
-      "title": "1.1",
-      "lastPosi": 0.3310883476886591,
+      "title": "1.1 Information about Harvard Pre-College Program 2022",
+      "lastPosi": 0.2980434199946395,
       "text": "The two­week Harvard Pre­College Program is an intense and exciting experience of the college life.The admission committee is now looking for mature，academically motivated students who will graduate from high school and enter college in 2022.\n\nThe Course Experience\n\nWith over 30 courses to choose from，you're sure to find a topic that interests you.Although courses are non­credit and do not have letter grades，you need to attend the class in its entirety.When class is not in session，you can participate in creative and social activities.At the end of the program，you'll receive a written evaluation from your instructor，as well as a transcript．\n\nTime\n\nJuly 24－August 5\n\nHow to Apply\n\nComplete an online application and provide supplemental (补充的) materials，including：\n\n·The $75 non­refundable application fee.\n\n·Transcripts from 9th grade to fall 2021 grades: This can include progress reports，report cards，and educational summaries from your high school.\n\n·If English is not your native language，submit scores from the TOEFL IBT or IELTS language proficiency exam along with your application.\n\nCost & Aid\n\nThe total fee for a Harvard Pre­College Program 2022 session is $4,950.The program fee includes tuition，room and board，and activity costs for the full two weeks.There is also a non-­refundable $75 application fee and $100 health insurance.\n\nA limited number of scholarships are available to assist students who demonstrate financial need.Awards vary based on need，and a typical award covers part of the tuition.\n\nHow to contact us\n\nInterested in learning more about the program? Complete our request form，and a member of our team will contact you.\n\nPhone: (617)495­4023\n\nEmail: precollege@summer.harvard.cn\n\n\n1．Which is a requirement for students attending the course?\n\nA．Completing 30 courses.\n\nB．Getting required credits.\n\nC．Having a full attendance.\n\nD．Prioritizing social activities.\n\n\n答案：C\n\n2．What should be included in supplemental materials?\n\nA．Health certificate.\n\nB．Academic conditions.\n\nC．Financial declaration.\n\nD．Personal integrity.\n\n答案：B\n\n3．What's the full payment for an admitted student on the program?\n\nA．$75.　　　　　　\tB．$100.\n\nC．$4,950. \tD．$5,125.\n\n答案：D\n\n\n\n\n",
       "words": {
+        "79331341": {
+          "id": "Apply",
+          "index": [
+            680,
+            685
+          ],
+          "cIndex": [
+            673,
+            685
+          ],
+          "visit": false,
+          "type": "word"
+        },
         "f8a9cee4": {
           "id": "intense",
           "index": [
@@ -5264,6 +5966,97 @@
           ],
           "visit": true,
           "type": "word"
+        },
+        "b835139e": {
+          "id": "committee",
+          "index": [
+            113,
+            122
+          ],
+          "cIndex": [
+            99,
+            242
+          ],
+          "visit": true,
+          "type": "word"
+        },
+        "ed814133": {
+          "id": "academically",
+          "index": [
+            149,
+            161
+          ],
+          "cIndex": [
+            99,
+            242
+          ],
+          "visit": true,
+          "type": "word"
+        },
+        "7f8b490f": {
+          "id": "attend",
+          "index": [
+            424,
+            430
+          ],
+          "cIndex": [
+            267,
+            647
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "dd701e87": {
+          "id": "session",
+          "index": [
+            478,
+            485
+          ],
+          "cIndex": [
+            267,
+            647
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "79f12ab8": {
+          "id": "board",
+          "index": [
+            1222,
+            1227
+          ],
+          "cIndex": [
+            1180,
+            1348
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "01199062": {
+          "id": "insurance",
+          "index": [
+            1338,
+            1347
+          ],
+          "cIndex": [
+            1180,
+            1348
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "f35c37e8": {
+          "id": "contact",
+          "index": [
+            1529,
+            1536
+          ],
+          "cIndex": [
+            1522,
+            1539
+          ],
+          "visit": false,
+          "type": "word"
         }
       }
     },
@@ -5271,6 +6064,12 @@
       "title": "B1",
       "lastPosi": 0,
       "text": "absolutely\nacademic\naccess\naccommodation\naccount\nachievement\nact\nad\naddition\nadmire\nadmit\nadvanced\nadvise\nafford\nage\naged\nagent\nagreement\nahead\naim\nalarm\nalbum\nalcohol\nalcoholic\nalternative\namazed\nambition\nambitious\nanalyse\nanalysis\nannounce\nannouncement\nannoy\nannoyed\nannoying\napart\napologize\napplication\nappointment\nappreciate\napproximately\narrest\narrival\nassignment\nassist\natmosphere\nattach\nattitude\nattract\nattraction\nauthority\naverage\naward\naware\nbackwards\nbake\nbalance\nban\nbank\nbase\nbasic\nbasis\nbattery\nbattle\nbeauty\nbee\nbelief\nbell\nbend\nbenefit\nbetter\nbite\nblock\nboard\nbomb\nborder\nbother\nbranch\nbrand\nbrave\nbreath\nbreathe\nbreathing\nbride\nbubble\nbury\nby\ncalm\ncampaign\ncampus\ncandidate\ncap\ncaptain\ncareless\ncategory\nceiling\ncelebration\ncentral\ncentre\nceremony\nchain\nchallenge\nchampion\nchannel\nchapter\ncharge\ncheap\ncheat\ncheerful\nchemical\nchest\nchildhood\nclaim\nclause\nclear\nclick\nclient\nclimb\nclose\ncloth\nclue\ncoach\ncoal\ncoin\ncollection\ncoloured\ncombine\ncomment\ncommercial\ncommit\ncommunication\ncomparison\ncompetitor\ncompetitive\ncomplaint\ncomplex\nconcentrate\nconclude\nconclusion\nconfident\nconfirm\nconfuse\nconfused\nconnection\nconsequence\nconsist\nconsume\nconsumer\ncontact\ncontainer\ncontent\ncontinuous\ncontrast\nconvenient\nconvince\ncool\ncostume\ncottage\ncotton\ncount\ncountryside\ncourt\ncover\ncovered\ncream\ncriminal\ncruel\ncultural\ncurrency\ncurrent\ncurrently\ncurtain\ncustom\ncut\ndaily\ndamage\ndeal\ndecade\ndecorate\ndeep\ndefine\ndefinite\ndefinition\ndeliver\ndeparture\ndespite\ndestination\ndetermine\ndetermined\ndevelopment\ndiagram\ndiamond\ndifficulty\ndirect\ndirectly\ndirt\ndisadvantage\ndisappointed\ndisappointing\ndiscount\ndislike\ndivide\ndocumentary\ndonate\ndouble\ndoubt\ndressed\ndrop\ndrum\ndrunk\ndue\ndust\nduty\nearthquake\neastern\neconomic\neconomy\nedge\neditor\neducate\neducated\neducational\neffective\neffectively\neffort\nelection\nelement\nembarrassed\nembarrassing\nemergency\nemotion\nemployment\nempty\nencourage\nenemy\nengaged\nengineering\nentertain\nentertainment\nentrance\nentry\nenvironmental\nepisode\nequal\nequally\nescape\nessential\neventually\nexamine\nexcept\nexchange\nexcitement\nexhibition\nexpand\nexpected\nexpedition\nexperience\nexperienced\nexperiment\nexplode\nexplore\nexplosion\nexport\nextra\nface\nfairly\nfamiliar\nfancy\nfar\nfascinating\nfashionable\nfasten\nfavour\nfear\nfeature\nfence\nfighting\nfile\nfinancial\nfire\nfitness\nfixed\nflag\nflood\nflour\nflow\nfold\nfolk\nfollowing\nforce\nforever\nframe\nfreeze\nfrequently\nfriendship\nfrighten\nfrightened\nfrightening\nfrozen\nfry\nfuel\nfunction\nfur\nfurther\ngarage\ngather\ngenerally\ngeneration\ngenerous\ngentle\ngentleman\nghost\ngiant\nglad\nglobal\nglove\ngo\ngoods\ngrade\ngraduate\ngrain\ngrateful\ngrowth\nguard\nguilty\nhand\nhang\nhappiness\nhardly\nhate\nhead\nheadline\nheating\nheavily\nhelicopter\nhighlight\nhighly\nhire\nhistoric\nhistorical\nhonest\nhorrible\nhorror\nhost\nhunt\nhurricane\nhurry\nidentity\nignore\nillegal\nimaginary\nimmediate\nimmigrant\nimpact\nimport\nimportance\nimpression\nimpressive\nimprovement\nincredibly\nindeed\nindicate\nindirect\nindoor\nindoors\ninfluence\ningredient\ninjure\ninjured\ninnocent\nintelligence\nintend\nintention\ninvest\ninvestigate\ninvolved\niron\nissue\nIT\njournal\njudge\nkeen\nkey\nkeyboard\nkick\nkilling\nkind\nkiss\nknock\nlabel\nlaboratory\nlack\nlatest\nlay\nlayer\nlead\nleading\nleaf\nleather\nlegal\nleisure\nlength\nlevel\nlie\nlike\nlimit\nlip\nliquid\nliterature\nlive\nliving\nlocal\nlocate\nlocated\nlocation\nlonely\nloss\nluxury\nmad\nmagic\nmainly\nmall\nmanagement\nmarket\nmarketing\nmarriage\nmeanwhile\nmeasure\nmedium\nmental\nmention\nmess\nmild\nmine\nmix\nmixture\nmood\nmove\nmud\nmurder\nmuscle\nmusical\nmystery\nnail\nnarrative\nnation\nnative\nnaturally\nnecessarily\nneed\nneedle\nneighbourhood\nneither\nnet\nnext\nnor\nnormal\nnorthern\nnote\nnow\nnuclear\nobvious\nobviously\noccasion\noccur\nodd\nofficial\nold-fashioned\nonce\noperation\norganized\norganizer\noriginal\noriginally\nought\nours\noutdoor\noutdoors\npack\npackage\npainful\npale\npan\nparticipate\nparticularly\npass\npassion\npath\npayment\npeaceful\npercentage\nperfectly\nperformance\npersonally\npersuade\nphotographer\nphotography\npin\npipe\nplace\nplanning\npleasant\npleasure\nplenty\nplot\nplus\npoem\npoet\npoetry\npoint\npoison\npoisonous\npolicy\npolitical\npolitician\npolitics\nport\nportrait\npossibly\npot\npour\npoverty\npowder\npowerful\npractical\npray\nprayer\nprediction\nprepared\npresentation\npress\npressure\npretend\nprevious\npreviously\npriest\nprimary\nprince\nprincess\nprinting\nprisoner\nprivate\nproducer\nproduction\nprofession\nprofit\nprogram\npromote\nproper\nproperly\nproperty\nprotest\nproud\nprove\npull\npunish\npunishment\npush\nqualification\nqualified\nqualify\nqueue\nquit\nquotation\nquote\nrace\nracing\nrange\nrare\nrarely\nreaction\nreality\nreceipt\nrecommendation\nreference\nreflect\nregularly\nreject\nrelate\nrelated\nrelation\nrelative\nrelaxed\nrelaxing\nrelease\nreliable\nreligion\nreligious\nremain\nremind\nremote\nrent\nrepair\nrepeat\nrepeated\nrepresent\nrequest\nrequire\nreservation\nresource\nrespect\nresponsibility\nresponsible\nresult\nretire\nretired\nrevise\nring\nrise\nrisk\nrobot\nroll\nromantic\nrope\nrough\nrow\nroyal\nrugby\nrule\nsafety\nsail\nsailor\nsample\nsand\nscan\nscientific\nscript\nsculpture\nsecondary\nsecurity\nseed\nsensible\nseparate\nseriously\nservant\nset\nset\nsetting\nsex\nsexual\nshake\nshare\nsharp\nshelf\nshell\nshift\nshine\nshiny\nshoot\nshy\nsight\nsignal\nsilent\nsilly\nsimilarity\nsimilarly\nsimply\nsince\nsink\nslice\nslow\nslightly\nsmart\nsmooth\nsoftware\nsoil\nsolid\nsort\nsouthern\nspecifically\nspending\nspicy\nspirit\nspoken\nspot\nspread\nspring\nstadium\nstaff\nstandard\nstate\nstatistic\nstatue\nstick\nstick\nstill\nstore\nstranger\nstrength\nstring\nstrongly\nstudio\nstuff\nsubstance\nsuccessfully\nsudden\nsuffer\nsuit\nsuitable\nsummarize\nsummary\nsupply\nsupporter\nsurely\nsurface\nsurvive\nswim\nswitch\nsymptom\ntail\ntalent\ntalented\ntape\ntax\ntechnical\ntechnique\ntend\ntent\nthat\ntheirs\ntheme\ntheory\ntherefore\nthis\nthough\nthroat\nthroughout\ntight\ntill\ntin\ntiny\ntip\ntoe\ntongue\ntotal\ntotally\ntouch\ntour\ntrade\ntranslate\ntranslation\ntransport\ntreat\ntreatment\ntrend\ntrick\ntruth\ntube\ntype\ntypically\ntyre\nugly\nunable\nuncomfortable\nunderwear\nunemployed\nunemployment\nunfair\nunion\nunless\nunlike\nunlikely\nunnecessary\nunpleasant\nupdate\nupon\nupset\nused\nused\nvaluable\nvalue\nvarious\nversion\nvictim\nview\nviewer\nviolent\nvolunteer\nvote\nwarm\nwarn\nwarning\nwaste\nwater\nwave\nweapon\nweigh\nwestern\nwhatever\nwhenever\nwhether\nwhile\nwhole\nwill\nwin\nwing\nwithin\nwonder\nwool\nworldwide\nworry\nworse\nworst\nworth\nwritten\nwrong\nyard\nyoung\nyouth",
+      "words": {}
+    },
+    "d0876750": {
+      "title": "新章节",
+      "lastPosi": 0,
+      "text": "",
       "words": {}
     },
     "d189103f": {
@@ -5521,8 +6320,8 @@
       }
     },
     "e0ad3348": {
-      "title": "13.2",
-      "lastPosi": 0.15846492698689046,
+      "title": "13.2 Popular Beliefs Regarding Emotional Intelligence",
+      "lastPosi": 0,
       "text": "Popularization has in some cases changed the original meaning of emotional (情感的) intelligence.Many people now misunderstand emotional intelligence as almost everything desirable in a person's makeup that cannot be measured by an IQ test，such as character，motivation，confidence，mental stability，optimism and “people skills”. Research has shown that emotional skills may contribute to some of these qualities，but most of them move far beyond skill­based emotional intelligence.\n\nWe prefer to describe emotional intelligence as a specific set of skills that can be used for either good or bad purposes.The ability to accurately understand how others are feeling may be used by a doctor to find how best to help her patients，while a cheater might use it to control potential victims.Being emotionally intelligent does not necessarily make one a moral person.\n\nAlthough popular beliefs regarding emotional intelligence run far ahead of what research can reasonably support，the overall effects of the publicity have been more beneficial than harmful.The most positive aspect of this popularization is a new and much needed emphasis (重视) on emotion by employers，educators and others interested in promoting social well­being.The popularization of emotional intelligence has helped both the public and researchers reevaluate the functionality of emotions and how they serve people adaptively in everyday life.\n\nAlthough the continuing popular appeal of emotional intelligence is desirable，we hope that such attention will excite a greater interest in the scientific and scholarly study of emotion.It is our hope that in coming decades，advances in science will offer new perspectives (视角) from which to study how people manage their lives.Emotional intelligence，with its focus on both head and heart，may serve to point us in the right direction.\n\n\n5．What is a common misunderstanding of emotional intelligence?\n\nA．It can be measured by an IQ test.\n\nB．It helps to exercise a person's mind.\n\nC．It includes a set of emotional skills.\n\n_D．It refers to a person's positive qualities.\n\n\n6．Why does the author mention “doctor” and “cheater” in paragraph 2?\n\nA．To explain a rule.\n\n_B．To clarify a concept.\n\nC．To present a fact.\n\nD．To make a prediction.\n\n\n7．What is the author's attitude to the popularization of emotional intelligence?\n\n_A．Favorable. \tB．Intolerant.\n\nC．Doubtful. \tD．Unclear.\n\n\n8．What does the last paragraph mainly talk about concerning emotional intelligence?\n\nA．Its appeal to the public.\n\n_B．Expectations for future studies.\n\nC．Its practical application.\n\nD．Scientists with new perspectives.\n",
       "words": {
         "85db6905": {
@@ -5784,6 +6583,45 @@
           ],
           "visit": true,
           "type": "word"
+        },
+        "502bcfab": {
+          "id": "employers",
+          "index": [
+            1145,
+            1154
+          ],
+          "cIndex": [
+            856,
+            1401
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "fee148e2": {
+          "id": "emphasis",
+          "index": [
+            1117,
+            1125
+          ],
+          "cIndex": [
+            856,
+            1401
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "5145fb60": {
+          "id": "harmful",
+          "index": [
+            1036,
+            1043
+          ],
+          "cIndex": [
+            856,
+            1401
+          ],
+          "visit": false,
+          "type": "word"
         }
       }
     },
@@ -5794,8 +6632,8 @@
       "words": {}
     },
     "f2535178": {
-      "title": "6.1",
-      "lastPosi": 0.5335989794131383,
+      "title": "6.1 The Significance of Preserving Endangered Languages",
+      "lastPosi": 0,
       "text": "According to the statistics shared by UNESCO，at least 43% of the total languages that are estimated as being spoken across the world are in danger of extinction.Moreover，many languages around the world have less than 1,000 speakers now.Linguists (语言学家) and researchers believe that by the end of the century，at least half of the world's languages will have died.This is troublesome，given that cultural identity and languages go hand in hand.\n\nLanguage activists and people who speak these endangered languages are fighting back tooth and nail.Scientists believe that digitalization might be our only hope to preserve some of these quickly disappearing languages in the online world.\n\nFor instance，Oxford University Press launched Oxford Global Languages a few years ago.It is an initiative that boosts “digitally underrepresented” languages.They are focused on promoting languages that might have close to a million speakers worldwide，yet have little or no online presence.Therefore，they have been creating digital dictionaries as a fundamental building block to help preserve them.\n\nThere have been countless other projects like this with the same aim.Another is the Rosetta Project，which aims to create a handheld digital library that will carry more than 1,500 languages.It will be appropriately sized to fit nicely into our hands，and will come with around 13,000 pages of information.It will also have a high life expectancy of anywhere between 2,000 and 10,000 years.Initiatives like these have as their primary objective to ensure the preservation of local languages long after their speakers have died.\n\nCountless languages are dying every day，and they will continue to  perish  as the remaining speakers die.Of course，we cannot merely rely on digitization to deal with worldwide language loss.However，it is a step in the right direction.These digital tools offer endangered languages an opportunity to bounce back and survive.\n\n\n1．What does the data in paragraph 1 mainly show?\n\n_A．Many languages are endangered.\n\nB．Culture determines language evolution.\n\nC．Human development results in fewer languages.\n\nD．Many linguists attempt to protect threatened languages.\n\n\n2．What does Oxford Global Languages try to do?\n\nA．Promote online courses of local languages.\n\nB．Publish paper dictionaries of global languages.\n\nC．Increase dying language speakers to a million.\n\n_D．Make certain languages available in digital form.\n\n\n3．What can we learn about the digital library to be created by the Rosetta Project?\n\nA．It is portable but has a short life.\n\nB．It is sponsored by Oxford University Press.\n\n_C．It provides protection for linguistic diversity.\n\nD．It contains automatically updated information.\n\n4．Which of the following can replace the underlined word “perish” in the last paragraph?\n\nA．Be enriched.\n_B．Be lost.\nC．Be acquired.  \nD．Be invented\n",
       "words": {
         "3b1f5b4f": {
@@ -5992,12 +6830,64 @@
           ],
           "visit": true,
           "type": "word"
+        },
+        "2077c519": {
+          "id": "estimated",
+          "index": [
+            90,
+            99
+          ],
+          "cIndex": [
+            0,
+            441
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "6783559f": {
+          "id": "instance",
+          "index": [
+            688,
+            696
+          ],
+          "cIndex": [
+            684,
+            1082
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "748e6ec2": {
+          "id": "boosts",
+          "index": [
+            795,
+            801
+          ],
+          "cIndex": [
+            684,
+            1082
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "2ba31054": {
+          "id": "objective",
+          "index": [
+            1517,
+            1526
+          ],
+          "cIndex": [
+            1084,
+            1609
+          ],
+          "visit": false,
+          "type": "word"
         }
       }
     },
     "f361460c": {
-      "title": "5.3",
-      "lastPosi": 0,
+      "title": "5.3 Strategies for Spending Less Time Worrying about Decisions",
+      "lastPosi": 0.5629503923636869,
       "text": "If you're an un­decider，even the simplest decisions can make your pulse race.And big, life­changing choices can cause a state of breaking down.Here are some strategies for spending less time worrying about decisions.\n\n## Go for being good enough\n\nSince perfectionism and indecision often go hand in hand, you should be moving from a mindset that “only the best will do” to “being good enough is good enough”. It helps to reflect on your original goal. Did you begin the exhausting online shopping to find a toaster that could clean itself, roast carrots and also charge your cell phone? Or were you just looking for something that would brown your bread？Remembering your purpose can simplify the process.\n\n## Outsource (交外办理) decisions\n\nResearch has shown that choices weaken the willpower and lead to decision fatigue (疲劳). That's why indecisive people are advised to pick their “battles”．In other words, be choosy about choosing.When it comes to wine, for example, all I want is a good glass with dinner.So rather than studying which to choose, I leave the decision to my local wine store，asking it to send me a case of surprises once in a while.\n\n## The 90 percent rule\n\nWhen a yes­or­no decision has many pros and cons, try the “90 percent rule”. This involves evaluating an opportunity on a scale from 0 to 100. If your interest falls anywhere below 90 percent, reduce its score to zero and reject it.Think about how you'd feel if you scored 65 points on some test.Why would you deliberately choose to feel that way about an important choice in your life?\n\n## Cut through the fog\n\nIf you're deciding whether to move across the country, imagine you've asked your best friend to choose for you.On the big day, she hands you an envelope；inside, it announces you're leaving next month. Do you feel excited? Or disappointed? Using thought experiments to separate important variables can help you cut through the fog to see clarity\n",
       "words": {
         "ab22afb1": {
@@ -6167,6 +7057,58 @@
             1930
           ],
           "visit": true,
+          "type": "word"
+        },
+        "e9aa3cdb": {
+          "id": "state",
+          "index": [
+            120,
+            125
+          ],
+          "cIndex": [
+            0,
+            216
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "0d053cde": {
+          "id": "perfectionism",
+          "index": [
+            253,
+            266
+          ],
+          "cIndex": [
+            247,
+            409
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "fe3aa3d3": {
+          "id": "indecisive",
+          "index": [
+            836,
+            846
+          ],
+          "cIndex": [
+            825,
+            890
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "e4926892": {
+          "id": "scale",
+          "index": [
+            1296,
+            1301
+          ],
+          "cIndex": [
+            1251,
+            1317
+          ],
+          "visit": false,
           "type": "word"
         }
       }
@@ -6610,7 +7552,7 @@
     "ignore": {
       "title": "ignore",
       "lastPosi": 0.19024115843147218,
-      "text": "a\nan\nabout\nabove\nacross\naction\nactivity\nactor\nactress\nadd\naddress\nadult\nadvice\nafraid\nafter\nafternoon\nagain\nage\nago\nagree\nair\nairport\nall\nalso\nalways\namazing\nand\nangry\nanimal\nanother\nanswer\nany\nanyone\nanything\napartment\napple\nApril\narea\narm\naround\narrive\nart\narticle\nartist\nas\nask\nat\nAugust\naunt\nautumn\naway\nbaby\nback\nbad\nbag\nball\nbanana\nband\nbank\nbath\nbathroom\nbe\nbeach\nbeautiful\nbecause\nbecome\nbed\nbedroom\nbeer\nbefore\nbegin\nbeginning\nbehind\nbelieve\nbelow\nbest\nbetter\nbetween\nbicycle\nbig\nbike\nbill\nbird\nbirthday\nblack\nblog\nblonde\nblue\nboat\nbody\nbook\nboot\nbored\nboring\nborn\nboth\nbottle\nbox\nboy\nboyfriend\nbread\nbreak\nbreakfast\nbring\nbrother\nbrown\nbuild\nbuilding\nbus\nbusiness\nbusy\nbut\nbutter\nbuy\nby\nbye\ncafe\ncake\ncall\ncamera\ncan\ncannot\ncapital\ncar\ncard\ncareer\ncarrot\ncarry\ncat\nCD\ncent\ncentre\ncentury\nchair\nchange\nchart\ncheap\ncheck\ncheese\nchicken\nchild\nchocolate\nchoose\ncinema\ncity\nclass\nclassroom\nclean\nclimb\nclock\nclose\nclothes\nclub\ncoat\ncoffee\ncold\ncollege\ncolour\ncome\ncommon\ncompany\ncompare\ncomplete\ncomputer\nconcert\nconversation\ncook\ncooking\ncool\ncorrect\ncost\ncould\ncountry\ncourse\ncousin\ncow\ncream\ncreate\nculture\ncup\ncustomer\ncut\ndad\ndance\ndancer\ndancing\ndangerous\ndark\ndate\ndaughter\nday\ndear\nDecember\ndecide\ndelicious\ndescribe\ndescription\ndesign\ndesk\ndetail\ndialogue\ndictionary\ndie\ndiet\ndifference\ndifferent\ndifficult\ndinner\ndirty\ndiscuss\ndish\ndo\ndoctor\ndog\ndollar\ndoor\ndown\ndownstairs\ndraw\ndress\ndrink\ndrive\ndriver\nduring\nDVD\neach\near\nearly\neast\neasy\neat\negg\neight\neighteen\neighty\nelephant\neleven\nelse\nemail\nend\nenjoy\nenough\neuro\neven\nevening\nevent\never\nevery\neverybody\neveryone\neverything\nexam\nexample\nexcited\nexciting\nexercise\nexpensive\nexplain\nextra\neye\nface\nfact\nfall\nfalse\nfamily\nfamous\nfantastic\nfar\nfarm\nfarmer\nfast\nfat\nfather\nfavourite\nFebruary\nfeel\nfeeling\nfestival\nfew\nfifteen\nfifth\nfifty\nfill\nfilm\nfinal\nfind\nfine\nfinish\nfire\nfirst\nfish\nfive\nflat\nflight\nfloor\nflower\nfly\nfollow\nfood\nfoot\nfootball\nfor\nforget\nform\nforty\nfour\nfourteen\nfourth\nfree\nFriday\nfriend\nfriendly\nfrom\nfront\nfruit\nfull\nfun\nfunny\nfuture\ngame\ngarden\ngeography\nget\ngirl\ngirlfriend\ngive\nglass\ngo\ngood\ngoodbye\ngrandfather\ngrandmother\ngrandparent\ngreat\ngreen\ngrey\ngroup\ngrow\nguess\nguitar\ngym\nhair\nhalf\nhand\nhappen\nhappy\nhard\nhat\nhate\nhave\nhave to\nhe\nhead\nhealth\nhealthy\nhear\nhello\nhelp\nher\nhere\nhey\nhi\nhigh\nhim\nhis\nhistory\nhobby\nholiday\nhome\nhomework\nhope\nhorse\nhospital\nhot\nhotel\nhour\nhouse\nhow\nhowever\nhundred\nhungry\nhusband\nI\nice\nice cream\nidea\nif\nimagine\nimportant\nimprove\nin\ninclude\ninformation\ninterest\ninterested\ninteresting\ninternet\ninterview\ninto\nintroduce\nisland\nit\nits\njacket\nJanuary\njeans\njob\njoin\njourney\njuice\nJuly\nJune\njust\nkeep\nkey\nkilometre\nkind\nkitchen\nknow\nland\nlanguage\nlarge\nlast\nlate\nlater\nlaugh\nlearn\nleave\nleft\nleg\nlesson\nlet\nletter\nlibrary\nlie\nlife\nlight\nadj.\nlike\nlike\nline\nlion\nlist\nlisten\nlittle\nlive\nlocal\nlong\nlook\nlose\nlot\nlove\nlunch\nmachine\nmagazine\nmain\nmake\nman\nmany\nmap\nMarch\nmarket\nmarried\nmatch\nMay\nmaybe\nme\nmeal\nmean\nmeaning\nmeat\nmeet\nmeeting\nmember\nmenu\nmessage\nmetre\nmidnight\nmile\nmilk\nmillion\nminute\nmiss\nmistake\nmodel\nmodern\nmoment\nMonday\nmoney\nmonth\nmore\nmorning\nmost\nmother\nmountain\nmouse\nmouth\nmove\nmovie\nmuch\nmum\nmuseum\nmusic\nmust\nmy\nname\nnatural\nnear\nneed\nnegative\nneighbour\nnever\nnew\nnews\nnewspaper\nnext\nnext to\nnice\nnight\nnine\nnineteen\nninety\nno\nno one\nnobody\nnorth\nnose\nnot\nnote\nnothing\nNovember\nnow\nnumber\nnurse\nobject\no’clock\nOctober\nof\noff\noffice\noften\noh\nOK\nold\non\nonce\none\nonion\nonline\nonly\nopen\nopinion\nopposite\nor\norange\norder\nother\nour\nout\noutside\nover\nown\npage\npaint\npainting\npair\npaper\nparagraph\nparent\npark\npart\npartner\nparty\npassport\npast\npay\npen\npencil\npeople\npepper\nperfect\nperiod\nperson\npersonal\nphone\nphoto\nphotograph\nphrase\npiano\npicture\npiece\npig\npink\nplace\nplan\nplane\nplant\nplay\nplayer\nplease\npoint\npolice\npoliceman\npool\npoor\npopular\npositive\npossible\npost\npotato\npound\npractice\npractise\nprefer\nprepare\npresent\npretty\nprice\nprobably\nproblem\nproduct\nprogramme\nproject\npurple\nput\nquarter\nquestion\nquick\nquickly\nquiet\nquite\nradio\nrain\nread\nreader\nreading\nready\nreal\nreally\nreason\nred\nrelax\nremember\nrepeat\nreport\nrestaurant\nresult\nreturn\nrice\nrich\nride\nright\nriver\nroad\nroom\nroutine\nrule\nrun\nsad\nsalad\nsalt\nsame\nsandwich\nSaturday\nsay\nschool\nscience\nscientist\nsea\nsecond\nnumber\nsecond\nsection\nsee\nsell\nsend\nsentence\nSeptember\nseven\nseventeen\nseventy\nshare\nshe\nsheep\nshirt\nshoe\nshop\nshopping\nshort\nshould\nshow\nshower\nsick\nsimilar\nsing\nsinger\nsister\nsit\nsituation\nsix\nsixteen\nsixty\nskill\nskirt\nsleep\nslow\nsmall\nsnake\nsnow\nso\nsome\nsomebody\nsomeone\nsomething\nsometimes\nson\nsong\nsoon\nsorry\nsound\nsoup\nsouth\nspace\nspeak\nspecial\nspell\nspelling\nspend\nsport\nspring\nstand\nstar\nstart\nstatement\nstation\nstay\nstill\nstop\nstory\nstreet\nstrong\nstudent\nstudy\nstyle\nsubject\nsuccess\nsugar\nsummer\nsun\nSunday\nsupermarket\nsure\nsweater\nswim\nswimming\ntable\ntake\ntalk\ntall\ntaxi\ntea\nteach\nteacher\nteam\nteenager\ntelephone\ntelevision\ntell\nten\ntennis\nterrible\ntest\ntext\nthan\nthank\nthanks\nthat\nthe\ntheatre\ntheir\nthem\nthen\nthere\nthey\nthing\nthink\nthird\nthirsty\nthirteen\nthirty\nthis\nthousand\nthree\nthrough\nThursday\nticket\ntime\ntired\ntitle\nto\ntoday\ntogether\ntoilet\ntomato\ntomorrow\ntonight\ntoo\ntooth\ntopic\ntourist\ntown\ntraffic\ntrain\ntravel\ntree\ntrip\ntrousers\ntrue\ntry\nT-shirt\nTuesday\nturn\nTV\ntwelve\ntwenty\ntwice\ntwo\ntype\numbrella\nuncle\nunder\nunderstand\nuniversity\nuntil\nup\nupstairs\nus\nuse\nuseful\nusually\nvacation\nvegetable\nvery\nvideo\nvillage\nvisit\nvisitor\nwait\nwaiter\nwake\nwalk\nwall\nwant\nwarm\nwash\nwatch\nwater\nway\nwe\nwear\nweather\nwebsite\nWednesday\nweek\nweekend\nwelcome\nwell\nwest\nwhat\nwhen\nwhere\nwhich\nwhite\nwho\nwhy\nwife\nwill\nwin\nwindow\nwine\nwinter\nwith\nwithout\nwoman\nwonderful\nword\nwork\nworker\nworld\nwould\nwrite\nwriter\nwriting\nwrong\nyeah\nyear\nyellow\nyes\nyesterday\nyou\nyoung\nyour\nyourself\nare\nless\nsince\nis\ncell\nrather\nstore\nwhile\nzero\nlevel\nsocial\nmedia\nyouth\nknowledge\nsafe\nendless\nvocabulary\npath\nprize\nowner\ncatch\nhold\nfocus\nstandard\ncontinue\npass\ngrade\nactive\nscore\nlimit\nbase\nrequire\ncover\nprogram\nexperience\ngraduate\nenter\nalthough\nevaluation\nnative\nsubmit\naid\ntotal\nprovide\nimpact\ncloth\nfreeze\nsolid\nserious\nfinger\nsystem\nteenage\nbehavior\nlink\nimage\nappear\nthemselves\nheavily\nedit\nselect\nanxiety\nauthor\nworry\nkid\ncourage\ndevelop\ndepend\nseem\nalone\nhardly\nmyself\noperation\nsupport\nsimple\ndeeply\nsilence\nvarious\nheart\nfriendship\nwooden\nconsider\ncontrol\nspeed\nlaunch\noption\nnation\nnature\nbenefit\nallow\nenvironment\naim\nincrease\nthese\nvital\nalready\nchoice\ntraditional\nwarn\ndeath\nclimate\nhuman\nstorm\ntemperature\nsuch\nthose\nobserve\nocean\nfrequency\nsimply\nsave\nuniverse\ncash\nnecessary\nmethod\nsociety\nnuclear\nwar\nearthquake\nhuge\ntsunami\ncause\nreflect\norigin\ngoal\nitself\npurpose\nsource\nsearch\nadvise\npick\nbattle\nwhether\ndanger\nmoreover\nendanger\nfight\nanywhere\nstep\ntool\nprotect\nupdate\nnumerous\ncomeback\nglobal\nelement\nhighlight\nlantern\ntorch\nsky\necho\ncheer\ntheme\nwheel\ntechnology\nsymbol\nfortune\nbranch\nbeauty\nking\nplastic\nsize\nlocate\nremote\ndesert\ndeliver\nalmost\ncolor\nrise\ndoll\nhole\nneighbor\ntrack\nlady\nthrow\ndegree\nmemory\ncase\nintelligence\nmeasure\nmental\ncontribute\nquality\nbeyond\neither\nability\npublic\nfunction\neveryday\ngift\nhimself\nexcept\nstable\nourselves\navoid\nfailure\nfail\nabandon\nexcuse\ncharacter\nemotion\nintelligent\neffect\ncite\nceremony\nadvance\nvision\ncloud\npeace\ncarbon\nfootprint\nenergy\nplatform\ntarget\nsometime\npopulation\nwhole\nshut\nexplore\nsweep\nconfuse\nmind\nconflict\nsolve\nbeat\nwish\nattach\nhill\nslide\nrock\ntransport\nfur\nresponse\ntradition\ncenter\ndeep\nconnect\nthough\nclear\nproduce\ntruck\nshortcut\nabsence\ntourism\ndream\nmoon\nneither\nadventure\npassenger\nenable\nview\nexpect\nancient\nengine\nrocket\nafford\nlayer\nconfidence\nresearch\nmay\nattract\nseek\nmark\ncap\nedge\nexist\nliquid\ninspire\nacademic\noffer\nrole\nencourage\nattention\ncollect\nvalue\nsingle\nsolar\nclick\napp\ndigital\nissue\nexpert\ndata\nlack\nlock\nthus\nuser\nable\nact\nactually\nadvertisement\nagainst\nah\nanybody\nanyway\nargument\nassistant\navailable\nbackground\nbased\nbasketball\nbehaviour\nbillion\nbirth\nblank\nbone\nbrain\nbroken\nbutton\ncare\ncareful\ncarefully\ncelebrate\nchat\ncircle\nclosed\ncode\ncoach\ncomfortable\ncompletely\ncondition\ncontext\ncopy\ncrazy\ncreative\ncross\ncry\ndead\ndesigner\ndestroy\ndifferently\ndirector\ndisagree\ndisappear\ndocument\ndrop\nearth\neducation\nengineer\nerror\nfan\nfishing\nfix\nflying\nfollowing\nforeign\nforward\nfresh\ngap\ngas\ngod\ngrass\nguide\ngun\nhabit\nhall\nhappily\nheavy\nheight\nhelpful\nhero\nhers\nherself\nhide\nhit\nhurt\nill\nillness\nimpossible\ninformal\nitem\njoke\njump\nkill\nknock\nlab\nlaw\nlawyer\nlazy\nlearning\nlemon\nlifestyle\nlost\nlow\nluck\nlucky\nmail\nmaterial\nmathematics\nmaths\nmiddle\nmight\nmine\nnone\nnormal\nnormally\nnotice\nnowhere\nnut\npack\npower\nposition\nprint\nprinter\npush\nrealize\nrecognize\nremove\nreplace\nrequest\nresearcher\nscreen\nseason\nshape\nsinging\nsmartphone\nsmoke\nsmoking\nsoft\nsoldier\nsolution\nsomewhere\nteaching\nthin\nthinking\nweb\nwashing\nweak\nwave\nwinner\nyours\nwow\nworse\nworst\nworking\narch\ncalendar\nhug\nworth\nrecent\nlone\nlonely\nzoo\nWi-Fi\ncheerful\nelegant\neverywhere\nofficial\nrush\ncultural\nheritage\ndisplay\nfootstep\nneighborhood\ntie\ndevelopment\nsuccessful\nadvantage\ndamage\nmajor\nequal\nexcellent\nvoyage\nconstruct\nconstruction\ntouch\nunique\nreduce\ngravity\nartificial\nforce\nship\neducate\nvia\nelectron\nelectronic\nmobile\nrevolution\ntoward\ncheat\ncontent\ncurrent\nunable\nsite\nprevious\nmarry\npercent\nant\nfrequently\nchildhood\nforest\nwildlife\nblind\nstructure\ndiscovery\nrelease\nchemical\nsignal\npublish\ninsect\ntheory\nspecie\nbiology\nroot\nfinally\nprove\nside\nthroat\nprise\nvoice\nflexible\nbreathable\nfabric\nsmart\nchallenge\nkeyboard\nbluetooth\nspeech\ndecode\ncomplex\nprototype\nsignificantly\nsuitable\napplication\npotentially\nbattery\nconnection\nreal­time\ntransparent\nfigure\ntraveler\nnetwork\nguest\nmeaningful\nvirtual\nensure\nservice\nabsolutely\nabsorb\nagreement\nanyhow\nbalance\nbamboo\nbarbecue\nbehave\nblackboard\nbomb\nborder\nboss\nbottom\ncafé\ncancel\ncancer\ncareless\ncartoon\ncharge\nChina\nchina\nChinese\ncivilisation\nclassmate\nclever\nconfirm\nConfucianism\nConfucius\nconfused\ncongratulation\ncookie\ncore\ncute\ncycle\ndatabase\ndeadline\ndelete\ndepth\ndinosaur\ndisabled\ndisappointed\ndiscover\ndistance\ndolphin\ndownload\ndraft\ndrama\nduck\nduration\ndust\neducator\neighth\nembarrassed\nEngland\nEnglish\neraser\nescape\nespecially\nessay\nEurope\nEuropean\nexchange\nfetch\nflag\nflash\nforever\nforehead\nforgive\nFrance\nfreedom\nFrench\ngenius\ngentleman\nGerman\nGermany\ngovernment\ngrammar\ngranddaughter\ngrandson\ngreenhouse\nhamburger\nhandbag\nhandsome\nhandwriting\nharvest\nhousework\nice-cream\nignore\nillegal\nimport\ninch\nindependent\nIndia\nIndian\nJapan\nJapanese\nkangaroo\nkite\nkiss\nlaptop\nlength\nlicense\nlimited\nLondon\nlower\nmagic\nmarch\nmaximum\nmedicine\nmillimetre\nmirror\nMiss\nmix\nmobile phone\nmonitor\nmonkey\nmovement\nMr\nMrs\nMs\nmushroom\nmusician\nneighbourhood\nnet\nninth\nnod\nnoodle\nnorthern\nnotebook\nobviously\nOlympics\nopera\noutgoing\noutput\npackage\nperhaps\nplayground\np.m.\npoem\npoliceman / policewoman\npostman\npredict\npressure\npromise\npronounce\npull\nquit\nrabbit\nrainbow\nrandom\nrange\nrecord\nrecycle\nrefresh\nrelief\nring\nromantic\nRussia\nRussian\nschoolbag\nscream\nsecret\nsex\nshadow\nshake\nsixth\nsoftware\nsort\nsouthern\nspy\nstomach\nstomachache\nstone\nstrange\nstranger\nstrawberry\nstring\nstupid\nsubway\nsummary\nsuper\nsurf\nsurface\nswitch\ntherefore\nthunder\ntoast\ntranslate\nvolunteer\nwashroom\nwatermelon\nX-ray\nalarm\nclone\nkindergarten\nkindness\nmale\nfemale\na.m.\nimpression\nimpress\nconfident\norganise\norganisation\ncurious\nfreshman\nconfusing\nrecommend\nresponsible\nresponsibility\npowerful\nemperor\nrecognise\nadmire\nmarathon\nmaster\nhonour\nglory\nmedal\ngraceful\nhelicopter\nbreathe\neffort\nwisdom\ntyphoon\nshell\nKorean\ncontribution\nTibet\nTibetan\nblogger\nconvenient\nplus\npress\nfile\ndot\nonto\ncongratulate\nfade\nlunar\nwhisper\nexport\nbite\nchairman\nchain\nchip\nhistorical\njazz\ndiagram\nclothing\ncm\nspacewalk\ndock\nfloat\nmicrowave\noxygen\nbet\nflow\nwarning\nprediction\ncomfort\nhomesickness\nangle\nink\nanimation\nvisual\nwherever\nlog\nfox\nwhose\nwhom\nwide\nwidespread\nweekday\nweight\nwestern\nwhatever\nwhenever\nAD\nalternative\naloud\nAmerican\nAmerica\nanalyse\nAsia\nAsian\nAustralia\nAustralian\nawake\nbadminton\nbasket\nbat\nBC\ncalligraphy\nCanada\nCanadian\nwind\nversion\nUS\nUK\ntrouble\nsurprise\nconnectivity\ndelta\nAfrica\nAfrican\nasleep\narrow\ncloudy\ndelay\ndrag\ndragon\nfisherman\nclassical\nclassic\ngoddess\neditor\noriginally\ndiamond\nbeautifully\nheadlight\nempty\nwallet\ndepartment\npocket\nmanager\nprivacy\nindependence\napparently\nrecently\nmedical\nfurther\nbelief\nshock\ninjury\ninjure\ntruth\nsurvive\ntowards\nsharply\ndirect\nnarrowly\nregard\nrapidly",
+      "text": "a\nan\nabout\nabove\nacross\naction\nactivity\nactor\nactress\nadd\naddress\nadult\nadvice\nafraid\nafter\nafternoon\nagain\nage\nago\nagree\nair\nairport\nall\nalso\nalways\namazing\nand\nangry\nanimal\nanother\nanswer\nany\nanyone\nanything\napartment\napple\nApril\narea\narm\naround\narrive\nart\narticle\nartist\nas\nask\nat\nAugust\naunt\nautumn\naway\nbaby\nback\nbad\nbag\nball\nbanana\nband\nbank\nbath\nbathroom\nbe\nbeach\nbeautiful\nbecause\nbecome\nbed\nbedroom\nbeer\nbefore\nbegin\nbeginning\nbehind\nbelieve\nbelow\nbest\nbetter\nbetween\nbicycle\nbig\nbike\nbill\nbird\nbirthday\nblack\nblog\nblonde\nblue\nboat\nbody\nbook\nboot\nbored\nboring\nborn\nboth\nbottle\nbox\nboy\nboyfriend\nbread\nbreak\nbreakfast\nbring\nbrother\nbrown\nbuild\nbuilding\nbus\nbusiness\nbusy\nbut\nbutter\nbuy\nby\nbye\ncafe\ncake\ncall\ncamera\ncan\ncannot\ncapital\ncar\ncard\ncareer\ncarrot\ncarry\ncat\nCD\ncent\ncentre\ncentury\nchair\nchange\nchart\ncheap\ncheck\ncheese\nchicken\nchild\nchocolate\nchoose\ncinema\ncity\nclass\nclassroom\nclean\nclimb\nclock\nclose\nclothes\nclub\ncoat\ncoffee\ncold\ncollege\ncolour\ncome\ncommon\ncompany\ncompare\ncomplete\ncomputer\nconcert\nconversation\ncook\ncooking\ncool\ncorrect\ncost\ncould\ncountry\ncourse\ncousin\ncow\ncream\ncreate\nculture\ncup\ncustomer\ncut\ndad\ndance\ndancer\ndancing\ndangerous\ndark\ndate\ndaughter\nday\ndear\nDecember\ndecide\ndelicious\ndescribe\ndescription\ndesign\ndesk\ndetail\ndialogue\ndictionary\ndie\ndiet\ndifference\ndifferent\ndifficult\ndinner\ndirty\ndiscuss\ndish\ndo\ndoctor\ndog\ndollar\ndoor\ndown\ndownstairs\ndraw\ndress\ndrink\ndrive\ndriver\nduring\nDVD\neach\near\nearly\neast\neasy\neat\negg\neight\neighteen\neighty\nelephant\neleven\nelse\nemail\nend\nenjoy\nenough\neuro\neven\nevening\nevent\never\nevery\neverybody\neveryone\neverything\nexam\nexample\nexcited\nexciting\nexercise\nexpensive\nexplain\nextra\neye\nface\nfact\nfall\nfalse\nfamily\nfamous\nfantastic\nfar\nfarm\nfarmer\nfast\nfat\nfather\nfavourite\nFebruary\nfeel\nfeeling\nfestival\nfew\nfifteen\nfifth\nfifty\nfill\nfilm\nfinal\nfind\nfine\nfinish\nfire\nfirst\nfish\nfive\nflat\nflight\nfloor\nflower\nfly\nfollow\nfood\nfoot\nfootball\nfor\nforget\nform\nforty\nfour\nfourteen\nfourth\nfree\nFriday\nfriend\nfriendly\nfrom\nfront\nfruit\nfull\nfun\nfunny\nfuture\ngame\ngarden\ngeography\nget\ngirl\ngirlfriend\ngive\nglass\ngo\ngood\ngoodbye\ngrandfather\ngrandmother\ngrandparent\ngreat\ngreen\ngrey\ngroup\ngrow\nguess\nguitar\ngym\nhair\nhalf\nhand\nhappen\nhappy\nhard\nhat\nhate\nhave\nhave to\nhe\nhead\nhealth\nhealthy\nhear\nhello\nhelp\nher\nhere\nhey\nhi\nhigh\nhim\nhis\nhistory\nhobby\nholiday\nhome\nhomework\nhope\nhorse\nhospital\nhot\nhotel\nhour\nhouse\nhow\nhowever\nhundred\nhungry\nhusband\nI\nice\nice cream\nidea\nif\nimagine\nimportant\nimprove\nin\ninclude\ninformation\ninterest\ninterested\ninteresting\ninternet\ninterview\ninto\nintroduce\nisland\nit\nits\njacket\nJanuary\njeans\njob\njoin\njourney\njuice\nJuly\nJune\njust\nkeep\nkey\nkilometre\nkind\nkitchen\nknow\nland\nlanguage\nlarge\nlast\nlate\nlater\nlaugh\nlearn\nleave\nleft\nleg\nlesson\nlet\nletter\nlibrary\nlie\nlife\nlight\nadj.\nlike\nlike\nline\nlion\nlist\nlisten\nlittle\nlive\nlocal\nlong\nlook\nlose\nlot\nlove\nlunch\nmachine\nmagazine\nmain\nmake\nman\nmany\nmap\nMarch\nmarket\nmarried\nmatch\nMay\nmaybe\nme\nmeal\nmean\nmeaning\nmeat\nmeet\nmeeting\nmember\nmenu\nmessage\nmetre\nmidnight\nmile\nmilk\nmillion\nminute\nmiss\nmistake\nmodel\nmodern\nmoment\nMonday\nmoney\nmonth\nmore\nmorning\nmost\nmother\nmountain\nmouse\nmouth\nmove\nmovie\nmuch\nmum\nmuseum\nmusic\nmust\nmy\nname\nnatural\nnear\nneed\nnegative\nneighbour\nnever\nnew\nnews\nnewspaper\nnext\nnext to\nnice\nnight\nnine\nnineteen\nninety\nno\nno one\nnobody\nnorth\nnose\nnot\nnote\nnothing\nNovember\nnow\nnumber\nnurse\nobject\no’clock\nOctober\nof\noff\noffice\noften\noh\nOK\nold\non\nonce\none\nonion\nonline\nonly\nopen\nopinion\nopposite\nor\norange\norder\nother\nour\nout\noutside\nover\nown\npage\npaint\npainting\npair\npaper\nparagraph\nparent\npark\npart\npartner\nparty\npassport\npast\npay\npen\npencil\npeople\npepper\nperfect\nperiod\nperson\npersonal\nphone\nphoto\nphotograph\nphrase\npiano\npicture\npiece\npig\npink\nplace\nplan\nplane\nplant\nplay\nplayer\nplease\npoint\npolice\npoliceman\npool\npoor\npopular\npositive\npossible\npost\npotato\npound\npractice\npractise\nprefer\nprepare\npresent\npretty\nprice\nprobably\nproblem\nproduct\nprogramme\nproject\npurple\nput\nquarter\nquestion\nquick\nquickly\nquiet\nquite\nradio\nrain\nread\nreader\nreading\nready\nreal\nreally\nreason\nred\nrelax\nremember\nrepeat\nreport\nrestaurant\nresult\nreturn\nrice\nrich\nride\nright\nriver\nroad\nroom\nroutine\nrule\nrun\nsad\nsalad\nsalt\nsame\nsandwich\nSaturday\nsay\nschool\nscience\nscientist\nsea\nsecond\nnumber\nsecond\nsection\nsee\nsell\nsend\nsentence\nSeptember\nseven\nseventeen\nseventy\nshare\nshe\nsheep\nshirt\nshoe\nshop\nshopping\nshort\nshould\nshow\nshower\nsick\nsimilar\nsing\nsinger\nsister\nsit\nsituation\nsix\nsixteen\nsixty\nskill\nskirt\nsleep\nslow\nsmall\nsnake\nsnow\nso\nsome\nsomebody\nsomeone\nsomething\nsometimes\nson\nsong\nsoon\nsorry\nsound\nsoup\nsouth\nspace\nspeak\nspecial\nspell\nspelling\nspend\nsport\nspring\nstand\nstar\nstart\nstatement\nstation\nstay\nstill\nstop\nstory\nstreet\nstrong\nstudent\nstudy\nstyle\nsubject\nsuccess\nsugar\nsummer\nsun\nSunday\nsupermarket\nsure\nsweater\nswim\nswimming\ntable\ntake\ntalk\ntall\ntaxi\ntea\nteach\nteacher\nteam\nteenager\ntelephone\ntelevision\ntell\nten\ntennis\nterrible\ntest\ntext\nthan\nthank\nthanks\nthat\nthe\ntheatre\ntheir\nthem\nthen\nthere\nthey\nthing\nthink\nthird\nthirsty\nthirteen\nthirty\nthis\nthousand\nthree\nthrough\nThursday\nticket\ntime\ntired\ntitle\nto\ntoday\ntogether\ntoilet\ntomato\ntomorrow\ntonight\ntoo\ntooth\ntopic\ntourist\ntown\ntraffic\ntrain\ntravel\ntree\ntrip\ntrousers\ntrue\ntry\nT-shirt\nTuesday\nturn\nTV\ntwelve\ntwenty\ntwice\ntwo\ntype\numbrella\nuncle\nunder\nunderstand\nuniversity\nuntil\nup\nupstairs\nus\nuse\nuseful\nusually\nvacation\nvegetable\nvery\nvideo\nvillage\nvisit\nvisitor\nwait\nwaiter\nwake\nwalk\nwall\nwant\nwarm\nwash\nwatch\nwater\nway\nwe\nwear\nweather\nwebsite\nWednesday\nweek\nweekend\nwelcome\nwell\nwest\nwhat\nwhen\nwhere\nwhich\nwhite\nwho\nwhy\nwife\nwill\nwin\nwindow\nwine\nwinter\nwith\nwithout\nwoman\nwonderful\nword\nwork\nworker\nworld\nwould\nwrite\nwriter\nwriting\nwrong\nyeah\nyear\nyellow\nyes\nyesterday\nyou\nyoung\nyour\nyourself\nare\nless\nsince\nis\ncell\nrather\nstore\nwhile\nzero\nlevel\nsocial\nmedia\nyouth\nknowledge\nsafe\nendless\nvocabulary\npath\nprize\nowner\ncatch\nhold\nfocus\nstandard\ncontinue\npass\ngrade\nactive\nscore\nlimit\nbase\nrequire\ncover\nprogram\nexperience\ngraduate\nenter\nalthough\nevaluation\nnative\nsubmit\naid\ntotal\nprovide\nimpact\ncloth\nfreeze\nsolid\nserious\nfinger\nsystem\nteenage\nbehavior\nlink\nimage\nappear\nthemselves\nheavily\nedit\nselect\nanxiety\nauthor\nworry\nkid\ncourage\ndevelop\ndepend\nseem\nalone\nhardly\nmyself\noperation\nsupport\nsimple\ndeeply\nsilence\nvarious\nheart\nfriendship\nwooden\nconsider\ncontrol\nspeed\nlaunch\noption\nnation\nnature\nbenefit\nallow\nenvironment\naim\nincrease\nthese\nvital\nalready\nchoice\ntraditional\nwarn\ndeath\nclimate\nhuman\nstorm\ntemperature\nsuch\nthose\nobserve\nocean\nfrequency\nsimply\nsave\nuniverse\ncash\nnecessary\nmethod\nsociety\nnuclear\nwar\nearthquake\nhuge\ntsunami\ncause\nreflect\norigin\ngoal\nitself\npurpose\nsource\nsearch\nadvise\npick\nbattle\nwhether\ndanger\nmoreover\nendanger\nfight\nanywhere\nstep\ntool\nprotect\nupdate\nnumerous\ncomeback\nglobal\nelement\nhighlight\nlantern\ntorch\nsky\necho\ncheer\ntheme\nwheel\ntechnology\nsymbol\nfortune\nbranch\nbeauty\nking\nplastic\nsize\nlocate\nremote\ndesert\ndeliver\nalmost\ncolor\nrise\ndoll\nhole\nneighbor\ntrack\nlady\nthrow\ndegree\nmemory\ncase\nintelligence\nmeasure\nmental\ncontribute\nquality\nbeyond\neither\nability\npublic\nfunction\neveryday\ngift\nhimself\nexcept\nstable\nourselves\navoid\nfailure\nfail\nabandon\nexcuse\ncharacter\nemotion\nintelligent\neffect\ncite\nceremony\nadvance\nvision\ncloud\npeace\ncarbon\nfootprint\nenergy\nplatform\ntarget\nsometime\npopulation\nwhole\nshut\nexplore\nsweep\nconfuse\nmind\nconflict\nsolve\nbeat\nwish\nattach\nhill\nslide\nrock\ntransport\nfur\nresponse\ntradition\ncenter\ndeep\nconnect\nthough\nclear\nproduce\ntruck\nshortcut\nabsence\ntourism\ndream\nmoon\nneither\nadventure\npassenger\nenable\nview\nexpect\nancient\nengine\nrocket\nafford\nlayer\nconfidence\nresearch\nmay\nattract\nseek\nmark\ncap\nedge\nexist\nliquid\ninspire\nacademic\noffer\nrole\nencourage\nattention\ncollect\nvalue\nsingle\nsolar\nclick\napp\ndigital\nissue\nexpert\ndata\nlack\nlock\nthus\nuser\nable\nact\nactually\nadvertisement\nagainst\nah\nanybody\nanyway\nargument\nassistant\navailable\nbackground\nbased\nbasketball\nbehaviour\nbillion\nbirth\nblank\nbone\nbrain\nbroken\nbutton\ncare\ncareful\ncarefully\ncelebrate\nchat\ncircle\nclosed\ncode\ncoach\ncomfortable\ncompletely\ncondition\ncontext\ncopy\ncrazy\ncreative\ncross\ncry\ndead\ndesigner\ndestroy\ndifferently\ndirector\ndisagree\ndisappear\ndocument\ndrop\nearth\neducation\nengineer\nerror\nfan\nfishing\nfix\nflying\nfollowing\nforeign\nforward\nfresh\ngap\ngas\ngod\ngrass\nguide\ngun\nhabit\nhall\nhappily\nheavy\nheight\nhelpful\nhero\nhers\nherself\nhide\nhit\nhurt\nill\nillness\nimpossible\ninformal\nitem\njoke\njump\nkill\nknock\nlab\nlaw\nlawyer\nlazy\nlearning\nlemon\nlifestyle\nlost\nlow\nluck\nlucky\nmail\nmaterial\nmathematics\nmaths\nmiddle\nmight\nmine\nnone\nnormal\nnormally\nnotice\nnowhere\nnut\npack\npower\nposition\nprint\nprinter\npush\nrealize\nrecognize\nremove\nreplace\nrequest\nresearcher\nscreen\nseason\nshape\nsinging\nsmartphone\nsmoke\nsmoking\nsoft\nsoldier\nsolution\nsomewhere\nteaching\nthin\nthinking\nweb\nwashing\nweak\nwave\nwinner\nyours\nwow\nworse\nworst\nworking\narch\ncalendar\nhug\nworth\nrecent\nlone\nlonely\nzoo\nWi-Fi\ncheerful\nelegant\neverywhere\nofficial\nrush\ncultural\nheritage\ndisplay\nfootstep\nneighborhood\ntie\ndevelopment\nsuccessful\nadvantage\ndamage\nmajor\nequal\nexcellent\nvoyage\nconstruct\nconstruction\ntouch\nunique\nreduce\ngravity\nartificial\nforce\nship\neducate\nvia\nelectron\nelectronic\nmobile\nrevolution\ntoward\ncheat\ncontent\ncurrent\nunable\nsite\nprevious\nmarry\npercent\nant\nfrequently\nchildhood\nforest\nwildlife\nblind\nstructure\ndiscovery\nrelease\nchemical\nsignal\npublish\ninsect\ntheory\nspecie\nbiology\nroot\nfinally\nprove\nside\nthroat\nprise\nvoice\nflexible\nbreathable\nfabric\nsmart\nchallenge\nkeyboard\nbluetooth\nspeech\ndecode\ncomplex\nprototype\nsignificantly\nsuitable\napplication\npotentially\nbattery\nconnection\nreal­time\ntransparent\nfigure\ntraveler\nnetwork\nguest\nmeaningful\nvirtual\nensure\nservice\nabsolutely\nabsorb\nagreement\nanyhow\nbalance\nbamboo\nbarbecue\nbehave\nblackboard\nbomb\nborder\nboss\nbottom\ncafé\ncancel\ncancer\ncareless\ncartoon\ncharge\nChina\nchina\nChinese\ncivilisation\nclassmate\nclever\nconfirm\nConfucianism\nConfucius\nconfused\ncongratulation\ncookie\ncore\ncute\ncycle\ndatabase\ndeadline\ndelete\ndepth\ndinosaur\ndisabled\ndisappointed\ndiscover\ndistance\ndolphin\ndownload\ndraft\ndrama\nduck\nduration\ndust\neducator\neighth\nembarrassed\nEngland\nEnglish\neraser\nescape\nespecially\nessay\nEurope\nEuropean\nexchange\nfetch\nflag\nflash\nforever\nforehead\nforgive\nFrance\nfreedom\nFrench\ngenius\ngentleman\nGerman\nGermany\ngovernment\ngrammar\ngranddaughter\ngrandson\ngreenhouse\nhamburger\nhandbag\nhandsome\nhandwriting\nharvest\nhousework\nice-cream\nignore\nillegal\nimport\ninch\nindependent\nIndia\nIndian\nJapan\nJapanese\nkangaroo\nkite\nkiss\nlaptop\nlength\nlicense\nlimited\nLondon\nlower\nmagic\nmarch\nmaximum\nmedicine\nmillimetre\nmirror\nMiss\nmix\nmobile phone\nmonitor\nmonkey\nmovement\nMr\nMrs\nMs\nmushroom\nmusician\nneighbourhood\nnet\nninth\nnod\nnoodle\nnorthern\nnotebook\nobviously\nOlympics\nopera\noutgoing\noutput\npackage\nperhaps\nplayground\np.m.\npoem\npoliceman / policewoman\npostman\npredict\npressure\npromise\npronounce\npull\nquit\nrabbit\nrainbow\nrandom\nrange\nrecord\nrecycle\nrefresh\nrelief\nring\nromantic\nRussia\nRussian\nschoolbag\nscream\nsecret\nsex\nshadow\nshake\nsixth\nsoftware\nsort\nsouthern\nspy\nstomach\nstomachache\nstone\nstrange\nstranger\nstrawberry\nstring\nstupid\nsubway\nsummary\nsuper\nsurf\nsurface\nswitch\ntherefore\nthunder\ntoast\ntranslate\nvolunteer\nwashroom\nwatermelon\nX-ray\nalarm\nclone\nkindergarten\nkindness\nmale\nfemale\na.m.\nimpression\nimpress\nconfident\norganise\norganisation\ncurious\nfreshman\nconfusing\nrecommend\nresponsible\nresponsibility\npowerful\nemperor\nrecognise\nadmire\nmarathon\nmaster\nhonour\nglory\nmedal\ngraceful\nhelicopter\nbreathe\neffort\nwisdom\ntyphoon\nshell\nKorean\ncontribution\nTibet\nTibetan\nblogger\nconvenient\nplus\npress\nfile\ndot\nonto\ncongratulate\nfade\nlunar\nwhisper\nexport\nbite\nchairman\nchain\nchip\nhistorical\njazz\ndiagram\nclothing\ncm\nspacewalk\ndock\nfloat\nmicrowave\noxygen\nbet\nflow\nwarning\nprediction\ncomfort\nhomesickness\nangle\nink\nanimation\nvisual\nwherever\nlog\nfox\nwhose\nwhom\nwide\nwidespread\nweekday\nweight\nwestern\nwhatever\nwhenever\nAD\nalternative\naloud\nAmerican\nAmerica\nanalyse\nAsia\nAsian\nAustralia\nAustralian\nawake\nbadminton\nbasket\nbat\nBC\ncalligraphy\nCanada\nCanadian\nwind\nversion\nUS\nUK\ntrouble\nsurprise\nconnectivity\ndelta\nAfrica\nAfrican\nasleep\narrow\ncloudy\ndelay\ndrag\ndragon\nfisherman\nclassical\nclassic\ngoddess\neditor\noriginally\ndiamond\nbeautifully\nheadlight\nempty\nwallet\ndepartment\npocket\nmanager\nprivacy\nindependence\napparently\nrecently\nmedical\nfurther\nbelief\nshock\ninjury\ninjure\ntruth\nsurvive\ntowards\nsharply\ndirect\nnarrowly\nregard\nrapidly\nautomatic\neastern\nexit\nincluding\neducational\ninventor\nvaluable\ninvention\ninvent\naccident\nfrozen\nperformance\nrelate\nprevent\nupset\nstrength\nrider\nsnowy\nswing\ninfer\nnational\nsuggest\nenvironmental\noutdoor\ngraph\npatient\ntherefor\nequipment\nnovel\nbrochure\nunusual\nusual\nseller\nground\noriginal\ndecision\nreject\nenvelope\nspeaker\ncountless\ndirection\nevolution\nhopeful\nsnowflake\nknot\nclearly\nprovince\nclip\nseriously\nstrict\ndrug\nemotional\nrelationship\nembarrassing\nrose\nnecessarily\nunclear\nsense\nprotection\nrecyclable",
       "words": {}
     },
     "nce31": {
@@ -9103,7 +10045,7 @@
     },
     "words": {
       "title": "words",
-      "lastPosi": null,
+      "lastPosi": 0.002844926504205402,
       "text": "",
       "words": {}
     }
@@ -15225,6 +16167,17 @@
       "state": 2,
       "last_review": "2024-03-31T03:12:32.966Z"
     },
+    "ed57eb83": {
+      "due": "2024-04-15T17:20:18.229Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-15T17:20:18.229Z"
+    },
     "ee2c29f9": {
       "due": "2024-05-27T11:44:21.412Z",
       "stability": 46.829761194331546,
@@ -15751,6 +16704,18 @@
                 "book": "13121a93",
                 "sections": "4395c479",
                 "id": "15783bc3"
+              }
+            },
+            {
+              "text": "The admission committee is now looking for mature，academically motivated students who will graduate from high school and enter college in 2022.",
+              "index": [
+                50,
+                62
+              ],
+              "source": {
+                "book": "13121a93",
+                "sections": "c4f28bc5",
+                "id": "ed814133"
               }
             }
           ],
@@ -17913,6 +18878,29 @@
             }
           ],
           "card_id": "625116f0"
+        }
+      ]
+    },
+    "committee": {
+      "word": "committee",
+      "means": [
+        {
+          "text": "委员会",
+          "contexts": [
+            {
+              "text": "The admission committee is now looking for mature，academically motivated students who will graduate from high school and enter college in 2022.",
+              "index": [
+                14,
+                23
+              ],
+              "source": {
+                "book": "13121a93",
+                "sections": "c4f28bc5",
+                "id": "b835139e"
+              }
+            }
+          ],
+          "card_id": "ed57eb83"
         }
       ]
     },
@@ -20193,6 +21181,18 @@
                 "sections": "0e414945",
                 "id": "4506ca0d"
               }
+            },
+            {
+              "text": "droughts，storms，floods and extreme temperatures.",
+              "index": [
+                27,
+                34
+              ],
+              "source": {
+                "book": "13121a93",
+                "sections": "0e414945",
+                "id": "f4afb97c"
+              }
             }
           ],
           "card_id": "a11f0d78"
@@ -20589,7 +21589,7 @@
       "word": "fiction",
       "means": [
         {
-          "text": "小说\n📚\n= novel",
+          "text": "虚构的文学作品\n\n📚",
           "contexts": [
             {
               "text": "She also wrote fiction，including a revision of Leo's novella The Kreutzer Sonata",
@@ -24929,10 +25929,10 @@
           "text": "优先考虑；优先处理\n⏰\n= prior, focus",
           "contexts": [
             {
-              "text": "Doctors  utilizing  the new national parks pass program are urged to prioritize patients who might not otherwise be able to afford these passes",
+              "text": "Doctors utilizing the new national parks pass program are urged to prioritize patients who might not otherwise be able to afford these passes",
               "index": [
-                69,
-                79
+                67,
+                77
               ],
               "source": {
                 "book": "13121a93",
@@ -30042,6 +31042,17 @@
       "lapses": 3,
       "state": 3,
       "last_review": "2024-04-15T16:07:12.588Z"
+    },
+    "committee": {
+      "due": "2024-04-15T17:20:18.208Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-15T17:20:18.208Z"
     },
     "compare": {
       "due": "2024-04-16T12:42:58.280Z",
@@ -35702,6 +36713,7 @@
     "ebb3cd4e": "critical",
     "ec7d9c4f": "drainage",
     "ec7e7b8a": "grocer",
+    "ed57eb83": "committee",
     "ee2c29f9": "domestic",
     "ee400646": "enclosure",
     "ef069bd8": "duty",
@@ -63366,6 +64378,18 @@
       "rating": 1,
       "state": 2,
       "duration": 8506
+    },
+    "1713201618208": {
+      "cardId": "committee",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713201618229": {
+      "cardId": "ed57eb83",
+      "rating": null,
+      "state": null,
+      "duration": null
     }
   }
 }
