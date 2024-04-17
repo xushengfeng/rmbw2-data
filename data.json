@@ -3,7 +3,7 @@
     "13121a93": {
       "name": "课时作业",
       "id": "13121a93",
-      "visitTime": 1713275714125,
+      "visitTime": 1713281450060,
       "updateTime": 1713278450893,
       "type": "text",
       "sections": [
@@ -41,7 +41,7 @@
         "6ea57e6e"
       ],
       "canEdit": true,
-      "lastPosi": 31,
+      "lastPosi": 16,
       "language": "en"
     },
     "CET-4 Select": {
@@ -176,6 +176,55 @@
       "canEdit": false,
       "lastPosi": 1,
       "language": "en"
+    },
+    "rjbgz11": {
+      "name": "人教版高中选择性必修一",
+      "id": "rjbgz11",
+      "language": "en",
+      "type": "text",
+      "updateTime": 0,
+      "note": "todo word book",
+      "cover": "rjbgz/11.svg",
+      "sections": [
+        "rjbgz11879340",
+        "rjbgz11570a2c",
+        "rjbgz1131f160",
+        "rjbgz11935d8a",
+        "rjbgz1175bee8",
+        "rjbgz11ecb374",
+        "rjbgz1115d7e1",
+        "rjbgz115f2073",
+        "rjbgz1152c449",
+        "rjbgz110d1e03"
+      ],
+      "visitTime": 1713323580715,
+      "canEdit": false,
+      "lastPosi": 2
+    },
+    "rjbgz12": {
+      "name": "人教版高中选择性必修二",
+      "id": "rjbgz12",
+      "language": "en",
+      "type": "text",
+      "updateTime": 0,
+      "note": "todo word book",
+      "cover": "rjbgz/12.svg",
+      "sections": [
+        "rjbgz12117c9a",
+        "rjbgz12e3fab8",
+        "rjbgz12445fe1",
+        "rjbgz129c956a",
+        "rjbgz121df2c6",
+        "rjbgz1240a6f1",
+        "rjbgz12545573",
+        "rjbgz12cc009e",
+        "rjbgz1299fd72",
+        "rjbgz125b7996",
+        "rjbgz12b2e179"
+      ],
+      "visitTime": 0,
+      "canEdit": false,
+      "lastPosi": 0
     },
     "rjbgz21": {
       "name": "人教版高中选修一",
@@ -2190,7 +2239,7 @@
     },
     "4395c479": {
       "title": "13.3 The influence of Contingent Self-worth",
-      "lastPosi": 0.3996086045953859,
+      "lastPosi": 0.38012247299695057,
       "text": "When Ken was in high school，he did well and had a strong sense of accomplishment. However，when he is in college，his grades are not so outstanding among academically gifted students much like himself，if not better. Often he feels depressed and is withdrawing from people and activities. Unfortunately，he is no exception. The literature generally has found that many of us tend to let our self­worth be contingent (依情况而定的)upon external events(such as academics and physical attractiveness)．When our self­worth depends on those，it's unstable. As a result，our feelings about ourselves can end up being in the hands of others.\n\nObviously，we all want to experience things that make us feel good. But when we have contingent self­worth，we might engage in activities that make us feel worthy while avoiding activities that make us feel unworthy. That may pose potential dangers. Instead of working hard to meet our goals，we'll try to avoid failure. And if we do fail one day，we might abandon our goals，lose motivation，or make excuses to help ourselves feel better.\n\nLet's cite some examples to further demonstrate that. If our self­worth is contingent upon being successful at work，we might only choose jobs that are easy. That way we never fail and ensure that we always know that we are worthy. Or，maybe we only think we're worthy if we weigh less than 50 kg. We might undereat or engage in unhealthy eating practices just to make sure that we feel good.\n\nSelf­worth is an important psychological construct that affects not only how we think about ourselves but it also has an impact on our psychological health and functioning. So，give up the idea of seeking approval from others. Instead，learn to base your self­worth on internal contingencies like virtues and faiths. Doing so reminds us to be fully aware of who we are.\n",
       "words": {
         "80751988": {
@@ -7578,7 +7627,7 @@
     "ignore": {
       "title": "ignore",
       "lastPosi": 0.19024115843147218,
-      "text": "a\nan\nabout\nabove\nacross\naction\nactivity\nactor\nactress\nadd\naddress\nadult\nadvice\nafraid\nafter\nafternoon\nagain\nage\nago\nagree\nair\nairport\nall\nalso\nalways\namazing\nand\nangry\nanimal\nanother\nanswer\nany\nanyone\nanything\napartment\napple\nApril\narea\narm\naround\narrive\nart\narticle\nartist\nas\nask\nat\nAugust\naunt\nautumn\naway\nbaby\nback\nbad\nbag\nball\nbanana\nband\nbank\nbath\nbathroom\nbe\nbeach\nbeautiful\nbecause\nbecome\nbed\nbedroom\nbeer\nbefore\nbegin\nbeginning\nbehind\nbelieve\nbelow\nbest\nbetter\nbetween\nbicycle\nbig\nbike\nbill\nbird\nbirthday\nblack\nblog\nblonde\nblue\nboat\nbody\nbook\nboot\nbored\nboring\nborn\nboth\nbottle\nbox\nboy\nboyfriend\nbread\nbreak\nbreakfast\nbring\nbrother\nbrown\nbuild\nbuilding\nbus\nbusiness\nbusy\nbut\nbutter\nbuy\nby\nbye\ncafe\ncake\ncall\ncamera\ncan\ncannot\ncapital\ncar\ncard\ncareer\ncarrot\ncarry\ncat\nCD\ncent\ncentre\ncentury\nchair\nchange\nchart\ncheap\ncheck\ncheese\nchicken\nchild\nchocolate\nchoose\ncinema\ncity\nclass\nclassroom\nclean\nclimb\nclock\nclose\nclothes\nclub\ncoat\ncoffee\ncold\ncollege\ncolour\ncome\ncommon\ncompany\ncompare\ncomplete\ncomputer\nconcert\nconversation\ncook\ncooking\ncool\ncorrect\ncost\ncould\ncountry\ncourse\ncousin\ncow\ncream\ncreate\nculture\ncup\ncustomer\ncut\ndad\ndance\ndancer\ndancing\ndangerous\ndark\ndate\ndaughter\nday\ndear\nDecember\ndecide\ndelicious\ndescribe\ndescription\ndesign\ndesk\ndetail\ndialogue\ndictionary\ndie\ndiet\ndifference\ndifferent\ndifficult\ndinner\ndirty\ndiscuss\ndish\ndo\ndoctor\ndog\ndollar\ndoor\ndown\ndownstairs\ndraw\ndress\ndrink\ndrive\ndriver\nduring\nDVD\neach\near\nearly\neast\neasy\neat\negg\neight\neighteen\neighty\nelephant\neleven\nelse\nemail\nend\nenjoy\nenough\neuro\neven\nevening\nevent\never\nevery\neverybody\neveryone\neverything\nexam\nexample\nexcited\nexciting\nexercise\nexpensive\nexplain\nextra\neye\nface\nfact\nfall\nfalse\nfamily\nfamous\nfantastic\nfar\nfarm\nfarmer\nfast\nfat\nfather\nfavourite\nFebruary\nfeel\nfeeling\nfestival\nfew\nfifteen\nfifth\nfifty\nfill\nfilm\nfinal\nfind\nfine\nfinish\nfire\nfirst\nfish\nfive\nflat\nflight\nfloor\nflower\nfly\nfollow\nfood\nfoot\nfootball\nfor\nforget\nform\nforty\nfour\nfourteen\nfourth\nfree\nFriday\nfriend\nfriendly\nfrom\nfront\nfruit\nfull\nfun\nfunny\nfuture\ngame\ngarden\ngeography\nget\ngirl\ngirlfriend\ngive\nglass\ngo\ngood\ngoodbye\ngrandfather\ngrandmother\ngrandparent\ngreat\ngreen\ngrey\ngroup\ngrow\nguess\nguitar\ngym\nhair\nhalf\nhand\nhappen\nhappy\nhard\nhat\nhate\nhave\nhave to\nhe\nhead\nhealth\nhealthy\nhear\nhello\nhelp\nher\nhere\nhey\nhi\nhigh\nhim\nhis\nhistory\nhobby\nholiday\nhome\nhomework\nhope\nhorse\nhospital\nhot\nhotel\nhour\nhouse\nhow\nhowever\nhundred\nhungry\nhusband\nI\nice\nice cream\nidea\nif\nimagine\nimportant\nimprove\nin\ninclude\ninformation\ninterest\ninterested\ninteresting\ninternet\ninterview\ninto\nintroduce\nisland\nit\nits\njacket\nJanuary\njeans\njob\njoin\njourney\njuice\nJuly\nJune\njust\nkeep\nkey\nkilometre\nkind\nkitchen\nknow\nland\nlanguage\nlarge\nlast\nlate\nlater\nlaugh\nlearn\nleave\nleft\nleg\nlesson\nlet\nletter\nlibrary\nlie\nlife\nlight\nadj.\nlike\nlike\nline\nlion\nlist\nlisten\nlittle\nlive\nlocal\nlong\nlook\nlose\nlot\nlove\nlunch\nmachine\nmagazine\nmain\nmake\nman\nmany\nmap\nMarch\nmarket\nmarried\nmatch\nMay\nmaybe\nme\nmeal\nmean\nmeaning\nmeat\nmeet\nmeeting\nmember\nmenu\nmessage\nmetre\nmidnight\nmile\nmilk\nmillion\nminute\nmiss\nmistake\nmodel\nmodern\nmoment\nMonday\nmoney\nmonth\nmore\nmorning\nmost\nmother\nmountain\nmouse\nmouth\nmove\nmovie\nmuch\nmum\nmuseum\nmusic\nmust\nmy\nname\nnatural\nnear\nneed\nnegative\nneighbour\nnever\nnew\nnews\nnewspaper\nnext\nnext to\nnice\nnight\nnine\nnineteen\nninety\nno\nno one\nnobody\nnorth\nnose\nnot\nnote\nnothing\nNovember\nnow\nnumber\nnurse\nobject\no’clock\nOctober\nof\noff\noffice\noften\noh\nOK\nold\non\nonce\none\nonion\nonline\nonly\nopen\nopinion\nopposite\nor\norange\norder\nother\nour\nout\noutside\nover\nown\npage\npaint\npainting\npair\npaper\nparagraph\nparent\npark\npart\npartner\nparty\npassport\npast\npay\npen\npencil\npeople\npepper\nperfect\nperiod\nperson\npersonal\nphone\nphoto\nphotograph\nphrase\npiano\npicture\npiece\npig\npink\nplace\nplan\nplane\nplant\nplay\nplayer\nplease\npoint\npolice\npoliceman\npool\npoor\npopular\npositive\npossible\npost\npotato\npound\npractice\npractise\nprefer\nprepare\npresent\npretty\nprice\nprobably\nproblem\nproduct\nprogramme\nproject\npurple\nput\nquarter\nquestion\nquick\nquickly\nquiet\nquite\nradio\nrain\nread\nreader\nreading\nready\nreal\nreally\nreason\nred\nrelax\nremember\nrepeat\nreport\nrestaurant\nresult\nreturn\nrice\nrich\nride\nright\nriver\nroad\nroom\nroutine\nrule\nrun\nsad\nsalad\nsalt\nsame\nsandwich\nSaturday\nsay\nschool\nscience\nscientist\nsea\nsecond\nnumber\nsecond\nsection\nsee\nsell\nsend\nsentence\nSeptember\nseven\nseventeen\nseventy\nshare\nshe\nsheep\nshirt\nshoe\nshop\nshopping\nshort\nshould\nshow\nshower\nsick\nsimilar\nsing\nsinger\nsister\nsit\nsituation\nsix\nsixteen\nsixty\nskill\nskirt\nsleep\nslow\nsmall\nsnake\nsnow\nso\nsome\nsomebody\nsomeone\nsomething\nsometimes\nson\nsong\nsoon\nsorry\nsound\nsoup\nsouth\nspace\nspeak\nspecial\nspell\nspelling\nspend\nsport\nspring\nstand\nstar\nstart\nstatement\nstation\nstay\nstill\nstop\nstory\nstreet\nstrong\nstudent\nstudy\nstyle\nsubject\nsuccess\nsugar\nsummer\nsun\nSunday\nsupermarket\nsure\nsweater\nswim\nswimming\ntable\ntake\ntalk\ntall\ntaxi\ntea\nteach\nteacher\nteam\nteenager\ntelephone\ntelevision\ntell\nten\ntennis\nterrible\ntest\ntext\nthan\nthank\nthanks\nthat\nthe\ntheatre\ntheir\nthem\nthen\nthere\nthey\nthing\nthink\nthird\nthirsty\nthirteen\nthirty\nthis\nthousand\nthree\nthrough\nThursday\nticket\ntime\ntired\ntitle\nto\ntoday\ntogether\ntoilet\ntomato\ntomorrow\ntonight\ntoo\ntooth\ntopic\ntourist\ntown\ntraffic\ntrain\ntravel\ntree\ntrip\ntrousers\ntrue\ntry\nT-shirt\nTuesday\nturn\nTV\ntwelve\ntwenty\ntwice\ntwo\ntype\numbrella\nuncle\nunder\nunderstand\nuniversity\nuntil\nup\nupstairs\nus\nuse\nuseful\nusually\nvacation\nvegetable\nvery\nvideo\nvillage\nvisit\nvisitor\nwait\nwaiter\nwake\nwalk\nwall\nwant\nwarm\nwash\nwatch\nwater\nway\nwe\nwear\nweather\nwebsite\nWednesday\nweek\nweekend\nwelcome\nwell\nwest\nwhat\nwhen\nwhere\nwhich\nwhite\nwho\nwhy\nwife\nwill\nwin\nwindow\nwine\nwinter\nwith\nwithout\nwoman\nwonderful\nword\nwork\nworker\nworld\nwould\nwrite\nwriter\nwriting\nwrong\nyeah\nyear\nyellow\nyes\nyesterday\nyou\nyoung\nyour\nyourself\nare\nless\nsince\nis\ncell\nrather\nstore\nwhile\nzero\nlevel\nsocial\nmedia\nyouth\nknowledge\nsafe\nendless\nvocabulary\npath\nprize\nowner\ncatch\nhold\nfocus\nstandard\ncontinue\npass\ngrade\nactive\nscore\nlimit\nbase\nrequire\ncover\nprogram\nexperience\ngraduate\nenter\nalthough\nevaluation\nnative\nsubmit\naid\ntotal\nprovide\nimpact\ncloth\nfreeze\nsolid\nserious\nfinger\nsystem\nteenage\nbehavior\nlink\nimage\nappear\nthemselves\nheavily\nedit\nselect\nanxiety\nauthor\nworry\nkid\ncourage\ndevelop\ndepend\nseem\nalone\nhardly\nmyself\noperation\nsupport\nsimple\ndeeply\nsilence\nvarious\nheart\nfriendship\nwooden\nconsider\ncontrol\nspeed\nlaunch\noption\nnation\nnature\nbenefit\nallow\nenvironment\naim\nincrease\nthese\nvital\nalready\nchoice\ntraditional\nwarn\ndeath\nclimate\nhuman\nstorm\ntemperature\nsuch\nthose\nobserve\nocean\nfrequency\nsimply\nsave\nuniverse\ncash\nnecessary\nmethod\nsociety\nnuclear\nwar\nearthquake\nhuge\ntsunami\ncause\nreflect\norigin\ngoal\nitself\npurpose\nsource\nsearch\nadvise\npick\nbattle\nwhether\ndanger\nmoreover\nendanger\nfight\nanywhere\nstep\ntool\nprotect\nupdate\nnumerous\ncomeback\nglobal\nelement\nhighlight\nlantern\ntorch\nsky\necho\ncheer\ntheme\nwheel\ntechnology\nsymbol\nfortune\nbranch\nbeauty\nking\nplastic\nsize\nlocate\nremote\ndesert\ndeliver\nalmost\ncolor\nrise\ndoll\nhole\nneighbor\ntrack\nlady\nthrow\ndegree\nmemory\ncase\nintelligence\nmeasure\nmental\ncontribute\nquality\nbeyond\neither\nability\npublic\nfunction\neveryday\ngift\nhimself\nexcept\nstable\nourselves\navoid\nfailure\nfail\nabandon\nexcuse\ncharacter\nemotion\nintelligent\neffect\ncite\nceremony\nadvance\nvision\ncloud\npeace\ncarbon\nfootprint\nenergy\nplatform\ntarget\nsometime\npopulation\nwhole\nshut\nexplore\nsweep\nconfuse\nmind\nconflict\nsolve\nbeat\nwish\nattach\nhill\nslide\nrock\ntransport\nfur\nresponse\ntradition\ncenter\ndeep\nconnect\nthough\nclear\nproduce\ntruck\nshortcut\nabsence\ntourism\ndream\nmoon\nneither\nadventure\npassenger\nenable\nview\nexpect\nancient\nengine\nrocket\nafford\nlayer\nconfidence\nresearch\nmay\nattract\nseek\nmark\ncap\nedge\nexist\nliquid\ninspire\nacademic\noffer\nrole\nencourage\nattention\ncollect\nvalue\nsingle\nsolar\nclick\napp\ndigital\nissue\nexpert\ndata\nlack\nlock\nthus\nuser\nable\nact\nactually\nadvertisement\nagainst\nah\nanybody\nanyway\nargument\nassistant\navailable\nbackground\nbased\nbasketball\nbehaviour\nbillion\nbirth\nblank\nbone\nbrain\nbroken\nbutton\ncare\ncareful\ncarefully\ncelebrate\nchat\ncircle\nclosed\ncode\ncoach\ncomfortable\ncompletely\ncondition\ncontext\ncopy\ncrazy\ncreative\ncross\ncry\ndead\ndesigner\ndestroy\ndifferently\ndirector\ndisagree\ndisappear\ndocument\ndrop\nearth\neducation\nengineer\nerror\nfan\nfishing\nfix\nflying\nfollowing\nforeign\nforward\nfresh\ngap\ngas\ngod\ngrass\nguide\ngun\nhabit\nhall\nhappily\nheavy\nheight\nhelpful\nhero\nhers\nherself\nhide\nhit\nhurt\nill\nillness\nimpossible\ninformal\nitem\njoke\njump\nkill\nknock\nlab\nlaw\nlawyer\nlazy\nlearning\nlemon\nlifestyle\nlost\nlow\nluck\nlucky\nmail\nmaterial\nmathematics\nmaths\nmiddle\nmight\nmine\nnone\nnormal\nnormally\nnotice\nnowhere\nnut\npack\npower\nposition\nprint\nprinter\npush\nrealize\nrecognize\nremove\nreplace\nrequest\nresearcher\nscreen\nseason\nshape\nsinging\nsmartphone\nsmoke\nsmoking\nsoft\nsoldier\nsolution\nsomewhere\nteaching\nthin\nthinking\nweb\nwashing\nweak\nwave\nwinner\nyours\nwow\nworse\nworst\nworking\narch\ncalendar\nhug\nworth\nrecent\nlone\nlonely\nzoo\nWi-Fi\ncheerful\nelegant\neverywhere\nofficial\nrush\ncultural\nheritage\ndisplay\nfootstep\nneighborhood\ntie\ndevelopment\nsuccessful\nadvantage\ndamage\nmajor\nequal\nexcellent\nvoyage\nconstruct\nconstruction\ntouch\nunique\nreduce\ngravity\nartificial\nforce\nship\neducate\nvia\nelectron\nelectronic\nmobile\nrevolution\ntoward\ncheat\ncontent\ncurrent\nunable\nsite\nprevious\nmarry\npercent\nant\nfrequently\nchildhood\nforest\nwildlife\nblind\nstructure\ndiscovery\nrelease\nchemical\nsignal\npublish\ninsect\ntheory\nspecie\nbiology\nroot\nfinally\nprove\nside\nthroat\nprise\nvoice\nflexible\nbreathable\nfabric\nsmart\nchallenge\nkeyboard\nbluetooth\nspeech\ndecode\ncomplex\nprototype\nsignificantly\nsuitable\napplication\npotentially\nbattery\nconnection\nreal­time\ntransparent\nfigure\ntraveler\nnetwork\nguest\nmeaningful\nvirtual\nensure\nservice\nabsolutely\nabsorb\nagreement\nanyhow\nbalance\nbamboo\nbarbecue\nbehave\nblackboard\nbomb\nborder\nboss\nbottom\ncafé\ncancel\ncancer\ncareless\ncartoon\ncharge\nChina\nchina\nChinese\ncivilisation\nclassmate\nclever\nconfirm\nConfucianism\nConfucius\nconfused\ncongratulation\ncookie\ncore\ncute\ncycle\ndatabase\ndeadline\ndelete\ndepth\ndinosaur\ndisabled\ndisappointed\ndiscover\ndistance\ndolphin\ndownload\ndraft\ndrama\nduck\nduration\ndust\neducator\neighth\nembarrassed\nEngland\nEnglish\neraser\nescape\nespecially\nessay\nEurope\nEuropean\nexchange\nfetch\nflag\nflash\nforever\nforehead\nforgive\nFrance\nfreedom\nFrench\ngenius\ngentleman\nGerman\nGermany\ngovernment\ngrammar\ngranddaughter\ngrandson\ngreenhouse\nhamburger\nhandbag\nhandsome\nhandwriting\nharvest\nhousework\nice-cream\nignore\nillegal\nimport\ninch\nindependent\nIndia\nIndian\nJapan\nJapanese\nkangaroo\nkite\nkiss\nlaptop\nlength\nlicense\nlimited\nLondon\nlower\nmagic\nmarch\nmaximum\nmedicine\nmillimetre\nmirror\nMiss\nmix\nmobile phone\nmonitor\nmonkey\nmovement\nMr\nMrs\nMs\nmushroom\nmusician\nneighbourhood\nnet\nninth\nnod\nnoodle\nnorthern\nnotebook\nobviously\nOlympics\nopera\noutgoing\noutput\npackage\nperhaps\nplayground\np.m.\npoem\npoliceman / policewoman\npostman\npredict\npressure\npromise\npronounce\npull\nquit\nrabbit\nrainbow\nrandom\nrange\nrecord\nrecycle\nrefresh\nrelief\nring\nromantic\nRussia\nRussian\nschoolbag\nscream\nsecret\nsex\nshadow\nshake\nsixth\nsoftware\nsort\nsouthern\nspy\nstomach\nstomachache\nstone\nstrange\nstranger\nstrawberry\nstring\nstupid\nsubway\nsummary\nsuper\nsurf\nsurface\nswitch\ntherefore\nthunder\ntoast\ntranslate\nvolunteer\nwashroom\nwatermelon\nX-ray\nalarm\nclone\nkindergarten\nkindness\nmale\nfemale\na.m.\nimpression\nimpress\nconfident\norganise\norganisation\ncurious\nfreshman\nconfusing\nrecommend\nresponsible\nresponsibility\npowerful\nemperor\nrecognise\nadmire\nmarathon\nmaster\nhonour\nglory\nmedal\ngraceful\nhelicopter\nbreathe\neffort\nwisdom\ntyphoon\nshell\nKorean\ncontribution\nTibet\nTibetan\nblogger\nconvenient\nplus\npress\nfile\ndot\nonto\ncongratulate\nfade\nlunar\nwhisper\nexport\nbite\nchairman\nchain\nchip\nhistorical\njazz\ndiagram\nclothing\ncm\nspacewalk\ndock\nfloat\nmicrowave\noxygen\nbet\nflow\nwarning\nprediction\ncomfort\nhomesickness\nangle\nink\nanimation\nvisual\nwherever\nlog\nfox\nwhose\nwhom\nwide\nwidespread\nweekday\nweight\nwestern\nwhatever\nwhenever\nAD\nalternative\naloud\nAmerican\nAmerica\nanalyse\nAsia\nAsian\nAustralia\nAustralian\nawake\nbadminton\nbasket\nbat\nBC\ncalligraphy\nCanada\nCanadian\nwind\nversion\nUS\nUK\ntrouble\nsurprise\nconnectivity\ndelta\nAfrica\nAfrican\nasleep\narrow\ncloudy\ndelay\ndrag\ndragon\nfisherman\nclassical\nclassic\ngoddess\neditor\noriginally\ndiamond\nbeautifully\nheadlight\nempty\nwallet\ndepartment\npocket\nmanager\nprivacy\nindependence\napparently\nrecently\nmedical\nfurther\nbelief\nshock\ninjury\ninjure\ntruth\nsurvive\ntowards\nsharply\ndirect\nnarrowly\nregard\nrapidly\nautomatic\neastern\nexit\nincluding\neducational\ninventor\nvaluable\ninvention\ninvent\naccident\nfrozen\nperformance\nrelate\nprevent\nupset\nstrength\nrider\nsnowy\nswing\ninfer\nnational\nsuggest\nenvironmental\noutdoor\ngraph\npatient\ntherefor\nequipment\nnovel\nbrochure\nunusual\nusual\nseller\nground\noriginal\ndecision\nreject\nenvelope\nspeaker\ncountless\ndirection\nevolution\nhopeful\nsnowflake\nknot\nclearly\nprovince\nclip\nseriously\nstrict\ndrug\nemotional\nrelationship\nembarrassing\nrose\nnecessarily\nunclear\nsense\nprotection\nrecyclable",
+      "text": "a\nan\nabout\nabove\nacross\naction\nactivity\nactor\nactress\nadd\naddress\nadult\nadvice\nafraid\nafter\nafternoon\nagain\nage\nago\nagree\nair\nairport\nall\nalso\nalways\namazing\nand\nangry\nanimal\nanother\nanswer\nany\nanyone\nanything\napartment\napple\nApril\narea\narm\naround\narrive\nart\narticle\nartist\nas\nask\nat\nAugust\naunt\nautumn\naway\nbaby\nback\nbad\nbag\nball\nbanana\nband\nbank\nbath\nbathroom\nbe\nbeach\nbeautiful\nbecause\nbecome\nbed\nbedroom\nbeer\nbefore\nbegin\nbeginning\nbehind\nbelieve\nbelow\nbest\nbetter\nbetween\nbicycle\nbig\nbike\nbill\nbird\nbirthday\nblack\nblog\nblonde\nblue\nboat\nbody\nbook\nboot\nbored\nboring\nborn\nboth\nbottle\nbox\nboy\nboyfriend\nbread\nbreak\nbreakfast\nbring\nbrother\nbrown\nbuild\nbuilding\nbus\nbusiness\nbusy\nbut\nbutter\nbuy\nby\nbye\ncafe\ncake\ncall\ncamera\ncan\ncannot\ncapital\ncar\ncard\ncareer\ncarrot\ncarry\ncat\nCD\ncent\ncentre\ncentury\nchair\nchange\nchart\ncheap\ncheck\ncheese\nchicken\nchild\nchocolate\nchoose\ncinema\ncity\nclass\nclassroom\nclean\nclimb\nclock\nclose\nclothes\nclub\ncoat\ncoffee\ncold\ncollege\ncolour\ncome\ncommon\ncompany\ncompare\ncomplete\ncomputer\nconcert\nconversation\ncook\ncooking\ncool\ncorrect\ncost\ncould\ncountry\ncourse\ncousin\ncow\ncream\ncreate\nculture\ncup\ncustomer\ncut\ndad\ndance\ndancer\ndancing\ndangerous\ndark\ndate\ndaughter\nday\ndear\nDecember\ndecide\ndelicious\ndescribe\ndescription\ndesign\ndesk\ndetail\ndialogue\ndictionary\ndie\ndiet\ndifference\ndifferent\ndifficult\ndinner\ndirty\ndiscuss\ndish\ndo\ndoctor\ndog\ndollar\ndoor\ndown\ndownstairs\ndraw\ndress\ndrink\ndrive\ndriver\nduring\nDVD\neach\near\nearly\neast\neasy\neat\negg\neight\neighteen\neighty\nelephant\neleven\nelse\nemail\nend\nenjoy\nenough\neuro\neven\nevening\nevent\never\nevery\neverybody\neveryone\neverything\nexam\nexample\nexcited\nexciting\nexercise\nexpensive\nexplain\nextra\neye\nface\nfact\nfall\nfalse\nfamily\nfamous\nfantastic\nfar\nfarm\nfarmer\nfast\nfat\nfather\nfavourite\nFebruary\nfeel\nfeeling\nfestival\nfew\nfifteen\nfifth\nfifty\nfill\nfilm\nfinal\nfind\nfine\nfinish\nfire\nfirst\nfish\nfive\nflat\nflight\nfloor\nflower\nfly\nfollow\nfood\nfoot\nfootball\nfor\nforget\nform\nforty\nfour\nfourteen\nfourth\nfree\nFriday\nfriend\nfriendly\nfrom\nfront\nfruit\nfull\nfun\nfunny\nfuture\ngame\ngarden\ngeography\nget\ngirl\ngirlfriend\ngive\nglass\ngo\ngood\ngoodbye\ngrandfather\ngrandmother\ngrandparent\ngreat\ngreen\ngrey\ngroup\ngrow\nguess\nguitar\ngym\nhair\nhalf\nhand\nhappen\nhappy\nhard\nhat\nhate\nhave\nhave to\nhe\nhead\nhealth\nhealthy\nhear\nhello\nhelp\nher\nhere\nhey\nhi\nhigh\nhim\nhis\nhistory\nhobby\nholiday\nhome\nhomework\nhope\nhorse\nhospital\nhot\nhotel\nhour\nhouse\nhow\nhowever\nhundred\nhungry\nhusband\nI\nice\nice cream\nidea\nif\nimagine\nimportant\nimprove\nin\ninclude\ninformation\ninterest\ninterested\ninteresting\ninternet\ninterview\ninto\nintroduce\nisland\nit\nits\njacket\nJanuary\njeans\njob\njoin\njourney\njuice\nJuly\nJune\njust\nkeep\nkey\nkilometre\nkind\nkitchen\nknow\nland\nlanguage\nlarge\nlast\nlate\nlater\nlaugh\nlearn\nleave\nleft\nleg\nlesson\nlet\nletter\nlibrary\nlie\nlife\nlight\nadj.\nlike\nlike\nline\nlion\nlist\nlisten\nlittle\nlive\nlocal\nlong\nlook\nlose\nlot\nlove\nlunch\nmachine\nmagazine\nmain\nmake\nman\nmany\nmap\nMarch\nmarket\nmarried\nmatch\nMay\nmaybe\nme\nmeal\nmean\nmeaning\nmeat\nmeet\nmeeting\nmember\nmenu\nmessage\nmetre\nmidnight\nmile\nmilk\nmillion\nminute\nmiss\nmistake\nmodel\nmodern\nmoment\nMonday\nmoney\nmonth\nmore\nmorning\nmost\nmother\nmountain\nmouse\nmouth\nmove\nmovie\nmuch\nmum\nmuseum\nmusic\nmust\nmy\nname\nnatural\nnear\nneed\nnegative\nneighbour\nnever\nnew\nnews\nnewspaper\nnext\nnext to\nnice\nnight\nnine\nnineteen\nninety\nno\nno one\nnobody\nnorth\nnose\nnot\nnote\nnothing\nNovember\nnow\nnumber\nnurse\nobject\no’clock\nOctober\nof\noff\noffice\noften\noh\nOK\nold\non\nonce\none\nonion\nonline\nonly\nopen\nopinion\nopposite\nor\norange\norder\nother\nour\nout\noutside\nover\nown\npage\npaint\npainting\npair\npaper\nparagraph\nparent\npark\npart\npartner\nparty\npassport\npast\npay\npen\npencil\npeople\npepper\nperfect\nperiod\nperson\npersonal\nphone\nphoto\nphotograph\nphrase\npiano\npicture\npiece\npig\npink\nplace\nplan\nplane\nplant\nplay\nplayer\nplease\npoint\npolice\npoliceman\npool\npoor\npopular\npositive\npossible\npost\npotato\npound\npractice\npractise\nprefer\nprepare\npresent\npretty\nprice\nprobably\nproblem\nproduct\nprogramme\nproject\npurple\nput\nquarter\nquestion\nquick\nquickly\nquiet\nquite\nradio\nrain\nread\nreader\nreading\nready\nreal\nreally\nreason\nred\nrelax\nremember\nrepeat\nreport\nrestaurant\nresult\nreturn\nrice\nrich\nride\nright\nriver\nroad\nroom\nroutine\nrule\nrun\nsad\nsalad\nsalt\nsame\nsandwich\nSaturday\nsay\nschool\nscience\nscientist\nsea\nsecond\nnumber\nsecond\nsection\nsee\nsell\nsend\nsentence\nSeptember\nseven\nseventeen\nseventy\nshare\nshe\nsheep\nshirt\nshoe\nshop\nshopping\nshort\nshould\nshow\nshower\nsick\nsimilar\nsing\nsinger\nsister\nsit\nsituation\nsix\nsixteen\nsixty\nskill\nskirt\nsleep\nslow\nsmall\nsnake\nsnow\nso\nsome\nsomebody\nsomeone\nsomething\nsometimes\nson\nsong\nsoon\nsorry\nsound\nsoup\nsouth\nspace\nspeak\nspecial\nspell\nspelling\nspend\nsport\nspring\nstand\nstar\nstart\nstatement\nstation\nstay\nstill\nstop\nstory\nstreet\nstrong\nstudent\nstudy\nstyle\nsubject\nsuccess\nsugar\nsummer\nsun\nSunday\nsupermarket\nsure\nsweater\nswim\nswimming\ntable\ntake\ntalk\ntall\ntaxi\ntea\nteach\nteacher\nteam\nteenager\ntelephone\ntelevision\ntell\nten\ntennis\nterrible\ntest\ntext\nthan\nthank\nthanks\nthat\nthe\ntheatre\ntheir\nthem\nthen\nthere\nthey\nthing\nthink\nthird\nthirsty\nthirteen\nthirty\nthis\nthousand\nthree\nthrough\nThursday\nticket\ntime\ntired\ntitle\nto\ntoday\ntogether\ntoilet\ntomato\ntomorrow\ntonight\ntoo\ntooth\ntopic\ntourist\ntown\ntraffic\ntrain\ntravel\ntree\ntrip\ntrousers\ntrue\ntry\nT-shirt\nTuesday\nturn\nTV\ntwelve\ntwenty\ntwice\ntwo\ntype\numbrella\nuncle\nunder\nunderstand\nuniversity\nuntil\nup\nupstairs\nus\nuse\nuseful\nusually\nvacation\nvegetable\nvery\nvideo\nvillage\nvisit\nvisitor\nwait\nwaiter\nwake\nwalk\nwall\nwant\nwarm\nwash\nwatch\nwater\nway\nwe\nwear\nweather\nwebsite\nWednesday\nweek\nweekend\nwelcome\nwell\nwest\nwhat\nwhen\nwhere\nwhich\nwhite\nwho\nwhy\nwife\nwill\nwin\nwindow\nwine\nwinter\nwith\nwithout\nwoman\nwonderful\nword\nwork\nworker\nworld\nwould\nwrite\nwriter\nwriting\nwrong\nyeah\nyear\nyellow\nyes\nyesterday\nyou\nyoung\nyour\nyourself\nare\nless\nsince\nis\ncell\nrather\nstore\nwhile\nzero\nlevel\nsocial\nmedia\nyouth\nknowledge\nsafe\nendless\nvocabulary\npath\nprize\nowner\ncatch\nhold\nfocus\nstandard\ncontinue\npass\ngrade\nactive\nscore\nlimit\nbase\nrequire\ncover\nprogram\nexperience\ngraduate\nenter\nalthough\nevaluation\nnative\nsubmit\naid\ntotal\nprovide\nimpact\ncloth\nfreeze\nsolid\nserious\nfinger\nsystem\nteenage\nbehavior\nlink\nimage\nappear\nthemselves\nheavily\nedit\nselect\nanxiety\nauthor\nworry\nkid\ncourage\ndevelop\ndepend\nseem\nalone\nhardly\nmyself\noperation\nsupport\nsimple\ndeeply\nsilence\nvarious\nheart\nfriendship\nwooden\nconsider\ncontrol\nspeed\nlaunch\noption\nnation\nnature\nbenefit\nallow\nenvironment\naim\nincrease\nthese\nvital\nalready\nchoice\ntraditional\nwarn\ndeath\nclimate\nhuman\nstorm\ntemperature\nsuch\nthose\nobserve\nocean\nfrequency\nsimply\nsave\nuniverse\ncash\nnecessary\nmethod\nsociety\nnuclear\nwar\nearthquake\nhuge\ntsunami\ncause\nreflect\norigin\ngoal\nitself\npurpose\nsource\nsearch\nadvise\npick\nbattle\nwhether\ndanger\nmoreover\nendanger\nfight\nanywhere\nstep\ntool\nprotect\nupdate\nnumerous\ncomeback\nglobal\nelement\nhighlight\nlantern\ntorch\nsky\necho\ncheer\ntheme\nwheel\ntechnology\nsymbol\nfortune\nbranch\nbeauty\nking\nplastic\nsize\nlocate\nremote\ndesert\ndeliver\nalmost\ncolor\nrise\ndoll\nhole\nneighbor\ntrack\nlady\nthrow\ndegree\nmemory\ncase\nintelligence\nmeasure\nmental\ncontribute\nquality\nbeyond\neither\nability\npublic\nfunction\neveryday\ngift\nhimself\nexcept\nstable\nourselves\navoid\nfailure\nfail\nabandon\nexcuse\ncharacter\nemotion\nintelligent\neffect\ncite\nceremony\nadvance\nvision\ncloud\npeace\ncarbon\nfootprint\nenergy\nplatform\ntarget\nsometime\npopulation\nwhole\nshut\nexplore\nsweep\nconfuse\nmind\nconflict\nsolve\nbeat\nwish\nattach\nhill\nslide\nrock\ntransport\nfur\nresponse\ntradition\ncenter\ndeep\nconnect\nthough\nclear\nproduce\ntruck\nshortcut\nabsence\ntourism\ndream\nmoon\nneither\nadventure\npassenger\nenable\nview\nexpect\nancient\nengine\nrocket\nafford\nlayer\nconfidence\nresearch\nmay\nattract\nseek\nmark\ncap\nedge\nexist\nliquid\ninspire\nacademic\noffer\nrole\nencourage\nattention\ncollect\nvalue\nsingle\nsolar\nclick\napp\ndigital\nissue\nexpert\ndata\nlack\nlock\nthus\nuser\nable\nact\nactually\nadvertisement\nagainst\nah\nanybody\nanyway\nargument\nassistant\navailable\nbackground\nbased\nbasketball\nbehaviour\nbillion\nbirth\nblank\nbone\nbrain\nbroken\nbutton\ncare\ncareful\ncarefully\ncelebrate\nchat\ncircle\nclosed\ncode\ncoach\ncomfortable\ncompletely\ncondition\ncontext\ncopy\ncrazy\ncreative\ncross\ncry\ndead\ndesigner\ndestroy\ndifferently\ndirector\ndisagree\ndisappear\ndocument\ndrop\nearth\neducation\nengineer\nerror\nfan\nfishing\nfix\nflying\nfollowing\nforeign\nforward\nfresh\ngap\ngas\ngod\ngrass\nguide\ngun\nhabit\nhall\nhappily\nheavy\nheight\nhelpful\nhero\nhers\nherself\nhide\nhit\nhurt\nill\nillness\nimpossible\ninformal\nitem\njoke\njump\nkill\nknock\nlab\nlaw\nlawyer\nlazy\nlearning\nlemon\nlifestyle\nlost\nlow\nluck\nlucky\nmail\nmaterial\nmathematics\nmaths\nmiddle\nmight\nmine\nnone\nnormal\nnormally\nnotice\nnowhere\nnut\npack\npower\nposition\nprint\nprinter\npush\nrealize\nrecognize\nremove\nreplace\nrequest\nresearcher\nscreen\nseason\nshape\nsinging\nsmartphone\nsmoke\nsmoking\nsoft\nsoldier\nsolution\nsomewhere\nteaching\nthin\nthinking\nweb\nwashing\nweak\nwave\nwinner\nyours\nwow\nworse\nworst\nworking\narch\ncalendar\nhug\nworth\nrecent\nlone\nlonely\nzoo\nWi-Fi\ncheerful\nelegant\neverywhere\nofficial\nrush\ncultural\nheritage\ndisplay\nfootstep\nneighborhood\ntie\ndevelopment\nsuccessful\nadvantage\ndamage\nmajor\nequal\nexcellent\nvoyage\nconstruct\nconstruction\ntouch\nunique\nreduce\ngravity\nartificial\nforce\nship\neducate\nvia\nelectron\nelectronic\nmobile\nrevolution\ntoward\ncheat\ncontent\ncurrent\nunable\nsite\nprevious\nmarry\npercent\nant\nfrequently\nchildhood\nforest\nwildlife\nblind\nstructure\ndiscovery\nrelease\nchemical\nsignal\npublish\ninsect\ntheory\nspecie\nbiology\nroot\nfinally\nprove\nside\nthroat\nprise\nvoice\nflexible\nbreathable\nfabric\nsmart\nchallenge\nkeyboard\nbluetooth\nspeech\ndecode\ncomplex\nprototype\nsignificantly\nsuitable\napplication\npotentially\nbattery\nconnection\nreal­time\ntransparent\nfigure\ntraveler\nnetwork\nguest\nmeaningful\nvirtual\nensure\nservice\nabsolutely\nabsorb\nagreement\nanyhow\nbalance\nbamboo\nbarbecue\nbehave\nblackboard\nbomb\nborder\nboss\nbottom\ncafé\ncancel\ncancer\ncareless\ncartoon\ncharge\nChina\nchina\nChinese\ncivilisation\nclassmate\nclever\nconfirm\nConfucianism\nConfucius\nconfused\ncongratulation\ncookie\ncore\ncute\ncycle\ndatabase\ndeadline\ndelete\ndepth\ndinosaur\ndisabled\ndisappointed\ndiscover\ndistance\ndolphin\ndownload\ndraft\ndrama\nduck\nduration\ndust\neducator\neighth\nembarrassed\nEngland\nEnglish\neraser\nescape\nespecially\nessay\nEurope\nEuropean\nexchange\nfetch\nflag\nflash\nforever\nforehead\nforgive\nFrance\nfreedom\nFrench\ngenius\ngentleman\nGerman\nGermany\ngovernment\ngrammar\ngranddaughter\ngrandson\ngreenhouse\nhamburger\nhandbag\nhandsome\nhandwriting\nharvest\nhousework\nice-cream\nignore\nillegal\nimport\ninch\nindependent\nIndia\nIndian\nJapan\nJapanese\nkangaroo\nkite\nkiss\nlaptop\nlength\nlicense\nlimited\nLondon\nlower\nmagic\nmarch\nmaximum\nmedicine\nmillimetre\nmirror\nMiss\nmix\nmobile phone\nmonitor\nmonkey\nmovement\nMr\nMrs\nMs\nmushroom\nmusician\nneighbourhood\nnet\nninth\nnod\nnoodle\nnorthern\nnotebook\nobviously\nOlympics\nopera\noutgoing\noutput\npackage\nperhaps\nplayground\np.m.\npoem\npoliceman / policewoman\npostman\npredict\npressure\npromise\npronounce\npull\nquit\nrabbit\nrainbow\nrandom\nrange\nrecord\nrecycle\nrefresh\nrelief\nring\nromantic\nRussia\nRussian\nschoolbag\nscream\nsecret\nsex\nshadow\nshake\nsixth\nsoftware\nsort\nsouthern\nspy\nstomach\nstomachache\nstone\nstrange\nstranger\nstrawberry\nstring\nstupid\nsubway\nsummary\nsuper\nsurf\nsurface\nswitch\ntherefore\nthunder\ntoast\ntranslate\nvolunteer\nwashroom\nwatermelon\nX-ray\nalarm\nclone\nkindergarten\nkindness\nmale\nfemale\na.m.\nimpression\nimpress\nconfident\norganise\norganisation\ncurious\nfreshman\nconfusing\nrecommend\nresponsible\nresponsibility\npowerful\nemperor\nrecognise\nadmire\nmarathon\nmaster\nhonour\nglory\nmedal\ngraceful\nhelicopter\nbreathe\neffort\nwisdom\ntyphoon\nshell\nKorean\ncontribution\nTibet\nTibetan\nblogger\nconvenient\nplus\npress\nfile\ndot\nonto\ncongratulate\nfade\nlunar\nwhisper\nexport\nbite\nchairman\nchain\nchip\nhistorical\njazz\ndiagram\nclothing\ncm\nspacewalk\ndock\nfloat\nmicrowave\noxygen\nbet\nflow\nwarning\nprediction\ncomfort\nhomesickness\nangle\nink\nanimation\nvisual\nwherever\nlog\nfox\nwhose\nwhom\nwide\nwidespread\nweekday\nweight\nwestern\nwhatever\nwhenever\nAD\nalternative\naloud\nAmerican\nAmerica\nanalyse\nAsia\nAsian\nAustralia\nAustralian\nawake\nbadminton\nbasket\nbat\nBC\ncalligraphy\nCanada\nCanadian\nwind\nversion\nUS\nUK\ntrouble\nsurprise\nconnectivity\ndelta\nAfrica\nAfrican\nasleep\narrow\ncloudy\ndelay\ndrag\ndragon\nfisherman\nclassical\nclassic\ngoddess\neditor\noriginally\ndiamond\nbeautifully\nheadlight\nempty\nwallet\ndepartment\npocket\nmanager\nprivacy\nindependence\napparently\nrecently\nmedical\nfurther\nbelief\nshock\ninjury\ninjure\ntruth\nsurvive\ntowards\nsharply\ndirect\nnarrowly\nregard\nrapidly\nautomatic\neastern\nexit\nincluding\neducational\ninventor\nvaluable\ninvention\ninvent\naccident\nfrozen\nperformance\nrelate\nprevent\nupset\nstrength\nrider\nsnowy\nswing\ninfer\nnational\nsuggest\nenvironmental\noutdoor\ngraph\npatient\ntherefor\nequipment\nnovel\nbrochure\nunusual\nusual\nseller\nground\noriginal\ndecision\nreject\nenvelope\nspeaker\ncountless\ndirection\nevolution\nhopeful\nsnowflake\nknot\nclearly\nprovince\nclip\nseriously\nstrict\ndrug\nemotional\nrelationship\nembarrassing\nrose\nnecessarily\nunclear\nsense\nprotection\nrecyclable\nphysiology\nexamine\nevaluate\nextract\ncollection\nscientific\nformula\nmath\nphysics\nphotoelectric\nodd\nprofessor\nrelativity",
       "words": {}
     },
     "nce31": {
@@ -9869,6 +9918,993 @@
         }
       }
     },
+    "rjbgz110d1e03": {
+      "title": "CHEMICAL VERSUS ORGANIC FARMING",
+      "lastPosi": 0,
+      "text": "Chemical pesticides and artificial fertilisers have been in widespread use in farming since the middle of the 20th century. When they were first introduced, many farmers welcomed them as a great way to fight crop disease and increase production. Over time, however, what some scientists have found is that their long-term use can sometimes harm both the land and people’s health.\nFor example, pesticides can damage the land by killing not only harmful bacteria and insects, but also helpful ones. In addition, these chemicals can stay in the soil and underground water sources for a long time. This affects the crops grown on the land and, in turn, the animals and humans who digest them. Many people worry that these chemicals may make them ill and even cause cancer. In fact, some pesticides like DDT have been prohibited in most countries because of the damage they cause to people and the environment. As for chemical fertilisers, crops grown with them usually grow too fast to be rich in nutrition. They may look beautiful on the outside, but inside there is usually more water than essential minerals, and they often have less flavour as well.\nAs an alternative, some farmers have switched to organic farming, and many customers have turned to organic food when they shop at the local grocery. Organic farming is simply farming without using any chemicals. Organic farmers focus on keeping their soil rich and free of disease through natural means. For example, many organic farmers use natural waste from animals as fertiliser. This makes the soil in their fields richer in minerals. It also keeps the air, soil, water, and crops free of chemicals.\nOrganic farmers also use many other methods to produce rich soil. They often change the kind of crop grown in each field every year. For instance, they may grow corn or wheat in a field one year, and then grow beans there the next. Why different crops are grown is because they put important minerals back into the ground, making it ready for the next batch of crops. Organic farmers also plant diverse crops that use different depths of soil to help keep it rich. For example, peanuts grow on the ground’s surface, but many other vegetables put down deep roots. The goal of using different organic farming methods is to grow good food while avoiding damage to the environment or to people’s health.\nSome people would prefer to stop the use of man-made chemicals in agriculture entirely. What keeps them from doing so is the fact that chemical farming serves the high demand for food around the world. Organic farming is nowhere near able to meet that need. Therefore, there is still a long way to find a suitable solution that puts sufficient food on the dinner table while keeping people and the environment as healthy as possible.",
+      "words": {}
+    },
+    "rjbgz1115d7e1": {
+      "title": "LISTENING TO HOW BODIES TALK",
+      "lastPosi": 0,
+      "text": "We use both words and body language to express our thoughts and opinions in our interactions with other people. We can learn a lot about what people are thinking by watching their body language. Words are important, but the way people stand, hold their arms, and move their hands can also give us information about their feelings.\nJust like spoken language, body language varies from culture to culture. The crucial thing is using body language in a way that is appropriate to the culture you are in. For example, making eye contact—looking into someone’s eyes—in some countries is a way to display interest. In other countries, by contrast, eye contact is not always approved of. For example, in many Middle Eastern countries, men and women are not socially permitted to make eye contact. In Japan, it may demonstrate respect to look down when talking to an older person.\nThe gesture for “OK” has different meanings in different cultures. In Japan, someone who witnesses another person employing the gesture might think it means money. In France, a person encountering an identical gesture may interpret it as meaning zero. However, you should avoid making this gesture in Brazil and Germany, as it is not considered polite.\nEven the gestures we use for “yes” and “no” differ around the world. In many countries, shaking one’s head means “no”, and nodding means “yes”. By comparison, in Bulgaria and southern Albania, the gestures have the opposite meaning. There are also differences in how we touch each other, how close we stand to someone we are talking to, and how we act when we meet or part. In countries like France and Russia, people may kiss their friends  on the cheek when they meet. Elsewhere, people favour  shaking hands, bowing from the waist, or nodding the head when they meet someone else.\nSome gestures seem to have the same meaning everywhere. Placing your hands together and resting them on the side of your head while closing your eyes means “sleep”. A good way of saying “I am full” is moving your hand in circles over your stomach after a meal.\nSome body language has many different uses. Perhaps the best example is smiling. A smile can help us get through difficult situations and find friends in a world of strangers. A smile can break down barriers. We can use a smile to apologise, to greet someone, to ask for help, or to start a conversation. Experts suggest smiling at yourself in the mirror to make yourself feel happier and stronger. And if we are feeling down or lonely, there is nothing better than seeing the smiling face of a good friend.",
+      "words": {}
+    },
+    "rjbgz1131f160": {
+      "title": "SMART HOMES TO MAKE LIFE EASIER",
+      "lastPosi": 0.72360076374645,
+      "text": "Have you ever forgotten to lock the door of your house? Or, have you ever forgotten to switch off the TV or computer? These kinds of things happen to us all the time, waste resources, and can sometimes lead to problems. However, in the not- too-distant future, we will be living in smart homes that will lock the door for us when we are away and remember to switch off the TV when we forget. These smart homes will keep us secure, save us energy, and provide a more comfortable environment to live in.\n## Intelligent Controls\nToday, we have to use switches for our lights, knobs for our appliances, and remote controls for our TVs and air conditioners. In the future, we will be using advanced technology every day for automatic control of just about everything in our home. The future home will use integrated sensors to tell when you leave home each morning, and then go into an energy-efficient mode all by itself. You will no longer have to think about turning switches on and off yourself. Your home will also learn your daily routine and preferences, so everything will be ready for you when you get home each evening. Your lights will come on the instant you enter the door along with your favourite music or TV programmes, and you will find your dinner already prepared for you. All controls will respond to voice commands, so if you want to change your routine, you just say aloud what you want and the home system will obey.\n## Regular Health Checks\nIn addition, your smart home will be monitoring your health for you every day.\nYour bed, for example, will record how well you sleep every night. It will also be checking your body weight. If you start to have sleep or weight problems, it will send a warning to your phone. It will also give you suggestions on a healthier diet and how to sleep better. Smart toilets will be keeping constant track of your health as well. They can warn you early on if there is something abnormal or if you have a critical illness, such as cancer, and potentially save your life.\n## No More Disasters\nSmart homes will be able to prevent serious damage from accidents. For example, if a water pipe starts leaking, or if there is a short in the electrical wiring, your smart home will detect it and provide you with the relevant information. This way, you will be able to fix the problem before your home becomes flooded or catches fire.\nThis smart technology is not a fantasy. Many of these new innovations are already available and being used in some homes. In this sense, the home of tomorrow is already the home of today. Nevertheless, it will take some years before most new homes begin to use this new technology.",
+      "words": {
+        "59ea82b3": {
+          "id": "knobs",
+          "index": [
+            573,
+            578
+          ],
+          "cIndex": [
+            526,
+            653
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "b64aa1ff": {
+          "id": "appliances",
+          "index": [
+            587,
+            597
+          ],
+          "cIndex": [
+            526,
+            653
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "d27c5226": {
+          "id": "conditioners",
+          "index": [
+            639,
+            651
+          ],
+          "cIndex": [
+            526,
+            653
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "8be331af": {
+          "id": "integrated",
+          "index": [
+            800,
+            810
+          ],
+          "cIndex": [
+            775,
+            918
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "495a1f8b": {
+          "id": "routine",
+          "index": [
+            1032,
+            1039
+          ],
+          "cIndex": [
+            995,
+            1125
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "dc651e1b": {
+          "id": "preferences",
+          "index": [
+            1044,
+            1055
+          ],
+          "cIndex": [
+            995,
+            1125
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "b322204e": {
+          "id": "instant",
+          "index": [
+            1154,
+            1161
+          ],
+          "cIndex": [
+            1125,
+            1287
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "a6fa8c73": {
+          "id": "obey",
+          "index": [
+            1429,
+            1433
+          ],
+          "cIndex": [
+            1287,
+            1434
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "fe3b6fe0": {
+          "id": "constant",
+          "index": [
+            1843,
+            1851
+          ],
+          "cIndex": [
+            1813,
+            1882
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "93bfed3e": {
+          "id": "leaking",
+          "index": [
+            2147,
+            2154
+          ],
+          "cIndex": [
+            2111,
+            2283
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "ccb3437b": {
+          "id": "wiring",
+          "index": [
+            2197,
+            2203
+          ],
+          "cIndex": [
+            2111,
+            2283
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "89ff9c76": {
+          "id": "detect",
+          "index": [
+            2226,
+            2232
+          ],
+          "cIndex": [
+            2111,
+            2283
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "d8ca87fe": {
+          "id": "relevant",
+          "index": [
+            2261,
+            2269
+          ],
+          "cIndex": [
+            2111,
+            2283
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "96a61a63": {
+          "id": "innovation",
+          "index": [
+            2437,
+            2448
+          ],
+          "cIndex": [
+            2419,
+            2501
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "9c41f5ba": {
+          "id": "Nevertheless",
+          "index": [
+            2567,
+            2579
+          ],
+          "cIndex": [
+            2567,
+            2660
+          ],
+          "visit": false,
+          "type": "word"
+        }
+      }
+    },
+    "rjbgz1152c449": {
+      "title": "A PIONEER FOR ALL PEOPLE",
+      "lastPosi": 0,
+      "text": "Yuan Longping, known as the “father of hybrid rice”, was one of China’s most famous scientists. Yet, he considered himself a farmer because he continually worked the land in his research. Indeed, his slim but strong body was just like that of millions of Chinese farmers, to whom he had devoted his life.\nYuan Longping was born in 1930 in Beijing. His parents wanted him to pursue a career in science or medicine. However, what concerned him most was that farmers often had poor harvests and sometimes even had a serious shortage of food to eat. To tackle this crisis, he chose to study agriculture and received an education at Southwest Agricultural College in Chongqing.\nAfter graduating in 1953, he worked as a researcher. Yuan Longping realised that larger fields were not the solution. Instead, farmers needed to boost yields in the fields they had. How this could be done was a challenging question at the time. Yuan was convinced that the answer could be found in the creation of hybrid rice. A hybrid is a cross between two or more varieties of a species. One characteristic of hybrids is that they usually attain a higher yield than conventional crops. However, whether it was possible to develop a hybrid of self-pollinating plants such as rice was a matter of great debate. The common assumption then was that it could not be done. Through intense effort, Yuan overcame enormous technical difficulties to develop the first hybrid rice that could be used for farming in 1974. This hybrid enabled farmers to expand their output greatly.\nToday, it is estimated that about 60 percent of domestic rice consumption in China is comprised of crops generated from Yuan’s hybrid strains, and his strains have allowed China’s farmers to produce around 200 million tons of rice per year. Yuan’s innovation has helped feed not just China, but many other countries that depend on rice as well, such as India and Vietnam. Because of his invaluable contributions, Yuan Longping received numerous awards both in China and abroad.\nGiven that Yuan’s hybrids made him quite wealthy, one might think he would have retired to a life of leisure. However, this is far from the case. Deep down, Yuan was still very much a farmer at heart. As a man of the soil, he cared little for celebrity or money. Instead, he made large donations to support agricultural research.\nWhat impressed people most about Yuan Longping was his ongoing ability to fulfil his dreams. Long ago, he envisioned rice plants as tall as sorghum, with each ear of rice as big as a broom, and each grain of rice as huge as a peanut. He succeeded in producing a kind of rice that could feed more people at home and abroad. His later vision for “seawater rice” also became a reality, and potentially opened up nearly one million square kilometres of salty land in China for rice production. Even in his later years, Yuan Longping was still young at heart and full of vision, and everyone was always excited to see what he would dream up next.",
+      "words": {}
+    },
+    "rjbgz11570a2c": {
+      "title": "THE MAN WHO CHANGED OUR UNDERSTANDING OF THE UNIVERSE",
+      "lastPosi": 0.8749664936384294,
+      "text": "Albert Einstein, who is perhaps the greatest scientist in modern physics, is often considered one of the smartest men who ever lived. He made numerous contributions to the world, the most well-known being the general theory of relativity and the famous formula E=mc2. Einstein was not only a genius; he was a courageous and kind figure loved by many people.\n\nThis gentle genius was born in Germany on 14 March 1879. When he was 16, he tried to enter university in Switzerland, but failed due to his low scores in the general part of the entrance exam, despite obtaining exceptional scores in maths and physics. After studying for another year, he managed to pass the exam, entering university in 1896 and graduating in 1900.\n\nAfter two years of looking for work as a teacher, Einstein took a job as a clerk in the Swiss patent office. While working there, out of a strong passion for knowledge, he continued to study, earning a doctorate in physics in 1905. That same year, which was later recorded as a miracle year in science, he published four extraordinary physics papers. Following this, he gradually became famous throughout the world as the new Isaac Newton. After four years, he was able to quit his job at the patent office and enter research full-time at a university. In 1922, he was awarded the 1921 Nobel Prize for Physics for his explanation of the photoelectric effect.\n\nCircumstances changed in 1933, when Hitler came to power in Germany. Einstein, who was Jewish, found the doors of academic institutions closed to him. As a consequence, he had to flee Germany. After spending time in Europe, he finally took up a position as a researcher at the Institute for Advanced Study in Princeton, USA. Following that, he continued to make great achievements in physics and mathematics.\n\nTo the public, he was seen as a slightly odd-looking but kind and funny man. He had a thick moustache and long white hair, which sometimes stood on end as though he had just received an electric shock. Although he was a genius, he sometimes forgot things, like his friends’ birthdays. But despite his peculiarities, he was loved by his friends and neighbours. There is even a story about how he helped a little girl who knocked on his door and asked for help with her homework. In fact, Einstein often encountered people on the street who would stop him and ask him to help explain things. After many such occasions, he finally started saying, “Pardon me! Sorry! Always I am mistaken for Professor Einstein!”\n\nOn 18 April 1955, it was reported that Einstein had passed away, and the whole world mourned the great loss of a brilliant scientist.",
+      "words": {
+        "7cf56b4d": {
+          "id": "physics",
+          "index": [
+            65,
+            72
+          ],
+          "cIndex": [
+            0,
+            134
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "58df127e": {
+          "id": "numerous",
+          "index": [
+            142,
+            150
+          ],
+          "cIndex": [
+            134,
+            268
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "9fa9e198": {
+          "id": "general",
+          "index": [
+            209,
+            216
+          ],
+          "cIndex": [
+            134,
+            268
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "a4203221": {
+          "id": "courageous",
+          "index": [
+            309,
+            319
+          ],
+          "cIndex": [
+            268,
+            357
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "a0981aec": {
+          "id": "figure",
+          "index": [
+            329,
+            335
+          ],
+          "cIndex": [
+            268,
+            357
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "a10723e7": {
+          "id": "entrance",
+          "index": [
+            537,
+            545
+          ],
+          "cIndex": [
+            416,
+            611
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "84fcffc1": {
+          "id": "exceptional",
+          "index": [
+            570,
+            581
+          ],
+          "cIndex": [
+            416,
+            611
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "3dad427c": {
+          "id": "clerk",
+          "index": [
+            801,
+            806
+          ],
+          "cIndex": [
+            726,
+            835
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "6feeb247": {
+          "id": "patent",
+          "index": [
+            820,
+            826
+          ],
+          "cIndex": [
+            726,
+            835
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "e9ae36d0": {
+          "id": "passion",
+          "index": [
+            872,
+            879
+          ],
+          "cIndex": [
+            835,
+            958
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "6c5fcac1": {
+          "id": "doctorate",
+          "index": [
+            928,
+            937
+          ],
+          "cIndex": [
+            835,
+            958
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "d3702b3a": {
+          "id": "miracle",
+          "index": [
+            1004,
+            1011
+          ],
+          "cIndex": [
+            958,
+            1077
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "b9f09c21": {
+          "id": "0e6fa258",
+          "index": [
+            958,
+            1077
+          ],
+          "cIndex": [
+            958,
+            1077
+          ],
+          "visit": false,
+          "type": "sentence"
+        },
+        "2bcf2827": {
+          "id": "extraordinary",
+          "index": [
+            1047,
+            1060
+          ],
+          "cIndex": [
+            958,
+            1077
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "e56015f9": {
+          "id": "throughout",
+          "index": [
+            1120,
+            1130
+          ],
+          "cIndex": [
+            1077,
+            1166
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "18f45394": {
+          "id": "Circumstances",
+          "index": [
+            1386,
+            1399
+          ],
+          "cIndex": [
+            1386,
+            1455
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "cff93bab": {
+          "id": "academic",
+          "index": [
+            1500,
+            1508
+          ],
+          "cIndex": [
+            1455,
+            1537
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "fedbd0d7": {
+          "id": "institutions",
+          "index": [
+            1509,
+            1521
+          ],
+          "cIndex": [
+            1455,
+            1537
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "ecb401c9": {
+          "id": "consequence",
+          "index": [
+            1542,
+            1553
+          ],
+          "cIndex": [
+            1537,
+            1579
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "0659c54b": {
+          "id": "flee",
+          "index": [
+            1565,
+            1569
+          ],
+          "cIndex": [
+            1537,
+            1579
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "97c86f37": {
+          "id": "thick",
+          "index": [
+            1882,
+            1887
+          ],
+          "cIndex": [
+            1873,
+            1998
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "8c321f1e": {
+          "id": "moustache",
+          "index": [
+            1888,
+            1897
+          ],
+          "cIndex": [
+            1873,
+            1998
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "de0cf580": {
+          "id": "7be2b06d",
+          "index": [
+            1873,
+            1998
+          ],
+          "cIndex": [
+            1873,
+            1998
+          ],
+          "visit": false,
+          "type": "sentence"
+        },
+        "af9a5304": {
+          "id": "peculiarities",
+          "index": [
+            2097,
+            2110
+          ],
+          "cIndex": [
+            2081,
+            2156
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "9d5df804": {
+          "id": "encountered",
+          "index": [
+            2298,
+            2309
+          ],
+          "cIndex": [
+            2274,
+            2386
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "70adca98": {
+          "id": "occasions",
+          "index": [
+            2402,
+            2411
+          ],
+          "cIndex": [
+            2386,
+            2452
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "2b302bac": {
+          "id": "mourned",
+          "index": [
+            2591,
+            2598
+          ],
+          "cIndex": [
+            2506,
+            2639
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "5a948f33": {
+          "id": "brilliant",
+          "index": [
+            2619,
+            2628
+          ],
+          "cIndex": [
+            2506,
+            2639
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "a9b7772e": {
+          "id": "explanation",
+          "index": [
+            1344,
+            1355
+          ],
+          "cIndex": [
+            1279,
+            1384
+          ],
+          "visit": false,
+          "type": "word"
+        }
+      }
+    },
+    "rjbgz115f2073": {
+      "title": "HOW DO I KNOW MY STUDENTS?",
+      "lastPosi": 0,
+      "text": "As an educator, people often ask me how I know what is going on in the minds of my students. Many students are quite shy and don’t speak all that much. At the same time, in a classroom of more than forty students, it is hard to have many one-on-one conversations with each person. So, how can I really know what makes each student tick?\nMy answer? I look at their body language.\nIt is easy to recognise when students are interested in a lesson. Most tend to look up and make eye contact. When I make a joke, they smile. When I talk about something difficult, they look confused. I know when students are really interested, however, because they lean forward and look at me. People have a tendency to lean towards whatever they are interested in. So if a student has his head lowered to look at his watch, it implies he is bored and just counting the minutes for the class to end. If two friends are leaning their heads together, they are probably writing notes to each other. Of course, not everyone who looks up is paying attention in class.\nSome students look up, but there is an absence of eye contact. Their eyes barely move, and they always have the same distant expression on their faces. It is as though they are asleep with their eyes open.\nSome students are amused by something else. They spend all their time looking anywhere but at me. Then again, some students’ favourite activity is daydreaming. With their chins on their hands, they occupy themselves by staring out of the window or up at the ceiling. They are certainly interested in something, but who knows what. The main thing is reminding distracted students that they need to pay attention in class.\nWhile it is easy to perceive when students are interested, bored, or distracted, it is sometimes much harder to distinguish when students are troubled. Students who are angry, afraid, or experiencing anxiety may have their arms crossed in front of their chests and their legs closed or crossed, like they are guarding their bodies. Students who are sad or worried will nearly always wear a frown. They may also hide their faces in their hands like they are embarrassed or ashamed. Some students act this way merely because they are afraid of being called on by the teacher. However, if a student does not bother to brush her hair and her eyes are red from weeping, then I can infer that there are deeper issues at work. It could be that she is having serious conflicts with other students or at home. Whatever it is, I know I need to inquire and assess what is going on.\nUltimately, my duty is helping every student to learn. Their body language lets me know when to adjust class activities, when to intervene, and when to talk to students individually, so they can all get the most out of school. Reacting to body language is an important component of being a teacher.",
+      "words": {}
+    },
+    "rjbgz1175bee8": {
+      "title": "SAREK NATIONAL PARK —EUROPE’S HIDDEN NATURAL TREASURE",
+      "lastPosi": 0,
+      "text": "## A Summer Where the Sun Never Sleeps\nI wake up to the sound of the wind buffeting the cloth of my tent. Even though the sun is brightly shining, telling whether it is morning or night is impossible. Iʼm above the Arctic Circle, where in summer the sun never sets. Checking my watch, I see that it is 7:30 a. m. I leave my tent and walk over to the mountain edge. Spreading out before me, branches of the Rapa River flow through the valley below. I’m in the remote far north of Sweden in Sarek National Park, a place with no roads or towns.\n## A Land of Mountains and Ice\nSarek’s mountains used to be covered by vast sheets of ice. Around 9,000 years ago, this ice melted, leaving behind about 100 glaciers. Soon after, reindeer began to arrive. Following the reindeer were the Sami people, who made this territory their home. Getting here is quite difficult, so apart from the Sami very few people have ever seen Sarek. In 1909, Sarek was made a national park in order to keep the land in its natural state. Though the Sami are allowed to continue their traditional way of life in the park, no one else can live here, and all new development is banned within park boundaries. At the far side of the valley, an ancient Sami cottage is visible. Close by, there are a few reindeer feeding on grass.\n## Man at Peace with Nature\nFor hundreds of years, looking after reindeer was a way of life for the Sami. They used the reindeer’s meat for food, their bones for tools, and their skin for making clothes and tents. Since reindeer were always on the move, the Sami would pick up their tents and accompany them. Today, most Sami have houses in villages near Sarek and live a modern life just like their neighbours. But every spring, a small number of Sami still follow their reindeer into the valleys of Sarek, living in tents or old cottages and enjoying their traditions. I am not a Sami, but in Sarek I’ve adopted some of their habits. For example, this morning my breakfast is flat bread warmed over a fire, dried reindeer meat, and some sweet and sour berries that I found growing near my tent.\n## A Land of Adventure\nAfter breakfast, I pack my bag and set out again. Since I must carry all of my food and supplies with me, my bag weighs about 30 kilograms. If today is anything like yesterday, it will be full of sweat and hard work as I hike over this difficult land to my destination on the other side of the valley. However, I cannot complain. Being in such a beautiful and wild place makes me feel blessed to be alive. Here I am, alone under this broad sky, breathing the fresh air, and enjoying this great adventure. What could be better?",
+      "words": {}
+    },
+    "rjbgz11879340": {
+      "title": "TU YOUYOU AWARDED NOBEL PRIZE",
+      "lastPosi": 0.31599471382472827,
+      "text": "6 October 2015\n\nThis year’s Nobel Prize for Physiology or Medicine has been awarded to Tu Youyou (co-winner), whose research led to the discovery of artemisinin, a crucial new treatment for malaria. Artemisinin has saved hundreds of thousands of lives, and has led to improved health for millions of people. Over 200 million people around the world get malaria each year, and about 600,000 die from it. Artemisinin has become a vital part of the treatment for malaria, and is thought to save 100, 000 lives a year in Africa alone.\n\nTu Youyou, a committed and patient scientist, was born in Ningbo, China, on 30 December 1930, and graduated from Peking University Medical School in 1955. After she graduated, she worked at the China Academy of Traditional Chinese Medicine in Beijing. In 1967, the Chinese government formed a team of scientists with the objective of discovering a new treatment for malaria, and Tu Youyou was among the first researchers chosen. In the beginning, Tu Youyou went to Hainan, where malaria was more common, to study malaria patients. In 1969, she became the head of the project in Beijing, and decided to review ancient Chinese medical texts to find traditional botanical treatments for the disease. Her team examined over 2,000 old medical texts, and evaluated 280,000 plants for their medical properties. From their research, they discovered and tested 380 distinct ancient Chinese medical treatments that showed promise in the fight against malaria.\n\nOne medical text from the fourth century suggested using the extract from sweet wormwood to treat a fever. Tu’s team tested a collection of dried wormwood leaves but found no effect. They then tried boiling fresh wormwood, and using the liquid obtained from this to treat malaria, but this did not work either. Their project got stuck. However, Tu Youyou would not acknowledge defeat. She analysed the medical texts again, and by chance, she found one sentence suggesting a different way to treat the wormwood. She concluded that boiling the sweet wormwood apparently destroyed its medical properties.\n\nUsing a lower temperature to draw out the extract, she found a substance that worked. After failing more than 190 times, the team finally succeeded in 1971. Tu Youyou and her team members even insisted on testing the medicine on themselves to make sure that it was safe. Later, the medicine was tested on malaria patients, most of whom recovered. This medicine, which was called artemisinin, soon became a standard treatment for malaria.\n\nAccording to Tu Youyou, the discovery of artemisinin was a team effort. Upon hearing that she had been awarded the Nobel Prize, she said, “The honour is not just mine. There is a team behind me, and all the people of my country. This success proves the great value of traditional Chinese medicine. It is indeed an honour for China’s scientific research and Chinese medicine to be spread around the world.”\n",
+      "words": {
+        "c90b7908": {
+          "id": "artemisinin",
+          "index": [
+            149,
+            160
+          ],
+          "cIndex": [
+            16,
+            199
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "0f2ac584": {
+          "id": "crucial",
+          "index": [
+            164,
+            171
+          ],
+          "cIndex": [
+            16,
+            199
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "c5333929": {
+          "id": "treatment",
+          "index": [
+            176,
+            185
+          ],
+          "cIndex": [
+            16,
+            199
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "59b6d08a": {
+          "id": "malaria",
+          "index": [
+            190,
+            197
+          ],
+          "cIndex": [
+            16,
+            199
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "c049611e": {
+          "id": "committed",
+          "index": [
+            545,
+            554
+          ],
+          "cIndex": [
+            532,
+            687
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "704d4559": {
+          "id": "review",
+          "index": [
+            1134,
+            1140
+          ],
+          "cIndex": [
+            1063,
+            1229
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "f5bf924d": {
+          "id": "botanical",
+          "index": [
+            1191,
+            1200
+          ],
+          "cIndex": [
+            1063,
+            1229
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "f5db1b03": {
+          "id": "distinct",
+          "index": [
+            1388,
+            1396
+          ],
+          "cIndex": [
+            1336,
+            1481
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "81cbbbfc": {
+          "id": "wormwood",
+          "index": [
+            1563,
+            1571
+          ],
+          "cIndex": [
+            1483,
+            1590
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "0d0a657e": {
+          "id": "fever",
+          "index": [
+            1583,
+            1588
+          ],
+          "cIndex": [
+            1483,
+            1590
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "5ccfa02c": {
+          "id": "dried",
+          "index": [
+            1623,
+            1628
+          ],
+          "cIndex": [
+            1590,
+            1666
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "81ffd2ba": {
+          "id": "acknowledge",
+          "index": [
+            1848,
+            1859
+          ],
+          "cIndex": [
+            1819,
+            1868
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "ac5dfa79": {
+          "id": "defeat",
+          "index": [
+            1860,
+            1866
+          ],
+          "cIndex": [
+            1819,
+            1868
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "5e99d838": {
+          "id": "chance",
+          "index": [
+            1913,
+            1919
+          ],
+          "cIndex": [
+            1868,
+            1994
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "b88c7bec": {
+          "id": "concluded",
+          "index": [
+            1998,
+            2007
+          ],
+          "cIndex": [
+            1994,
+            2084
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "5e2a38fb": {
+          "id": "draw",
+          "index": [
+            2115,
+            2119
+          ],
+          "cIndex": [
+            2086,
+            2172
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "e64cf902": {
+          "id": "substance",
+          "index": [
+            2149,
+            2158
+          ],
+          "cIndex": [
+            2086,
+            2172
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "bf9c8460": {
+          "id": "Academy",
+          "index": [
+            732,
+            739
+          ],
+          "cIndex": [
+            687,
+            784
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "4ca807f0": {
+          "id": "properties",
+          "index": [
+            1324,
+            1334
+          ],
+          "cIndex": [
+            1229,
+            1336
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "e272abfd": {
+          "id": "properties",
+          "index": [
+            2073,
+            2083
+          ],
+          "cIndex": [
+            1994,
+            2084
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "099c4d52": {
+          "id": "insisted",
+          "index": [
+            2279,
+            2287
+          ],
+          "cIndex": [
+            2243,
+            2357
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "29c5ae35": {
+          "id": "Physiology",
+          "index": [
+            44,
+            54
+          ],
+          "cIndex": [
+            16,
+            199
+          ],
+          "visit": false,
+          "type": "word"
+        }
+      }
+    },
+    "rjbgz11935d8a": {
+      "title": "SHOULD WE FIGHT NEW TECHNOLOGY?",
+      "lastPosi": 0.08064187277406566,
+      "text": "This morning, I saw the shocking headline: “Passenger Dies When Car Crashes in Driverless Mode”. In the article, various people said that the public should oppose the idea of developing driverless cars. They said that some advances in technology were unnecessary and could even be dangerous. Hence, we should cease accepting technology just because it is new. The newspaper reported that the car company had already apologised for the accident, but the families of the deceased said it was not enough. Nevertheless, the company still claimed that most people would be travelling in driverless cars one day soon.\nOn the one hand, there are many different groups of people around the world who live happily in the absence of new technology. Probably the most well-known are the Amish, a group of Christians living in rural America. They do not own or drive cars, watch TV, or use the Internet. They have lived mainly as farmers since the 18th century, and they will probably be living the same way in the distant future. They advocate a simple life with an emphasis on hard work, family, and community. They think that is better than caring about luxuries or following the lives of the rich and famous. It could even be argued that the Amish’s quality of life is better since they live in and appreciate the natural environment rather than living in large, polluted cities.\nOn the other hand, new technology has provided people everywhere with many benefits over the years. For example, the latest weather-tracking computer programmes give people lots of warnings about potential natural disasters, which saves many lives. Moreover, the Internet has made it possible for friends and family to keep in touch easily even if they are on opposite sides of the world. It has also made finding opportunities in life much easier, as it allows people to make larger networks of friends through using social media.\nPersonally, I have benefited quite a lot from technological advances. I found my career as an AI designer through a social media network. My health monitor, which I wear all the time, has also helped me get into the best shape of my life. Of course, when new technology changes the way we live, it can be a scary prospect. Nevertheless, I will always look on the positive side of change and accept it rather than resist it.",
+      "words": {}
+    },
+    "rjbgz11ecb374": {
+      "title": "THEME PARKS--FUN AND MORE THAN FUN",
+      "lastPosi": 0,
+      "text": "Which theme park would you like to visit? There are various kinds of theme parks, with different parks for almost everything: food, culture, science, cartoons, movies, history, and so on. Some parks are famous for having the biggest or longest roller coasters, others for showing famous sights and sounds. Whichever and whatever you like, there is an incredible theme park that will appeal to you!\nThe theme park you are probably most familiar with is Disneyland, which can be found in several parts of the world. Disneyland will bring you into a magical world and make your childhood dreams come true. Travelling through space, visiting a pirate ship, or meeting an adorable fairytale or cartoon character are all possible at Disneyland. As you wander around the fantasy amusement park, you may see Snow White or Mickey Mouse in a parade or even on the street. Of course, Disneyland also has many exciting rides to amuse you, from enormous swinging ships to scary free- fall drops. If you want to have fun and more than fun, come to Disneyland!\nDollywood, in the beautiful Smoky Mountains in southeastern USA, is unique because it shows and celebrates America’s traditional southeastern culture. Famous country music groups put on performances there all year round, indoors and outdoors. People come from all over America to see skilled workers make wood, glass, and iron objects in the old-fashioned way. Visiting the candy shop and trying some of the same kind of candy that American southerners made 150 years ago is a rare experience. Riding on the only steam engine still working in the southeastern United States is a special treat. And for those who like rides, Dollywood has a superb old wooden roller coaster, Thunderhead. It is world-famous for having the longest track in the smallest space. Come to Dollywood to have fun learning all about America’s historical southeastern culture!\nChimelong Ocean Kingdom in Zhuhai, China, is one of the leading ocean-themed parks in the world. Here you can walk under the Whale Shark Aquarium—the world’s largest—and see up to 20,000 fish, in addition to a whale shark 68 metres in length. Watching the dolphin and sea lion shows is both educational and fun. Of course, you can also see all kinds of interesting animals, including polar bears. The park has more rides than you can imagine: join a water fight against pirates, get turned upside down by an exciting roller coaster, or get wet in one of the water rides! Then at night, see the splendid Journey of Lights Parade and fireworks display. Hungry? The park has plenty of restaurants with tasty food for every appetite—you can even eat while watching the fish swim by. If it is ocean entertainment that you are looking for, come to Chimelong Ocean Kingdom!",
+      "words": {}
+    },
+    "rjbgz12117c9a": {
+      "title": "JOHN SNOW DEFEATS “KING CHOLERA”",
+      "lastPosi": 0,
+      "text": "Cholera used to be one of the most feared diseases in the world, until a British doctor, John Snow, showed how it could be overcome. This illness causes severe diarrhoea, dehydration, and even death. In the early 19th century, when an outbreak of cholera hit Europe, millions of people died from the disease. As a young doctor, John Snow became frustrated because no one knew how to prevent or treat cholera. In time, he rose to become a famous doctor, and even attended to Queen Victoria when she gave birth. However, he never lost his desire to destroy cholera once and for all.\nIn general, doctors in those days had two contradictory theories to explain how cholera spread. One theory was that bad air caused the disease. The other was that cholera was caused by an infection from germs in food or water. Snow subscribed to the second theory. It was correct, but he still needed proof. Consequently, when an outbreak of cholera hit London in 1854, Snow began to investigate. He discovered that in two particular streets the cholera outbreak was so severe that more than 500 people died in ten days. He was determined to find out why.\nSnow began by marking on a map the exact places where all those who died had lived. There were multiple deaths near the water pump in Broad Street (especially house numbers 16, 37, 38, and 40). However, some households (such as 20 and 21 Broad Street, and 8 and 9 Cambridge Street) had had no deaths. These people worked in the pub at 7 Cambridge Street. They had been given free beer, and so had not drunk the water from the pump. Snow suspected that the water pump was to blame. What is more, in another part of London, a woman and her daughter had died of cholera after moving away from Broad Street. It seemed that the woman liked the water from the pump so much that she had it delivered to her house every day. As a result of this evidence, John Snow was able to announce that the pump water carried cholera germs. Accordingly, he had the handle of the pump removed so that it could not be used. Through this intervention, the disease was stopped in its tracks.\nThe truth was that the water from the Broad Street pump had been infected by waste. Moreover, Snow was later able to show a link between other cases of cholera and the different water companies in London. Some companies sold water from the River Thames that was polluted by raw waste. The people who drank this water were much more likely to get cholera than those who drank pure or boiled water.\nThrough Snow’s tireless efforts, water companies began to sell clean water, and the threat of cholera around the world saw a substantial decrease. However, cholera is still a problem. Each year, millions of people around the world get cholera and many die from it. Fortunately, we now know how to prevent cholera, thanks to the work of John Snow. Moreover, in his use of maps and statistics, Snow transformed the way scientists study diseases. For this reason, Snow is considered the father of modern epidemiology.",
+      "words": {}
+    },
+    "rjbgz121df2c6": {
+      "title": "STUDYING ABROAD: IS IT A GOOD OR A BAD IDEA?",
+      "lastPosi": 0,
+      "text": "## Letter Ⅰ\nDear Editor,\nIn the past few decades, there has been a dramatic increase in the number of people studying abroad. Although studying abroad can bring great benefits, I think the disadvantages for young people are greater.\nTo begin with, many students who study abroad face great economic pressure. That means studying abroad is just not possible for everyone. Tuition fees and living expenses are much more expensive than at home and could end up costing most families an arm and a leg. Studying in China is much more convenient and can help save money.\nAnother important factor to consider is the tremendous pressure that comes with studying abroad. Students must learn how to live in an unfamiliar environment with limited language skills. Some may struggle and suffer from culture shock when learning how to behave in new surroundings. Other students are not mature enough to handle the challenges by themselves and may become depressed. Some students might even encounter problems with personal safety. In addition, different approaches to teaching and learning may come as a shock to many students.\nA final point to consider is that while studying abroad does have potential benefits, young people who study in China also have a great future to look forward to! As China has boomed, the educational environment has improved significantly, with many great universities now available. They have great facilities and outstanding professors, helping to educate young people who will contribute to the economy and further strengthen our country.\nTo sum up, one cannot deny the fact that studying abroad has its disadvantages, so when you think about studying abroad, you should consider these many factors.\nKind regards,\nWang Li (mother of twin girls)\n\n## Letter Ⅱ\nDear Editor,\nIs studying abroad a good idea or not? There are certainly disadvantages, but in my opinion, the advantages are much greater. As I always tell my son, there are no great difficulties for a person who is brave, optimistic, and willing to work hard!\nThe first advantage of studying abroad is personal growth. The education you gain and the experiences you have will change you for the better. For example, you will certainly become more independent because you will have to deal with all kinds of difficulties by yourself. Studying abroad also helps you to gain a global perspective and improve your general competence.\nAnother advantage is the increased chance for cultural exchange. Chinese students can be seen as cultural envoys promoting friendship between nations. International students in China also bring their colourful cultures here. Cooperating with people from diverse cultural backgrounds helps us view the world from different angles and thus gives us more insight into our own culture.\nFinally, studying abroad provides a great opportunity to contribute to the development of our motherland. China’s global outlook, with projects such as the Belt and Road Initiative, has helped us make connections across the world. Therefore, China needs more talented young people with a global perspective who are highly competent with languages, have leadership and organisational skills, and have strong cultural awareness. Students who study abroad will develop such skills and abilities, and these in turn will provide them with better career opportunities.\nAll in all, studying abroad helps to build character and increase people’s understanding of cultural diversity while strengthening China and building a shared future for all. I think this life-changing experience is certainly worthwhile, and I hope my child will study abroad in the future.\nSincerely yours,\nZhang Yi (father of one boy)",
+      "words": {}
+    },
+    "rjbgz1240a6f1": {
+      "title": "CULTURE AND CUISINE",
+      "lastPosi": 0,
+      "text": "The French author Jean Anthelme Brillat-Savarin once wrote, “Tell me what you eat, and I will tell you what you are.” Put more simply, this means “You are what you eat.” Most people today relate this saying to healthy eating. However, Brillat-Savarin was actually referring to our personality, character, and culture.\nCertainly, in many ways this seems to be true. Chinese cuisine is a case in point. Prior to coming to China, my only experience with Chinese cooking was in America, with Chinese food that had been changed to suit American tastes. For example, America’s most popular Chinese dish is General Tso’s chicken, which consists of fried chicken covered in a sweet sauce, flavoured with hot red peppers. This is probably not an authentic Chinese recipe, however, so it cannot tell us much about the Chinese. On the other hand, it does tell us a lot about Americans. It tells us, for example, that Americans love bold, simple flavours. And, since the dish was also invented recently, it tells us that Americans are not afraid to try new foods.\nLater, I had a chance to experience authentic Chinese food by coming to China. When my family and I had just arrived in China, we went looking for a good place to eat in Beijing. A Sichuan restaurant had been recommended to us by a friend, and finally, we found it. Tired, hungry, and not knowing a word of Chinese, we had no idea how to order, so the chef just began filling our table with the best food we had ever eaten. With this, we had the pleasure of experiencing an entirely new taste: Sichuan peppercorns. The food was wonderful and different, but what was even more important was the friendship offered us.\nWe soon moved to Shandong Province in the eastern part of North China. My favourite dish there was boiled dumplings served with vinegar. I observed that family is important to the people there. It has become a favourite traditional dish of the people in North China, where making dumplings has always been a family affair with everyone—from the youngest to the oldest—joining in to help. Later, I learnt that the most famous food in Shandong is pancake rolls stuffed with sliced Chinese green onions.\nThen we moved to northern Xinjiang. Some of our friends were Kazak and Inner Mongolian. These groups traditionally wandered the open range on horses. As a result, their traditional foods are what you can cook over an open fire—usually boiled or roasted meat, such as lamb kebab.\nOur travels then took us to South China, and then on to central China. In each place we went, we experienced wonderful local dishes, from Guangdong’s elegant dim sum—small servings of food in bamboo steamers—to the exceptional stewed noodles in Henan. Everywhere, the food was as varied as the people. However, one thing is always true: Through food, Chinese people everywhere show friendship and kindness.\nAt a minimum, the kinds of food local people consume tell us what they grow in their region, what kinds of lives they lead, and what they like and do not like. Could we also say, for example, that those who like bold flavours are bold themselves? Or, that those who like spicy food tend to have a hot temper? Maybe. Maybe not. What we can say, however, is that culture and cuisine go hand in hand, and if you do not experience one, you can never really know the other.",
+      "words": {}
+    },
+    "rjbgz12445fe1": {
+      "title": "A WORLD OF PURE THOUGHT",
+      "lastPosi": 0,
+      "text": "Stephen Hawking was one of the most famous and gifted scientists in physics. Most people are familiar with images of him in his wheelchair, unable to move and using a computer to talk. Since he came down with a disease which caused him to lose the use of most of his muscles, his world became one of abstract thought.\nHawking first achieved fame when he was still healthy enough to walk, as a graduate student in physics at Cambridge University in 1964. In general, there were two main theories on the origin of the universe. The first was the steady state theory, which holds that the universe has no beginning or end. The other was the big bang theory, which holds that the universe began at a single point in time and space. The biggest champion of the steady state concept was Fred Hoyle, a professor at Cambridge. During the question and answer period after one of Hoyle’s lectures, Hawking stood up and pointed out that Hoyle had made a mistake in his maths. Once the maths was corrected, it showed that the big bang theory—and not the steady state theory— was true. Hawking’s own work on the big bang theory was soon proven by astronomers with telescopes. A star was born.\nSo, what made Stephen Hawking a genius? Besides being brilliant, he was brave, though sometimes careless in what he said or did. He was willing to say what others were afraid to say, and to dream of what others were afraid to dream about. Furthermore, he was quite determined. This had helped him as a scientist, and had helped him even more in his fight against his disease. Above all, Hawking was willing to admit his faults. This odd combination of characteristics had made him one of the greatest thinkers of the 20th and 21st centuries.",
+      "words": {}
+    },
+    "rjbgz12545573": {
+      "title": "HEALTHY EATING",
+      "lastPosi": 0,
+      "text": "There is much debate nowadays as to what makes up a healthy diet. For example, scientists have insisted for years that a big enemy of health is fatty food. However, there is increasing evidence that the real driver of poor health is not so much fatty food, as it is sugar. Heart disease is the number one killer of Americans. And in America, people who receive 25% of their daily calories or more through sugar are twice as likely to die from heart disease than people who receive less than 10% a day (Journal of the American Medical Association, 2014). This is true regardless of how healthy the rest of their diet might be. Put more simply, while people continue to argue over whether or not fatty food is dangerous, we already know that sugar is a killer.\nMuch of this extra sugar comes from sweets and sweet drinks. The average American gets 1/3 of his or her sugar through sweet drinks alone. The American Heart Association recommends that we limit ourselves to less than 100–150 calories a day from sugar, which is less than what is usually contained in one can of sweet drink or in a single candy bar. In other words, if you want to be healthy, you have to cut down on desserts, and cut out sweet drinks altogether.\nBeyond this, you can keep healthy by consuming different categories of fresh foods, especially fruit and vegetables, which are full of vitamins and fibre, rather than processed foods. Processed foods often contain less nutrition, and have higher quantities of sugar, salt, and fat than fresh ingredients. Besides this, it is also important to have some meat, beans, or dairy products in your diet, as they provide the necessary protein for strong bones and muscle growth. As with everything in life, moderation is key. The ideal diet is a balanced one, without too much or too little of any one thing.\nFinally, a fundamental key to healthy eating is to eat slowly. It takes about twenty minutes from the time you start eating for your brain to tell your body that you are full. What this means is that people who chew too quickly end up eating too much food because they still feel hungry. Eating slowly also allows your body to digest your food better, and will allow you to enjoy your food more. In addition, studies show that consistent eating habits, for example, taking three meals a day at the same time each day, are better for our health. It is also better to eat a modest amount of food each time, rather than to eat a lot in one meal, and then a little in the next.\nThere is no one trick to healthy eating. Rather, healthy eating starts with having a healthy attitude towards food. One question you can ask yourself is, “Do I eat to live, or live to eat?” If you are using food mostly for nutrition, then you are on the right track with your diet. However, if food has become the centre of your life, you might be on the road to bad health. It is up to you to decide how you want to live, and to make the right decisions about your diet.",
+      "words": {}
+    },
+    "rjbgz125b7996": {
+      "title": "FIRST AID FOR BURNS",
+      "lastPosi": 0,
+      "text": "The skin is an essential part of your body and is its largest organ. Your skin acts as a barrier against disease, toxins, and the sun’s rays. It also helps control your body temperature, prevents your body from losing too much water, warns you when things are too hot or cold, and gives you your sense of touch. As you can imagine, getting burnt can lead to very serious injuries. The first and most important step in the treatment of burns is giving first aid.\n## CAUSES OF BURNS\nYou can get burnt by a variety of things: hot liquids, steam, fire, radiation, the sun, electricity, acids, or other chemicals.\n## TYPES OF BURNS\nBurns are divided into three types, depending on the depth of skin damage.\n\n• First-degree burns: These affect only the top few millimetres of the skin. These burns are not serious. Examples include mild sunburn and burns caused by other minor household incidents.\n• Second-degree burns: These go below the top layer of the skin. They are serious and take a few weeks to get better. Examples include burns caused by hot liquids.\n• Third-degree burns: These affect every layer of the skin, and sometimes the tissue under it. Examples include burns caused by electric shocks, burning clothes, or petrol fires. These burns cause very severe internal injuries and the victim must go to the hospital at once.\n## CHARACTERISTICS OF BURNS\n### First-degree burns\n• dry, red, and mildly swollen\n• mildly painful\n• turn white when pressed\n### Second-degree burns\n• red and swollen; blisters; watery surface\n• extremely painful\n### Third-degree burns\n• black and white \n• swollen; the tissue underneath can often be seen\n• little or no pain if nerves are damaged; may be painful around the edges of the burn\n\n## FIRST-AID TREATMENT\n1 Place burns under cool running water, especially within the first ten minutes. The cool water stops the burning process and reduces the pain and swelling.\n2 Dry the burnt area gently with a clean cloth.\n3 Remove any clothes using scissors if necessary, unless you see the fabric sticking to the burnt skin.\n4 Cover the burnt area with a loose clean cloth. Applying oil to the injured areas is a bad idea, as it will keep the heat in the wounds and may cause infection.\n5 If burns are on the face, make sure the victim can still breathe.\n6 If the victim is suffering from second or third-degree burns, there is an urgent need to take him/her to the hospital at once.",
+      "words": {}
+    },
+    "rjbgz1299fd72": {
+      "title": "SEEING THE TRUE NORTH VIA RAIL: TORONTO AND MONTREAL",
+      "lastPosi": 0,
+      "text": "After Li Daiyu and her cousin arrived in Toronto, the largest and wealthiest city in Canada, they only had a few hours to kill before they had to proceed to the next leg of their trip to Montreal, so they went on a tour of the city. They went up the CN Tower and looked across the shores of Lake Ontario. Standing in the distance, they were astonished to see misty clouds rising from the great Niagara Falls, which is on the south side of the lake. Water from the lake flows into the Niagara River and over the falls on its way to the sea.\nThe girls saw hundreds of skyscrapers of glass and steel, and old-fashioned cars rolling by. As they walked north from the harbour area, Li Daiyu said, “Lin Fei, one of my mother’s old schoolmates, lives here. I should phone her and see if she’s available for dinner.”\nThey met Lin Fei around dusk over dinner at a restaurant in downtown Chinatown. The cousins chatted with Lin Fei, who had moved to Canada many years earlier.\n“This is the largest Chinatown in Toronto. We have a few more in the Greater Toronto Area, so you can guess that there are a lot of Chinese people in Canada! Chinese people have been coming here for more than a hundred years. Therefore, we can get all kinds of great food here from all over China,” Lin Fei told them.\nThe train left late that night and arrived in Montreal early the next morning. At the station, in contrast to Toronto, they heard people talking in French. They were surprised to see that all the signs and advertisements were in French and many people spoke English with an accent.\n“We don’t leave until this evening,” said Liu Qian. “Let’s go downtown. Old Montreal is close to the water.”\nThey spent the afternoon in lovely shops and visiting artists in their workplaces along St Paul Street. As they sat in a restaurant alongside the broad St Lawrence River, a young man sat down with them.\n“Hello, my name is Jean-Philippe. I’m a photographer,” he said, “and I was wondering where you are from.”\nThe girls told him they were from China and were on a train trip across Canada. When they told him they had only one day in Montreal, he said, “That’s too bad. You owe it to yourselves to stay longer. Overall, Montreal is a city with wonderful sights and sounds. Most of us speak both English and French, and the city has unique Quebec culture and traditions. There are fantastic restaurants and clubs around, too. Here, we love good coffee, toast, and cheese. And good music, of course!”\nThat night the train was speeding along the St Lawrence River towards the Gulf of St Lawrence and down to the distant east coast towards the province of Nova Scotia and its largest city, Halifax. The cousins dreamt happily of the beautiful cobblestone streets, old brick buildings, and the red maple leaves of Montreal.",
+      "words": {}
+    },
+    "rjbgz129c956a": {
+      "title": "“WELCOME, XIE LEI!” BUSINESS STUDENT BUILDING BRIDGES",
+      "lastPosi": 0,
+      "text": "Six months ago, 19-year-old Xie Lei said goodbye to her family and friends and boarded a plane for London. It was the first time that she had left China.\n“I was very excited but also quite nervous. I didn’t know what to expect,” Xie Lei recalled.\nXie Lei is studying for a business qualification at a university in China and has come to our university on a year-long exchange programme. “I chose the exchange programme because I wanted to learn about global business and improve my English. My ambition is to set up a business in China after graduation,” she explained.\nAt first, Xie Lei had to adapt to life in a different country. “You have to get used to a whole new life,” she said. “I had to learn how to use public transport and how to ask for things I didn’t know the English names for. When I got lost, I had to ask passers-by for help, but people here speak fast and use words I’m not familiar with. I ask them to repeat themselves a lot!”\nAlthough some foreign students live in campus accommodation, Xie Lei chose to live with a host family, who can help with her adaptation to the new culture. “When I miss home, I feel comforted to have a second family,” Xie Lei said. “When there’s something I don’t know or understand, I can ask them. They are also keen to learn about China. Laura, the daughter of my host family, wants to study in China in the future. We take turns to cook each evening. They really love my stir-fried tomatoes and eggs! Laura says she always feels hungry when she smells it, so I taught her how to cook it, too.”\nAnother challenge for Xie Lei is the academic requirements. The first time that she had to write an essay, her tutor explained that she must acknowledge what other people had said if she cited their ideas, but that he mainly wanted to know what she thought! Xie Lei was confused because she thought she knew less than other people. Her tutor advised her to read lots of information in order to form a wise opinion of her own.\nXie Lei also found many courses included students’ participation in class as part of the final result. Students need to generate ideas, offer examples, apply concepts, and raise questions, as well as give presentations. At first, Xie Lei had no idea what she should say, but what surprised her was that she found herself speaking up in class after just a few weeks. “My presentation on traditional Chinese art was a great success, which boosted my confidence,” she said. “I’ll use these skills back home for presentations. They’ll help me build a strong business in the future.”\nNow halfway through her exchange year, Xie Lei feels much more at home in the UK. What seemed strange before now appears quite normal to her.“Engaging in British culture has helped,” she said.“As well as studying hard, I’ve been involved in social activities. British people are fascinated by our culture and eager to learn more about it, so I’m keen to share my culture with them. While I’m learning about business, I’m also acting as a cultural messenger building a bridge between us.”\nWe will follow Xie Lei’s progress in later editions, but for now, we wish her all the best.",
+      "words": {}
+    },
+    "rjbgz12b2e179": {
+      "title": "STORY ABOUT PROVIDING FIRST AID",
+      "lastPosi": 0,
+      "text": "Chen Wei, a high school student in Beijing, had his dinner interrupted when he heard someone screaming from another table. A fellow diner at the restaurant, Zhang Tao, was choking on some steak. He was now holding his throat with his face turning red, while his desperate friends were slapping him on the back.\nChen wasted no time. He got up and ran to Zhang’s table at once. With the help of Zhang’s friends, he was able to help Zhang to his feet. Then, standing behind Zhang, Chen did the Heimlich manoeuvre. The food was instantly forced out, and Zhang began to breathe again. Ten minutes later, an ambulance arrived. The doctors checked Zhang and made sure that he was fine. They suggested he eat more slowly and take smaller bites before they left.\nChoking victims usually have only about four minutes before they collapse and sometimes die, leaving no time for an ambulance to arrive. To solve this problem, in 1974, an American doctor, Henry Heimlich, created the Heimlich manoeuvre, saving thousands of lives around the world. Doing the Heimlich manoeuvre is quick, practical, and easy. It is so easy, in fact, that almost anyone can learn how.\nIf you see someone choking, first call the emergency services. Then, make sure that the victim is really choking: A choking person cannot speak. Slapping the victim’s back will often force out the obstruction. If this does not work, you can perform the Heimlich manoeuvre by standing behind him and wrapping your arms around his waist. Make a fist with one hand and place it in the upper part of his stomach. Grabbing your fist with your other hand tightly, push up and into his stomach in one motion. Continue doing this until the obstruction is forced out.\nDoing the Heimlich manoeuvre on a small child is not recommended, as you may hurt him. Instead, lay the child face down on your lap with the head lower than the rest of his body, and then give firm slaps to his upper back until he can breathe again.\nWith choking victims, every minute counts. You cannot just stand by and do nothing. Luckily, Chen had learnt how to give first aid in school. Seeing Zhang choking, he remained calm and reacted immediately. Chen later said about the incident, “How could I justify sitting there and doing nothing? We are all humans and we all have a responsibility to look after one another’s welfare.”",
+      "words": {}
+    },
+    "rjbgz12cc009e": {
+      "title": "SEEING THE TRUE NORTH VIA RAIL: VANCOUVER AND THE HEART OF CANADA",
+      "lastPosi": 0,
+      "text": "Li Daiyu and her cousin Liu Qian went to Canada to visit their cousins in Halifax on the Atlantic coast. Rather than travel by commercial airline all the way, they decided to fly to Vancouver and then take whole the country train. For both of them, the thought of crossing the whole country by rail was of exciting.\nBefore starting out, they spent a couple of days in Vancouver, seeing the sights. During their first day, as is typical of Vancouver, it rained. Despite the weather, they were able to take a boat ride out into the bay, and later visit an island that had wonderful shops selling crafts and antiques. The next day was clear and mild, and they were pleased to see the beautiful mountains looking out over the city. Later, they took a pleasant hike in a forest just a short distance away.\nThe next morning, the two girls arose early to take the train to Lake Louise, passing through the Canadian Rockies. Seen from the train window, the mountains and forests of Canada looked massive. When the train arrived at the station, they took a taxi to Lake Louise, where the blue water literally took their breath away with its exceptional beauty. They spent the night, and then took a coach bound north through the Canadian Rockies to Jasper. Looking at the beautiful scenery, they both agreed that it was the most awesome journey they had ever taken. In addition to seeing spectacular mountain peaks and forests, one highlight of their trip was being able to see many different creatures, including deer, mountain goats, and even a grizzly bear and an eagle.\nFrom Jasper, they caught the train towards Toronto. One of the train’s first stops was in Edmonton, the provincial capital of Alberta, the centre of Canada’s huge oil and gas drilling industry. Edmonton is freezing cold in winter, with daily temperatures averaging -10 ̊C. Since it can be too cold to go outdoors, Edmonton is home to many shopping malls. In fact, one of the largest shopping malls in North America is in Edmonton.\nFrom Edmonton, the train headed southeast across the great Canadian Prairie. At school, Daiyu and Liu Qian had learnt that Canada’s population is only slightly over thirty-seven million. However, they did not anticipate seeing such an open country, and were truly amazed. They went through two wheat-growing provinces, where they saw a bunch of farms that covered a very large area.\nAfter another day on the train, eventually they were back in an urban area, the city of Winnipeg. From there, they travelled through the night, and woke up in Ontario—a land of forests and lakes. The train thundered on, through the rolling hills. The bushes and maple trees outside their windows were red, gold, and orange, and there was frost on the ground, confirming that autumn had arrived in Canada. Night came again, and the train turned south towards Toronto. When they woke up the next morning and pulled back the curtain, they could see the wide stretch of Lake Huron—one of the four Great Lakes on Ontario’s southern border. It was not until 9:30 a. m. that they finally reached the capital of Ontario, Toronto. All in all, their trip from Vancouver to Toronto had taken a duration of four days.",
+      "words": {}
+    },
+    "rjbgz12e3fab8": {
+      "title": "THE FATHER OF CHINA’S AEROSPACE",
+      "lastPosi": 0,
+      "text": "\nPerhaps no other scientist has had a greater impact on China’s aerospace science than Qian Xuesen. Described by the authors of the Story of Qian Xuesen as a man with “great scientific thought and scientific spirit” who was patriotic and served his homeland with effort, achievement, and devotion, Qian was an extremely well-respected man.\nBorn in Shanghai in 1911, Qian attended schools in Beijing and then entered Shanghai Jiao Tong University to study Railway Mechanical Engineering. However, after the Songhu Battle broke out in 1932, Qian made the decision to switch his major to aviation because he realised that China needed its own powerful air force to protect and defend the country.\nQian went to the United States in 1935 to pursue his graduate studies. Over the course of the 1930s and 1940s, Qian became a pioneer in American jet and rocket technology. As a graduate assistant at the California Institute of Technology during the 1930s, Qian helped conduct important research into rocket propulsion,\nand in the 1940s, he and several other people founded the Jet Propulsion Laboratory, now one of NASA’s leading space-exploration centres.\nAfter overcoming some difficulties during his final few years in the US, Qian returned to China in 1955. He received a hero’s welcome from his homeland and was put in charge of not only developing China’s rocket science but also its space and missile programme. At that time, China was poor and its rocket science was undeveloped. No institute or university in China offered rocket science as a major, and there were no talents or experts in this field in China. Nevertheless, Qian did not let that discourage him from taking on the challenge. When asked “Can we Chinese possibly make missiles?”, his reply was a determined “Why not? We Chinese are able to make the same things that other people make.”\nUnder Qian’s leadership, China developed the Dongfeng missiles, followed by the first generation of Long March rockets. In 1970, China successfully launched its first man-made satellite, Dong Fang Hong I, from a Long March rocket. Because much of the technology behind the Shenzhou rockets can also be traced back to Qian’s research, Qian earned the name of “the father of China’s aerospace”.\nQian read a lot and was extremely knowledgeable, especially in the area of frontier science research. However, what might have made him such an outstanding and creative scientist was probably his strong interest in other things, such as music and drawing. His deep appreciation for art often gave him inspiration in his scientific research.\nOn 31 October 2009, the whole country was saddened by Qian’s death, and people honoured and remembered him in different ways.",
+      "words": {}
+    },
     "rjbgz2104b210": {
       "title": "THE MOST MAGNIFICENT SPECTACLE ON EARTH",
       "lastPosi": 0,
@@ -10582,6 +11618,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-04-11T11:12:53.316Z"
+    },
+    "0e6fa258": {
+      "due": "2024-04-16T15:54:47.433Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-16T15:54:47.433Z"
     },
     "0ef5f67d": {
       "due": "2024-07-02T03:22:28.861Z",
@@ -13640,6 +14687,17 @@
       "lapses": 0,
       "state": 0,
       "last_review": "2024-03-31T03:49:36.583Z"
+    },
+    "7be2b06d": {
+      "due": "2024-04-16T16:24:31.548Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-16T16:24:31.548Z"
     },
     "7c1dcf64": {
       "due": "2024-05-05T12:48:18.252Z",
@@ -39926,6 +40984,15 @@
       },
       "trans": "除了在大学教授之外，彼得还利用社交媒体分享视频，将幽默、文化和基础级别的对话结合起来，帮助教授达科他语。"
     },
+    "0e6fa258": {
+      "text": "That same year, which was later recorded as a miracle year in science, he published four extraordinary physics papers. ",
+      "source": {
+        "book": "rjbgz11",
+        "sections": "rjbgz11570a2c",
+        "id": "b9f09c21"
+      },
+      "trans": ""
+    },
     "147a2b73": {
       "text": "More young people have come to him to learn the craft，and his youngest son，who is 31，has followed in his footsteps to carry on the tradition",
       "source": {
@@ -39979,6 +41046,15 @@
         "id": "385e18db"
       },
       "trans": "例如，牛津大学出版社几年前推出了牛津全球语言项目。"
+    },
+    "7be2b06d": {
+      "text": "He had a thick moustache and long white hair, which sometimes stood on end as though he had just received an electric shock. ",
+      "source": {
+        "book": "rjbgz11",
+        "sections": "rjbgz11570a2c",
+        "id": "de0cf580"
+      },
+      "trans": ""
     },
     "8402ad05": {
       "text": "However，when he is in college，his grades are not so outstanding among academically gifted students much like himself，if not better",
@@ -68328,6 +69404,18 @@
     },
     "1713278287363": {
       "cardId": "6b92491b",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713282887433": {
+      "cardId": "0e6fa258",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713284671548": {
+      "cardId": "7be2b06d",
       "rating": null,
       "state": null,
       "duration": null
