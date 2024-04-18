@@ -244,7 +244,7 @@
       "id": "rjbgz11",
       "language": "en",
       "type": "text",
-      "updateTime": 1713403774224,
+      "updateTime": 1713427084405,
       "note": "todo word book",
       "cover": "rjbgz/11.svg",
       "sections": [
@@ -259,9 +259,9 @@
         "rjbgz1152c449",
         "rjbgz110d1e03"
       ],
-      "visitTime": 1713402500857,
+      "visitTime": 1713432045575,
       "canEdit": false,
-      "lastPosi": 7
+      "lastPosi": 8
     },
     "rjbgz12": {
       "name": "人教版高中选择性必修二",
@@ -283,6 +283,29 @@
         "rjbgz1299fd72",
         "rjbgz125b7996",
         "rjbgz12b2e179"
+      ],
+      "visitTime": 0,
+      "canEdit": false,
+      "lastPosi": 0
+    },
+    "rjbgz13": {
+      "name": "人教版高中选择性必修三",
+      "id": "rjbgz13",
+      "language": "en",
+      "type": "text",
+      "updateTime": 0,
+      "note": "todo word book",
+      "cover": "rjbgz/13.svg",
+      "sections": [
+        "rjbgz1356d831",
+        "rjbgz13608021",
+        "rjbgz136e35d8",
+        "rjbgz13a7a218",
+        "rjbgz1372f928",
+        "rjbgz13b62464",
+        "rjbgz13a6b0da",
+        "rjbgz133da3c0",
+        "rjbgz13b4c418"
       ],
       "visitTime": 0,
       "canEdit": false,
@@ -7689,7 +7712,7 @@
     "ignore": {
       "title": "ignore",
       "lastPosi": 0.19024115843147218,
-      "text": "a\nan\nabout\nabove\nacross\naction\nactivity\nactor\nactress\nadd\naddress\nadult\nadvice\nafraid\nafter\nafternoon\nagain\nage\nago\nagree\nair\nairport\nall\nalso\nalways\namazing\nand\nangry\nanimal\nanother\nanswer\nany\nanyone\nanything\napartment\napple\nApril\narea\narm\naround\narrive\nart\narticle\nartist\nas\nask\nat\nAugust\naunt\nautumn\naway\nbaby\nback\nbad\nbag\nball\nbanana\nband\nbank\nbath\nbathroom\nbe\nbeach\nbeautiful\nbecause\nbecome\nbed\nbedroom\nbeer\nbefore\nbegin\nbeginning\nbehind\nbelieve\nbelow\nbest\nbetter\nbetween\nbicycle\nbig\nbike\nbill\nbird\nbirthday\nblack\nblog\nblonde\nblue\nboat\nbody\nbook\nboot\nbored\nboring\nborn\nboth\nbottle\nbox\nboy\nboyfriend\nbread\nbreak\nbreakfast\nbring\nbrother\nbrown\nbuild\nbuilding\nbus\nbusiness\nbusy\nbut\nbutter\nbuy\nby\nbye\ncafe\ncake\ncall\ncamera\ncan\ncannot\ncapital\ncar\ncard\ncareer\ncarrot\ncarry\ncat\nCD\ncent\ncentre\ncentury\nchair\nchange\nchart\ncheap\ncheck\ncheese\nchicken\nchild\nchocolate\nchoose\ncinema\ncity\nclass\nclassroom\nclean\nclimb\nclock\nclose\nclothes\nclub\ncoat\ncoffee\ncold\ncollege\ncolour\ncome\ncommon\ncompany\ncompare\ncomplete\ncomputer\nconcert\nconversation\ncook\ncooking\ncool\ncorrect\ncost\ncould\ncountry\ncourse\ncousin\ncow\ncream\ncreate\nculture\ncup\ncustomer\ncut\ndad\ndance\ndancer\ndancing\ndangerous\ndark\ndate\ndaughter\nday\ndear\nDecember\ndecide\ndelicious\ndescribe\ndescription\ndesign\ndesk\ndetail\ndialogue\ndictionary\ndie\ndiet\ndifference\ndifferent\ndifficult\ndinner\ndirty\ndiscuss\ndish\ndo\ndoctor\ndog\ndollar\ndoor\ndown\ndownstairs\ndraw\ndress\ndrink\ndrive\ndriver\nduring\nDVD\neach\near\nearly\neast\neasy\neat\negg\neight\neighteen\neighty\nelephant\neleven\nelse\nemail\nend\nenjoy\nenough\neuro\neven\nevening\nevent\never\nevery\neverybody\neveryone\neverything\nexam\nexample\nexcited\nexciting\nexercise\nexpensive\nexplain\nextra\neye\nface\nfact\nfall\nfalse\nfamily\nfamous\nfantastic\nfar\nfarm\nfarmer\nfast\nfat\nfather\nfavourite\nFebruary\nfeel\nfeeling\nfestival\nfew\nfifteen\nfifth\nfifty\nfill\nfilm\nfinal\nfind\nfine\nfinish\nfire\nfirst\nfish\nfive\nflat\nflight\nfloor\nflower\nfly\nfollow\nfood\nfoot\nfootball\nfor\nforget\nform\nforty\nfour\nfourteen\nfourth\nfree\nFriday\nfriend\nfriendly\nfrom\nfront\nfruit\nfull\nfun\nfunny\nfuture\ngame\ngarden\ngeography\nget\ngirl\ngirlfriend\ngive\nglass\ngo\ngood\ngoodbye\ngrandfather\ngrandmother\ngrandparent\ngreat\ngreen\ngrey\ngroup\ngrow\nguess\nguitar\ngym\nhair\nhalf\nhand\nhappen\nhappy\nhard\nhat\nhate\nhave\nhave to\nhe\nhead\nhealth\nhealthy\nhear\nhello\nhelp\nher\nhere\nhey\nhi\nhigh\nhim\nhis\nhistory\nhobby\nholiday\nhome\nhomework\nhope\nhorse\nhospital\nhot\nhotel\nhour\nhouse\nhow\nhowever\nhundred\nhungry\nhusband\nI\nice\nice cream\nidea\nif\nimagine\nimportant\nimprove\nin\ninclude\ninformation\ninterest\ninterested\ninteresting\ninternet\ninterview\ninto\nintroduce\nisland\nit\nits\njacket\nJanuary\njeans\njob\njoin\njourney\njuice\nJuly\nJune\njust\nkeep\nkey\nkilometre\nkind\nkitchen\nknow\nland\nlanguage\nlarge\nlast\nlate\nlater\nlaugh\nlearn\nleave\nleft\nleg\nlesson\nlet\nletter\nlibrary\nlie\nlife\nlight\nadj.\nlike\nlike\nline\nlion\nlist\nlisten\nlittle\nlive\nlocal\nlong\nlook\nlose\nlot\nlove\nlunch\nmachine\nmagazine\nmain\nmake\nman\nmany\nmap\nMarch\nmarket\nmarried\nmatch\nMay\nmaybe\nme\nmeal\nmean\nmeaning\nmeat\nmeet\nmeeting\nmember\nmenu\nmessage\nmetre\nmidnight\nmile\nmilk\nmillion\nminute\nmiss\nmistake\nmodel\nmodern\nmoment\nMonday\nmoney\nmonth\nmore\nmorning\nmost\nmother\nmountain\nmouse\nmouth\nmove\nmovie\nmuch\nmum\nmuseum\nmusic\nmust\nmy\nname\nnatural\nnear\nneed\nnegative\nneighbour\nnever\nnew\nnews\nnewspaper\nnext\nnext to\nnice\nnight\nnine\nnineteen\nninety\nno\nno one\nnobody\nnorth\nnose\nnot\nnote\nnothing\nNovember\nnow\nnumber\nnurse\nobject\no’clock\nOctober\nof\noff\noffice\noften\noh\nOK\nold\non\nonce\none\nonion\nonline\nonly\nopen\nopinion\nopposite\nor\norange\norder\nother\nour\nout\noutside\nover\nown\npage\npaint\npainting\npair\npaper\nparagraph\nparent\npark\npart\npartner\nparty\npassport\npast\npay\npen\npencil\npeople\npepper\nperfect\nperiod\nperson\npersonal\nphone\nphoto\nphotograph\nphrase\npiano\npicture\npiece\npig\npink\nplace\nplan\nplane\nplant\nplay\nplayer\nplease\npoint\npolice\npoliceman\npool\npoor\npopular\npositive\npossible\npost\npotato\npound\npractice\npractise\nprefer\nprepare\npresent\npretty\nprice\nprobably\nproblem\nproduct\nprogramme\nproject\npurple\nput\nquarter\nquestion\nquick\nquickly\nquiet\nquite\nradio\nrain\nread\nreader\nreading\nready\nreal\nreally\nreason\nred\nrelax\nremember\nrepeat\nreport\nrestaurant\nresult\nreturn\nrice\nrich\nride\nright\nriver\nroad\nroom\nroutine\nrule\nrun\nsad\nsalad\nsalt\nsame\nsandwich\nSaturday\nsay\nschool\nscience\nscientist\nsea\nsecond\nnumber\nsecond\nsection\nsee\nsell\nsend\nsentence\nSeptember\nseven\nseventeen\nseventy\nshare\nshe\nsheep\nshirt\nshoe\nshop\nshopping\nshort\nshould\nshow\nshower\nsick\nsimilar\nsing\nsinger\nsister\nsit\nsituation\nsix\nsixteen\nsixty\nskill\nskirt\nsleep\nslow\nsmall\nsnake\nsnow\nso\nsome\nsomebody\nsomeone\nsomething\nsometimes\nson\nsong\nsoon\nsorry\nsound\nsoup\nsouth\nspace\nspeak\nspecial\nspell\nspelling\nspend\nsport\nspring\nstand\nstar\nstart\nstatement\nstation\nstay\nstill\nstop\nstory\nstreet\nstrong\nstudent\nstudy\nstyle\nsubject\nsuccess\nsugar\nsummer\nsun\nSunday\nsupermarket\nsure\nsweater\nswim\nswimming\ntable\ntake\ntalk\ntall\ntaxi\ntea\nteach\nteacher\nteam\nteenager\ntelephone\ntelevision\ntell\nten\ntennis\nterrible\ntest\ntext\nthan\nthank\nthanks\nthat\nthe\ntheatre\ntheir\nthem\nthen\nthere\nthey\nthing\nthink\nthird\nthirsty\nthirteen\nthirty\nthis\nthousand\nthree\nthrough\nThursday\nticket\ntime\ntired\ntitle\nto\ntoday\ntogether\ntoilet\ntomato\ntomorrow\ntonight\ntoo\ntooth\ntopic\ntourist\ntown\ntraffic\ntrain\ntravel\ntree\ntrip\ntrousers\ntrue\ntry\nT-shirt\nTuesday\nturn\nTV\ntwelve\ntwenty\ntwice\ntwo\ntype\numbrella\nuncle\nunder\nunderstand\nuniversity\nuntil\nup\nupstairs\nus\nuse\nuseful\nusually\nvacation\nvegetable\nvery\nvideo\nvillage\nvisit\nvisitor\nwait\nwaiter\nwake\nwalk\nwall\nwant\nwarm\nwash\nwatch\nwater\nway\nwe\nwear\nweather\nwebsite\nWednesday\nweek\nweekend\nwelcome\nwell\nwest\nwhat\nwhen\nwhere\nwhich\nwhite\nwho\nwhy\nwife\nwill\nwin\nwindow\nwine\nwinter\nwith\nwithout\nwoman\nwonderful\nword\nwork\nworker\nworld\nwould\nwrite\nwriter\nwriting\nwrong\nyeah\nyear\nyellow\nyes\nyesterday\nyou\nyoung\nyour\nyourself\nare\nless\nsince\nis\ncell\nrather\nstore\nwhile\nzero\nlevel\nsocial\nmedia\nyouth\nknowledge\nsafe\nendless\nvocabulary\npath\nprize\nowner\ncatch\nhold\nfocus\nstandard\ncontinue\npass\ngrade\nactive\nscore\nlimit\nbase\nrequire\ncover\nprogram\nexperience\ngraduate\nenter\nalthough\nevaluation\nnative\nsubmit\naid\ntotal\nprovide\nimpact\ncloth\nfreeze\nsolid\nserious\nfinger\nsystem\nteenage\nbehavior\nlink\nimage\nappear\nthemselves\nheavily\nedit\nselect\nanxiety\nauthor\nworry\nkid\ncourage\ndevelop\ndepend\nseem\nalone\nhardly\nmyself\noperation\nsupport\nsimple\ndeeply\nsilence\nvarious\nheart\nfriendship\nwooden\nconsider\ncontrol\nspeed\nlaunch\noption\nnation\nnature\nbenefit\nallow\nenvironment\naim\nincrease\nthese\nvital\nalready\nchoice\ntraditional\nwarn\ndeath\nclimate\nhuman\nstorm\ntemperature\nsuch\nthose\nobserve\nocean\nfrequency\nsimply\nsave\nuniverse\ncash\nnecessary\nmethod\nsociety\nnuclear\nwar\nearthquake\nhuge\ntsunami\ncause\nreflect\norigin\ngoal\nitself\npurpose\nsource\nsearch\nadvise\npick\nbattle\nwhether\ndanger\nmoreover\nendanger\nfight\nanywhere\nstep\ntool\nprotect\nupdate\nnumerous\ncomeback\nglobal\nelement\nhighlight\nlantern\ntorch\nsky\necho\ncheer\ntheme\nwheel\ntechnology\nsymbol\nfortune\nbranch\nbeauty\nking\nplastic\nsize\nlocate\nremote\ndesert\ndeliver\nalmost\ncolor\nrise\ndoll\nhole\nneighbor\ntrack\nlady\nthrow\ndegree\nmemory\ncase\nintelligence\nmeasure\nmental\ncontribute\nquality\nbeyond\neither\nability\npublic\nfunction\neveryday\ngift\nhimself\nexcept\nstable\nourselves\navoid\nfailure\nfail\nabandon\nexcuse\ncharacter\nemotion\nintelligent\neffect\ncite\nceremony\nadvance\nvision\ncloud\npeace\ncarbon\nfootprint\nenergy\nplatform\ntarget\nsometime\npopulation\nwhole\nshut\nexplore\nsweep\nconfuse\nmind\nconflict\nsolve\nbeat\nwish\nattach\nhill\nslide\nrock\ntransport\nfur\nresponse\ntradition\ncenter\ndeep\nconnect\nthough\nclear\nproduce\ntruck\nshortcut\nabsence\ntourism\ndream\nmoon\nneither\nadventure\npassenger\nenable\nview\nexpect\nancient\nengine\nrocket\nafford\nlayer\nconfidence\nresearch\nmay\nattract\nseek\nmark\ncap\nedge\nexist\nliquid\ninspire\nacademic\noffer\nrole\nencourage\nattention\ncollect\nvalue\nsingle\nsolar\nclick\napp\ndigital\nissue\nexpert\ndata\nlack\nlock\nthus\nuser\nable\nact\nactually\nadvertisement\nagainst\nah\nanybody\nanyway\nargument\nassistant\navailable\nbackground\nbased\nbasketball\nbehaviour\nbillion\nbirth\nblank\nbone\nbrain\nbroken\nbutton\ncare\ncareful\ncarefully\ncelebrate\nchat\ncircle\nclosed\ncode\ncoach\ncomfortable\ncompletely\ncondition\ncontext\ncopy\ncrazy\ncreative\ncross\ncry\ndead\ndesigner\ndestroy\ndifferently\ndirector\ndisagree\ndisappear\ndocument\ndrop\nearth\neducation\nengineer\nerror\nfan\nfishing\nfix\nflying\nfollowing\nforeign\nforward\nfresh\ngap\ngas\ngod\ngrass\nguide\ngun\nhabit\nhall\nhappily\nheavy\nheight\nhelpful\nhero\nhers\nherself\nhide\nhit\nhurt\nill\nillness\nimpossible\ninformal\nitem\njoke\njump\nkill\nknock\nlab\nlaw\nlawyer\nlazy\nlearning\nlemon\nlifestyle\nlost\nlow\nluck\nlucky\nmail\nmaterial\nmathematics\nmaths\nmiddle\nmight\nmine\nnone\nnormal\nnormally\nnotice\nnowhere\nnut\npack\npower\nposition\nprint\nprinter\npush\nrealize\nrecognize\nremove\nreplace\nrequest\nresearcher\nscreen\nseason\nshape\nsinging\nsmartphone\nsmoke\nsmoking\nsoft\nsoldier\nsolution\nsomewhere\nteaching\nthin\nthinking\nweb\nwashing\nweak\nwave\nwinner\nyours\nwow\nworse\nworst\nworking\narch\ncalendar\nhug\nworth\nrecent\nlone\nlonely\nzoo\nWi-Fi\ncheerful\nelegant\neverywhere\nofficial\nrush\ncultural\nheritage\ndisplay\nfootstep\nneighborhood\ntie\ndevelopment\nsuccessful\nadvantage\ndamage\nmajor\nequal\nexcellent\nvoyage\nconstruct\nconstruction\ntouch\nunique\nreduce\ngravity\nartificial\nforce\nship\neducate\nvia\nelectron\nelectronic\nmobile\nrevolution\ntoward\ncheat\ncontent\ncurrent\nunable\nsite\nprevious\nmarry\npercent\nant\nfrequently\nchildhood\nforest\nwildlife\nblind\nstructure\ndiscovery\nrelease\nchemical\nsignal\npublish\ninsect\ntheory\nspecie\nbiology\nroot\nfinally\nprove\nside\nthroat\nprise\nvoice\nflexible\nbreathable\nfabric\nsmart\nchallenge\nkeyboard\nbluetooth\nspeech\ndecode\ncomplex\nprototype\nsignificantly\nsuitable\napplication\npotentially\nbattery\nconnection\nreal­time\ntransparent\nfigure\ntraveler\nnetwork\nguest\nmeaningful\nvirtual\nensure\nservice\nabsolutely\nabsorb\nagreement\nanyhow\nbalance\nbamboo\nbarbecue\nbehave\nblackboard\nbomb\nborder\nboss\nbottom\ncafé\ncancel\ncancer\ncareless\ncartoon\ncharge\nChina\nchina\nChinese\ncivilisation\nclassmate\nclever\nconfirm\nConfucianism\nConfucius\nconfused\ncongratulation\ncookie\ncore\ncute\ncycle\ndatabase\ndeadline\ndelete\ndepth\ndinosaur\ndisabled\ndisappointed\ndiscover\ndistance\ndolphin\ndownload\ndraft\ndrama\nduck\nduration\ndust\neducator\neighth\nembarrassed\nEngland\nEnglish\neraser\nescape\nespecially\nessay\nEurope\nEuropean\nexchange\nfetch\nflag\nflash\nforever\nforehead\nforgive\nFrance\nfreedom\nFrench\ngenius\ngentleman\nGerman\nGermany\ngovernment\ngrammar\ngranddaughter\ngrandson\ngreenhouse\nhamburger\nhandbag\nhandsome\nhandwriting\nharvest\nhousework\nice-cream\nignore\nillegal\nimport\ninch\nindependent\nIndia\nIndian\nJapan\nJapanese\nkangaroo\nkite\nkiss\nlaptop\nlength\nlicense\nlimited\nLondon\nlower\nmagic\nmarch\nmaximum\nmedicine\nmillimetre\nmirror\nMiss\nmix\nmobile phone\nmonitor\nmonkey\nmovement\nMr\nMrs\nMs\nmushroom\nmusician\nneighbourhood\nnet\nninth\nnod\nnoodle\nnorthern\nnotebook\nobviously\nOlympics\nopera\noutgoing\noutput\npackage\nperhaps\nplayground\np.m.\npoem\npoliceman / policewoman\npostman\npredict\npressure\npromise\npronounce\npull\nquit\nrabbit\nrainbow\nrandom\nrange\nrecord\nrecycle\nrefresh\nrelief\nring\nromantic\nRussia\nRussian\nschoolbag\nscream\nsecret\nsex\nshadow\nshake\nsixth\nsoftware\nsort\nsouthern\nspy\nstomach\nstomachache\nstone\nstrange\nstranger\nstrawberry\nstring\nstupid\nsubway\nsummary\nsuper\nsurf\nsurface\nswitch\ntherefore\nthunder\ntoast\ntranslate\nvolunteer\nwashroom\nwatermelon\nX-ray\nalarm\nclone\nkindergarten\nkindness\nmale\nfemale\na.m.\nimpression\nimpress\nconfident\norganise\norganisation\ncurious\nfreshman\nconfusing\nrecommend\nresponsible\nresponsibility\npowerful\nemperor\nrecognise\nadmire\nmarathon\nmaster\nhonour\nglory\nmedal\ngraceful\nhelicopter\nbreathe\neffort\nwisdom\ntyphoon\nshell\nKorean\ncontribution\nTibet\nTibetan\nblogger\nconvenient\nplus\npress\nfile\ndot\nonto\ncongratulate\nfade\nlunar\nwhisper\nexport\nbite\nchairman\nchain\nchip\nhistorical\njazz\ndiagram\nclothing\ncm\nspacewalk\ndock\nfloat\nmicrowave\noxygen\nbet\nflow\nwarning\nprediction\ncomfort\nhomesickness\nangle\nink\nanimation\nvisual\nwherever\nlog\nfox\nwhose\nwhom\nwide\nwidespread\nweekday\nweight\nwestern\nwhatever\nwhenever\nAD\nalternative\naloud\nAmerican\nAmerica\nanalyse\nAsia\nAsian\nAustralia\nAustralian\nawake\nbadminton\nbasket\nbat\nBC\ncalligraphy\nCanada\nCanadian\nwind\nversion\nUS\nUK\ntrouble\nsurprise\nconnectivity\ndelta\nAfrica\nAfrican\nasleep\narrow\ncloudy\ndelay\ndrag\ndragon\nfisherman\nclassical\nclassic\ngoddess\neditor\noriginally\ndiamond\nbeautifully\nheadlight\nempty\nwallet\ndepartment\npocket\nmanager\nprivacy\nindependence\napparently\nrecently\nmedical\nfurther\nbelief\nshock\ninjury\ninjure\ntruth\nsurvive\ntowards\nsharply\ndirect\nnarrowly\nregard\nrapidly\nautomatic\neastern\nexit\nincluding\neducational\ninventor\nvaluable\ninvention\ninvent\naccident\nfrozen\nperformance\nrelate\nprevent\nupset\nstrength\nrider\nsnowy\nswing\ninfer\nnational\nsuggest\nenvironmental\noutdoor\ngraph\npatient\ntherefor\nequipment\nnovel\nbrochure\nunusual\nusual\nseller\nground\noriginal\ndecision\nreject\nenvelope\nspeaker\ncountless\ndirection\nevolution\nhopeful\nsnowflake\nknot\nclearly\nprovince\nclip\nseriously\nstrict\ndrug\nemotional\nrelationship\nembarrassing\nrose\nnecessarily\nunclear\nsense\nprotection\nrecyclable\nphysiology\nexamine\nevaluate\nextract\ncollection\nscientific\nformula\nmath\nphysics\nphotoelectric\nodd\nprofessor\nrelativity\nsensor\nmode\nrespond\ncommand\nelectrical\nshine\nvalley\nboundary\nvisible\nadopt\ndry\nsour\nberry\nkilogram\nbreath\nsweet\nwhichever\nfamiliar\nmagical\nsteam\naddition\npolar\nbear\nwet\nfirework\nvary\npolite\nelsewhere\nsmile\ncount\ndaydream\nstare\nguard\nbrush\nhybrid\nsouthwest\nrealise\ndifficulty\nsquare\nproduction\nsoil\nunderground\nwaste\ncorn\nbean\nentirely\ninsist\ndue",
+      "text": "a\nan\nabout\nabove\nacross\naction\nactivity\nactor\nactress\nadd\naddress\nadult\nadvice\nafraid\nafter\nafternoon\nagain\nage\nago\nagree\nair\nairport\nall\nalso\nalways\namazing\nand\nangry\nanimal\nanother\nanswer\nany\nanyone\nanything\napartment\napple\nApril\narea\narm\naround\narrive\nart\narticle\nartist\nas\nask\nat\nAugust\naunt\nautumn\naway\nbaby\nback\nbad\nbag\nball\nbanana\nband\nbank\nbath\nbathroom\nbe\nbeach\nbeautiful\nbecause\nbecome\nbed\nbedroom\nbeer\nbefore\nbegin\nbeginning\nbehind\nbelieve\nbelow\nbest\nbetter\nbetween\nbicycle\nbig\nbike\nbill\nbird\nbirthday\nblack\nblog\nblonde\nblue\nboat\nbody\nbook\nboot\nbored\nboring\nborn\nboth\nbottle\nbox\nboy\nboyfriend\nbread\nbreak\nbreakfast\nbring\nbrother\nbrown\nbuild\nbuilding\nbus\nbusiness\nbusy\nbut\nbutter\nbuy\nby\nbye\ncafe\ncake\ncall\ncamera\ncan\ncannot\ncapital\ncar\ncard\ncareer\ncarrot\ncarry\ncat\nCD\ncent\ncentre\ncentury\nchair\nchange\nchart\ncheap\ncheck\ncheese\nchicken\nchild\nchocolate\nchoose\ncinema\ncity\nclass\nclassroom\nclean\nclimb\nclock\nclose\nclothes\nclub\ncoat\ncoffee\ncold\ncollege\ncolour\ncome\ncommon\ncompany\ncompare\ncomplete\ncomputer\nconcert\nconversation\ncook\ncooking\ncool\ncorrect\ncost\ncould\ncountry\ncourse\ncousin\ncow\ncream\ncreate\nculture\ncup\ncustomer\ncut\ndad\ndance\ndancer\ndancing\ndangerous\ndark\ndate\ndaughter\nday\ndear\nDecember\ndecide\ndelicious\ndescribe\ndescription\ndesign\ndesk\ndetail\ndialogue\ndictionary\ndie\ndiet\ndifference\ndifferent\ndifficult\ndinner\ndirty\ndiscuss\ndish\ndo\ndoctor\ndog\ndollar\ndoor\ndown\ndownstairs\ndraw\ndress\ndrink\ndrive\ndriver\nduring\nDVD\neach\near\nearly\neast\neasy\neat\negg\neight\neighteen\neighty\nelephant\neleven\nelse\nemail\nend\nenjoy\nenough\neuro\neven\nevening\nevent\never\nevery\neverybody\neveryone\neverything\nexam\nexample\nexcited\nexciting\nexercise\nexpensive\nexplain\nextra\neye\nface\nfact\nfall\nfalse\nfamily\nfamous\nfantastic\nfar\nfarm\nfarmer\nfast\nfat\nfather\nfavourite\nFebruary\nfeel\nfeeling\nfestival\nfew\nfifteen\nfifth\nfifty\nfill\nfilm\nfinal\nfind\nfine\nfinish\nfire\nfirst\nfish\nfive\nflat\nflight\nfloor\nflower\nfly\nfollow\nfood\nfoot\nfootball\nfor\nforget\nform\nforty\nfour\nfourteen\nfourth\nfree\nFriday\nfriend\nfriendly\nfrom\nfront\nfruit\nfull\nfun\nfunny\nfuture\ngame\ngarden\ngeography\nget\ngirl\ngirlfriend\ngive\nglass\ngo\ngood\ngoodbye\ngrandfather\ngrandmother\ngrandparent\ngreat\ngreen\ngrey\ngroup\ngrow\nguess\nguitar\ngym\nhair\nhalf\nhand\nhappen\nhappy\nhard\nhat\nhate\nhave\nhave to\nhe\nhead\nhealth\nhealthy\nhear\nhello\nhelp\nher\nhere\nhey\nhi\nhigh\nhim\nhis\nhistory\nhobby\nholiday\nhome\nhomework\nhope\nhorse\nhospital\nhot\nhotel\nhour\nhouse\nhow\nhowever\nhundred\nhungry\nhusband\nI\nice\nice cream\nidea\nif\nimagine\nimportant\nimprove\nin\ninclude\ninformation\ninterest\ninterested\ninteresting\ninternet\ninterview\ninto\nintroduce\nisland\nit\nits\njacket\nJanuary\njeans\njob\njoin\njourney\njuice\nJuly\nJune\njust\nkeep\nkey\nkilometre\nkind\nkitchen\nknow\nland\nlanguage\nlarge\nlast\nlate\nlater\nlaugh\nlearn\nleave\nleft\nleg\nlesson\nlet\nletter\nlibrary\nlie\nlife\nlight\nadj.\nlike\nlike\nline\nlion\nlist\nlisten\nlittle\nlive\nlocal\nlong\nlook\nlose\nlot\nlove\nlunch\nmachine\nmagazine\nmain\nmake\nman\nmany\nmap\nMarch\nmarket\nmarried\nmatch\nMay\nmaybe\nme\nmeal\nmean\nmeaning\nmeat\nmeet\nmeeting\nmember\nmenu\nmessage\nmetre\nmidnight\nmile\nmilk\nmillion\nminute\nmiss\nmistake\nmodel\nmodern\nmoment\nMonday\nmoney\nmonth\nmore\nmorning\nmost\nmother\nmountain\nmouse\nmouth\nmove\nmovie\nmuch\nmum\nmuseum\nmusic\nmust\nmy\nname\nnatural\nnear\nneed\nnegative\nneighbour\nnever\nnew\nnews\nnewspaper\nnext\nnext to\nnice\nnight\nnine\nnineteen\nninety\nno\nno one\nnobody\nnorth\nnose\nnot\nnote\nnothing\nNovember\nnow\nnumber\nnurse\nobject\no’clock\nOctober\nof\noff\noffice\noften\noh\nOK\nold\non\nonce\none\nonion\nonline\nonly\nopen\nopinion\nopposite\nor\norange\norder\nother\nour\nout\noutside\nover\nown\npage\npaint\npainting\npair\npaper\nparagraph\nparent\npark\npart\npartner\nparty\npassport\npast\npay\npen\npencil\npeople\npepper\nperfect\nperiod\nperson\npersonal\nphone\nphoto\nphotograph\nphrase\npiano\npicture\npiece\npig\npink\nplace\nplan\nplane\nplant\nplay\nplayer\nplease\npoint\npolice\npoliceman\npool\npoor\npopular\npositive\npossible\npost\npotato\npound\npractice\npractise\nprefer\nprepare\npresent\npretty\nprice\nprobably\nproblem\nproduct\nprogramme\nproject\npurple\nput\nquarter\nquestion\nquick\nquickly\nquiet\nquite\nradio\nrain\nread\nreader\nreading\nready\nreal\nreally\nreason\nred\nrelax\nremember\nrepeat\nreport\nrestaurant\nresult\nreturn\nrice\nrich\nride\nright\nriver\nroad\nroom\nroutine\nrule\nrun\nsad\nsalad\nsalt\nsame\nsandwich\nSaturday\nsay\nschool\nscience\nscientist\nsea\nsecond\nnumber\nsecond\nsection\nsee\nsell\nsend\nsentence\nSeptember\nseven\nseventeen\nseventy\nshare\nshe\nsheep\nshirt\nshoe\nshop\nshopping\nshort\nshould\nshow\nshower\nsick\nsimilar\nsing\nsinger\nsister\nsit\nsituation\nsix\nsixteen\nsixty\nskill\nskirt\nsleep\nslow\nsmall\nsnake\nsnow\nso\nsome\nsomebody\nsomeone\nsomething\nsometimes\nson\nsong\nsoon\nsorry\nsound\nsoup\nsouth\nspace\nspeak\nspecial\nspell\nspelling\nspend\nsport\nspring\nstand\nstar\nstart\nstatement\nstation\nstay\nstill\nstop\nstory\nstreet\nstrong\nstudent\nstudy\nstyle\nsubject\nsuccess\nsugar\nsummer\nsun\nSunday\nsupermarket\nsure\nsweater\nswim\nswimming\ntable\ntake\ntalk\ntall\ntaxi\ntea\nteach\nteacher\nteam\nteenager\ntelephone\ntelevision\ntell\nten\ntennis\nterrible\ntest\ntext\nthan\nthank\nthanks\nthat\nthe\ntheatre\ntheir\nthem\nthen\nthere\nthey\nthing\nthink\nthird\nthirsty\nthirteen\nthirty\nthis\nthousand\nthree\nthrough\nThursday\nticket\ntime\ntired\ntitle\nto\ntoday\ntogether\ntoilet\ntomato\ntomorrow\ntonight\ntoo\ntooth\ntopic\ntourist\ntown\ntraffic\ntrain\ntravel\ntree\ntrip\ntrousers\ntrue\ntry\nT-shirt\nTuesday\nturn\nTV\ntwelve\ntwenty\ntwice\ntwo\ntype\numbrella\nuncle\nunder\nunderstand\nuniversity\nuntil\nup\nupstairs\nus\nuse\nuseful\nusually\nvacation\nvegetable\nvery\nvideo\nvillage\nvisit\nvisitor\nwait\nwaiter\nwake\nwalk\nwall\nwant\nwarm\nwash\nwatch\nwater\nway\nwe\nwear\nweather\nwebsite\nWednesday\nweek\nweekend\nwelcome\nwell\nwest\nwhat\nwhen\nwhere\nwhich\nwhite\nwho\nwhy\nwife\nwill\nwin\nwindow\nwine\nwinter\nwith\nwithout\nwoman\nwonderful\nword\nwork\nworker\nworld\nwould\nwrite\nwriter\nwriting\nwrong\nyeah\nyear\nyellow\nyes\nyesterday\nyou\nyoung\nyour\nyourself\nare\nless\nsince\nis\ncell\nrather\nstore\nwhile\nzero\nlevel\nsocial\nmedia\nyouth\nknowledge\nsafe\nendless\nvocabulary\npath\nprize\nowner\ncatch\nhold\nfocus\nstandard\ncontinue\npass\ngrade\nactive\nscore\nlimit\nbase\nrequire\ncover\nprogram\nexperience\ngraduate\nenter\nalthough\nevaluation\nnative\nsubmit\naid\ntotal\nprovide\nimpact\ncloth\nfreeze\nsolid\nserious\nfinger\nsystem\nteenage\nbehavior\nlink\nimage\nappear\nthemselves\nheavily\nedit\nselect\nanxiety\nauthor\nworry\nkid\ncourage\ndevelop\ndepend\nseem\nalone\nhardly\nmyself\noperation\nsupport\nsimple\ndeeply\nsilence\nvarious\nheart\nfriendship\nwooden\nconsider\ncontrol\nspeed\nlaunch\noption\nnation\nnature\nbenefit\nallow\nenvironment\naim\nincrease\nthese\nvital\nalready\nchoice\ntraditional\nwarn\ndeath\nclimate\nhuman\nstorm\ntemperature\nsuch\nthose\nobserve\nocean\nfrequency\nsimply\nsave\nuniverse\ncash\nnecessary\nmethod\nsociety\nnuclear\nwar\nearthquake\nhuge\ntsunami\ncause\nreflect\norigin\ngoal\nitself\npurpose\nsource\nsearch\nadvise\npick\nbattle\nwhether\ndanger\nmoreover\nendanger\nfight\nanywhere\nstep\ntool\nprotect\nupdate\nnumerous\ncomeback\nglobal\nelement\nhighlight\nlantern\ntorch\nsky\necho\ncheer\ntheme\nwheel\ntechnology\nsymbol\nfortune\nbranch\nbeauty\nking\nplastic\nsize\nlocate\nremote\ndesert\ndeliver\nalmost\ncolor\nrise\ndoll\nhole\nneighbor\ntrack\nlady\nthrow\ndegree\nmemory\ncase\nintelligence\nmeasure\nmental\ncontribute\nquality\nbeyond\neither\nability\npublic\nfunction\neveryday\ngift\nhimself\nexcept\nstable\nourselves\navoid\nfailure\nfail\nabandon\nexcuse\ncharacter\nemotion\nintelligent\neffect\ncite\nceremony\nadvance\nvision\ncloud\npeace\ncarbon\nfootprint\nenergy\nplatform\ntarget\nsometime\npopulation\nwhole\nshut\nexplore\nsweep\nconfuse\nmind\nconflict\nsolve\nbeat\nwish\nattach\nhill\nslide\nrock\ntransport\nfur\nresponse\ntradition\ncenter\ndeep\nconnect\nthough\nclear\nproduce\ntruck\nshortcut\nabsence\ntourism\ndream\nmoon\nneither\nadventure\npassenger\nenable\nview\nexpect\nancient\nengine\nrocket\nafford\nlayer\nconfidence\nresearch\nmay\nattract\nseek\nmark\ncap\nedge\nexist\nliquid\ninspire\nacademic\noffer\nrole\nencourage\nattention\ncollect\nvalue\nsingle\nsolar\nclick\napp\ndigital\nissue\nexpert\ndata\nlack\nlock\nthus\nuser\nable\nact\nactually\nadvertisement\nagainst\nah\nanybody\nanyway\nargument\nassistant\navailable\nbackground\nbased\nbasketball\nbehaviour\nbillion\nbirth\nblank\nbone\nbrain\nbroken\nbutton\ncare\ncareful\ncarefully\ncelebrate\nchat\ncircle\nclosed\ncode\ncoach\ncomfortable\ncompletely\ncondition\ncontext\ncopy\ncrazy\ncreative\ncross\ncry\ndead\ndesigner\ndestroy\ndifferently\ndirector\ndisagree\ndisappear\ndocument\ndrop\nearth\neducation\nengineer\nerror\nfan\nfishing\nfix\nflying\nfollowing\nforeign\nforward\nfresh\ngap\ngas\ngod\ngrass\nguide\ngun\nhabit\nhall\nhappily\nheavy\nheight\nhelpful\nhero\nhers\nherself\nhide\nhit\nhurt\nill\nillness\nimpossible\ninformal\nitem\njoke\njump\nkill\nknock\nlab\nlaw\nlawyer\nlazy\nlearning\nlemon\nlifestyle\nlost\nlow\nluck\nlucky\nmail\nmaterial\nmathematics\nmaths\nmiddle\nmight\nmine\nnone\nnormal\nnormally\nnotice\nnowhere\nnut\npack\npower\nposition\nprint\nprinter\npush\nrealize\nrecognize\nremove\nreplace\nrequest\nresearcher\nscreen\nseason\nshape\nsinging\nsmartphone\nsmoke\nsmoking\nsoft\nsoldier\nsolution\nsomewhere\nteaching\nthin\nthinking\nweb\nwashing\nweak\nwave\nwinner\nyours\nwow\nworse\nworst\nworking\narch\ncalendar\nhug\nworth\nrecent\nlone\nlonely\nzoo\nWi-Fi\ncheerful\nelegant\neverywhere\nofficial\nrush\ncultural\nheritage\ndisplay\nfootstep\nneighborhood\ntie\ndevelopment\nsuccessful\nadvantage\ndamage\nmajor\nequal\nexcellent\nvoyage\nconstruct\nconstruction\ntouch\nunique\nreduce\ngravity\nartificial\nforce\nship\neducate\nvia\nelectron\nelectronic\nmobile\nrevolution\ntoward\ncheat\ncontent\ncurrent\nunable\nsite\nprevious\nmarry\npercent\nant\nfrequently\nchildhood\nforest\nwildlife\nblind\nstructure\ndiscovery\nrelease\nchemical\nsignal\npublish\ninsect\ntheory\nspecie\nbiology\nroot\nfinally\nprove\nside\nthroat\nprise\nvoice\nflexible\nbreathable\nfabric\nsmart\nchallenge\nkeyboard\nbluetooth\nspeech\ndecode\ncomplex\nprototype\nsignificantly\nsuitable\napplication\npotentially\nbattery\nconnection\nreal­time\ntransparent\nfigure\ntraveler\nnetwork\nguest\nmeaningful\nvirtual\nensure\nservice\nabsolutely\nabsorb\nagreement\nanyhow\nbalance\nbamboo\nbarbecue\nbehave\nblackboard\nbomb\nborder\nboss\nbottom\ncafé\ncancel\ncancer\ncareless\ncartoon\ncharge\nChina\nchina\nChinese\ncivilisation\nclassmate\nclever\nconfirm\nConfucianism\nConfucius\nconfused\ncongratulation\ncookie\ncore\ncute\ncycle\ndatabase\ndeadline\ndelete\ndepth\ndinosaur\ndisabled\ndisappointed\ndiscover\ndistance\ndolphin\ndownload\ndraft\ndrama\nduck\nduration\ndust\neducator\neighth\nembarrassed\nEngland\nEnglish\neraser\nescape\nespecially\nessay\nEurope\nEuropean\nexchange\nfetch\nflag\nflash\nforever\nforehead\nforgive\nFrance\nfreedom\nFrench\ngenius\ngentleman\nGerman\nGermany\ngovernment\ngrammar\ngranddaughter\ngrandson\ngreenhouse\nhamburger\nhandbag\nhandsome\nhandwriting\nharvest\nhousework\nice-cream\nignore\nillegal\nimport\ninch\nindependent\nIndia\nIndian\nJapan\nJapanese\nkangaroo\nkite\nkiss\nlaptop\nlength\nlicense\nlimited\nLondon\nlower\nmagic\nmarch\nmaximum\nmedicine\nmillimetre\nmirror\nMiss\nmix\nmobile phone\nmonitor\nmonkey\nmovement\nMr\nMrs\nMs\nmushroom\nmusician\nneighbourhood\nnet\nninth\nnod\nnoodle\nnorthern\nnotebook\nobviously\nOlympics\nopera\noutgoing\noutput\npackage\nperhaps\nplayground\np.m.\npoem\npoliceman / policewoman\npostman\npredict\npressure\npromise\npronounce\npull\nquit\nrabbit\nrainbow\nrandom\nrange\nrecord\nrecycle\nrefresh\nrelief\nring\nromantic\nRussia\nRussian\nschoolbag\nscream\nsecret\nsex\nshadow\nshake\nsixth\nsoftware\nsort\nsouthern\nspy\nstomach\nstomachache\nstone\nstrange\nstranger\nstrawberry\nstring\nstupid\nsubway\nsummary\nsuper\nsurf\nsurface\nswitch\ntherefore\nthunder\ntoast\ntranslate\nvolunteer\nwashroom\nwatermelon\nX-ray\nalarm\nclone\nkindergarten\nkindness\nmale\nfemale\na.m.\nimpression\nimpress\nconfident\norganise\norganisation\ncurious\nfreshman\nconfusing\nrecommend\nresponsible\nresponsibility\npowerful\nemperor\nrecognise\nadmire\nmarathon\nmaster\nhonour\nglory\nmedal\ngraceful\nhelicopter\nbreathe\neffort\nwisdom\ntyphoon\nshell\nKorean\ncontribution\nTibet\nTibetan\nblogger\nconvenient\nplus\npress\nfile\ndot\nonto\ncongratulate\nfade\nlunar\nwhisper\nexport\nbite\nchairman\nchain\nchip\nhistorical\njazz\ndiagram\nclothing\ncm\nspacewalk\ndock\nfloat\nmicrowave\noxygen\nbet\nflow\nwarning\nprediction\ncomfort\nhomesickness\nangle\nink\nanimation\nvisual\nwherever\nlog\nfox\nwhose\nwhom\nwide\nwidespread\nweekday\nweight\nwestern\nwhatever\nwhenever\nAD\nalternative\naloud\nAmerican\nAmerica\nanalyse\nAsia\nAsian\nAustralia\nAustralian\nawake\nbadminton\nbasket\nbat\nBC\ncalligraphy\nCanada\nCanadian\nwind\nversion\nUS\nUK\ntrouble\nsurprise\nconnectivity\ndelta\nAfrica\nAfrican\nasleep\narrow\ncloudy\ndelay\ndrag\ndragon\nfisherman\nclassical\nclassic\ngoddess\neditor\noriginally\ndiamond\nbeautifully\nheadlight\nempty\nwallet\ndepartment\npocket\nmanager\nprivacy\nindependence\napparently\nrecently\nmedical\nfurther\nbelief\nshock\ninjury\ninjure\ntruth\nsurvive\ntowards\nsharply\ndirect\nnarrowly\nregard\nrapidly\nautomatic\neastern\nexit\nincluding\neducational\ninventor\nvaluable\ninvention\ninvent\naccident\nfrozen\nperformance\nrelate\nprevent\nupset\nstrength\nrider\nsnowy\nswing\ninfer\nnational\nsuggest\nenvironmental\noutdoor\ngraph\npatient\ntherefor\nequipment\nnovel\nbrochure\nunusual\nusual\nseller\nground\noriginal\ndecision\nreject\nenvelope\nspeaker\ncountless\ndirection\nevolution\nhopeful\nsnowflake\nknot\nclearly\nprovince\nclip\nseriously\nstrict\ndrug\nemotional\nrelationship\nembarrassing\nrose\nnecessarily\nunclear\nsense\nprotection\nrecyclable\nphysiology\nexamine\nevaluate\nextract\ncollection\nscientific\nformula\nmath\nphysics\nphotoelectric\nodd\nprofessor\nrelativity\nsensor\nmode\nrespond\ncommand\nelectrical\nshine\nvalley\nboundary\nvisible\nadopt\ndry\nsour\nberry\nkilogram\nbreath\nsweet\nwhichever\nfamiliar\nmagical\nsteam\naddition\npolar\nbear\nwet\nfirework\nvary\npolite\nelsewhere\nsmile\ncount\ndaydream\nstare\nguard\nbrush\nhybrid\nsouthwest\nrealise\ndifficulty\nsquare\nproduction\nsoil\nunderground\nwaste\ncorn\nbean\nentirely\ninsist\ndue\nreact\nshy\nagricultural\nself\nseawater",
       "words": {}
     },
     "nce31": {
@@ -10822,7 +10845,7 @@
     },
     "rjbgz1152c449": {
       "title": "A PIONEER FOR ALL PEOPLE",
-      "lastPosi": 0.8650238446991376,
+      "lastPosi": 0.2148343275219614,
       "text": "Yuan Longping, known as the “father of hybrid rice”, was one of China’s most famous scientists. Yet, he considered himself a farmer because he continually worked the land in his research. Indeed, his slim but strong body was just like that of millions of Chinese farmers, to whom he had devoted his life.\nYuan Longping was born in 1930 in Beijing. His parents wanted him to pursue a career in science or medicine. However, what concerned him most was that farmers often had poor harvests and sometimes even had a serious shortage of food to eat. To tackle this crisis, he chose to study agriculture and received an education at Southwest Agricultural College in Chongqing.\nAfter graduating in 1953, he worked as a researcher. Yuan Longping realised that larger fields were not the solution. Instead, farmers needed to boost yields in the fields they had. How this could be done was a challenging question at the time. Yuan was convinced that the answer could be found in the creation of hybrid rice. A hybrid is a cross between two or more varieties of a species. One characteristic of hybrids is that they usually attain a higher yield than conventional crops. However, whether it was possible to develop a hybrid of self-pollinating plants such as rice was a matter of great debate. The common assumption then was that it could not be done. Through intense effort, Yuan overcame enormous technical difficulties to develop the first hybrid rice that could be used for farming in 1974. This hybrid enabled farmers to expand their output greatly.\nToday, it is estimated that about 60 percent of domestic rice consumption in China is comprised of crops generated from Yuan’s hybrid strains, and his strains have allowed China’s farmers to produce around 200 million tons of rice per year. Yuan’s innovation has helped feed not just China, but many other countries that depend on rice as well, such as India and Vietnam. Because of his invaluable contributions, Yuan Longping received numerous awards both in China and abroad.\nGiven that Yuan’s hybrids made him quite wealthy, one might think he would have retired to a life of leisure. However, this is far from the case. Deep down, Yuan was still very much a farmer at heart. As a man of the soil, he cared little for celebrity or money. Instead, he made large donations to support agricultural research.\nWhat impressed people most about Yuan Longping was his ongoing ability to fulfil his dreams. Long ago, he envisioned rice plants as tall as sorghum, with each ear of rice as big as a broom, and each grain of rice as huge as a peanut. He succeeded in producing a kind of rice that could feed more people at home and abroad. His later vision for “seawater rice” also became a reality, and potentially opened up nearly one million square kilometres of salty land in China for rice production. Even in his later years, Yuan Longping was still young at heart and full of vision, and everyone was always excited to see what he would dream up next.",
       "words": {
         "44135270": {
@@ -10838,21 +10861,8 @@
           "visit": false,
           "type": "word"
         },
-        "3222fbc4": {
-          "id": "Yet",
-          "index": [
-            96,
-            99
-          ],
-          "cIndex": [
-            96,
-            188
-          ],
-          "visit": false,
-          "type": "word"
-        },
         "4a836b7c": {
-          "id": "devoted",
+          "id": "devote",
           "index": [
             287,
             294
@@ -10861,7 +10871,7 @@
             188,
             304
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "bd567935": {
@@ -10874,7 +10884,7 @@
             348,
             414
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "77e2b8af": {
@@ -10887,7 +10897,7 @@
             546,
             672
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "f8a93fce": {
@@ -10900,7 +10910,7 @@
             546,
             672
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "75307eb3": {
@@ -10913,7 +10923,7 @@
             546,
             672
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "736f1d94": {
@@ -10926,7 +10936,7 @@
             791,
             855
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "d9eb6b5e": {
@@ -10939,7 +10949,7 @@
             918,
             1000
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "c2176845": {
@@ -10952,7 +10962,7 @@
             1064,
             1162
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "cd595bc0": {
@@ -11328,6 +11338,45 @@
           "cIndex": [
             2024,
             2134
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "0ffcf5b8": {
+          "id": "variety",
+          "index": [
+            1040,
+            1049
+          ],
+          "cIndex": [
+            1000,
+            1064
+          ],
+          "visit": true,
+          "type": "word"
+        },
+        "eb446f5f": {
+          "id": "donations",
+          "index": [
+            2310,
+            2319
+          ],
+          "cIndex": [
+            2287,
+            2353
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "2ae9d0c2": {
+          "id": "abroad",
+          "index": [
+            2669,
+            2675
+          ],
+          "cIndex": [
+            2588,
+            2677
           ],
           "visit": false,
           "type": "word"
@@ -11733,7 +11782,7 @@
     },
     "rjbgz115f2073": {
       "title": "HOW DO I KNOW MY STUDENTS?",
-      "lastPosi": 0.6068818633065137,
+      "lastPosi": 0.9205050554291121,
       "text": "As an educator, people often ask me how I know what is going on in the minds of my students. Many students are quite shy and don’t speak all that much. At the same time, in a classroom of more than forty students, it is hard to have many one-on-one conversations with each person. So, how can I really know what makes each student tick?\nMy answer? I look at their body language.\nIt is easy to recognise when students are interested in a lesson. Most tend to look up and make eye contact. When I make a joke, they smile. When I talk about something difficult, they look confused. I know when students are really interested, however, because they lean forward and look at me. People have a tendency to lean towards whatever they are interested in. So if a student has his head lowered to look at his watch, it implies he is bored and just counting the minutes for the class to end. If two friends are leaning their heads together, they are probably writing notes to each other. Of course, not everyone who looks up is paying attention in class.\nSome students look up, but there is an absence of eye contact. Their eyes barely move, and they always have the same distant expression on their faces. It is as though they are asleep with their eyes open.\nSome students are amused by something else. They spend all their time looking anywhere but at me. Then again, some students’ favourite activity is daydreaming. With their chins on their hands, they occupy themselves by staring out of the window or up at the ceiling. They are certainly interested in something, but who knows what. The main thing is reminding distracted students that they need to pay attention in class.\nWhile it is easy to perceive when students are interested, bored, or distracted, it is sometimes much harder to distinguish when students are troubled. Students who are angry, afraid, or experiencing anxiety may have their arms crossed in front of their chests and their legs closed or crossed, like they are guarding their bodies. Students who are sad or worried will nearly always wear a frown. They may also hide their faces in their hands like they are embarrassed or ashamed. Some students act this way merely because they are afraid of being called on by the teacher. However, if a student does not bother to brush her hair and her eyes are red from weeping, then I can infer that there are deeper issues at work. It could be that she is having serious conflicts with other students or at home. Whatever it is, I know I need to inquire and assess what is going on.\nUltimately, my duty is helping every student to learn. Their body language lets me know when to adjust class activities, when to intervene, and when to talk to students individually, so they can all get the most out of school. Reacting to body language is an important component of being a teacher.",
       "words": {
         "3038ca1b": {
@@ -11980,7 +12029,7 @@
             2002,
             2067
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "749a9112": {
@@ -11993,7 +12042,7 @@
             2002,
             2067
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "c279fbc6": {
@@ -12006,7 +12055,7 @@
             2151,
             2244
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "5f7888f1": {
@@ -12023,7 +12072,7 @@
           "type": "sentence"
         },
         "2e55155e": {
-          "id": "weeping",
+          "id": "weep",
           "index": [
             2326,
             2333
@@ -12032,37 +12081,11 @@
             2244,
             2390
           ],
-          "visit": false,
-          "type": "word"
-        },
-        "7519ffd7": {
-          "id": "red",
-          "index": [
-            2317,
-            2320
-          ],
-          "cIndex": [
-            2244,
-            2390
-          ],
-          "visit": false,
-          "type": "word"
-        },
-        "8853b4c6": {
-          "id": "deeper",
-          "index": [
-            2367,
-            2373
-          ],
-          "cIndex": [
-            2244,
-            2390
-          ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "a96a1b6f": {
-          "id": "conflicts",
+          "id": "conflict",
           "index": [
             2429,
             2438
@@ -12071,7 +12094,7 @@
             2390,
             2471
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "f467947d": {
@@ -12084,11 +12107,11 @@
             2471,
             2540
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "bbfa06cd": {
-          "id": "Ultimately",
+          "id": "ultimately",
           "index": [
             2541,
             2551
@@ -12097,7 +12120,7 @@
             2541,
             2596
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "741d9e8e": {
@@ -12108,9 +12131,9 @@
           ],
           "cIndex": [
             2596,
-            2768
+            2722
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "cf74ab40": {
@@ -12123,7 +12146,7 @@
             2768,
             2839
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "9fd1dbb7": {
@@ -12149,7 +12172,7 @@
             2471,
             2540
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "7afacb58": {
@@ -12160,9 +12183,9 @@
           ],
           "cIndex": [
             2596,
-            2768
+            2722
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         }
       }
@@ -13223,6 +13246,60 @@
       "text": "\nPerhaps no other scientist has had a greater impact on China’s aerospace science than Qian Xuesen. Described by the authors of the Story of Qian Xuesen as a man with “great scientific thought and scientific spirit” who was patriotic and served his homeland with effort, achievement, and devotion, Qian was an extremely well-respected man.\nBorn in Shanghai in 1911, Qian attended schools in Beijing and then entered Shanghai Jiao Tong University to study Railway Mechanical Engineering. However, after the Songhu Battle broke out in 1932, Qian made the decision to switch his major to aviation because he realised that China needed its own powerful air force to protect and defend the country.\nQian went to the United States in 1935 to pursue his graduate studies. Over the course of the 1930s and 1940s, Qian became a pioneer in American jet and rocket technology. As a graduate assistant at the California Institute of Technology during the 1930s, Qian helped conduct important research into rocket propulsion,\nand in the 1940s, he and several other people founded the Jet Propulsion Laboratory, now one of NASA’s leading space-exploration centres.\nAfter overcoming some difficulties during his final few years in the US, Qian returned to China in 1955. He received a hero’s welcome from his homeland and was put in charge of not only developing China’s rocket science but also its space and missile programme. At that time, China was poor and its rocket science was undeveloped. No institute or university in China offered rocket science as a major, and there were no talents or experts in this field in China. Nevertheless, Qian did not let that discourage him from taking on the challenge. When asked “Can we Chinese possibly make missiles?”, his reply was a determined “Why not? We Chinese are able to make the same things that other people make.”\nUnder Qian’s leadership, China developed the Dongfeng missiles, followed by the first generation of Long March rockets. In 1970, China successfully launched its first man-made satellite, Dong Fang Hong I, from a Long March rocket. Because much of the technology behind the Shenzhou rockets can also be traced back to Qian’s research, Qian earned the name of “the father of China’s aerospace”.\nQian read a lot and was extremely knowledgeable, especially in the area of frontier science research. However, what might have made him such an outstanding and creative scientist was probably his strong interest in other things, such as music and drawing. His deep appreciation for art often gave him inspiration in his scientific research.\nOn 31 October 2009, the whole country was saddened by Qian’s death, and people honoured and remembered him in different ways.",
       "words": {}
     },
+    "rjbgz133da3c0": {
+      "title": "THE REWARD FOR PERSEVERANCE",
+      "lastPosi": 0,
+      "text": "We watched as Shackleton and the boat sailed away from Elephant Island. It was easy to imagine the danger ahead of them. Would they ever return to find us? What might happen to them? What if they were delayed? We felt so alone and desperate. But it was not for long. There was nothing like a good dinner and some music to cheer us up.\nLife fell into a regular pattern. Staying alive took all our time and energy. For example, we needed water, and Elephant Island had none. We found that we could melt ice from the ocean and drink the water from it. But how could we make fire? There were no trees growing on Antarctica and no oil, so the only fuel we could use was animal fat. This gave off oily, black smoke, but it stayed burning even in strong winds.\nFood was also a problem, as we did not find any vegetables or fruit on the island. One of our group members, Lionel Greenstreet, noted in his diary about how bored he was with the meals: “The food now is pretty well all meat of sea creatures.” If it weren’t for sea animals, we would all starve. As a chef, it was my duty to cook, so I tried to vary the meals in whatever way I could. But it was difficult.\nWe had to be careful not to go outside too often, as the changing temperatures could make us ill. It was almost as dangerous to become too hot from wearing too many clothes as to become too cold from wearing too few. The sweat could freeze very quickly. Many of us also became ill from the black smoke of the animal fat we burnt for our fires. It damaged our eyes and burnt our lungs.\nThe twenty-two of us lived like this in the cold for four months. Our discipline and team spirit kept us optimistic and helped us deal with our fears in a positive and successful way. We also celebrated our birthdays, festivals, and even the times when we caught a sea animal. This was an episode in my life that I would never forget.\nWhen we were finally rescued, we felt such relief and joy that many of us could not hide our tears. We were at last free to go home to warm beds, good food, and the care of our family and friends. Our optimism and faith in Shackleton had helped us persevere in staying alive. And he paid us back by his commitment to save us from a slow but painful death.",
+      "words": {}
+    },
+    "rjbgz1356d831": {
+      "title": "A SHORT HISTORY OF WESTERN PAINTING",
+      "lastPosi": 0,
+      "text": "What is Western art? It is hard to give a precise definition. As there have been so many different styles of Western art, it is impossible to describe them all in a short text. Perhaps the best way to understand Western art is to look at the development of Western painting over the centuries.\n## The Middle Ages (from the 5th to the 15th century)\nDuring the Middle Ages, the purpose of Western art was to teach people about Christianity.Thus, artists were not interested in painting realistic scenes. Their works were often primitive and two-dimensional, and the main characters were often made much larger than everyone else to show their importance. This began to change in the 13th century with Giotto di Bondone (1267–1337). While his paintings still had religious themes, they showed real people in a real environment. In particular, his paintings are set apart from other paintings by their realistic human faces and deep emotional impact.\n## The Renaissance (from the 14th to the 17th century)\nNew ideas and values gradually replaced old ones from the Middle Ages. As a result, painters concentrated less on religious themes. They began to adopt a more humanistic attitude to life. An important breakthrough during this period was the use of perspective by Masaccio (1401–1428). Influential painters such as Leonardo da Vinci (1452–1519), Michelangelo (1475–1564), and Raphael (1483–1520) built upon Giotto and Masaccio’s innovations to produce some of the greatest art that Europe had ever seen.\nAnother innovation was the use of oil paints. With their deep colours and realism, some of the best oil paintings look like photographs. While painters as early as Da Vinci had used oil, this technique reached its height with Rembrandt (1606–1669), who gained a reputation as a master of shadow and light.\nIn subject matter, the emphasis increasingly shifted from religious themes to people and the world around us. Kings, nobles, and people of high rank wanted to purchase accurate pictures of themselves and the people they loved.Others wanted paintings showing important historical events or stories from mythology. Finally, most clients wanted paintings that were beautiful and interesting to look at.\n## Impressionism (late 19th to early 20th century)\nThe development of Western art slowed until the invention of photography in the mid-19th century. After that, paintings were no longer needed to preserve what people and the world looked like. Hence, painters had to find a new way of looking at their art. From this, Impressionism emerged in France. The name of this new movement came from the painting by Claude Monet (1840–1926) called Impression, Sunrise. In this work, Monet’s aim was to convey the light and movement in the scene—the subjective impression the scene gave him—but not a  detailed record of the scene itself.\nWhile many Impressionists painted scenes of nature or daily life, others, such as Renoir (1841– 1919), focused on people. Unlike the cold, black-and-white photographs of that time period, Renoir’s paintings are full of light, shadow, colour, and life. He sought to show not just the outer image of his subjects, but their inner warmth and humanity as well.\n## Modern Art (from the 20th century to today)\nAfter Impressionism, subsequent artists began to ask, “What do we do next?” Painters such as Picasso (1881–1973) tried to analyse the shapes which existed in the natural world but in a new way, with Cubism. Others gave their paintings a realistic but dream-like quality. Still others turned to abstract art. What they attempted to do was no longer show reality, but instead to ask the question, “What is art?”",
+      "words": {}
+    },
+    "rjbgz13608021": {
+      "title": "ANCIENT CHINESE ART ON SHOW",
+      "lastPosi": 0,
+      "text": "The Richfield Museum of Fine Art is proud to present our new exhibition, “From Shang to Qing: Chinese Art Through the Ages.” Join us as we explore more than 3,000 years of wonderful art from the Middle Kingdom. From bronze bowls to ceramic vases, and jade sculptures to ink wash paintings, our goal is to display the Chinese artistic genius from ancient times.\nThe highlight of this exhibition is the painting Clearing After Snow on a Mountain Pass, one of the great works of Tang Yin (1470–1524). Born during the Ming Dynasty, Tang sought and failed to gain entry into the civil service, so he turned to painting instead. In time, he gained recognition as one of the greatest artists China has ever known. This painting, showing high mountains, trees, and houses covered in snow, was made with extraordinary skill. Though it is over 500 years old, it looks as fresh and full of life as the day it was created.\nAlso of primary note is a collection of nearly 100 bronze objects from the Shang Dynasty (1600 BCE–1046 BCE). While the artists who made these great works are not known, they showed great skill in creating these beautiful pieces. Some of the items on display are thought to have come from the collection of Emperor Qianlong (1711–1799), a great admirer of Shang Dynasty bronze.\nFinally, we have many fine examples of Tang Dynasty (618–907) sculptures. Most of these are of Buddhist origin. Even though Buddhism entered China much earlier, it did not really begin to show expansion until the seventh century. During this same period, trade along the Silk Road also boomed. Chinese sculpture thus found itself highly influenced by Buddhist art brought from India and Central Asia through the Silk Road. These works were intended to spread Buddhism and they are of exceptional beauty and quality. Looking at the faces of the figures in these sculptures, one sees the faces of the past. History is brought to life.\nThis is just a small taste of what is in store for you in this exhibition. We guarantee that “From Shang to Qing: Chinese Art Through the Ages” will transport you to another time with its amazing collection of works.\n“From Shang to Qing: Chinese Art Through the Ages” will run until November 25.\nOpening hours are from 9:00 a.m. to 5:00 p.m., from Tuesday to Sunday (the museum is closed on Mondays). No one will be admitted into the exhibition after 4:30 p.m.\nAdmission: $10 for adults; $8 for students; $5 for children under 12; free for children under 5.\nNo photos or food and drink are allowed in the museum.",
+      "words": {}
+    },
+    "rjbgz136e35d8": {
+      "title": "HABITS FOR A HEALTHY LIFESTYLE",
+      "lastPosi": 0,
+      "text": "As teenagers grow up, they become more independent and start making their own decisions. However, during this period, it can be easy for some of them to form bad habits. These bad habits, if left unchecked, could lead to more serious ones when they become adults. For example, some of them may become involved in tobacco or alcohol abuse, which can lead to physical and mental health problems. To prevent harmful habits like these from dominating a teenager’s life is essential. They must learn to recognise bad habits early and make appropriate changes.\nTo change bad habits is never easy, even with many attempts. There is a famous saying based on the philosophy of Aristotle: “We are what we repeatedly do.” In many ways, our lifestyle is the sum of choices we have made. We make a choice to do something, and then we repeat it over and over again. Soon that choice becomes automatic and forms a habit that is much harder to change. The good news is that we can change, if we understand how habits work.\nAccording to modern psychology, we must first learn about the “habit cycle”, which works like this:\n• Firstly, there is a “cue”, an action, event, or situation that acts as a signal to do something.\n• Secondly, there is a “routine”, the regular action you take in response to the cue.\n• Thirdly, there is the “reward”, the good thing or feeling we get from the routine.\nFor example, when we feel unhappy (cue), we eat lots of unhealthy snacks (routine), which makes us feel happy (reward). The reward makes us much more likely to continue the cycle, and the bad habit of relying on unhealthy snacks is formed.\nTo facilitate a positive change in our bad habits, we must first examine our bad habit cycles and then try to adapt them. We can do this by combining the information from our habit cycles with our own positive ideas. For example, we could try to replace a negative routine with something more positive. So, when we feel unhappy again (cue), rather than eat snacks, we could listen to some of our favourite music instead (routine), which will make us feel relaxed (reward). Aside from changing bad habits, we can also use the habit cycle to create good habits. For example, when we come to an escalator (cue), our normal routine is to ride it, but we could change this routine into something more positive by taking the stairs instead.\nMany of us try to change bad habits quickly, and if we are not successful straight away, we often become pessimistic and give up. In fact, the most successful way to change is not suddenly, but over a period of time. As the Chinese philosopher Laozi wrote, “A journey of a thousand miles begins with a single step.” One step seems small, but it is essential. To reach the goal of change, a person must show some discipline and repeatedly take many small steps. After all, it is not easy to break bad habits.\nFor young people, there is plenty of time to change bad habits. However, there is no “magic pill” or delete button that will help you; you have to think about your bad habits and decide on some changes. You have the power to build a happy and healthy life full of good habits!",
+      "words": {}
+    },
+    "rjbgz1372f928": {
+      "title": "CLIMATE CHANGE REQUIRES THE WORLD’S ATTENTION",
+      "lastPosi": 0,
+      "text": "We have known about climate change for decades. There is little doubt that Earth is getting warmer and warmer (see the graph). A warming ocean and atmosphere along with melting ice and rising sea levels provide evidence of a dramatic change in the global climate.\nIn 2013, a lot of people were shocked by a news photo of a dead polar bear that was found on Norway’s Arctic island of Svalbard. According to the scientists who found its dead body, all that remained of the polar bear was “skin and bones”. An expert who has studied polar bears for many years said that from the position of its dead body, the bear appeared to have starved and died. Experts claimed that low sea-ice levels caused by climate change meant the bear could not hunt seals as before, so it had to travel greater distances in order to find food. This alarming case showed how the increase in temperature had an impact on Earth’s ecology.\nThen what is causing the increase in the global average surface temperature? Climate scientists often mention a key climate process called the “greenhouse effect”, which has two common meanings: the “natural” greenhouse effect and the “man-made” greenhouse effect. The “natural” greenhouse effect refers to the fact that heat from the sun enters the atmosphere and warms Earth’s surface as short-wave radiation. The heat is released back into space at longer wave lengths. Greenhouse gases in the atmosphere, such as methane and carbon dioxide, trap some of the heat, keeping Earth’s climate warm and habitable. Without this process, Earth could not sustain life. However, the “man-made” greenhouse effect has now become a big problem. When people produce huge amounts of extra greenhouse gases by burning fossil fuels, more heat energy is trapped in the atmosphere and causes Earth’s surface temperature to rise quickly.\nThere is strong and comprehensive evidence that the rise in temperature has led to an increase in extreme weather and natural disasters worldwide, not only causing serious damage, but also costing human lives. Climate scientists have warned that if we do not take appropriate actions, this warming trend will probably continue and there will be a higher price to pay. In fact, news reports are frequently broadcast about extreme rainstorms and heatwaves causing deaths and economic losses.\nContinued greenhouse gas emissions will result in further warming and long-lasting changes to the global climate. This requires the attention of people all over the world. Governments need to consider making policies and taking appropriate actions and measures to reduce greenhouse gas emissions. We as individuals can also reduce our “carbon footprint” by restricting the amount of carbon dioxide our lifestyles produce. It is our responsibility to seize every opportunity to educate everyone about global warming, along with its causes and impacts, because this is the most serious issue affecting all of us on this planet. So what will you do to help?\n",
+      "words": {}
+    },
+    "rjbgz13a6b0da": {
+      "title": "A SUCCESSFUL FAILURE",
+      "lastPosi": 0,
+      "text": "Perce Blackborow joined an expedition with Sir Ernest Shackleton to Antarctica on the ship Endurance in 1914. Shackleton was one of the most famous explorers of his day and it was considered a great honour to be part of his expeditions. Below are some of Blackborow’s diary entries.\n\n---\n31 Oct 1914\n... Well, it so happened that one morning I bought a newspaper and read the advertisement about the Antarctic expedition.\nAn expedition to the South Pole with the great Sir Ernest Shackleton—this is the adventure that I have been dreaming of. And I was ready for it. At the age of 19, I am fit and full of vigour. However, when I applied to join the expedition, Shackleton turned me down because he thought I was too young and wasn’t qualified. But I was so enthusiastic about the idea of going along with them that I secretly went aboard his ship, the Endurance , and hid in a small cupboard. Unfortunately, three days after we set off I was discovered. Shackleton did not want to turn back so he offered me a job, but only after he promised me, “ If anyone has to be eaten, then you will be the first! ” He assigned me to be a steward, and I now serve meals for twenty-eight men, three times a day.\nHow everyone will envy me when I come back and tell them about the amazing places I have been to!\n\n---\n21 Nov 1915\nThe journey has not been easy. Endurance became stuck in the ice as we approached Antarctica. The ice froze around us and we were well and truly stuck! We saw the ship get crushed by the ice. And when the ship sank, our hearts sank with it.\nBefore we abandoned the ship, Shackleton calmly called us together and told us to rescue our most essential supplies—the small boats, our food, the cook stove, candles, clothes, and blankets. This was no time to panic. We were not allowed to take most of our personal belongings, and Shackleton himself threw away all his gold. But to our surprise, he allowed Hussey to keep his banjo. Hussey often plays it to keep our spirits up.\nWe are now camped on the ice and we have been managing to survive, but spring is coming, and the ice will soon begin to melt.\n\n---\n20 May 1916\nWe have been struggling for days, but things on Elephant Island are going from bad to worse. We are now crowded together under one of our boats on the rocky shore of this miserable place. Soon after we arrived, Shackleton left us to find help on South Georgia Island, 1,320 kilometres away—the Ernest Shackleton  voyage was too dangerous and difficult for all of us to make it in our small boats. If Shackleton fails, will we have any hope of rescue? No. No navy in the world ever stops at Elephant Island, and no one else knows that we are here.\nI feel low. It’s cold and windy. The island has no plants. Sometimes we are able to catch a seal or a penguin to eat. Otherwise, there is no food. I try to think of happier things: decent food, warm and dry clothes, a cosy bedroom, sunny days, and my mother’s face ...However, these happy memories are soon interrupted by a sudden cold rush of air.\nI shouted, “Shut the door!”\n“Hold on now, Perce. Don’t you go turning into another Tom,” came the reply. “We’ve caught another penguin, so it’s penguin soup tonight!”\nBless Frank Wild, the kindest man there is after our leader, Ernest Shackleton. How could I become as selfish and bad-tempered as Thomas Orde-Lees!\nWithout Frank and Ernest, we’d all be dead by now. Their genuine concern for others, their perseverance, and their resolve fill me with hope.\nPerhaps there is a chance we will return home, after all.",
+      "words": {}
+    },
+    "rjbgz13a7a218": {
+      "title": "Write a letter to the editor about your lifestyle",
+      "lastPosi": 0,
+      "text": "## letter 1\nDear Editor,\nAfter I attended your summer camp about health and lifestyle choices, I realised I hardly ever felt well, either physically or mentally. I often felt sleepy and dizzy, and lacked passion.Most worrying, though, I got the flu easily and experienced many toothaches, too.\nAt the end of the camp I heard, “Change the world by changing yourself.” This stimulated my motivation. A dentist once examined me and told me that too much sugar in my meals had damaged my teeth and health. I made up my mind to change two things in my life: to eat nothing with sugar and to exercise regularly.\nAfter that I stopped buying all the sweets, biscuits, and sugary drinks that I used to have every day. Whenever I went out with friends, I brought snacks from home, things that didn’t have any added sugar: fruit, nuts, dried meat, etc.\nMy exercise was very simple: I went outside every day for at least 30 minutes and did something active. Sometimes I played table tennis or badminton with my cousins. Other times I jumped on my skateboard and rode around my neighbourhood, or just took a long walk.\nThe results have been fantastic. I feel more dynamic and stronger than ever, in both body and mind. I sleep soundly at night now. I no longer suffer from a flu virus or toothaches either. Best of all, in my opinion, is how I feel about myself. I feel like I’m in control of my own life. To make choices about myself is within my own power. I CAN change myself. I just need to try.\nYours truly,\nWang Lu\n## letter 2\nDear Editor,\nAs I took part in the summer camp about personal life choices, I started to analyse my choices, especially what I did to relax and how it was affecting my whole life.\nAfter starting high school, I felt stressed out and always relaxed by playing computer games. I got so absorbed that I played the games day and night. Playing was fun, but I felt even more worn out afterwards! So after the camp, I realised that it was very, very important to adjust my lifestyle. I decided to take control of my life and find other ways to relax.\nIt was a big struggle not to join my friends in playing online games as I’m mad for them.However, I realised that to succeed in quitting, I had to replace it with something else. So I thought about what to try. Rock climbing, bowling, watching comedies, and playing basketball were the things I thought of doing instead.\nNow my dad and I go rock climbing together monthly! It has enhanced the quality of my life, improving my health and increasing my happiness. I get refreshed through climbing, spend more time with my dad, and get to meet new friends.\nAfter six months of trying out new ways of relaxing, I feel much more energetic. I feel that I can change myself for the better. And if that’s true for me, then it might truly be possible to change the world for the better. As Gandhi said, “Be the change you want to see in the world.”\nSincerely,\nGeorge Fielding",
+      "words": {}
+    },
+    "rjbgz13b4c418": {
+      "title": "A FEW SIMPLE FORMS OF ENGLISH POEMS",
+      "lastPosi": 0,
+      "text": "There are various reasons why people compose  poetry. Some poems tell a story or describe a  certain image in the reader’s mind. Others try to  convey certain feelings such as joy and sorrow. The distinctive characteristics of poetry often include  economical use of words, descriptive and vivid  language, integrated imagery, literary devices such  as similes and metaphors, and arrangement of words, lines, rhymes, and rhythm. Poets use many different forms of poetry to express themselves.Now we will look at a few of the simpler forms.\nSome of the first poems a young child learns in  English are nursery rhymes. They are usually the  traditional poems or folk songs. The language of  these rhymes, like Poem A, is to the point but has a storyline. Many children enjoy nursery rhymes  because they rhyme, have a strong rhythm, and  often repeat the same words. The poems may  not make sense and even seem contradictory, but they are easy to learn and recite. By playing with the words in nursery rhymes, children learn about language.\nOne of the simplest kinds of poem is the “list  poem”, which contains a list of things, people,  ideas, or descriptions that develop a particular  theme. List poems have a flexible line length and  repeated phrases which give both a pattern and a rhythm to the poem. Some rhyme, while others do not.\nAnother simple form of poem that amateurs can easily write is the cinquain , which is made up of five lines. With these, you can convey a strong picture or a certain mood in just a few words. Look at the example.\nHaiku is a Japanese form of poetry that consists of 17 syllables. It has a format of three lines, containing 5, 7, and 5 syllables respectively. It is not a traditional form of English poetry, but is very popular with English writers. It is easy to write and, like the cinquain , can give a clear picture and create a special feeling using very few words. The haiku poem on the right is a translation from Japanese, which shows a moment in the life of a delicate butterfly.\nEnglish speakers also enjoy poems from China, those from the Tang Dynasty in particular. A lot of Tang poetry has been translated into English, such as this one.\nWith so many different forms of poetry to choose from, you may eventually want to write poems of your own. Give it a try!\n",
+      "words": {}
+    },
+    "rjbgz13b62464": {
+      "title": "REDUCING WATER POLLUTION IN THE LI RIVER",
+      "lastPosi": 0,
+      "text": "The beautiful Li River and its amazing surrounding scenery is one of the most well- known tourist destinations in China’s Guangxi Zhuang Autonomous Region. It attracts millions of domestic and foreign visitors each year. However, its reputation as a top destination has had negative effects on the river’s water quality. This report looks at the problem of water pollution and some actions that have been taken to deal with it.\nPreviously, water quality in the Li River had suffered greatly from an increasing volume of tourists, many of whom frequently threw garbage into the river. Many tour boats contributed to the problem too. Kitchens on board were using lots of oil, which was often thrown into the water. The growth in tourism also meant the local population rose rapidly, as well as the number of commercial and industrial enterprises. Water pollution levels increased, with more household and commercial waste ending up in the river.In order to feed more people, more chemicals were used to increase crop production.These chemicals led to severe water quality issues, causing a decrease in the number of fish species. Local officials were concerned that the pollution was damaging the natural environment and felt that urgent steps should be taken to restore the river’s original beauty.\nA comprehensive initiative was started, with a number of measures that addressed the issues. The construction of waste water treatment facilities improved the water quality and water conservation. The collection and transport of household waste was also improved. Dozens of polluting enterprises were closed or moved. The local government set up strict regulations regarding further industrial development. New rules were also introduced regarding tour boat routes and garbage disposal methods. Furthermore,the local authorities began to use the media to spread environmental awareness and encourage greater use of clean energy. At the same time, they started to carry out inspections regularly and fine tourist organisations for abuses. With these measures, it is believed that the beauty of the Li River will be preserved for generations to come.\nIn addition, the ambitious “Water Ten Plan” is also now tackling water pollution across the country. Other initiatives, such as the “River Chief System”, hold senior officials responsible for reducing water pollution. With such campaigns in effect, China’s waterways are heading towards a clean and sustainable future.",
+      "words": {}
+    },
     "rjbgz2104b210": {
       "title": "THE MOST MAGNIFICENT SPECTACLE ON EARTH",
       "lastPosi": 0,
@@ -13485,6 +13562,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-03-05T12:47:53.871Z"
+    },
+    "33112287": {
+      "due": "2024-04-18T08:23:30.375Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T08:23:30.375Z"
     },
     "44885552": {
       "due": "2024-06-28T03:09:05.728Z",
@@ -14146,6 +14234,17 @@
       "state": 0,
       "last_review": "2024-04-17T07:02:36.560Z"
     },
+    "127927f5": {
+      "due": "2024-04-18T09:05:05.664Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T09:05:05.664Z"
+    },
     "1286839b": {
       "due": "2024-04-13T13:45:45.622Z",
       "stability": 0,
@@ -14211,6 +14310,17 @@
       "lapses": 0,
       "state": 0,
       "last_review": "2024-02-25T04:28:55.064Z"
+    },
+    "148c11fe": {
+      "due": "2024-04-18T07:55:33.600Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:55:33.600Z"
     },
     "16a6880d": {
       "due": "2024-04-25T03:25:48.894Z",
@@ -14739,6 +14849,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-03-31T03:27:28.616Z"
+    },
+    "24e9144c": {
+      "due": "2024-04-18T07:57:29.973Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:57:29.973Z"
     },
     "263a51d0": {
       "due": "2024-05-03T14:57:13.231Z",
@@ -15741,6 +15862,17 @@
       "state": 2,
       "last_review": "2024-03-14T14:57:46.390Z"
     },
+    "417c4687": {
+      "due": "2024-04-18T07:50:23.694Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:50:23.694Z"
+    },
     "41b9f7bf": {
       "due": "2024-04-17T12:16:49.404Z",
       "stability": 0,
@@ -16114,6 +16246,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-04-12T11:42:05.103Z"
+    },
+    "4cfc53e0": {
+      "due": "2024-04-18T09:08:33.023Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T09:08:33.023Z"
     },
     "4d4d352d": {
       "due": "2024-09-27T10:57:19.403Z",
@@ -17006,6 +17149,17 @@
       "state": 2,
       "last_review": "2024-03-14T15:00:14.796Z"
     },
+    "659ea58c": {
+      "due": "2024-04-18T07:56:46.047Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:56:46.047Z"
+    },
     "669c3656": {
       "due": "2024-04-27T11:01:21.955Z",
       "stability": 10.4871,
@@ -17391,6 +17545,17 @@
       "state": 2,
       "last_review": "2024-03-28T16:12:41.594Z"
     },
+    "729edc08": {
+      "due": "2024-04-18T09:14:06.965Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T09:14:06.965Z"
+    },
     "72a65a51": {
       "due": "2024-04-23T04:57:37.737Z",
       "stability": 10.4871,
@@ -17500,6 +17665,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-03-14T15:00:19.966Z"
+    },
+    "75bb6130": {
+      "due": "2024-04-18T08:20:36.514Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T08:20:36.514Z"
     },
     "75d7744f": {
       "due": "2024-05-24T14:40:11.623Z",
@@ -18128,6 +18304,17 @@
       "state": 2,
       "last_review": "2024-04-13T04:57:33.353Z"
     },
+    "87392ab9": {
+      "due": "2024-04-18T09:15:00.155Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T09:15:00.155Z"
+    },
     "87dbd29c": {
       "due": "2024-04-25T03:49:30.495Z",
       "stability": 10.4871,
@@ -18754,6 +18941,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-04-13T15:54:20.807Z"
+    },
+    "96aeac35": {
+      "due": "2024-04-18T09:12:03.471Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T09:12:03.471Z"
     },
     "96c8975c": {
       "due": "2024-04-17T13:49:46.726Z",
@@ -19833,6 +20031,17 @@
       "state": 2,
       "last_review": "2024-03-31T03:25:54.467Z"
     },
+    "b4bc6c26": {
+      "due": "2024-04-18T09:05:28.953Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T09:05:28.953Z"
+    },
     "b4cb7fce": {
       "due": "2024-04-21T11:04:49.225Z",
       "stability": 10.4871,
@@ -19931,6 +20140,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-04-14T02:07:51.364Z"
+    },
+    "b865736b": {
+      "due": "2024-04-18T07:54:53.208Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:54:53.208Z"
     },
     "b9111c99": {
       "due": "2024-06-28T14:54:02.919Z",
@@ -20548,6 +20768,17 @@
       "state": 2,
       "last_review": "2024-04-11T10:57:50.298Z"
     },
+    "ca90947a": {
+      "due": "2024-04-18T09:06:29.496Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T09:06:29.496Z"
+    },
     "caaeaf76": {
       "due": "2024-04-18T01:35:12.334Z",
       "stability": 0,
@@ -20779,6 +21010,17 @@
       "state": 2,
       "last_review": "2024-04-11T11:02:50.854Z"
     },
+    "d04c4e72": {
+      "due": "2024-04-18T07:56:30.323Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:56:30.323Z"
+    },
     "d088ac06": {
       "due": "2024-04-25T03:26:43.974Z",
       "stability": 10.4871,
@@ -20899,6 +21141,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-03-28T16:15:14.769Z"
+    },
+    "d351e37d": {
+      "due": "2024-04-18T07:58:00.483Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:58:00.483Z"
     },
     "d3dea1a1": {
       "due": "2024-04-18T01:00:37.060Z",
@@ -21042,6 +21295,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-04-11T10:54:07.263Z"
+    },
+    "d66c11f0": {
+      "due": "2024-04-18T07:55:49.296Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:55:49.296Z"
     },
     "d671fee7": {
       "due": "2024-05-02T03:13:32.611Z",
@@ -21438,6 +21702,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-04-11T11:04:57.310Z"
+    },
+    "e26773a8": {
+      "due": "2024-04-18T07:52:36.380Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:52:36.380Z"
     },
     "e28d24a2": {
       "due": "2024-06-25T03:14:17.693Z",
@@ -22275,6 +22550,17 @@
       "state": 2,
       "last_review": "2024-03-31T03:27:09.584Z"
     },
+    "fe3a0068": {
+      "due": "2024-04-18T07:51:16.252Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:51:16.252Z"
+    },
     "fe49395c": {
       "due": "2024-07-07T10:48:42.597Z",
       "stability": 80.55817576549919,
@@ -22915,6 +23201,29 @@
         }
       ]
     },
+    "adjust": {
+      "word": "adjust",
+      "means": [
+        {
+          "text": "调整",
+          "contexts": [
+            {
+              "text": "Their body language lets me know when to adjust class activities, when to intervene, and when to talk to students individually",
+              "index": [
+                41,
+                47
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz115f2073",
+                "id": "7afacb58"
+              }
+            }
+          ],
+          "card_id": "659ea58c"
+        }
+      ]
+    },
     "adjustment": {
       "word": "adjustment",
       "means": [
@@ -23202,6 +23511,29 @@
             }
           ],
           "card_id": "921dc2c4"
+        }
+      ]
+    },
+    "agriculture": {
+      "word": "agriculture",
+      "means": [
+        {
+          "text": "农业，农学",
+          "contexts": [
+            {
+              "text": "To tackle this crisis, he chose to study agriculture and received an education at Southwest Agricultural College in Chongqing.",
+              "index": [
+                41,
+                52
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz1152c449",
+                "id": "75307eb3"
+              }
+            }
+          ],
+          "card_id": "ca90947a"
         }
       ]
     },
@@ -23998,6 +24330,29 @@
             }
           ],
           "card_id": "bca7fe5a"
+        }
+      ]
+    },
+    "assess": {
+      "word": "assess",
+      "means": [
+        {
+          "text": "评价，评估",
+          "contexts": [
+            {
+              "text": "Whatever it is, I know I need to inquire and assess what is going on.",
+              "index": [
+                45,
+                51
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz115f2073",
+                "id": "c839ea9a"
+              }
+            }
+          ],
+          "card_id": "d66c11f0"
         }
       ]
     },
@@ -25204,6 +25559,29 @@
         }
       ]
     },
+    "characteristic": {
+      "word": "characteristic",
+      "means": [
+        {
+          "text": "特点",
+          "contexts": [
+            {
+              "text": "One characteristic of hybrids is that they usually attain a higher yield than conventional crops.",
+              "index": [
+                4,
+                18
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz1152c449",
+                "id": "c2176845"
+              }
+            }
+          ],
+          "card_id": "87392ab9"
+        }
+      ]
+    },
     "chest": {
       "word": "chest",
       "means": [
@@ -25924,6 +26302,29 @@
         }
       ]
     },
+    "component": {
+      "word": "component",
+      "means": [
+        {
+          "text": "组成部分",
+          "contexts": [
+            {
+              "text": "Reacting to body language is an important component of being a teacher.",
+              "index": [
+                42,
+                51
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz115f2073",
+                "id": "cf74ab40"
+              }
+            }
+          ],
+          "card_id": "d351e37d"
+        }
+      ]
+    },
     "compromise": {
       "word": "compromise",
       "means": [
@@ -26020,6 +26421,29 @@
             }
           ],
           "card_id": "38b57047"
+        }
+      ]
+    },
+    "conflict": {
+      "word": "conflict",
+      "means": [
+        {
+          "text": "冲突",
+          "contexts": [
+            {
+              "text": "It could be that she is having serious conflicts with other students or at home.",
+              "index": [
+                39,
+                48
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz115f2073",
+                "id": "a96a1b6f"
+              }
+            }
+          ],
+          "card_id": "b865736b"
         }
       ]
     },
@@ -26416,6 +26840,29 @@
         }
       ]
     },
+    "convinced": {
+      "word": "convinced",
+      "means": [
+        {
+          "text": "确信的",
+          "contexts": [
+            {
+              "text": "Yuan was convinced that the answer could be found in the creation of hybrid rice.",
+              "index": [
+                9,
+                18
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz1152c449",
+                "id": "d9eb6b5e"
+              }
+            }
+          ],
+          "card_id": "96aeac35"
+        }
+      ]
+    },
     "cooperation": {
       "word": "cooperation",
       "means": [
@@ -26598,6 +27045,29 @@
             }
           ],
           "card_id": "32e48613"
+        }
+      ]
+    },
+    "crisis": {
+      "word": "crisis",
+      "means": [
+        {
+          "text": "危机",
+          "contexts": [
+            {
+              "text": "To tackle this crisis, he chose to study agriculture and received an education at Southwest Agricultural College in Chongqing.",
+              "index": [
+                15,
+                21
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz1152c449",
+                "id": "f8a93fce"
+              }
+            }
+          ],
+          "card_id": "b4bc6c26"
         }
       ]
     },
@@ -27337,6 +27807,29 @@
             }
           ],
           "card_id": "baf2dfec"
+        }
+      ]
+    },
+    "devote": {
+      "word": "devote",
+      "means": [
+        {
+          "text": "把……贡献给",
+          "contexts": [
+            {
+              "text": "Indeed, his slim but strong body was just like that of millions of Chinese farmers, to whom he had devoted his life.",
+              "index": [
+                99,
+                106
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz1152c449",
+                "id": "4a836b7c"
+              }
+            }
+          ],
+          "card_id": "75bb6130"
         }
       ]
     },
@@ -30221,6 +30714,29 @@
         }
       ]
     },
+    "frown": {
+      "word": "frown",
+      "means": [
+        {
+          "text": "皱眉",
+          "contexts": [
+            {
+              "text": "Students who are sad or worried will nearly always wear a frown.",
+              "index": [
+                58,
+                63
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz115f2073",
+                "id": "749a9112"
+              }
+            }
+          ],
+          "card_id": "fe3a0068"
+        }
+      ]
+    },
     "fuel": {
       "word": "fuel",
       "means": [
@@ -31591,6 +32107,29 @@
         }
       ]
     },
+    "inquire": {
+      "word": "inquire",
+      "means": [
+        {
+          "text": "询问",
+          "contexts": [
+            {
+              "text": "Whatever it is, I know I need to inquire and assess what is going on.",
+              "index": [
+                33,
+                40
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz115f2073",
+                "id": "f467947d"
+              }
+            }
+          ],
+          "card_id": "148c11fe"
+        }
+      ]
+    },
     "instance": {
       "word": "instance",
       "means": [
@@ -31955,6 +32494,29 @@
             }
           ],
           "card_id": "1de02731"
+        }
+      ]
+    },
+    "intervene": {
+      "word": "intervene",
+      "means": [
+        {
+          "text": "干预",
+          "contexts": [
+            {
+              "text": "Their body language lets me know when to adjust class activities, when to intervene, and when to talk to students individually",
+              "index": [
+                74,
+                83
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz115f2073",
+                "id": "741d9e8e"
+              }
+            }
+          ],
+          "card_id": "24e9144c"
         }
       ]
     },
@@ -33133,6 +33695,18 @@
                 "sections": "f2535178",
                 "id": "0db0c706"
               }
+            },
+            {
+              "text": "Some students act this way merely because they are afraid of being called on by the teacher. ",
+              "index": [
+                27,
+                33
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz115f2073",
+                "id": "c279fbc6"
+              }
             }
           ],
           "card_id": "63ed1203"
@@ -33574,6 +34148,29 @@
             }
           ],
           "card_id": "c5e490d6"
+        }
+      ]
+    },
+    "nearly": {
+      "word": "nearly",
+      "means": [
+        {
+          "text": "almost",
+          "contexts": [
+            {
+              "text": "Students who are sad or worried will nearly always wear a frown.",
+              "index": [
+                37,
+                43
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz115f2073",
+                "id": "710b4995"
+              }
+            }
+          ],
+          "card_id": "417c4687"
         }
       ]
     },
@@ -35818,6 +36415,29 @@
             }
           ],
           "card_id": "3ab2b336"
+        }
+      ]
+    },
+    "pursue": {
+      "word": "pursue",
+      "means": [
+        {
+          "text": "从事，追求\nachieve sth, usually over a long period of time",
+          "contexts": [
+            {
+              "text": "His parents wanted him to pursue a career in science or medicine.",
+              "index": [
+                26,
+                32
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz1152c449",
+                "id": "bd567935"
+              }
+            }
+          ],
+          "card_id": "33112287"
         }
       ]
     },
@@ -39010,6 +39630,29 @@
         }
       ]
     },
+    "tackle": {
+      "word": "tackle",
+      "means": [
+        {
+          "text": "应对",
+          "contexts": [
+            {
+              "text": "To tackle this crisis, he chose to study agriculture and received an education at Southwest Agricultural College in Chongqing.",
+              "index": [
+                3,
+                9
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz1152c449",
+                "id": "77e2b8af"
+              }
+            }
+          ],
+          "card_id": "127927f5"
+        }
+      ]
+    },
     "taste": {
       "word": "taste",
       "means": [
@@ -39795,6 +40438,29 @@
         }
       ]
     },
+    "ultimately": {
+      "word": "ultimately",
+      "means": [
+        {
+          "text": "finally",
+          "contexts": [
+            {
+              "text": "Ultimately, my duty is helping every student to learn.",
+              "index": [
+                0,
+                10
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz115f2073",
+                "id": "bbfa06cd"
+              }
+            }
+          ],
+          "card_id": "d04c4e72"
+        }
+      ]
+    },
     "universal": {
       "word": "universal",
       "means": [
@@ -39907,6 +40573,29 @@
             }
           ],
           "card_id": "4eebf317"
+        }
+      ]
+    },
+    "variety": {
+      "word": "variety",
+      "means": [
+        {
+          "text": "a different type of sth",
+          "contexts": [
+            {
+              "text": "A hybrid is a cross between two or more varieties of a species.",
+              "index": [
+                40,
+                49
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz1152c449",
+                "id": "0ffcf5b8"
+              }
+            }
+          ],
+          "card_id": "729edc08"
         }
       ]
     },
@@ -40264,6 +40953,29 @@
             }
           ],
           "card_id": "42dbcf06"
+        }
+      ]
+    },
+    "weep": {
+      "word": "weep",
+      "means": [
+        {
+          "text": "哭泣😭",
+          "contexts": [
+            {
+              "text": "However, if a student does not bother to brush her hair and her eyes are red from weeping, then I can infer that there are deeper issues at work.",
+              "index": [
+                82,
+                89
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz115f2073",
+                "id": "2e55155e"
+              }
+            }
+          ],
+          "card_id": "e26773a8"
         }
       ]
     },
@@ -40703,6 +41415,24 @@
             }
           ],
           "card_id": "2218bb93"
+        },
+        {
+          "text": "产量",
+          "contexts": [
+            {
+              "text": "Instead, farmers needed to boost yields in the fields they had.",
+              "index": [
+                33,
+                39
+              ],
+              "source": {
+                "book": "rjbgz11",
+                "sections": "rjbgz1152c449",
+                "id": "736f1d94"
+              }
+            }
+          ],
+          "card_id": "4cfc53e0"
         }
       ]
     }
@@ -40939,6 +41669,17 @@
       "state": 0,
       "last_review": "2024-02-23T15:15:53.315Z"
     },
+    "adjust": {
+      "due": "2024-04-18T07:56:45.960Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:56:45.960Z"
+    },
     "adjustment": {
       "due": "2024-04-16T05:20:23.237Z",
       "stability": 0,
@@ -41059,6 +41800,17 @@
       "lapses": 0,
       "state": 0,
       "last_review": "2024-04-13T16:12:21.941Z"
+    },
+    "agriculture": {
+      "due": "2024-04-18T09:06:29.400Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T09:06:29.400Z"
     },
     "ahead": {
       "due": "2024-06-07T03:35:28.704Z",
@@ -41422,6 +42174,17 @@
       "lapses": 0,
       "state": 1,
       "last_review": "2024-04-15T11:38:00.507Z"
+    },
+    "assess": {
+      "due": "2024-04-18T07:55:49.244Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:55:49.244Z"
     },
     "assign": {
       "due": "2024-04-16T15:56:36.935Z",
@@ -41984,6 +42747,17 @@
       "state": 0,
       "last_review": "2024-04-17T12:28:00.583Z"
     },
+    "characteristic": {
+      "due": "2024-04-18T09:15:00.136Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T09:15:00.136Z"
+    },
     "chest": {
       "due": "2024-04-18T01:48:04.703Z",
       "stability": 0,
@@ -42314,6 +43088,17 @@
       "state": 2,
       "last_review": "2024-03-31T03:34:33.728Z"
     },
+    "component": {
+      "due": "2024-04-18T07:58:00.453Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:58:00.453Z"
+    },
     "compromise": {
       "due": "2024-05-30T03:45:02.416Z",
       "stability": 59.568392979675124,
@@ -42346,6 +43131,17 @@
       "lapses": 0,
       "state": 0,
       "last_review": "2024-04-17T12:38:23.552Z"
+    },
+    "conflict": {
+      "due": "2024-04-18T07:54:53.159Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:54:53.159Z"
     },
     "conquer": {
       "due": "2024-04-18T16:07:03.766Z",
@@ -42523,6 +43319,17 @@
       "state": 2,
       "last_review": "2024-03-16T04:05:42.254Z"
     },
+    "convinced": {
+      "due": "2024-04-18T09:12:03.447Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T09:12:03.447Z"
+    },
     "cooperation": {
       "due": "2024-04-19T15:53:36.742Z",
       "stability": 3.5878,
@@ -42610,6 +43417,17 @@
       "lapses": 0,
       "state": 1,
       "last_review": "2024-04-15T15:47:34.710Z"
+    },
+    "crisis": {
+      "due": "2024-04-18T09:05:28.919Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T09:05:28.919Z"
     },
     "critic": {
       "due": "2024-05-31T03:41:58.432Z",
@@ -42929,6 +43747,17 @@
       "lapses": 0,
       "state": 0,
       "last_review": "2024-04-16T03:45:28.041Z"
+    },
+    "devote": {
+      "due": "2024-04-18T08:20:36.440Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T08:20:36.440Z"
     },
     "diary": {
       "due": "2024-04-16T13:12:59.031Z",
@@ -44250,6 +45079,17 @@
       "state": 2,
       "last_review": "2024-04-15T13:02:41.048Z"
     },
+    "frown": {
+      "due": "2024-04-18T07:51:16.243Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:51:16.243Z"
+    },
     "fuel": {
       "due": "2024-04-17T15:58:37.766Z",
       "stability": 1.5061272507116275,
@@ -44855,6 +45695,17 @@
       "state": 3,
       "last_review": "2024-04-15T15:56:58.838Z"
     },
+    "inquire": {
+      "due": "2024-04-18T07:55:33.472Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:55:33.472Z"
+    },
     "instance": {
       "due": "2024-04-16T13:09:09.841Z",
       "stability": 0,
@@ -44986,6 +45837,17 @@
       "lapses": 0,
       "state": 0,
       "last_review": "2024-04-18T00:59:45.764Z"
+    },
+    "intervene": {
+      "due": "2024-04-18T07:57:29.939Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:57:29.939Z"
     },
     "invest": {
       "due": "2024-08-02T12:51:28.329Z",
@@ -45745,6 +46607,17 @@
       "lapses": 0,
       "state": 0,
       "last_review": "2024-04-17T10:45:10.676Z"
+    },
+    "nearly": {
+      "due": "2024-04-18T07:50:23.668Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:50:23.668Z"
     },
     "necklace": {
       "due": "2024-04-19T16:08:34.678Z",
@@ -46757,6 +47630,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-03-16T04:09:04.573Z"
+    },
+    "pursue": {
+      "due": "2024-04-18T08:23:30.304Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T08:23:30.304Z"
     },
     "quality": {
       "due": "2024-04-17T14:31:31.014Z",
@@ -48243,6 +49127,17 @@
       "state": 0,
       "last_review": "2024-04-17T15:44:19.983Z"
     },
+    "tackle": {
+      "due": "2024-04-18T09:05:05.586Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T09:05:05.586Z"
+    },
     "taste": {
       "due": "2024-04-19T15:54:54.662Z",
       "stability": 3.5878,
@@ -48595,6 +49490,17 @@
       "state": 0,
       "last_review": "2024-04-16T13:44:23.937Z"
     },
+    "ultimately": {
+      "due": "2024-04-18T07:56:30.261Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:56:30.261Z"
+    },
     "universal": {
       "due": "2024-04-16T12:00:07.826Z",
       "stability": 0,
@@ -48649,6 +49555,17 @@
       "lapses": 0,
       "state": 1,
       "last_review": "2024-04-11T12:37:25.690Z"
+    },
+    "variety": {
+      "due": "2024-04-18T09:14:06.876Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T09:14:06.876Z"
     },
     "vase": {
       "due": "2024-04-19T16:10:14.822Z",
@@ -48814,6 +49731,17 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-03-31T03:34:41.039Z"
+    },
+    "weep": {
+      "due": "2024-04-18T07:52:36.319Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0,
+      "last_review": "2024-04-18T07:52:36.319Z"
     },
     "weigh": {
       "due": "2024-04-17T15:43:46.495Z",
@@ -49030,6 +49958,7 @@
     "23030163": "physique",
     "27871778": "boost",
     "29043884": "plank",
+    "33112287": "pursue",
     "44885552": "existence",
     "49664959": "despite",
     "55441746": "excite",
@@ -49085,10 +50014,12 @@
     "10a66cef": "equally",
     "112bef00": "durable",
     "1150b2eb": "arrange",
+    "127927f5": "tackle",
     "135c724a": "consistent",
     "13f27318": "retirement",
     "13f615af": "tempt",
     "142db601": "competitive",
+    "148c11fe": "inquire",
     "16a6880d": "shortage",
     "16bba5f6": "proud",
     "16dd7bd0": "opportunity",
@@ -49137,6 +50068,7 @@
     "243160bd": "suspected",
     "24875e27": "late",
     "24b6036e": "awe",
+    "24e9144c": "intervene",
     "263a51d0": "publication",
     "26b04eaa": "historic",
     "272a7ab9": "employee",
@@ -49226,6 +50158,7 @@
     "4037d667": "reassess",
     "40ce9acd": "emission",
     "4108c803": "engaged",
+    "417c4687": "nearly",
     "41b9f7bf": "fever",
     "420a790b": "territory",
     "423f9ae0": "process",
@@ -49260,6 +50193,7 @@
     "4c07c270": "among",
     "4c8abfdc": "strike",
     "4cd77fdd": "exact",
+    "4cfc53e0": "yield",
     "4d4d352d": "revision",
     "4db2112d": "reluctantly",
     "4dfe2850": "increasingly",
@@ -49338,6 +50272,7 @@
     "64c48018": "routine",
     "64eeeaac": "monk",
     "659127af": "sensitive",
+    "659ea58c": "adjust",
     "669c3656": "county",
     "66ab3ced": "herd",
     "66d31a22": "ease",
@@ -49373,6 +50308,7 @@
     "716564d9": "dare",
     "72772ebf": "prank",
     "727f07dd": "pilot",
+    "729edc08": "variety",
     "72a65a51": "staff",
     "72c13107": "lounge",
     "72d0a10e": "indicate",
@@ -49383,6 +50319,7 @@
     "74c2c9c4": "specific",
     "74f43f91": "occupation",
     "752a91d2": "raise",
+    "75bb6130": "devote",
     "75d7744f": "earn",
     "762d837b": "choosy",
     "766d4c3d": "run",
@@ -49434,6 +50371,7 @@
     "85e2a939": "paratrooper",
     "868562ea": "conquer",
     "86b5eea0": "ashtray",
+    "87392ab9": "characteristic",
     "87dbd29c": "flood",
     "88011d11": "cautious",
     "881dd8df": "mankind",
@@ -49490,6 +50428,7 @@
     "95cc7e90": "pound",
     "963becf5": "instruct",
     "967908d3": "pass",
+    "96aeac35": "convinced",
     "96c8975c": "miracle",
     "96d2a07c": "dramatic",
     "9712d171": "academy",
@@ -49583,6 +50522,7 @@
     "b43c79a5": "beneath",
     "b49ff81a": "identical",
     "b4b4054b": "supportive",
+    "b4bc6c26": "crisis",
     "b4cb7fce": "sacred",
     "b530c354": "broadcast",
     "b5c2795a": "attempt",
@@ -49591,6 +50531,7 @@
     "b784c76d": "in­depth",
     "b79170bb": "evidence",
     "b79e3d41": "mysterious",
+    "b865736b": "conflict",
     "b9111c99": "tropical",
     "b92531fd": "communication",
     "b93b7140": "involve",
@@ -49646,6 +50587,7 @@
     "c93e819a": "stretch",
     "ca4cfa85": "foundation",
     "ca7709e8": "accusation",
+    "ca90947a": "agriculture",
     "caaeaf76": "barely",
     "cb1ea681": "advocate",
     "cc85b320": "modern",
@@ -49667,6 +50609,7 @@
     "cf919aab": "academic",
     "cfe7898a": "bar",
     "cfeac796": "award",
+    "d04c4e72": "ultimately",
     "d088ac06": "resistance",
     "d0cb6d0f": "definitely",
     "d11dda40": "incredible",
@@ -49676,6 +50619,7 @@
     "d25fd3f1": "feline",
     "d2bca12f": "partner",
     "d31bb3eb": "sled",
+    "d351e37d": "component",
     "d3dea1a1": "comparison",
     "d3df0251": "temple",
     "d44810bb": "about",
@@ -49688,6 +50632,7 @@
     "d587c78d": "appliance",
     "d63d4164": "fire",
     "d667f348": "glance",
+    "d66c11f0": "assess",
     "d671fee7": "pale",
     "d6a15687": "heritor",
     "d7f85eba": "apply",
@@ -49723,6 +50668,7 @@
     "e0a56e31": "contingency",
     "e0e00005": "coordinator",
     "e0fa582a": "statue",
+    "e26773a8": "weep",
     "e28d24a2": "contest",
     "e30ca94d": "tell",
     "e3200331": "inflated",
@@ -49797,6 +50743,7 @@
     "fdad38e4": "meat",
     "fdda100c": "approval",
     "fdf7da2d": "ozone",
+    "fe3a0068": "frown",
     "fe49395c": "ahead",
     "fe9db0d0": "lamp",
     "febf0abe": "instruct",
@@ -80852,6 +81799,228 @@
     },
     "1713404884764": {
       "cardId": "a8280628",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713426623668": {
+      "cardId": "nearly",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713426623694": {
+      "cardId": "417c4687",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713426676243": {
+      "cardId": "frown",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713426676252": {
+      "cardId": "fe3a0068",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713426756319": {
+      "cardId": "weep",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713426756380": {
+      "cardId": "e26773a8",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713426893159": {
+      "cardId": "conflict",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713426893208": {
+      "cardId": "b865736b",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713426933472": {
+      "cardId": "inquire",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713426933600": {
+      "cardId": "148c11fe",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713426949244": {
+      "cardId": "assess",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713426949296": {
+      "cardId": "d66c11f0",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713426990261": {
+      "cardId": "ultimately",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713426990323": {
+      "cardId": "d04c4e72",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713427005960": {
+      "cardId": "adjust",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713427006047": {
+      "cardId": "659ea58c",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713427049939": {
+      "cardId": "intervene",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713427049973": {
+      "cardId": "24e9144c",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713427080453": {
+      "cardId": "component",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713427080483": {
+      "cardId": "d351e37d",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713428436440": {
+      "cardId": "devote",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713428436514": {
+      "cardId": "75bb6130",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713428610304": {
+      "cardId": "pursue",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713428610375": {
+      "cardId": "33112287",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713431105586": {
+      "cardId": "tackle",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713431105664": {
+      "cardId": "127927f5",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713431128919": {
+      "cardId": "crisis",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713431128953": {
+      "cardId": "b4bc6c26",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713431189400": {
+      "cardId": "agriculture",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713431189496": {
+      "cardId": "ca90947a",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713431313023": {
+      "cardId": "4cfc53e0",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713431523447": {
+      "cardId": "convinced",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713431523471": {
+      "cardId": "96aeac35",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713431646876": {
+      "cardId": "variety",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713431646965": {
+      "cardId": "729edc08",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713431700136": {
+      "cardId": "characteristic",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1713431700155": {
+      "cardId": "87392ab9",
       "rating": null,
       "state": null,
       "duration": null
