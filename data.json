@@ -196,7 +196,7 @@
     "gk": {
       "name": "高考词汇",
       "id": "gk",
-      "visitTime": 1714214567607,
+      "visitTime": 1714230499121,
       "updateTime": 1713075062139,
       "type": "word",
       "sections": [
@@ -226,7 +226,7 @@
     "rjb": {
       "name": "人教版",
       "id": "rjb",
-      "visitTime": 1714226551571,
+      "visitTime": 1714230475880,
       "updateTime": 1700968498560,
       "type": "word",
       "sections": [
@@ -239,7 +239,7 @@
         "e53e89c4"
       ],
       "canEdit": false,
-      "lastPosi": 5,
+      "lastPosi": 3,
       "language": "en"
     },
     "rjbgz11": {
@@ -310,9 +310,9 @@
         "rjbgz133da3c0",
         "rjbgz13b4c418"
       ],
-      "visitTime": 1714224483510,
+      "visitTime": 1714230468534,
       "canEdit": false,
-      "lastPosi": 8
+      "lastPosi": 2
     },
     "rjbgz14": {
       "name": "人教版高中选择性必修四",
@@ -334,9 +334,9 @@
         "rjbgz14d16173",
         "rjbgz1446dcbe"
       ],
-      "visitTime": 1714214664729,
+      "visitTime": 1714287603900,
       "canEdit": false,
-      "lastPosi": 6
+      "lastPosi": 7
     },
     "rjbgz21": {
       "name": "人教版高中选修一",
@@ -1333,7 +1333,7 @@
     },
     "203ee3ab": {
       "title": "选修三",
-      "lastPosi": 0.24022025873773065,
+      "lastPosi": null,
       "text": "precise\nprecisely\nChristianity\nrealistic\nrealism\nrealist\nprimitive\ndimension\nin particular\nset apart from\nhumanistic\nhumanity\nbreakthrough\ninfluential\nreputation\nnoble\nrank\npurchase\nmythology\nclient\nphotography\nemerge\nsunrise\nconvey\nsubjective\nouter\nsubsequent\nfond\nbe fond of\nfine art\nsculpture\nsculptor\nvisual\nwater lily\npond\narched\narch\ninvestment\nbride\npermanent\nmemorial\nhumble\ncriticize\ncriticism\nrepresentative\nink\nanimation\nframe\nsymphony\ndecline\nexhibition\nbronze\nceramic\nvase\nartistic\nentry\ncivil\nrecognition\nBuddhist\nBuddhism\nexpansion\nbring...to life\nguarantee\ncontemporary\nworthy\nbe worthy of\nThe Middle Ages\nthe Renaissance\nImpressionism\ntobacco\nalcohol\nabuse\nphysical\ndominate\nrepeatedly\npsychology\ncue\nin response to\nreward\nrely\nrely on\nfacilitate\nexamine\nnegative\nescalator\nstraight away\npessimistic\ndiscipline\npill\ndelete\ndecide on\nmake up one's mind\ncompose\nbe composed of\nsurgeon\nsurgery\nliberation\nshave\nshave off\nbeard\ndisturb\ncigarette\nspecialist\nconsultant\ndrug\nskip\ndizzy\nflu\nstimulate\ndentist\nsugary\nnut\nskateboard\ndynamic\nstressed out\nworn out\nbowling\ncomedy\nmonthly\nenhance\nrefresh\nabsorb\ngraph\nemission\nmelt\nstarve\nseal\necology\nrelease\nmethane\ncarbon dioxide\nhabitable\nsustain\nsustainable\nfossil\nfuel\nfossil fuel\ncomprehensive\nworldwide\ntrend\nfrequently\nbroadcast\npolicy\nfootprint\nrestrict\nrestriction\nseize\nbasin\npenguin\nreform\nundergo\nimplement\nharmonious\nmoderate\nsubmit\nannual\ntropical\nchaos\non behalf of\nnuclear\nsensitive\njungle\nsmog\noriginate\nvolume\ngarbage\nenterprise\nrestore\nconservation\ndozen\ndozens of\nregulation\ndisposal\ninspection\nfine\ncampaign\nwaterway\ntolerate\nagenda\nadversity\nwage\nbitter\nexpedition\nendurance\nvigour\nturn down\nqualified\nenthusiastic\naboard\ncupboard\nassign\nsteward\nenvy\ncrush\nsink\nabandon\nstove\nblanket\nbelongings\nmiserable\nvoyage\nnavy\ndecent\ncosy\nselfish\ngood-tempered\nbad-tempered\ngenuine\nperseverance\npersevere\nresolve\nresolution\ncrew\ncruel\nthorough\nfurniture\nunfortunately\nfortunately\nbark\nrugby\nbat\ndamp\nrecreation\nguidance\nnephew\nadvertising\nadvertise\ncorporate\nrough\nnavigator\nloyal\nmotor\ncandidate\nmake fire\ngive off\nepisode\ncommitment\nmotive\nConfucianism\nAntarctica\nthe Antarctic\nthe South Pole\ndrama\nsorrow\nimagery\nliterary\nrhyme\nrhythm\nnursery\nnursery rhyme\nfolk\nmockingbird\ndiamond\nbrass\nbull\nrecite\nbee\ndewdrop\ndawn\nclover\nbutterfly\nlawn\namateur\nbe made up of\nmood\ntease\nsyllable\nformat\nrespectively\nrespective\nblossom\ndelicate\nawait\nrevolve\nutter\ncomprehension\nshelf\ncore\ncherry\ncherry blossom\nblank\nverse\ncivilian\nprose\nsympathetic\nsympathy\nversion\ninnocence\ninnocent\nera\ncorrespondence\ncorrespond\nsow\nseed\ndominant\nsonnet\ndeadline\ncontest\npolish\nstring\nwherever\nbarren\ngrief\ncomplicated\nvariation\nracial\nprejudice",
       "words": {}
     },
@@ -2915,7 +2915,7 @@
     },
     "6241f998": {
       "title": "选修一",
-      "lastPosi": null,
+      "lastPosi": 0,
       "text": "physiology\ncrucial\nmalaria\nvital\ncommitted\ncommit\ncommit oneself to do\nacademy\nacademic\nobjective\nbotanical\nevaluate\nproperty\ndistinct\nextract\nboil\nliquid\nobtain\nacknowledge\ndefeat\nanalyse\napparently\nsubstance\ninsist\ninsist on\nscientific\nmostly\nwear and tear\nconclusion\nflee\ncircumstance\nnovelist\nnovel\nflow\nchart\nflow chart\nfound\ninfer\npolitician\nnumerous\ntheory\nrelativity\nformula\ngenius\ngentle\npatent\npassion\ndoctorate\nextraordinary\ngradually\nphotoelectric\ncome to power\ninstitution\ninstitute\nconsequence\ntake up a position\nmoustache\npeculiarity\nencounter\nprofessor\nmourn\nremarkable\ndevice\nsum\nsum up\ndraft\nphrase\npersuade\nswitch\nswitch off\nswitch on\ndistant\nsecure\nknob\nappliance\nremote\nremote control\nair conditioner\nautomatic\nintegrated\nintegrate\nsensor\nefficient\nmode\nroutine\ndaily routine\npreference\ninstant\ncommand\nobey\nwarning\nconstant\nearly on\nabnormal\ncritical\ncancer\npotentially\npotential\nleak\nelectrical\nwiring\nwire\ndetect\nrelevant\ncatch fire\nfantasy\ninnovation\navailable\nin this sense\nnevertheless\nstructure\nsecurity\ncrime\ncombine\nartificial\nartificial intelligence\nclone\npredict\nprediction\nforecast\noccupation\noppose\nhence\ncease\ndeceased\nabsence\nrural\nemphasis\nluxury\nkeep in touch with\ncareer\nprospect\nresist\nresistance\nparagraph\nsignpost\nessay\naccurate\nlibrarian\nbuffet\ncloth\nedge\nvalley\nvast\nglacier\nreindeer\nterritory\nban\nboundary\ncottage\nvisible\non the move\naccompany\nadopt\nsour\nset out\nbless\nlive off\nprohibition\nprohibit\njournalist\nsneeze\nteapot\nlabel\ncream\nleopard\nstretch\nrewarding\nbush\nlung\ncycle\ncorridor\npedal\nfountain\nroute\nahead\ntheme\ntheme park\nroller coaster\nincredible\nappeal\nappeal to\npirate\nadorable\nwander\namusement\namuse\nenormous\nswing\niron\nfashion\nrare\nsteam\nsuperb\naquarium\nup to\npolar\nupside down\nsplendid\ndisplay\nappetite\nentertainment\ncolumn\ninteraction\nvary\nappropriate\nby contrast\napprove\ndemonstrate\ngesture\nwitness\nemploy\nidentical\ninterpret\ndiffer\nby comparison\ncheek\nfavour\nbow\nwaist\nmake inferences\nbreak down\nbarrier\nfake\nanger\nreliable\nincident\ntrial\nslight\nslightly\ntwin\nnonverbal\nassessment\nassess\ninternal\nstraighten up\nslump\npose\nbend\nreveal\nclarify\nin other words\neducator\ntick\ntendency\nlower\nimply\nbarely\nchin\noccupy\nstare\nceiling\ndistract\nperceive\ndistinguish\nanxiety\nchest\nembarrassed\nashamed\nmerely\ncall on\nbother\nweep\nat work\nconflict\ninquire\nultimately\nintervene\nadjust\nreact\ncomponent\ntone\nhybrid\ndevote\ndevote...to\nshortage\ntackle\ncrisis\nboost\nyield\nconvince\ncharacteristic\nattain\nconventional\npollinate\nassumption\nintense\novercome\nexpand\noutput\nestimate\ndomestic\nconsumption\ncomprise\nbe comprised of\ngenerate\nstrain\nleisure\ndeep down\nsoil\ncelebrity\nenvision\nsorghum\nbroom\ngrain\nvision\nreality\nsalty\nurban\nbomb\ntunnel\nextension\nchemical\nwheat\nflavour\nfertilizer\nnutritional\nnutritious\nnutrition\nalleviate\npoverty\norganic\npesticide\nwidespread\nbacterium\nin turn\ndigest\nessential\nmineral\nalternative\ngrocery\ninstance\nfor instance\ndepth\nroot\nentirely\naspect",
       "words": {}
     },
@@ -7760,7 +7760,7 @@
     "ignore": {
       "title": "ignore",
       "lastPosi": 0.999941012702529,
-      "text": "a\nan\nabout\nabove\nacross\naction\nactivity\nactor\nactress\nadd\naddress\nadult\nadvice\nafraid\nafter\nafternoon\nagain\nage\nago\nagree\nair\nairport\nall\nalso\nalways\namazing\nand\nangry\nanimal\nanother\nanswer\nany\nanyone\nanything\napartment\napple\nApril\narea\narm\naround\narrive\nart\narticle\nartist\nas\nask\nat\nAugust\naunt\nautumn\naway\nbaby\nback\nbad\nbag\nball\nbanana\nband\nbank\nbath\nbathroom\nbe\nbeach\nbeautiful\nbecause\nbecome\nbed\nbedroom\nbeer\nbefore\nbegin\nbeginning\nbehind\nbelieve\nbelow\nbest\nbetter\nbetween\nbicycle\nbig\nbike\nbill\nbird\nbirthday\nblack\nblog\nblonde\nblue\nboat\nbody\nbook\nboot\nbored\nboring\nborn\nboth\nbottle\nbox\nboy\nboyfriend\nbread\nbreak\nbreakfast\nbring\nbrother\nbrown\nbuild\nbuilding\nbus\nbusiness\nbusy\nbut\nbutter\nbuy\nby\nbye\ncafe\ncake\ncall\ncamera\ncan\ncannot\ncapital\ncar\ncard\ncareer\ncarrot\ncarry\ncat\nCD\ncent\ncentre\ncentury\nchair\nchange\nchart\ncheap\ncheck\ncheese\nchicken\nchild\nchocolate\nchoose\ncinema\ncity\nclass\nclassroom\nclean\nclimb\nclock\nclose\nclothes\nclub\ncoat\ncoffee\ncold\ncollege\ncolour\ncome\ncommon\ncompany\ncompare\ncomplete\ncomputer\nconcert\nconversation\ncook\ncooking\ncool\ncorrect\ncost\ncould\ncountry\ncourse\ncousin\ncow\ncream\ncreate\nculture\ncup\ncustomer\ncut\ndad\ndance\ndancer\ndancing\ndangerous\ndark\ndate\ndaughter\nday\ndear\nDecember\ndecide\ndelicious\ndescribe\ndescription\ndesign\ndesk\ndetail\ndialogue\ndictionary\ndie\ndiet\ndifference\ndifferent\ndifficult\ndinner\ndirty\ndiscuss\ndish\ndo\ndoctor\ndog\ndollar\ndoor\ndown\ndownstairs\ndraw\ndress\ndrink\ndrive\ndriver\nduring\nDVD\neach\near\nearly\neast\neasy\neat\negg\neight\neighteen\neighty\nelephant\neleven\nelse\nemail\nend\nenjoy\nenough\neuro\neven\nevening\nevent\never\nevery\neverybody\neveryone\neverything\nexam\nexample\nexcited\nexciting\nexercise\nexpensive\nexplain\nextra\neye\nface\nfact\nfall\nfalse\nfamily\nfamous\nfantastic\nfar\nfarm\nfarmer\nfast\nfat\nfather\nfavourite\nFebruary\nfeel\nfeeling\nfestival\nfew\nfifteen\nfifth\nfifty\nfill\nfilm\nfinal\nfind\nfine\nfinish\nfire\nfirst\nfish\nfive\nflat\nflight\nfloor\nflower\nfly\nfollow\nfood\nfoot\nfootball\nfor\nforget\nform\nforty\nfour\nfourteen\nfourth\nfree\nFriday\nfriend\nfriendly\nfrom\nfront\nfruit\nfull\nfun\nfunny\nfuture\ngame\ngarden\ngeography\nget\ngirl\ngirlfriend\ngive\nglass\ngo\ngood\ngoodbye\ngrandfather\ngrandmother\ngrandparent\ngreat\ngreen\ngrey\ngroup\ngrow\nguess\nguitar\ngym\nhair\nhalf\nhand\nhappen\nhappy\nhard\nhat\nhate\nhave\nhave to\nhe\nhead\nhealth\nhealthy\nhear\nhello\nhelp\nher\nhere\nhey\nhi\nhigh\nhim\nhis\nhistory\nhobby\nholiday\nhome\nhomework\nhope\nhorse\nhospital\nhot\nhotel\nhour\nhouse\nhow\nhowever\nhundred\nhungry\nhusband\nI\nice\nice cream\nidea\nif\nimagine\nimportant\nimprove\nin\ninclude\ninformation\ninterest\ninterested\ninteresting\ninternet\ninterview\ninto\nintroduce\nisland\nit\nits\njacket\nJanuary\njeans\njob\njoin\njourney\njuice\nJuly\nJune\njust\nkeep\nkey\nkilometre\nkind\nkitchen\nknow\nland\nlanguage\nlarge\nlast\nlate\nlater\nlaugh\nlearn\nleave\nleft\nleg\nlesson\nlet\nletter\nlibrary\nlie\nlife\nlight\nadj.\nlike\nline\nlion\nlist\nlisten\nlittle\nlive\nlocal\nlong\nlook\nlose\nlot\nlove\nlunch\nmachine\nmagazine\nmain\nmake\nman\nmany\nmap\nMarch\nmarket\nmarried\nmatch\nMay\nmaybe\nme\nmeal\nmean\nmeaning\nmeat\nmeet\nmeeting\nmember\nmenu\nmessage\nmetre\nmidnight\nmile\nmilk\nmillion\nminute\nmiss\nmistake\nmodel\nmodern\nmoment\nMonday\nmoney\nmonth\nmore\nmorning\nmost\nmother\nmountain\nmouse\nmouth\nmove\nmovie\nmuch\nmum\nmuseum\nmusic\nmust\nmy\nname\nnatural\nnear\nneed\nnegative\nneighbour\nnever\nnew\nnews\nnewspaper\nnext\nnext to\nnice\nnight\nnine\nnineteen\nninety\nno\nno one\nnobody\nnorth\nnose\nnot\nnote\nnothing\nNovember\nnow\nnumber\nnurse\nobject\no’clock\nOctober\nof\noff\noffice\noften\noh\nOK\nold\non\nonce\none\nonion\nonline\nonly\nopen\nopinion\nopposite\nor\norange\norder\nother\nour\nout\noutside\nover\nown\npage\npaint\npainting\npair\npaper\nparagraph\nparent\npark\npart\npartner\nparty\npassport\npast\npay\npen\npencil\npeople\npepper\nperfect\nperiod\nperson\npersonal\nphone\nphoto\nphotograph\nphrase\npiano\npicture\npiece\npig\npink\nplace\nplan\nplane\nplant\nplay\nplayer\nplease\npoint\npolice\npoliceman\npool\npoor\npopular\npositive\npossible\npost\npotato\npound\npractice\npractise\nprefer\nprepare\npresent\npretty\nprice\nprobably\nproblem\nproduct\nprogramme\nproject\npurple\nput\nquarter\nquestion\nquick\nquickly\nquiet\nquite\nradio\nrain\nread\nreader\nreading\nready\nreal\nreally\nreason\nred\nrelax\nremember\nrepeat\nreport\nrestaurant\nresult\nreturn\nrice\nrich\nride\nright\nriver\nroad\nroom\nroutine\nrule\nrun\nsad\nsalad\nsalt\nsame\nsandwich\nSaturday\nsay\nschool\nscience\nscientist\nsea\nsecond\nsection\nsee\nsell\nsend\nsentence\nSeptember\nseven\nseventeen\nseventy\nshare\nshe\nsheep\nshirt\nshoe\nshop\nshopping\nshort\nshould\nshow\nshower\nsick\nsimilar\nsing\nsinger\nsister\nsit\nsituation\nsix\nsixteen\nsixty\nskill\nskirt\nsleep\nslow\nsmall\nsnake\nsnow\nso\nsome\nsomebody\nsomeone\nsomething\nsometimes\nson\nsong\nsoon\nsorry\nsound\nsoup\nsouth\nspace\nspeak\nspecial\nspell\nspelling\nspend\nsport\nspring\nstand\nstar\nstart\nstatement\nstation\nstay\nstill\nstop\nstory\nstreet\nstrong\nstudent\nstudy\nstyle\nsubject\nsuccess\nsugar\nsummer\nsun\nSunday\nsupermarket\nsure\nsweater\nswim\nswimming\ntable\ntake\ntalk\ntall\ntaxi\ntea\nteach\nteacher\nteam\nteenager\ntelephone\ntelevision\ntell\nten\ntennis\nterrible\ntest\ntext\nthan\nthank\nthanks\nthat\nthe\ntheatre\ntheir\nthem\nthen\nthere\nthey\nthing\nthink\nthird\nthirsty\nthirteen\nthirty\nthis\nthousand\nthree\nthrough\nThursday\nticket\ntime\ntired\ntitle\nto\ntoday\ntogether\ntoilet\ntomato\ntomorrow\ntonight\ntoo\ntooth\ntopic\ntourist\ntown\ntraffic\ntrain\ntravel\ntree\ntrip\ntrousers\ntrue\ntry\nT-shirt\nTuesday\nturn\nTV\ntwelve\ntwenty\ntwice\ntwo\ntype\numbrella\nuncle\nunder\nunderstand\nuniversity\nuntil\nup\nupstairs\nus\nuse\nuseful\nusually\nvacation\nvegetable\nvery\nvideo\nvillage\nvisit\nvisitor\nwait\nwaiter\nwake\nwalk\nwall\nwant\nwarm\nwash\nwatch\nwater\nway\nwe\nwear\nweather\nwebsite\nWednesday\nweek\nweekend\nwelcome\nwell\nwest\nwhat\nwhen\nwhere\nwhich\nwhite\nwho\nwhy\nwife\nwill\nwin\nwindow\nwine\nwinter\nwith\nwithout\nwoman\nwonderful\nword\nwork\nworker\nworld\nwould\nwrite\nwriter\nwriting\nwrong\nyeah\nyear\nyellow\nyes\nyesterday\nyou\nyoung\nyour\nyourself\nare\nless\nsince\nis\ncell\nrather\nstore\nwhile\nzero\nlevel\nsocial\nmedia\nyouth\nknowledge\nsafe\nendless\nvocabulary\npath\nprize\nowner\ncatch\nhold\nfocus\nstandard\ncontinue\npass\ngrade\nactive\nscore\nlimit\nbase\nrequire\ncover\nprogram\nexperience\ngraduate\nenter\nalthough\nevaluation\nnative\nsubmit\naid\ntotal\nprovide\nimpact\ncloth\nfreeze\nsolid\nserious\nfinger\nsystem\nteenage\nbehavior\nlink\nimage\nappear\nthemselves\nheavily\nedit\nselect\nanxiety\nauthor\nworry\nkid\ncourage\ndevelop\ndepend\nseem\nalone\nhardly\nmyself\noperation\nsupport\nsimple\ndeeply\nsilence\nvarious\nheart\nfriendship\nwooden\nconsider\ncontrol\nspeed\nlaunch\noption\nnation\nnature\nbenefit\nallow\nenvironment\naim\nincrease\nthese\nvital\nalready\nchoice\ntraditional\nwarn\ndeath\nclimate\nhuman\nstorm\ntemperature\nsuch\nthose\nobserve\nocean\nfrequency\nsimply\nsave\nuniverse\ncash\nnecessary\nmethod\nsociety\nnuclear\nwar\nearthquake\nhuge\ntsunami\ncause\nreflect\norigin\ngoal\nitself\npurpose\nsource\nsearch\nadvise\npick\nbattle\nwhether\ndanger\nmoreover\nendanger\nfight\nanywhere\nstep\ntool\nprotect\nupdate\nnumerous\ncomeback\nglobal\nelement\nhighlight\nlantern\ntorch\nsky\necho\ncheer\ntheme\nwheel\ntechnology\nsymbol\nfortune\nbranch\nbeauty\nking\nplastic\nsize\nlocate\nremote\ndesert\ndeliver\nalmost\ncolor\nrise\ndoll\nhole\nneighbor\ntrack\nlady\nthrow\ndegree\nmemory\ncase\nintelligence\nmeasure\nmental\ncontribute\nquality\nbeyond\neither\nability\npublic\nfunction\neveryday\ngift\nhimself\nexcept\nstable\nourselves\navoid\nfailure\nfail\nabandon\nexcuse\ncharacter\nemotion\nintelligent\neffect\ncite\nceremony\nadvance\nvision\ncloud\npeace\ncarbon\nfootprint\nenergy\nplatform\ntarget\nsometime\npopulation\nwhole\nshut\nexplore\nsweep\nconfuse\nmind\nconflict\nsolve\nbeat\nwish\nattach\nhill\nslide\nrock\ntransport\nfur\nresponse\ntradition\ncenter\ndeep\nconnect\nthough\nclear\nproduce\ntruck\nshortcut\nabsence\ntourism\ndream\nmoon\nneither\nadventure\npassenger\nenable\nview\nexpect\nancient\nengine\nrocket\nafford\nlayer\nconfidence\nresearch\nmay\nattract\nseek\nmark\ncap\nedge\nexist\nliquid\ninspire\nacademic\noffer\nrole\nencourage\nattention\ncollect\nvalue\nsingle\nsolar\nclick\napp\ndigital\nissue\nexpert\ndata\nlack\nlock\nthus\nuser\nable\nact\nactually\nadvertisement\nagainst\nah\nanybody\nanyway\nargument\nassistant\navailable\nbackground\nbased\nbasketball\nbehaviour\nbillion\nbirth\nblank\nbone\nbrain\nbroken\nbutton\ncare\ncareful\ncarefully\ncelebrate\nchat\ncircle\nclosed\ncode\ncoach\ncomfortable\ncompletely\ncondition\ncontext\ncopy\ncrazy\ncreative\ncross\ncry\ndead\ndesigner\ndestroy\ndifferently\ndirector\ndisagree\ndisappear\ndocument\ndrop\nearth\neducation\nengineer\nerror\nfan\nfishing\nfix\nflying\nfollowing\nforeign\nforward\nfresh\ngap\ngas\ngod\ngrass\nguide\ngun\nhabit\nhall\nhappily\nheavy\nheight\nhelpful\nhero\nhers\nherself\nhide\nhit\nhurt\nill\nillness\nimpossible\ninformal\nitem\njoke\njump\nkill\nknock\nlab\nlaw\nlawyer\nlazy\nlearning\nlemon\nlifestyle\nlost\nlow\nluck\nlucky\nmail\nmaterial\nmathematics\nmaths\nmiddle\nmight\nmine\nnone\nnormal\nnormally\nnotice\nnowhere\nnut\npack\npower\nposition\nprint\nprinter\npush\nrealize\nrecognize\nremove\nreplace\nrequest\nresearcher\nscreen\nseason\nshape\nsinging\nsmartphone\nsmoke\nsmoking\nsoft\nsoldier\nsolution\nsomewhere\nteaching\nthin\nthinking\nweb\nwashing\nweak\nwave\nwinner\nyours\nwow\nworse\nworst\nworking\narch\ncalendar\nhug\nworth\nrecent\nlone\nlonely\nzoo\nWi-Fi\ncheerful\nelegant\neverywhere\nofficial\nrush\ncultural\nheritage\ndisplay\nfootstep\nneighborhood\ntie\ndevelopment\nsuccessful\nadvantage\ndamage\nmajor\nequal\nexcellent\nvoyage\nconstruct\nconstruction\ntouch\nunique\nreduce\ngravity\nartificial\nforce\nship\neducate\nvia\nelectron\nelectronic\nmobile\nrevolution\ntoward\ncheat\ncontent\ncurrent\nunable\nsite\nprevious\nmarry\npercent\nant\nfrequently\nchildhood\nforest\nwildlife\nblind\nstructure\ndiscovery\nrelease\nchemical\nsignal\npublish\ninsect\ntheory\nspecie\nbiology\nroot\nfinally\nprove\nside\nthroat\nprise\nvoice\nflexible\nbreathable\nfabric\nsmart\nchallenge\nkeyboard\nbluetooth\nspeech\ndecode\ncomplex\nprototype\nsignificantly\nsuitable\napplication\npotentially\nbattery\nconnection\nreal­time\ntransparent\nfigure\ntraveler\nnetwork\nguest\nmeaningful\nvirtual\nensure\nservice\nabsolutely\nabsorb\nagreement\nanyhow\nbalance\nbamboo\nbarbecue\nbehave\nblackboard\nbomb\nborder\nboss\nbottom\ncafé\ncancel\ncancer\ncareless\ncartoon\ncharge\nChina\nchina\nChinese\ncivilisation\nclassmate\nclever\nconfirm\nConfucianism\nConfucius\nconfused\ncongratulation\ncookie\ncore\ncute\ncycle\ndatabase\ndeadline\ndelete\ndepth\ndinosaur\ndisabled\ndisappointed\ndiscover\ndistance\ndolphin\ndownload\ndraft\ndrama\nduck\nduration\ndust\neducator\neighth\nembarrassed\nEngland\nEnglish\neraser\nescape\nespecially\nessay\nEurope\nEuropean\nexchange\nfetch\nflag\nflash\nforever\nforehead\nforgive\nFrance\nfreedom\nFrench\ngenius\ngentleman\nGerman\nGermany\ngovernment\ngrammar\ngranddaughter\ngrandson\ngreenhouse\nhamburger\nhandbag\nhandsome\nhandwriting\nharvest\nhousework\nice-cream\nignore\nillegal\nimport\ninch\nindependent\nIndia\nIndian\nJapan\nJapanese\nkangaroo\nkite\nkiss\nlaptop\nlength\nlicense\nlimited\nLondon\nlower\nmagic\nmarch\nmaximum\nmedicine\nmillimetre\nmirror\nMiss\nmix\nmobile phone\nmonitor\nmonkey\nmovement\nMr\nMrs\nMs\nmushroom\nmusician\nneighbourhood\nnet\nninth\nnod\nnoodle\nnorthern\nnotebook\nobviously\nOlympics\nopera\noutgoing\noutput\npackage\nperhaps\nplayground\np.m.\npoem\npolicewoman\npostman\npredict\npressure\npromise\npronounce\npull\nquit\nrabbit\nrainbow\nrandom\nrange\nrecord\nrecycle\nrefresh\nrelief\nring\nromantic\nRussia\nRussian\nschoolbag\nscream\nsecret\nsex\nshadow\nshake\nsixth\nsoftware\nsort\nsouthern\nspy\nstomach\nstomachache\nstone\nstrange\nstranger\nstrawberry\nstring\nstupid\nsubway\nsummary\nsuper\nsurf\nsurface\nswitch\ntherefore\nthunder\ntoast\ntranslate\nvolunteer\nwashroom\nwatermelon\nX-ray\nalarm\nclone\nkindergarten\nkindness\nmale\nfemale\na.m.\nimpression\nimpress\nconfident\norganise\norganisation\ncurious\nfreshman\nconfusing\nrecommend\nresponsible\nresponsibility\npowerful\nemperor\nrecognise\nadmire\nmarathon\nmaster\nhonour\nglory\nmedal\ngraceful\nhelicopter\nbreathe\neffort\nwisdom\ntyphoon\nshell\nKorean\ncontribution\nTibet\nTibetan\nblogger\nconvenient\nplus\npress\nfile\ndot\nonto\ncongratulate\nfade\nlunar\nwhisper\nexport\nbite\nchairman\nchain\nchip\nhistorical\njazz\ndiagram\nclothing\ncm\nspacewalk\ndock\nfloat\nmicrowave\noxygen\nbet\nflow\nwarning\nprediction\ncomfort\nhomesickness\nangle\nink\nanimation\nvisual\nwherever\nlog\nfox\nwhose\nwhom\nwide\nwidespread\nweekday\nweight\nwestern\nwhatever\nwhenever\nAD\nalternative\naloud\nAmerican\nAmerica\nanalyse\nAsia\nAsian\nAustralia\nAustralian\nawake\nbadminton\nbasket\nbat\nBC\ncalligraphy\nCanada\nCanadian\nwind\nversion\nUS\nUK\ntrouble\nsurprise\nconnectivity\ndelta\nAfrica\nAfrican\nasleep\narrow\ncloudy\ndelay\ndrag\ndragon\nfisherman\nclassical\nclassic\ngoddess\neditor\noriginally\ndiamond\nbeautifully\nheadlight\nempty\nwallet\ndepartment\npocket\nmanager\nprivacy\nindependence\napparently\nrecently\nmedical\nfurther\nbelief\nshock\ninjury\ninjure\ntruth\nsurvive\ntowards\nsharply\ndirect\nnarrowly\nregard\nrapidly\nautomatic\neastern\nexit\nincluding\neducational\ninventor\nvaluable\ninvention\ninvent\naccident\nfrozen\nperformance\nrelate\nprevent\nupset\nstrength\nrider\nsnowy\nswing\ninfer\nnational\nsuggest\nenvironmental\noutdoor\ngraph\npatient\ntherefor\nequipment\nnovel\nbrochure\nunusual\nusual\nseller\nground\noriginal\ndecision\nreject\nenvelope\nspeaker\ncountless\ndirection\nevolution\nhopeful\nsnowflake\nknot\nclearly\nprovince\nclip\nseriously\nstrict\ndrug\nemotional\nrelationship\nembarrassing\nrose\nnecessarily\nunclear\nsense\nprotection\nrecyclable\nphysiology\nexamine\nevaluate\nextract\ncollection\nscientific\nformula\nmath\nphysics\nphotoelectric\nodd\nprofessor\nrelativity\nsensor\nmode\nrespond\ncommand\nelectrical\nshine\nvalley\nboundary\nvisible\nadopt\ndry\nsour\nberry\nkilogram\nbreath\nsweet\nwhichever\nfamiliar\nmagical\nsteam\naddition\npolar\nbear\nwet\nfirework\nvary\npolite\nelsewhere\nsmile\ncount\ndaydream\nstare\nguard\nbrush\nhybrid\nsouthwest\nrealise\ndifficulty\nsquare\nproduction\nsoil\nunderground\nwaste\ncorn\nbean\nentirely\ninsist\ndue\nreact\nshy\nagricultural\nself\nseawater\novercome\nqueen\nproof\nmultiple\nsuspect\nblame\nhandle\nraw\npure\nboil\ndecrease\nachievement\nextremely\nlaboratory\nexploration\ntalent\nreply\ngeneration\nsuccessfully\ninspiration\nchairwoman\nwheelchair\nmuscle\nastronomer\ntelescope\nbrave\nnervous\ngraduation\nhost\nrequirement\nmainly\nmessenger\nbridge\ndisadvantage\neconomy\nsum\noptimistic\ninternational\ncolourful\nmotherland\nworthwhile\npleasure\ndumpling\ntraditionally\nlamb\ncentral\nminimum\nconsume\nspicy\ntemper\nnowadays\nkiller\ndaily\ncandy\ndessert\nvitamin\nfibre\nbesides\ngrowth\nslowly\nchew\nattitude\nrailway\ntypical\nhike\nlake\ndeer\neagle\nprovincial\nsoutheast\nslightly\nbang\nfred\ngoat\noil\nshore\nschoolmate\nalongside\nphotographer\nskin\nray\nelectricity\nacid\ndivide\ntop\ntissue\nelectric\nclothe\npainful\nunless\nheat\npain\ninstantly\nambulance\nperform\nupper\nlay\nluckily\ninstead\ninstall\nlogical\nmildly\nunderneath\nimportance\nhumanistic\nbreakthrough\nrealism\nhence\nsubjective\nunlike\ninner\nseventh\nhighly\ninfluence\nreward\nunhappy\nunhealthy\naside\nsuddenly\ncamp\nphysically\nmentally\neasily\ntoothache\nregularly\nsugary\ntruly\nmonthly\nhappiness\nworldwide\nrainstorm\nheatwave\nplanet\npollution\ngreatly\ngarbage\ndozen\nmedium\nwaterway\nexplorer\nsecretly\nunfortunately\namaze\ncalmly\nwindy\nsunny\nleader\nspirit\nbadly\nam\nalive\njoy\ntear\npoet\nstoryline\nmood\ntranslation\nbutterfly\nseat\nbackwards\nskip\nunpleasant\nkoala\nspiritual\nmusical\noverseas\npersonally\nwarmth\nstress\nsafety\nwild\nnoise\nfrighten\nrat\nsmell\nnest\ndive\nrelation\nresource\nban\nhopefully\nrepeatedly\nsupply\nbless\nBuddhist\nBuddhism\nImpressionism\npainter",
+      "text": "a\nan\nabout\nabove\nacross\naction\nactivity\nactor\nactress\nadd\naddress\nadult\nadvice\nafraid\nafter\nafternoon\nagain\nage\nago\nagree\nair\nairport\nall\nalso\nalways\namazing\nand\nangry\nanimal\nanother\nanswer\nany\nanyone\nanything\napartment\napple\nApril\narea\narm\naround\narrive\nart\narticle\nartist\nas\nask\nat\nAugust\naunt\nautumn\naway\nbaby\nback\nbad\nbag\nball\nbanana\nband\nbank\nbath\nbathroom\nbe\nbeach\nbeautiful\nbecause\nbecome\nbed\nbedroom\nbeer\nbefore\nbegin\nbeginning\nbehind\nbelieve\nbelow\nbest\nbetter\nbetween\nbicycle\nbig\nbike\nbill\nbird\nbirthday\nblack\nblog\nblonde\nblue\nboat\nbody\nbook\nboot\nbored\nboring\nborn\nboth\nbottle\nbox\nboy\nboyfriend\nbread\nbreak\nbreakfast\nbring\nbrother\nbrown\nbuild\nbuilding\nbus\nbusiness\nbusy\nbut\nbutter\nbuy\nby\nbye\ncafe\ncake\ncall\ncamera\ncan\ncannot\ncapital\ncar\ncard\ncareer\ncarrot\ncarry\ncat\nCD\ncent\ncentre\ncentury\nchair\nchange\nchart\ncheap\ncheck\ncheese\nchicken\nchild\nchocolate\nchoose\ncinema\ncity\nclass\nclassroom\nclean\nclimb\nclock\nclose\nclothes\nclub\ncoat\ncoffee\ncold\ncollege\ncolour\ncome\ncommon\ncompany\ncompare\ncomplete\ncomputer\nconcert\nconversation\ncook\ncooking\ncool\ncorrect\ncost\ncould\ncountry\ncourse\ncousin\ncow\ncream\ncreate\nculture\ncup\ncustomer\ncut\ndad\ndance\ndancer\ndancing\ndangerous\ndark\ndate\ndaughter\nday\ndear\nDecember\ndecide\ndelicious\ndescribe\ndescription\ndesign\ndesk\ndetail\ndialogue\ndictionary\ndie\ndiet\ndifference\ndifferent\ndifficult\ndinner\ndirty\ndiscuss\ndish\ndo\ndoctor\ndog\ndollar\ndoor\ndown\ndownstairs\ndraw\ndress\ndrink\ndrive\ndriver\nduring\nDVD\neach\near\nearly\neast\neasy\neat\negg\neight\neighteen\neighty\nelephant\neleven\nelse\nemail\nend\nenjoy\nenough\neuro\neven\nevening\nevent\never\nevery\neverybody\neveryone\neverything\nexam\nexample\nexcited\nexciting\nexercise\nexpensive\nexplain\nextra\neye\nface\nfact\nfall\nfalse\nfamily\nfamous\nfantastic\nfar\nfarm\nfarmer\nfast\nfat\nfather\nfavourite\nFebruary\nfeel\nfeeling\nfestival\nfew\nfifteen\nfifth\nfifty\nfill\nfilm\nfinal\nfind\nfine\nfinish\nfire\nfirst\nfish\nfive\nflat\nflight\nfloor\nflower\nfly\nfollow\nfood\nfoot\nfootball\nfor\nforget\nform\nforty\nfour\nfourteen\nfourth\nfree\nFriday\nfriend\nfriendly\nfrom\nfront\nfruit\nfull\nfun\nfunny\nfuture\ngame\ngarden\ngeography\nget\ngirl\ngirlfriend\ngive\nglass\ngo\ngood\ngoodbye\ngrandfather\ngrandmother\ngrandparent\ngreat\ngreen\ngrey\ngroup\ngrow\nguess\nguitar\ngym\nhair\nhalf\nhand\nhappen\nhappy\nhard\nhat\nhate\nhave\nhave to\nhe\nhead\nhealth\nhealthy\nhear\nhello\nhelp\nher\nhere\nhey\nhi\nhigh\nhim\nhis\nhistory\nhobby\nholiday\nhome\nhomework\nhope\nhorse\nhospital\nhot\nhotel\nhour\nhouse\nhow\nhowever\nhundred\nhungry\nhusband\nI\nice\nice cream\nidea\nif\nimagine\nimportant\nimprove\nin\ninclude\ninformation\ninterest\ninterested\ninteresting\ninternet\ninterview\ninto\nintroduce\nisland\nit\nits\njacket\nJanuary\njeans\njob\njoin\njourney\njuice\nJuly\nJune\njust\nkeep\nkey\nkilometre\nkind\nkitchen\nknow\nland\nlanguage\nlarge\nlast\nlate\nlater\nlaugh\nlearn\nleave\nleft\nleg\nlesson\nlet\nletter\nlibrary\nlie\nlife\nlight\nadj.\nlike\nline\nlion\nlist\nlisten\nlittle\nlive\nlocal\nlong\nlook\nlose\nlot\nlove\nlunch\nmachine\nmagazine\nmain\nmake\nman\nmany\nmap\nMarch\nmarket\nmarried\nmatch\nMay\nmaybe\nme\nmeal\nmean\nmeaning\nmeat\nmeet\nmeeting\nmember\nmenu\nmessage\nmetre\nmidnight\nmile\nmilk\nmillion\nminute\nmiss\nmistake\nmodel\nmodern\nmoment\nMonday\nmoney\nmonth\nmore\nmorning\nmost\nmother\nmountain\nmouse\nmouth\nmove\nmovie\nmuch\nmum\nmuseum\nmusic\nmust\nmy\nname\nnatural\nnear\nneed\nnegative\nneighbour\nnever\nnew\nnews\nnewspaper\nnext\nnext to\nnice\nnight\nnine\nnineteen\nninety\nno\nno one\nnobody\nnorth\nnose\nnot\nnote\nnothing\nNovember\nnow\nnumber\nnurse\nobject\no’clock\nOctober\nof\noff\noffice\noften\noh\nOK\nold\non\nonce\none\nonion\nonline\nonly\nopen\nopinion\nopposite\nor\norange\norder\nother\nour\nout\noutside\nover\nown\npage\npaint\npainting\npair\npaper\nparagraph\nparent\npark\npart\npartner\nparty\npassport\npast\npay\npen\npencil\npeople\npepper\nperfect\nperiod\nperson\npersonal\nphone\nphoto\nphotograph\nphrase\npiano\npicture\npiece\npig\npink\nplace\nplan\nplane\nplant\nplay\nplayer\nplease\npoint\npolice\npoliceman\npool\npoor\npopular\npositive\npossible\npost\npotato\npound\npractice\npractise\nprefer\nprepare\npresent\npretty\nprice\nprobably\nproblem\nproduct\nprogramme\nproject\npurple\nput\nquarter\nquestion\nquick\nquickly\nquiet\nquite\nradio\nrain\nread\nreader\nreading\nready\nreal\nreally\nreason\nred\nrelax\nremember\nrepeat\nreport\nrestaurant\nresult\nreturn\nrice\nrich\nride\nright\nriver\nroad\nroom\nroutine\nrule\nrun\nsad\nsalad\nsalt\nsame\nsandwich\nSaturday\nsay\nschool\nscience\nscientist\nsea\nsecond\nsection\nsee\nsell\nsend\nsentence\nSeptember\nseven\nseventeen\nseventy\nshare\nshe\nsheep\nshirt\nshoe\nshop\nshopping\nshort\nshould\nshow\nshower\nsick\nsimilar\nsing\nsinger\nsister\nsit\nsituation\nsix\nsixteen\nsixty\nskill\nskirt\nsleep\nslow\nsmall\nsnake\nsnow\nso\nsome\nsomebody\nsomeone\nsomething\nsometimes\nson\nsong\nsoon\nsorry\nsound\nsoup\nsouth\nspace\nspeak\nspecial\nspell\nspelling\nspend\nsport\nspring\nstand\nstar\nstart\nstatement\nstation\nstay\nstill\nstop\nstory\nstreet\nstrong\nstudent\nstudy\nstyle\nsubject\nsuccess\nsugar\nsummer\nsun\nSunday\nsupermarket\nsure\nsweater\nswim\nswimming\ntable\ntake\ntalk\ntall\ntaxi\ntea\nteach\nteacher\nteam\nteenager\ntelephone\ntelevision\ntell\nten\ntennis\nterrible\ntest\ntext\nthan\nthank\nthanks\nthat\nthe\ntheatre\ntheir\nthem\nthen\nthere\nthey\nthing\nthink\nthird\nthirsty\nthirteen\nthirty\nthis\nthousand\nthree\nthrough\nThursday\nticket\ntime\ntired\ntitle\nto\ntoday\ntogether\ntoilet\ntomato\ntomorrow\ntonight\ntoo\ntooth\ntopic\ntourist\ntown\ntraffic\ntrain\ntravel\ntree\ntrip\ntrousers\ntrue\ntry\nT-shirt\nTuesday\nturn\nTV\ntwelve\ntwenty\ntwice\ntwo\ntype\numbrella\nuncle\nunder\nunderstand\nuniversity\nuntil\nup\nupstairs\nus\nuse\nuseful\nusually\nvacation\nvegetable\nvery\nvideo\nvillage\nvisit\nvisitor\nwait\nwaiter\nwake\nwalk\nwall\nwant\nwarm\nwash\nwatch\nwater\nway\nwe\nwear\nweather\nwebsite\nWednesday\nweek\nweekend\nwelcome\nwell\nwest\nwhat\nwhen\nwhere\nwhich\nwhite\nwho\nwhy\nwife\nwill\nwin\nwindow\nwine\nwinter\nwith\nwithout\nwoman\nwonderful\nword\nwork\nworker\nworld\nwould\nwrite\nwriter\nwriting\nwrong\nyeah\nyear\nyellow\nyes\nyesterday\nyou\nyoung\nyour\nyourself\nare\nless\nsince\nis\ncell\nrather\nstore\nwhile\nzero\nlevel\nsocial\nmedia\nyouth\nknowledge\nsafe\nendless\nvocabulary\npath\nprize\nowner\ncatch\nhold\nfocus\nstandard\ncontinue\npass\ngrade\nactive\nscore\nlimit\nbase\nrequire\ncover\nprogram\nexperience\ngraduate\nenter\nalthough\nevaluation\nnative\nsubmit\naid\ntotal\nprovide\nimpact\ncloth\nfreeze\nsolid\nserious\nfinger\nsystem\nteenage\nbehavior\nlink\nimage\nappear\nthemselves\nheavily\nedit\nselect\nanxiety\nauthor\nworry\nkid\ncourage\ndevelop\ndepend\nseem\nalone\nhardly\nmyself\noperation\nsupport\nsimple\ndeeply\nsilence\nvarious\nheart\nfriendship\nwooden\nconsider\ncontrol\nspeed\nlaunch\noption\nnation\nnature\nbenefit\nallow\nenvironment\naim\nincrease\nthese\nvital\nalready\nchoice\ntraditional\nwarn\ndeath\nclimate\nhuman\nstorm\ntemperature\nsuch\nthose\nobserve\nocean\nfrequency\nsimply\nsave\nuniverse\ncash\nnecessary\nmethod\nsociety\nnuclear\nwar\nearthquake\nhuge\ntsunami\ncause\nreflect\norigin\ngoal\nitself\npurpose\nsource\nsearch\nadvise\npick\nbattle\nwhether\ndanger\nmoreover\nendanger\nfight\nanywhere\nstep\ntool\nprotect\nupdate\nnumerous\ncomeback\nglobal\nelement\nhighlight\nlantern\ntorch\nsky\necho\ncheer\ntheme\nwheel\ntechnology\nsymbol\nfortune\nbranch\nbeauty\nking\nplastic\nsize\nlocate\nremote\ndesert\ndeliver\nalmost\ncolor\nrise\ndoll\nhole\nneighbor\ntrack\nlady\nthrow\ndegree\nmemory\ncase\nintelligence\nmeasure\nmental\ncontribute\nquality\nbeyond\neither\nability\npublic\nfunction\neveryday\ngift\nhimself\nexcept\nstable\nourselves\navoid\nfailure\nfail\nabandon\nexcuse\ncharacter\nemotion\nintelligent\neffect\ncite\nceremony\nadvance\nvision\ncloud\npeace\ncarbon\nfootprint\nenergy\nplatform\ntarget\nsometime\npopulation\nwhole\nshut\nexplore\nsweep\nconfuse\nmind\nconflict\nsolve\nbeat\nwish\nattach\nhill\nslide\nrock\ntransport\nfur\nresponse\ntradition\ncenter\ndeep\nconnect\nthough\nclear\nproduce\ntruck\nshortcut\nabsence\ntourism\ndream\nmoon\nneither\nadventure\npassenger\nenable\nview\nexpect\nancient\nengine\nrocket\nafford\nlayer\nconfidence\nresearch\nmay\nattract\nseek\nmark\ncap\nedge\nexist\nliquid\ninspire\nacademic\noffer\nrole\nencourage\nattention\ncollect\nvalue\nsingle\nsolar\nclick\napp\ndigital\nissue\nexpert\ndata\nlack\nlock\nthus\nuser\nable\nact\nactually\nadvertisement\nagainst\nah\nanybody\nanyway\nargument\nassistant\navailable\nbackground\nbased\nbasketball\nbehaviour\nbillion\nbirth\nblank\nbone\nbrain\nbroken\nbutton\ncare\ncareful\ncarefully\ncelebrate\nchat\ncircle\nclosed\ncode\ncoach\ncomfortable\ncompletely\ncondition\ncontext\ncopy\ncrazy\ncreative\ncross\ncry\ndead\ndesigner\ndestroy\ndifferently\ndirector\ndisagree\ndisappear\ndocument\ndrop\nearth\neducation\nengineer\nerror\nfan\nfishing\nfix\nflying\nfollowing\nforeign\nforward\nfresh\ngap\ngas\ngod\ngrass\nguide\ngun\nhabit\nhall\nhappily\nheavy\nheight\nhelpful\nhero\nhers\nherself\nhide\nhit\nhurt\nill\nillness\nimpossible\ninformal\nitem\njoke\njump\nkill\nknock\nlab\nlaw\nlawyer\nlazy\nlearning\nlemon\nlifestyle\nlost\nlow\nluck\nlucky\nmail\nmaterial\nmathematics\nmaths\nmiddle\nmight\nmine\nnone\nnormal\nnormally\nnotice\nnowhere\nnut\npack\npower\nposition\nprint\nprinter\npush\nrealize\nrecognize\nremove\nreplace\nrequest\nresearcher\nscreen\nseason\nshape\nsinging\nsmartphone\nsmoke\nsmoking\nsoft\nsoldier\nsolution\nsomewhere\nteaching\nthin\nthinking\nweb\nwashing\nweak\nwave\nwinner\nyours\nwow\nworse\nworst\nworking\narch\ncalendar\nhug\nworth\nrecent\nlone\nlonely\nzoo\nWi-Fi\ncheerful\nelegant\neverywhere\nofficial\nrush\ncultural\nheritage\ndisplay\nfootstep\nneighborhood\ntie\ndevelopment\nsuccessful\nadvantage\ndamage\nmajor\nequal\nexcellent\nvoyage\nconstruct\nconstruction\ntouch\nunique\nreduce\ngravity\nartificial\nforce\nship\neducate\nvia\nelectron\nelectronic\nmobile\nrevolution\ntoward\ncheat\ncontent\ncurrent\nunable\nsite\nprevious\nmarry\npercent\nant\nfrequently\nchildhood\nforest\nwildlife\nblind\nstructure\ndiscovery\nrelease\nchemical\nsignal\npublish\ninsect\ntheory\nspecie\nbiology\nroot\nfinally\nprove\nside\nthroat\nprise\nvoice\nflexible\nbreathable\nfabric\nsmart\nchallenge\nkeyboard\nbluetooth\nspeech\ndecode\ncomplex\nprototype\nsignificantly\nsuitable\napplication\npotentially\nbattery\nconnection\nreal­time\ntransparent\nfigure\ntraveler\nnetwork\nguest\nmeaningful\nvirtual\nensure\nservice\nabsolutely\nabsorb\nagreement\nanyhow\nbalance\nbamboo\nbarbecue\nbehave\nblackboard\nbomb\nborder\nboss\nbottom\ncafé\ncancel\ncancer\ncareless\ncartoon\ncharge\nChina\nchina\nChinese\ncivilisation\nclassmate\nclever\nconfirm\nConfucianism\nConfucius\nconfused\ncongratulation\ncookie\ncore\ncute\ncycle\ndatabase\ndeadline\ndelete\ndepth\ndinosaur\ndisabled\ndisappointed\ndiscover\ndistance\ndolphin\ndownload\ndraft\ndrama\nduck\nduration\ndust\neducator\neighth\nembarrassed\nEngland\nEnglish\neraser\nescape\nespecially\nessay\nEurope\nEuropean\nexchange\nfetch\nflag\nflash\nforever\nforehead\nforgive\nFrance\nfreedom\nFrench\ngenius\ngentleman\nGerman\nGermany\ngovernment\ngrammar\ngranddaughter\ngrandson\ngreenhouse\nhamburger\nhandbag\nhandsome\nhandwriting\nharvest\nhousework\nice-cream\nignore\nillegal\nimport\ninch\nindependent\nIndia\nIndian\nJapan\nJapanese\nkangaroo\nkite\nkiss\nlaptop\nlength\nlicense\nlimited\nLondon\nlower\nmagic\nmarch\nmaximum\nmedicine\nmillimetre\nmirror\nMiss\nmix\nmobile phone\nmonitor\nmonkey\nmovement\nMr\nMrs\nMs\nmushroom\nmusician\nneighbourhood\nnet\nninth\nnod\nnoodle\nnorthern\nnotebook\nobviously\nOlympics\nopera\noutgoing\noutput\npackage\nperhaps\nplayground\np.m.\npoem\npolicewoman\npostman\npredict\npressure\npromise\npronounce\npull\nquit\nrabbit\nrainbow\nrandom\nrange\nrecord\nrecycle\nrefresh\nrelief\nring\nromantic\nRussia\nRussian\nschoolbag\nscream\nsecret\nsex\nshadow\nshake\nsixth\nsoftware\nsort\nsouthern\nspy\nstomach\nstomachache\nstone\nstrange\nstranger\nstrawberry\nstring\nstupid\nsubway\nsummary\nsuper\nsurf\nsurface\nswitch\ntherefore\nthunder\ntoast\ntranslate\nvolunteer\nwashroom\nwatermelon\nX-ray\nalarm\nclone\nkindergarten\nkindness\nmale\nfemale\na.m.\nimpression\nimpress\nconfident\norganise\norganisation\ncurious\nfreshman\nconfusing\nrecommend\nresponsible\nresponsibility\npowerful\nemperor\nrecognise\nadmire\nmarathon\nmaster\nhonour\nglory\nmedal\ngraceful\nhelicopter\nbreathe\neffort\nwisdom\ntyphoon\nshell\nKorean\ncontribution\nTibet\nTibetan\nblogger\nconvenient\nplus\npress\nfile\ndot\nonto\ncongratulate\nfade\nlunar\nwhisper\nexport\nbite\nchairman\nchain\nchip\nhistorical\njazz\ndiagram\nclothing\ncm\nspacewalk\ndock\nfloat\nmicrowave\noxygen\nbet\nflow\nwarning\nprediction\ncomfort\nhomesickness\nangle\nink\nanimation\nvisual\nwherever\nlog\nfox\nwhose\nwhom\nwide\nwidespread\nweekday\nweight\nwestern\nwhatever\nwhenever\nAD\nalternative\naloud\nAmerican\nAmerica\nanalyse\nAsia\nAsian\nAustralia\nAustralian\nawake\nbadminton\nbasket\nbat\nBC\ncalligraphy\nCanada\nCanadian\nwind\nversion\nUS\nUK\ntrouble\nsurprise\nconnectivity\ndelta\nAfrica\nAfrican\nasleep\narrow\ncloudy\ndelay\ndrag\ndragon\nfisherman\nclassical\nclassic\ngoddess\neditor\noriginally\ndiamond\nbeautifully\nheadlight\nempty\nwallet\ndepartment\npocket\nmanager\nprivacy\nindependence\napparently\nrecently\nmedical\nfurther\nbelief\nshock\ninjury\ninjure\ntruth\nsurvive\ntowards\nsharply\ndirect\nnarrowly\nregard\nrapidly\nautomatic\neastern\nexit\nincluding\neducational\ninventor\nvaluable\ninvention\ninvent\naccident\nfrozen\nperformance\nrelate\nprevent\nupset\nstrength\nrider\nsnowy\nswing\ninfer\nnational\nsuggest\nenvironmental\noutdoor\ngraph\npatient\ntherefor\nequipment\nnovel\nbrochure\nunusual\nusual\nseller\nground\noriginal\ndecision\nreject\nenvelope\nspeaker\ncountless\ndirection\nevolution\nhopeful\nsnowflake\nknot\nclearly\nprovince\nclip\nseriously\nstrict\ndrug\nemotional\nrelationship\nembarrassing\nrose\nnecessarily\nunclear\nsense\nprotection\nrecyclable\nphysiology\nexamine\nevaluate\nextract\ncollection\nscientific\nformula\nmath\nphysics\nphotoelectric\nodd\nprofessor\nrelativity\nsensor\nmode\nrespond\ncommand\nelectrical\nshine\nvalley\nboundary\nvisible\nadopt\ndry\nsour\nberry\nkilogram\nbreath\nsweet\nwhichever\nfamiliar\nmagical\nsteam\naddition\npolar\nbear\nwet\nfirework\nvary\npolite\nelsewhere\nsmile\ncount\ndaydream\nstare\nguard\nbrush\nhybrid\nsouthwest\nrealise\ndifficulty\nsquare\nproduction\nsoil\nunderground\nwaste\ncorn\nbean\nentirely\ninsist\ndue\nreact\nshy\nagricultural\nself\nseawater\novercome\nqueen\nproof\nmultiple\nsuspect\nblame\nhandle\nraw\npure\nboil\ndecrease\nachievement\nextremely\nlaboratory\nexploration\ntalent\nreply\ngeneration\nsuccessfully\ninspiration\nchairwoman\nwheelchair\nmuscle\nastronomer\ntelescope\nbrave\nnervous\ngraduation\nhost\nrequirement\nmainly\nmessenger\nbridge\ndisadvantage\neconomy\nsum\noptimistic\ninternational\ncolourful\nmotherland\nworthwhile\npleasure\ndumpling\ntraditionally\nlamb\ncentral\nminimum\nconsume\nspicy\ntemper\nnowadays\nkiller\ndaily\ncandy\ndessert\nvitamin\nfibre\nbesides\ngrowth\nslowly\nchew\nattitude\nrailway\ntypical\nhike\nlake\ndeer\neagle\nprovincial\nsoutheast\nslightly\nbang\nfred\ngoat\noil\nshore\nschoolmate\nalongside\nphotographer\nskin\nray\nelectricity\nacid\ndivide\ntop\ntissue\nelectric\nclothe\npainful\nunless\nheat\npain\ninstantly\nambulance\nperform\nupper\nlay\nluckily\ninstead\ninstall\nlogical\nmildly\nunderneath\nimportance\nhumanistic\nbreakthrough\nrealism\nhence\nsubjective\nunlike\ninner\nseventh\nhighly\ninfluence\nreward\nunhappy\nunhealthy\naside\nsuddenly\ncamp\nphysically\nmentally\neasily\ntoothache\nregularly\nsugary\ntruly\nmonthly\nhappiness\nworldwide\nrainstorm\nheatwave\nplanet\npollution\ngreatly\ngarbage\ndozen\nmedium\nwaterway\nexplorer\nsecretly\nunfortunately\namaze\ncalmly\nwindy\nsunny\nleader\nspirit\nbadly\nam\nalive\njoy\ntear\npoet\nstoryline\nmood\ntranslation\nbutterfly\nseat\nbackwards\nskip\nunpleasant\nkoala\nspiritual\nmusical\noverseas\npersonally\nwarmth\nstress\nsafety\nwild\nnoise\nfrighten\nrat\nsmell\nnest\ndive\nrelation\nresource\nban\nhopefully\nrepeatedly\nsupply\nbless\nBuddhist\nBuddhism\nImpressionism\npainter\neconomical\ndusty\nuniform\ntextbook\nchemistry\nmixture\nchemist\nhonest\nround\ninside\nleaf\nsoftly\nhandshake\nache\nknee",
       "words": {}
     },
     "nce31": {
@@ -17254,7 +17254,7 @@
     },
     "rjbgz136e35d8": {
       "title": "HABITS FOR A HEALTHY LIFESTYLE",
-      "lastPosi": 0.9382034217455111,
+      "lastPosi": 0.11131573250280559,
       "text": "As teenagers grow up, they become more independent and start making their own decisions. However, during this period, it can be easy for some of them to form bad habits. These bad habits, if left unchecked, could lead to more serious ones when they become adults. For example, some of them may become involved in tobacco or alcohol abuse, which can lead to physical and mental health problems. To prevent harmful habits like these from dominating a teenager’s life is essential. They must learn to recognise bad habits early and make appropriate changes.\nTo change bad habits is never easy, even with many attempts. There is a famous saying based on the philosophy of Aristotle: “We are what we repeatedly do.” In many ways, our lifestyle is the sum of choices we have made. We make a choice to do something, and then we repeat it over and over again. Soon that choice becomes automatic and forms a habit that is much harder to change. The good news is that we can change, if we understand how habits work.\nAccording to modern psychology, we must first learn about the “habit cycle”, which works like this:\n• Firstly, there is a “cue”, an action, event, or situation that acts as a signal to do something.\n• Secondly, there is a “routine”, the regular action you take in response to the cue.\n• Thirdly, there is the “reward”, the good thing or feeling we get from the routine.\nFor example, when we feel unhappy (cue), we eat lots of unhealthy snacks (routine), which makes us feel happy (reward). The reward makes us much more likely to continue the cycle, and the bad habit of relying on unhealthy snacks is formed.\nTo facilitate a positive change in our bad habits, we must first examine our bad habit cycles and then try to adapt them. We can do this by combining the information from our habit cycles with our own positive ideas. For example, we could try to replace a negative routine with something more positive. So, when we feel unhappy again (cue), rather than eat snacks, we could listen to some of our favourite music instead (routine), which will make us feel relaxed (reward). Aside from changing bad habits, we can also use the habit cycle to create good habits. For example, when we come to an escalator (cue), our normal routine is to ride it, but we could change this routine into something more positive by taking the stairs instead.\nMany of us try to change bad habits quickly, and if we are not successful straight away, we often become pessimistic and give up. In fact, the most successful way to change is not suddenly, but over a period of time. As the Chinese philosopher Laozi wrote, “A journey of a thousand miles begins with a single step.” One step seems small, but it is essential. To reach the goal of change, a person must show some discipline and repeatedly take many small steps. After all, it is not easy to break bad habits.\nFor young people, there is plenty of time to change bad habits. However, there is no “magic pill” or delete button that will help you; you have to think about your bad habits and decide on some changes. You have the power to build a happy and healthy life full of good habits!",
       "words": {
         "8e077260": {
@@ -17280,7 +17280,7 @@
             170,
             264
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "ccf5c939": {
@@ -18556,7 +18556,7 @@
     },
     "rjbgz13b4c418": {
       "title": "A FEW SIMPLE FORMS OF ENGLISH POEMS",
-      "lastPosi": 0.31404026742217206,
+      "lastPosi": 0.6145613121996462,
       "text": "There are various reasons why people compose poetry. Some poems tell a story or describe a certain image in the reader’s mind. Others try to convey certain feelings such as joy and sorrow. The distinctive characteristics of poetry often include economical use of words, descriptive and vivid language, integrated imagery, literary devices such as similes and metaphors, and arrangement of words, lines, rhymes, and rhythm. Poets use many different forms of poetry to express themselves. Now we will look at a few of the simpler forms.\nSome of the first poems a young child learns in English are nursery rhymes. They are usually the traditional poems or folk songs. The language of these rhymes, like Poem A, is to the point but has a storyline. Many children enjoy nursery rhymes because they rhyme, have a strong rhythm, and often repeat the same words. The poems may not make sense and even seem contradictory, but they are easy to learn and recite. By playing with the words in nursery rhymes, children learn about language.\nOne of the simplest kinds of poem is the “list poem”, which contains a list of things, people, ideas, or descriptions that develop a particular theme. List poems have a flexible line length and repeated phrases which give both a pattern and a rhythm to the poem. Some rhyme, while others do not.\nAnother simple form of poem that amateurs can easily write is the cinquain , which is made up of five lines. With these, you can convey a strong picture or a certain mood in just a few words. Look at the example.\nHaiku is a Japanese form of poetry that consists of 17 syllables. It has a format of three lines, containing 5, 7, and 5 syllables respectively. It is not a traditional form of English poetry, but is very popular with English writers. It is easy to write and, like the cinquain , can give a clear picture and create a special feeling using very few words. The haiku poem on the right is a translation from Japanese, which shows a moment in the life of a delicate butterfly.\nEnglish speakers also enjoy poems from China, those from the Tang Dynasty in particular. A lot of Tang poetry has been translated into English, such as this one.\nWith so many different forms of poetry to choose from, you may eventually want to write poems of your own. Give it a try!\n",
       "words": {
         "17058550": {
@@ -18569,7 +18569,7 @@
             855,
             952
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "8d1858bc": {
@@ -18712,7 +18712,7 @@
             535,
             611
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "edb6692b": {
@@ -18725,7 +18725,7 @@
             535,
             611
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "9ff50f5c": {
@@ -18738,7 +18738,7 @@
             611,
             665
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "fc9ad774": {
@@ -18751,20 +18751,7 @@
             745,
             855
           ],
-          "visit": false,
-          "type": "word"
-        },
-        "7277049c": {
-          "id": "contradictory",
-          "index": [
-            898,
-            911
-          ],
-          "cIndex": [
-            855,
-            952
-          ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "ad19d18c": {
@@ -18777,11 +18764,11 @@
             1179,
             1291
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "88f21037": {
-          "id": "phrases",
+          "id": "phrase",
           "index": [
             1231,
             1238
@@ -18790,11 +18777,11 @@
             1179,
             1291
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "fcc7cf6e": {
-          "id": "amateurs",
+          "id": "amateur",
           "index": [
             1357,
             1365
@@ -18803,11 +18790,11 @@
             1324,
             1433
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "c36b51c2": {
-          "id": "syllables",
+          "id": "syllable",
           "index": [
             1592,
             1601
@@ -18816,7 +18803,7 @@
             1537,
             1603
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "7f2b59b0": {
@@ -18829,7 +18816,7 @@
             1893,
             2010
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "7b032d92": {
@@ -18842,7 +18829,7 @@
             1603,
             1682
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "bcacb3f6": {
@@ -18855,7 +18842,7 @@
             1603,
             1682
           ],
-          "visit": false,
+          "visit": true,
           "type": "word"
         },
         "ce85bf9f": {
@@ -18882,19 +18869,6 @@
             423
           ],
           "visit": true,
-          "type": "word"
-        },
-        "7222f4f2": {
-          "id": "pattern",
-          "index": [
-            1257,
-            1264
-          ],
-          "cIndex": [
-            1179,
-            1291
-          ],
-          "visit": false,
           "type": "word"
         },
         "3ba5e0c2": {
@@ -19929,9 +19903,153 @@
     },
     "rjbgz147adc70": {
       "title": "China’s aid to other countries",
-      "lastPosi": 0,
+      "lastPosi": 0.5038082574003486,
       "text": "Hello! My name is Zhan Bingbing.\nLately, all of us have seen Chinese people on TV in far-off places in the world, helping other countries to develop. We see Chinese workers building roads in the Congo, a port in Pakistan, railways in Panama, and an airport in Sri Lanka. And we see Chinese miners, oil workers, agricultural experts, mechanics, and doctors working in nearly every corner of the world. And some people may ask, “Is it worth it? Why help people overseas when China has many areas that are still in need of development?”\nI had the same questions myself. But for me, it was much more personal. You see, my mother is a medical doctor, and for the last two years, she has been working as a volunteer consultant in Tanzania, Africa, as a part of a medical team sent by the Chinese government.\nTo be honest, when my mother first left for Africa, I was upset. My mother cooked me dinner every night, and she took good care of me. But more importantly, she was my best friend. We talked together, we spent our leisure time together, and except for school and work, we were never apart. So I was unhappy about her leaving without even asking for my input.\nBut then I began to hear about the work she was doing in Tanzania, a country that has many health problems, and now I am singing a different tune. Many dangerous diseases which are rare in China are quite commonly contracted in Tanzania. And, while the country is quite beautiful and has much natural wealth, many of the people are quite poor and live without things we take for granted, such as electricity, running water, cars and good transport systems, and supermarkets. One project that my mother worked on was helping to build a cardiac hospital. Prior to this, if a Tanzanian had a heart condition and needed surgery, they would have to go abroad. Since this was quite expensive, many people went without medical treatment and some even died. Now, not only are Tanzanians helped by the hospital, but people in neighbouring countries are helped as well. It has made a big difference to their lives. My mother also does a circuit of the rural villages to provide medical treatment, help those with disabilities, and provide consultation and training for local doctors. In addition, her team has given patients a new malaria treatment invented in China, and this has saved many lives.\nToday, I want to relay to you that I’m proud of the work my mother has done, and I am now supportive of it. Is her work worth it? Yes, to the lives of the people she is helping, it is worth it.\nBut by any criteria this work is worth it to us as well, because it shows that we are global citizens interested in world stability, and that we feel responsible for others and are ready to build a community with a shared future for mankind. Everyone deserves a fair chance in life. When I think of all the things that we as Chinese citizens can be most proud of, helping others comes at the top of this list. Now that I understand how important my mother’s work is, I’ve decided to become a volunteer myself to help people in other lands. In the future, I pray that you will do the same.\nThank you!",
-      "words": {}
+      "words": {
+        "e40a6d9a": {
+          "id": "miners",
+          "index": [
+            290,
+            296
+          ],
+          "cIndex": [
+            271,
+            401
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "388cfe14": {
+          "id": "mechanics",
+          "index": [
+            333,
+            342
+          ],
+          "cIndex": [
+            271,
+            401
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "0b0ea271": {
+          "id": "corner",
+          "index": [
+            380,
+            386
+          ],
+          "cIndex": [
+            271,
+            401
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "f99aff2c": {
+          "id": "medical",
+          "index": [
+            630,
+            637
+          ],
+          "cIndex": [
+            606,
+            801
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "6272a0dc": {
+          "id": "consultant",
+          "index": [
+            710,
+            720
+          ],
+          "cIndex": [
+            606,
+            801
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "3b6d359c": {
+          "id": "input",
+          "index": [
+            1154,
+            1159
+          ],
+          "cIndex": [
+            1092,
+            1160
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "f56f5529": {
+          "id": "contracted",
+          "index": [
+            1375,
+            1385
+          ],
+          "cIndex": [
+            1308,
+            1399
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "496cae17": {
+          "id": "granted",
+          "index": [
+            1540,
+            1547
+          ],
+          "cIndex": [
+            1399,
+            1636
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "bddec9be": {
+          "id": "cardiac",
+          "index": [
+            1696,
+            1703
+          ],
+          "cIndex": [
+            1636,
+            1714
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "3ae12079": {
+          "id": "Prior",
+          "index": [
+            1714,
+            1719
+          ],
+          "cIndex": [
+            1714,
+            1816
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "59c2956d": {
+          "id": "condition",
+          "index": [
+            1756,
+            1765
+          ],
+          "cIndex": [
+            1714,
+            1816
+          ],
+          "visit": false,
+          "type": "word"
+        }
+      }
     },
     "rjbgz148354ee": {
       "title": "THE AMAZING ANIMALS OF AUSTRALIA",
@@ -21477,7 +21595,7 @@
     },
     "rjbgz14eab47a": {
       "title": "VOLUNTEERING IN THE BUSH",
-      "lastPosi": 0.48755686379448754,
+      "lastPosi": 0.8994737093800174,
       "text": "8 March\nI just got a parcel from home! It took about two weeks to arrive, and it was a bit damaged, but it was so nice to get some sweets and jam from home; I’ve been dying to have some of my favourite sweets, and it’s always nice to get mail!\nSo I’ve been here in the jungle for about a month now. My secondary school is a bush school. The classrooms are made of bamboo, with clay floors and roofs of grass. It takes me only a few minutes to walk to school down a dusty track covered in weeds. When I reach the school grounds, I’m greeted by a chorus of “good morning” from the boys. Unlike students in our country, these boys do not wear cotton uniforms, and many of them also have to walk a long way, sometimes for up to two hours, just to get to school.\nThere’s no electricity, running water or even textbooks, not to mention laptops, tablets, or other modern devices! All the students have are pencils, rubbers, and paper. I’m still trying to adapt to these conditions. I’ve had to become much more imaginative in my teaching. Science is my most challenging subject as my students have no concept of doing experiments. There is no equipment, and since there isn’t even a washroom, if I need water I have to carry it from my house in a basin! It’s important not to be too rigid about rules here, too. The other day I was showing the boys a chemistry experiment when, before I knew it, the mixture was bubbling out of the test tube spilling everywhere! The class became a circus as the boys, who had never come across anything like this before, started jumping out of the windows. Sometimes I wonder how relevant chemistry is to these students—few will ever become chemists—and most will be going back to their villages after Year 8 anyway. To be honest, I doubt whether I’m making any difference to these boys’ lives at all.\n17 April\nLast weekend I made my first visit to a remote village, home to one of our students, Tombe. Another teacher and I walked for two and a half hours to get there—first, up a mountain from where we had fantastic views, and then down a shaded path to the valley below. When we arrived at the village, Tombe’s mother, Kiak, saw us coming and started crying “ieee ieee”. We shook hands with all the villagers. Everyone seemed to be related to Tombe.\nTombe’s father, Mukap, a man with a strong jaw and a wrinkled forehead, led us to his house, a low, round bamboo hut with no windows, with a door just big enough to get through, and with grass sticking out of the roof—this shows it is a man’s house. Such housing is dark inside so it took time for our eyes to adjust. Fresh grass had been laid on the floor and there was a platform for Jenny and me to sleep on. There was a fireplace in the centre of the hut. The only possessions I could see were one broom, a few saucers, a kettle, cups, pans, and a couple of jars.\nMukap built a fire outside and laid stones on it to heat. He then placed the hot stones in an empty oil drum with kau kau (sweet potato), ripe corn, and greens. He then covered the vegetables with banana leaves and left them to steam. It smelled delicious. We ate inside the hut sitting round the fire. I loved listening to the family talking softly to each other in their language, even though I could not participate much in the conversation. Luckily, Tombe interpreted for us.\nLater, I noticed a can standing upside down on the grill over the fire. After a while, Tombe threw it out of the doorway. Tombe told me that the can was heated to dry out the leftover food. His family believes that leftovers attract bad spirits in the night, so any leftover food is dried up in a can and the can is then thrown out of the hut.\nWe left the village the next morning after many goodbyes and firm handshakes. My muscles were aching and my knees shaking as we dragged ourselves down the mountain towards home. That evening I fell happily into bed. It was such a privilege to have spent a day with Tombe’s family.",
       "words": {
         "87596795": {
@@ -21739,6 +21857,357 @@
           ],
           "visit": false,
           "type": "word"
+        },
+        "3cd92d86": {
+          "id": "roof",
+          "index": [
+            2494,
+            2498
+          ],
+          "cIndex": [
+            2281,
+            2531
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "d65e4f3e": {
+          "id": "hut",
+          "index": [
+            2736,
+            2739
+          ],
+          "cIndex": [
+            2693,
+            2741
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "326fc440": {
+          "id": "broom",
+          "index": [
+            2783,
+            2788
+          ],
+          "cIndex": [
+            2741,
+            2848
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "80f179de": {
+          "id": "saucers",
+          "index": [
+            2796,
+            2803
+          ],
+          "cIndex": [
+            2741,
+            2848
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "66fb5945": {
+          "id": "kettle",
+          "index": [
+            2807,
+            2813
+          ],
+          "cIndex": [
+            2741,
+            2848
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "6ca23dd3": {
+          "id": "jars",
+          "index": [
+            2843,
+            2847
+          ],
+          "cIndex": [
+            2741,
+            2848
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "b607e23b": {
+          "id": "drum",
+          "index": [
+            2953,
+            2957
+          ],
+          "cIndex": [
+            2907,
+            3010
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "a317fc87": {
+          "id": "empty",
+          "index": [
+            2943,
+            2948
+          ],
+          "cIndex": [
+            2907,
+            3010
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "a4e348ae": {
+          "id": "oil",
+          "index": [
+            2949,
+            2952
+          ],
+          "cIndex": [
+            2907,
+            3010
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "9a139d9f": {
+          "id": "ripe",
+          "index": [
+            2987,
+            2991
+          ],
+          "cIndex": [
+            2907,
+            3010
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "3998da5f": {
+          "id": "participate",
+          "index": [
+            3256,
+            3267
+          ],
+          "cIndex": [
+            3152,
+            3294
+          ],
+          "visit": true,
+          "type": "word"
+        },
+        "5d8c9bdf": {
+          "id": "interpreted",
+          "index": [
+            3309,
+            3320
+          ],
+          "cIndex": [
+            3294,
+            3328
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "7b085529": {
+          "id": "grill",
+          "index": [
+            3380,
+            3385
+          ],
+          "cIndex": [
+            3329,
+            3401
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "fd1cc73b": {
+          "id": "leftover",
+          "index": [
+            3504,
+            3512
+          ],
+          "cIndex": [
+            3451,
+            3519
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "0bc83cfd": {
+          "id": "dried",
+          "index": [
+            3612,
+            3617
+          ],
+          "cIndex": [
+            3519,
+            3672
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "2d5f8099": {
+          "id": "privilege",
+          "index": [
+            3903,
+            3912
+          ],
+          "cIndex": [
+            3889,
+            3953
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "30f5fc46": {
+          "id": "secondary",
+          "index": [
+            302,
+            311
+          ],
+          "cIndex": [
+            299,
+            337
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "92a313d8": {
+          "id": "cotton",
+          "index": [
+            640,
+            646
+          ],
+          "cIndex": [
+            585,
+            757
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "5d059c1a": {
+          "id": "rubbers",
+          "index": [
+            908,
+            915
+          ],
+          "cIndex": [
+            873,
+            928
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "0b92639f": {
+          "id": "imaginative",
+          "index": [
+            1004,
+            1015
+          ],
+          "cIndex": [
+            975,
+            1032
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "e5d2f559": {
+          "id": "experiments",
+          "index": [
+            1111,
+            1122
+          ],
+          "cIndex": [
+            1032,
+            1124
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "65e46d5a": {
+          "id": "villagers",
+          "index": [
+            2230,
+            2239
+          ],
+          "cIndex": [
+            2202,
+            2241
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "8f522b28": {
+          "id": "fireplace",
+          "index": [
+            2705,
+            2714
+          ],
+          "cIndex": [
+            2693,
+            2741
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "6da86d74": {
+          "id": "pans",
+          "index": [
+            2821,
+            2825
+          ],
+          "cIndex": [
+            2741,
+            2848
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "da3a4e94": {
+          "id": "smelled",
+          "index": [
+            3087,
+            3094
+          ],
+          "cIndex": [
+            3084,
+            3106
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "3ab5a8d6": {
+          "id": "upside",
+          "index": [
+            3361,
+            3367
+          ],
+          "cIndex": [
+            3329,
+            3401
+          ],
+          "visit": false,
+          "type": "word"
+        },
+        "2c09bd62": {
+          "id": "doorway",
+          "index": [
+            3442,
+            3449
+          ],
+          "cIndex": [
+            3401,
+            3451
+          ],
+          "visit": false,
+          "type": "word"
         }
       }
     },
@@ -21989,6 +22458,16 @@
       "lapses": 0,
       "state": 0,
       "last_review": "2024-04-27T04:09:55.386Z"
+    },
+    "15593038": {
+      "due": "2024-04-27T14:28:02.125Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
     },
     "22572090": {
       "due": "2024-04-23T15:51:37.555Z",
@@ -22959,15 +23438,15 @@
       "last_review": "2024-04-22T15:31:55.112Z"
     },
     "0dcd8131": {
-      "due": "2024-04-23T10:56:49.228Z",
-      "stability": 6.332426445145716,
-      "difficulty": 7.4167000000000005,
-      "elapsed_days": 4.971673784722222,
-      "scheduled_days": 6,
-      "reps": 4,
+      "due": "2024-06-06T14:34:55.632Z",
+      "stability": 40.23187478,
+      "difficulty": 6.48075222,
+      "elapsed_days": 10,
+      "scheduled_days": 40,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2024-04-17T10:56:49.228Z"
+      "last_review": "2024-04-27T14:34:55.632Z"
     },
     "0deb3340": {
       "due": "2024-04-25T13:55:57.161Z",
@@ -23146,15 +23625,15 @@
       "last_review": "2024-04-17T10:54:32.400Z"
     },
     "1150b2eb": {
-      "due": "2024-04-23T04:59:09.237Z",
-      "stability": 10.4871,
-      "difficulty": 3.974,
-      "elapsed_days": 0,
-      "scheduled_days": 10,
-      "reps": 1,
+      "due": "2024-06-08T14:10:23.901Z",
+      "stability": 41.96032374,
+      "difficulty": 4.01324372,
+      "elapsed_days": 14,
+      "scheduled_days": 42,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2024-04-13T04:59:09.237Z"
+      "last_review": "2024-04-27T14:10:23.901Z"
     },
     "11868df9": {
       "due": "2024-04-27T11:32:24.237Z",
@@ -23386,6 +23865,16 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-04-05T14:55:09.376Z"
+    },
+    "1750f798": {
+      "due": "2024-04-27T14:37:35.505Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
     },
     "180fd82d": {
       "due": "2024-04-27T11:01:39.752Z",
@@ -23981,6 +24470,16 @@
       "state": 2,
       "last_review": "2024-03-28T16:11:56.802Z"
     },
+    "24212ad8": {
+      "due": "2024-04-27T14:46:12.366Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
+    },
     "243160bd": {
       "due": "2024-11-11T10:49:26.846Z",
       "stability": 208.4824657502374,
@@ -24169,15 +24668,15 @@
       "last_review": "2024-03-31T03:23:01.376Z"
     },
     "27d463be": {
-      "due": "2024-04-23T12:13:31.701Z",
-      "stability": 3.5878,
-      "difficulty": 5.2239,
-      "elapsed_days": 1.0494807638888888,
-      "scheduled_days": 5,
-      "reps": 2,
+      "due": "2024-06-17T14:35:10.518Z",
+      "stability": 51.32022646,
+      "difficulty": 4.35680614,
+      "elapsed_days": 9,
+      "scheduled_days": 51,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2024-04-18T12:13:31.701Z"
+      "last_review": "2024-04-27T14:35:10.518Z"
     },
     "27d46f3a": {
       "due": "2024-04-30T10:56:11.436Z",
@@ -24279,15 +24778,15 @@
       "last_review": "2024-04-22T15:44:34.991Z"
     },
     "29cce7fe": {
-      "due": "2024-04-23T07:10:12.337Z",
-      "stability": 57.66013505534176,
-      "difficulty": 4.157007999999998,
-      "elapsed_days": 8.523738449074074,
-      "scheduled_days": 58,
-      "reps": 4,
+      "due": "2025-05-28T14:10:34.388Z",
+      "stability": 396.45744416,
+      "difficulty": 3.32341455,
+      "elapsed_days": 62,
+      "scheduled_days": 396,
+      "reps": 5,
       "lapses": 0,
       "state": 2,
-      "last_review": "2024-02-25T07:10:12.337Z"
+      "last_review": "2024-04-27T14:10:34.388Z"
     },
     "29d4d54c": {
       "due": "2024-08-03T11:45:07.392Z",
@@ -24477,15 +24976,15 @@
       "last_review": "2024-04-25T14:15:48.111Z"
     },
     "2d80a22a": {
-      "due": "2024-04-23T12:13:34.029Z",
-      "stability": 3.5878,
-      "difficulty": 5.2239,
-      "elapsed_days": 1.0493433217592592,
-      "scheduled_days": 5,
-      "reps": 2,
+      "due": "2024-06-17T14:35:14.656Z",
+      "stability": 51.32022646,
+      "difficulty": 4.35680614,
+      "elapsed_days": 9,
+      "scheduled_days": 51,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2024-04-18T12:13:34.029Z"
+      "last_review": "2024-04-27T14:35:14.656Z"
     },
     "2dffb87f": {
       "due": "2024-05-24T14:10:04.164Z",
@@ -24620,15 +25119,15 @@
       "last_review": "2024-04-14T02:08:26.206Z"
     },
     "30271f0c": {
-      "due": "2024-04-23T12:13:16.877Z",
-      "stability": 3.5878,
-      "difficulty": 6.473800000000001,
-      "elapsed_days": 1.0503367361111111,
-      "scheduled_days": 5,
-      "reps": 2,
+      "due": "2024-06-07T14:34:57.976Z",
+      "stability": 40.99132637,
+      "difficulty": 5.56745928,
+      "elapsed_days": 9,
+      "scheduled_days": 41,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2024-04-18T12:13:16.877Z"
+      "last_review": "2024-04-27T14:34:57.976Z"
     },
     "309a5bdd": {
       "due": "2024-04-23T15:20:40.461Z",
@@ -25049,15 +25548,15 @@
       "last_review": "2024-03-14T14:54:24.627Z"
     },
     "37ccbd09": {
-      "due": "2024-04-23T12:13:28.179Z",
-      "stability": 3.5878,
-      "difficulty": 5.2239,
-      "elapsed_days": 1.0511770486111112,
-      "scheduled_days": 5,
-      "reps": 2,
+      "due": "2024-06-17T14:35:06.824Z",
+      "stability": 51.32022646,
+      "difficulty": 4.35680614,
+      "elapsed_days": 9,
+      "scheduled_days": 51,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2024-04-18T12:13:28.179Z"
+      "last_review": "2024-04-27T14:35:06.824Z"
     },
     "37d30845": {
       "due": "2024-04-27T15:41:20.017Z",
@@ -25598,6 +26097,16 @@
       "state": 2,
       "last_review": "2024-03-14T14:57:46.390Z"
     },
+    "41707aa5": {
+      "due": "2024-04-27T14:34:21.188Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
+    },
     "417c4687": {
       "due": "2024-04-26T15:31:06.450Z",
       "stability": 4.0466235366086005,
@@ -25894,6 +26403,16 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-03-31T03:22:57.847Z"
+    },
+    "463a8762": {
+      "due": "2024-04-27T14:33:24.567Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
     },
     "466d5539": {
       "due": "2024-04-23T14:27:57.465Z",
@@ -26687,6 +27206,16 @@
       "state": 2,
       "last_review": "2024-04-22T15:50:42.307Z"
     },
+    "54ab3604": {
+      "due": "2024-04-27T14:36:50.583Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
+    },
     "54c97ca6": {
       "due": "2024-05-03T10:48:36.200Z",
       "stability": 15.737464903897882,
@@ -27051,15 +27580,15 @@
       "last_review": "2024-04-22T15:29:52.149Z"
     },
     "5b67e2a7": {
-      "due": "2024-04-23T12:13:46.195Z",
-      "stability": 5.0646,
-      "difficulty": 3.9738999999999995,
-      "elapsed_days": 0,
-      "scheduled_days": 5,
-      "reps": 1,
+      "due": "2024-07-01T14:35:18.549Z",
+      "stability": 65.07050952,
+      "difficulty": 3.14605614,
+      "elapsed_days": 9,
+      "scheduled_days": 65,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2024-04-18T12:13:46.195Z"
+      "last_review": "2024-04-27T14:35:18.549Z"
     },
     "5b783354": {
       "due": "2024-05-05T12:47:44.792Z",
@@ -27205,15 +27734,15 @@
       "last_review": "2024-04-20T11:15:48.023Z"
     },
     "5de2d44d": {
-      "due": "2024-04-23T04:59:11.174Z",
-      "stability": 10.4871,
-      "difficulty": 3.974,
-      "elapsed_days": 0,
-      "scheduled_days": 10,
-      "reps": 1,
+      "due": "2024-06-08T14:10:31.187Z",
+      "stability": 41.96032374,
+      "difficulty": 4.01324372,
+      "elapsed_days": 14,
+      "scheduled_days": 42,
+      "reps": 2,
       "lapses": 0,
       "state": 2,
-      "last_review": "2024-04-13T04:59:11.174Z"
+      "last_review": "2024-04-27T14:10:31.187Z"
     },
     "5e4e6cc4": {
       "due": "2024-04-13T15:50:15.548Z",
@@ -28436,6 +28965,16 @@
       "state": 2,
       "last_review": "2024-04-22T15:37:37.129Z"
     },
+    "770f5e9b": {
+      "due": "2024-04-27T14:38:32.022Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
+    },
     "7720f8e2": {
       "due": "2024-04-23T14:25:47.095Z",
       "stability": 5.0646,
@@ -28809,6 +29348,16 @@
       "lapses": 0,
       "state": 0,
       "last_review": "2024-04-26T08:10:02.277Z"
+    },
+    "7db29930": {
+      "due": "2024-04-27T15:07:38.913Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
     },
     "7dec8bc9": {
       "due": "2024-04-27T10:53:29.645Z",
@@ -29482,15 +30031,15 @@
       "last_review": "2024-04-18T12:19:24.587Z"
     },
     "8b38cb04": {
-      "due": "2024-04-23T12:13:21.354Z",
-      "stability": 3.5878,
-      "difficulty": 5.2239,
-      "elapsed_days": 1.0513000462962963,
-      "scheduled_days": 5,
-      "reps": 2,
+      "due": "2024-05-17T14:35:04.418Z",
+      "stability": 20.15638151,
+      "difficulty": 5.22389686,
+      "elapsed_days": 9,
+      "scheduled_days": 20,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2024-04-18T12:13:21.354Z"
+      "last_review": "2024-04-27T14:35:04.418Z"
     },
     "8b622e79": {
       "due": "2024-04-27T15:43:05.002Z",
@@ -31031,6 +31580,16 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-04-18T12:14:31.140Z"
+    },
+    "a512beeb": {
+      "due": "2024-04-27T14:47:56.022Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
     },
     "a5505aec": {
       "due": "2024-04-27T12:42:59.155Z",
@@ -33694,6 +34253,16 @@
       "state": 2,
       "last_review": "2024-03-02T08:58:54.307Z"
     },
+    "d30a3f0c": {
+      "due": "2024-04-27T14:33:57.870Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
+    },
     "d31bb3eb": {
       "due": "2024-07-01T16:15:14.769Z",
       "stability": 95.1988713138382,
@@ -33704,6 +34273,16 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-03-28T16:15:14.769Z"
+    },
+    "d3432d97": {
+      "due": "2024-04-27T14:35:56.290Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
     },
     "d351e37d": {
       "due": "2024-04-23T15:23:15.731Z",
@@ -34508,6 +35087,16 @@
       "state": 2,
       "last_review": "2024-04-21T14:27:14.705Z"
     },
+    "e248345b": {
+      "due": "2024-04-27T14:49:19.609Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
+    },
     "e26773a8": {
       "due": "2024-04-23T15:22:27.124Z",
       "stability": 5.0646,
@@ -35233,6 +35822,16 @@
       "lapses": 0,
       "state": 0,
       "last_review": "2024-04-27T04:47:53.152Z"
+    },
+    "ee112977": {
+      "due": "2024-04-27T14:48:13.838Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
     },
     "ee2c29f9": {
       "due": "2024-05-27T11:44:21.412Z",
@@ -37600,6 +38199,29 @@
             }
           ],
           "card_id": "ed39a771"
+        }
+      ]
+    },
+    "amateur": {
+      "word": "amateur",
+      "means": [
+        {
+          "text": "业余爱好者，外行",
+          "contexts": [
+            {
+              "text": "Another simple form of poem that amateurs can easily write is the cinquain , which is made up of five lines.",
+              "index": [
+                33,
+                41
+              ],
+              "source": {
+                "book": "rjbgz13",
+                "sections": "rjbgz13b4c418",
+                "id": "fcc7cf6e"
+              }
+            }
+          ],
+          "card_id": "770f5e9b"
         }
       ]
     },
@@ -44002,6 +44624,24 @@
             }
           ],
           "card_id": "73ed0ca8"
+        },
+        {
+          "text": "脆弱的，娇嫩的",
+          "contexts": [
+            {
+              "text": "The haiku poem on the right is a translation from Japanese, which shows a moment in the life of a delicate butterfly.",
+              "index": [
+                98,
+                106
+              ],
+              "source": {
+                "book": "rjbgz13",
+                "sections": "rjbgz13b4c418",
+                "id": "7f2b59b0"
+              }
+            }
+          ],
+          "card_id": "e248345b"
         }
       ]
     },
@@ -48458,6 +49098,29 @@
         }
       ]
     },
+    "flexible": {
+      "word": "flexible",
+      "means": [
+        {
+          "text": "可变动的，灵活的",
+          "contexts": [
+            {
+              "text": "List poems have a flexible line length and repeated phrases which give both a pattern and a rhythm to the poem.",
+              "index": [
+                18,
+                26
+              ],
+              "source": {
+                "book": "rjbgz13",
+                "sections": "rjbgz13b4c418",
+                "id": "ad19d18c"
+              }
+            }
+          ],
+          "card_id": "54ab3604"
+        }
+      ]
+    },
     "flood": {
       "word": "flood",
       "means": [
@@ -48527,6 +49190,29 @@
         }
       ]
     },
+    "folk": {
+      "word": "folk",
+      "means": [
+        {
+          "text": "传统的，民间的",
+          "contexts": [
+            {
+              "text": "They are usually the traditional poems or folk songs.",
+              "index": [
+                42,
+                46
+              ],
+              "source": {
+                "book": "rjbgz13",
+                "sections": "rjbgz13b4c418",
+                "id": "9ff50f5c"
+              }
+            }
+          ],
+          "card_id": "d30a3f0c"
+        }
+      ]
+    },
     "for": {
       "word": "for",
       "means": [
@@ -48593,6 +49279,29 @@
             }
           ],
           "card_id": "b99bbfe9"
+        }
+      ]
+    },
+    "format": {
+      "word": "format",
+      "means": [
+        {
+          "text": "模式，格式",
+          "contexts": [
+            {
+              "text": "It has a format of three lines, containing 5, 7, and 5 syllables respectively.",
+              "index": [
+                9,
+                15
+              ],
+              "source": {
+                "book": "rjbgz13",
+                "sections": "rjbgz13b4c418",
+                "id": "bcacb3f6"
+              }
+            }
+          ],
+          "card_id": "a512beeb"
         }
       ]
     },
@@ -52466,6 +53175,29 @@
         }
       ]
     },
+    "leave": {
+      "word": "leave",
+      "means": [
+        {
+          "text": "放任",
+          "contexts": [
+            {
+              "text": "These bad habits, if left unchecked, could lead to more serious ones when they become adults.",
+              "index": [
+                21,
+                25
+              ],
+              "source": {
+                "book": "rjbgz13",
+                "sections": "rjbgz136e35d8",
+                "id": "9d18e225"
+              }
+            }
+          ],
+          "card_id": "7db29930"
+        }
+      ]
+    },
     "lecture": {
       "word": "lecture",
       "means": [
@@ -54392,6 +55124,29 @@
         }
       ]
     },
+    "nursery": {
+      "word": "nursery",
+      "means": [
+        {
+          "text": "幼儿教育的",
+          "contexts": [
+            {
+              "text": "Some of the first poems a young child learns in English are nursery rhymes.",
+              "index": [
+                60,
+                67
+              ],
+              "source": {
+                "book": "rjbgz13",
+                "sections": "rjbgz13b4c418",
+                "id": "edb6692b"
+              }
+            }
+          ],
+          "card_id": "15593038"
+        }
+      ]
+    },
     "nutrition": {
       "word": "nutrition",
       "means": [
@@ -55458,6 +56213,18 @@
                 "sections": "c4f28bc5",
                 "id": "0eb3f7c1"
               }
+            },
+            {
+              "text": "I loved listening to the family talking softly to each other in their language, even though I could not participate much in the conversation. ",
+              "index": [
+                104,
+                115
+              ],
+              "source": {
+                "book": "rjbgz14",
+                "sections": "rjbgz14eab47a",
+                "id": "3998da5f"
+              }
             }
           ],
           "card_id": "2f19e024"
@@ -56275,6 +57042,29 @@
             }
           ],
           "card_id": "8f88bf10"
+        }
+      ]
+    },
+    "phrase": {
+      "word": "phrase",
+      "means": [
+        {
+          "text": "短语",
+          "contexts": [
+            {
+              "text": "List poems have a flexible line length and repeated phrases which give both a pattern and a rhythm to the poem.",
+              "index": [
+                52,
+                59
+              ],
+              "source": {
+                "book": "rjbgz13",
+                "sections": "rjbgz13b4c418",
+                "id": "88f21037"
+              }
+            }
+          ],
+          "card_id": "1750f798"
         }
       ]
     },
@@ -58602,6 +59392,29 @@
         }
       ]
     },
+    "recite": {
+      "word": "recite",
+      "means": [
+        {
+          "text": "背诵",
+          "contexts": [
+            {
+              "text": "The poems may not make sense and even seem contradictory, but they are easy to learn and recite.",
+              "index": [
+                89,
+                95
+              ],
+              "source": {
+                "book": "rjbgz13",
+                "sections": "rjbgz13b4c418",
+                "id": "17058550"
+              }
+            }
+          ],
+          "card_id": "d3432d97"
+        }
+      ]
+    },
     "recognition": {
       "word": "recognition",
       "means": [
@@ -59406,6 +60219,29 @@
         }
       ]
     },
+    "respectively": {
+      "word": "respectively",
+      "means": [
+        {
+          "text": "分别（分别为的分别）",
+          "contexts": [
+            {
+              "text": "It has a format of three lines, containing 5, 7, and 5 syllables respectively.",
+              "index": [
+                65,
+                77
+              ],
+              "source": {
+                "book": "rjbgz13",
+                "sections": "rjbgz13b4c418",
+                "id": "7b032d92"
+              }
+            }
+          ],
+          "card_id": "ee112977"
+        }
+      ]
+    },
     "rest": {
       "word": "rest",
       "means": [
@@ -59576,6 +60412,52 @@
             }
           ],
           "card_id": "4d4d352d"
+        }
+      ]
+    },
+    "rhyme": {
+      "word": "rhyme",
+      "means": [
+        {
+          "text": "押韵诗",
+          "contexts": [
+            {
+              "text": "Some of the first poems a young child learns in English are nursery rhymes.",
+              "index": [
+                68,
+                74
+              ],
+              "source": {
+                "book": "rjbgz13",
+                "sections": "rjbgz13b4c418",
+                "id": "a3567143"
+              }
+            }
+          ],
+          "card_id": "463a8762"
+        }
+      ]
+    },
+    "rhythm": {
+      "word": "rhythm",
+      "means": [
+        {
+          "text": "节奏，韵律，节律",
+          "contexts": [
+            {
+              "text": "Many children enjoy nursery rhymes because they rhyme, have a strong rhythm, and often repeat the same words.",
+              "index": [
+                69,
+                75
+              ],
+              "source": {
+                "book": "rjbgz13",
+                "sections": "rjbgz13b4c418",
+                "id": "fc9ad774"
+              }
+            }
+          ],
+          "card_id": "41707aa5"
         }
       ]
     },
@@ -63008,6 +63890,29 @@
         }
       ]
     },
+    "syllable": {
+      "word": "syllable",
+      "means": [
+        {
+          "text": "音节",
+          "contexts": [
+            {
+              "text": "Haiku is a Japanese form of poetry that consists of 17 syllables.",
+              "index": [
+                55,
+                64
+              ],
+              "source": {
+                "book": "rjbgz13",
+                "sections": "rjbgz13b4c418",
+                "id": "c36b51c2"
+              }
+            }
+          ],
+          "card_id": "24212ad8"
+        }
+      ]
+    },
     "tackle": {
       "word": "tackle",
       "means": [
@@ -64219,7 +65124,7 @@
       "word": "unchecked",
       "means": [
         {
-          "text": "（有害物）未受约束的，不受限制的，放任的",
+          "text": "（有害物）未受约束的，不受限制的",
           "contexts": [
             {
               "text": "These bad habits, if left unchecked, could lead to more serious ones when they become adults.",
@@ -66241,6 +67146,16 @@
       "state": 0,
       "last_review": "2024-04-21T14:14:13.360Z"
     },
+    "amateur": {
+      "due": "2024-04-27T14:38:32.008Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
+    },
     "ambition": {
       "due": "2024-04-20T11:09:14.377Z",
       "stability": 0,
@@ -66572,15 +67487,15 @@
       "last_review": "2024-04-22T03:46:38.188Z"
     },
     "arouse": {
-      "due": "2024-04-18T15:58:31.906Z",
+      "due": "2024-04-27T15:15:01.682Z",
       "stability": 1.2203812129872662,
       "difficulty": 6.815799999999999,
-      "elapsed_days": 2.9992759837962963,
+      "elapsed_days": 8,
       "scheduled_days": 0,
-      "reps": 8,
+      "reps": 9,
       "lapses": 1,
       "state": 3,
-      "last_review": "2024-04-18T15:53:31.906Z"
+      "last_review": "2024-04-27T15:10:01.682Z"
     },
     "arrange": {
       "due": "2024-04-22T15:45:25.978Z",
@@ -70631,15 +71546,15 @@
       "last_review": "2024-04-20T11:34:01.977Z"
     },
     "faint": {
-      "due": "2024-04-18T15:56:51.444Z",
+      "due": "2024-05-01T15:09:50.172Z",
       "stability": 3.5878,
       "difficulty": 5.2239,
-      "elapsed_days": 3.0024868287037036,
-      "scheduled_days": 0,
-      "reps": 2,
+      "elapsed_days": 8,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2024-04-18T15:51:51.444Z"
+      "state": 2,
+      "last_review": "2024-04-27T15:09:50.172Z"
     },
     "fairly": {
       "due": "2024-08-02T12:50:16.023Z",
@@ -71081,6 +71996,16 @@
       "state": 1,
       "last_review": "2024-04-22T15:58:09.554Z"
     },
+    "flexible": {
+      "due": "2024-04-27T14:36:50.565Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
+    },
     "flood": {
       "due": "2024-04-22T15:52:12.276Z",
       "stability": 3.5878,
@@ -71114,6 +72039,16 @@
       "state": 0,
       "last_review": "2024-04-26T08:08:20.031Z"
     },
+    "folk": {
+      "due": "2024-04-27T14:33:57.852Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
+    },
     "for": {
       "due": "2024-04-22T15:46:17.206Z",
       "stability": 3.5878,
@@ -71146,6 +72081,16 @@
       "lapses": 0,
       "state": 0,
       "last_review": "2024-04-23T14:02:04.476Z"
+    },
+    "format": {
+      "due": "2024-04-27T14:47:55.998Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
     },
     "former": {
       "due": "2024-04-30T04:05:27.998Z",
@@ -71489,15 +72434,15 @@
       "last_review": "2024-04-24T14:48:12.748Z"
     },
     "glance": {
-      "due": "2024-04-18T15:55:26.665Z",
-      "stability": 3.5878,
-      "difficulty": 5.2239,
-      "elapsed_days": 29.483897175925925,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2024-05-21T15:09:32.079Z",
+      "stability": 24.17420145,
+      "difficulty": 5.22389686,
+      "elapsed_days": 12,
+      "scheduled_days": 24,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2024-04-14T15:55:26.665Z"
+      "last_review": "2024-04-27T15:09:32.079Z"
     },
     "gold": {
       "due": "2024-04-22T06:40:01.208Z",
@@ -72512,15 +73457,15 @@
       "last_review": "2024-04-15T12:51:28.329Z"
     },
     "investigate": {
-      "due": "2024-04-18T15:51:44.731Z",
+      "due": "2024-04-27T15:13:40.855Z",
       "stability": 1.031233334754032,
       "difficulty": 6.815799999999999,
-      "elapsed_days": 3.000517997685185,
+      "elapsed_days": 8,
       "scheduled_days": 0,
-      "reps": 9,
+      "reps": 10,
       "lapses": 1,
       "state": 3,
-      "last_review": "2024-04-18T15:46:44.731Z"
+      "last_review": "2024-04-27T15:08:40.855Z"
     },
     "investment": {
       "due": "2024-04-18T16:12:34.255Z",
@@ -72710,15 +73655,15 @@
       "last_review": "2024-04-17T14:09:58.962Z"
     },
     "lamp": {
-      "due": "2024-04-18T15:55:29.880Z",
-      "stability": 3.5878,
-      "difficulty": 5.2239,
-      "elapsed_days": 29.483879201388888,
-      "scheduled_days": 4,
-      "reps": 2,
+      "due": "2024-05-21T15:09:35.304Z",
+      "stability": 24.17420145,
+      "difficulty": 5.22389686,
+      "elapsed_days": 12,
+      "scheduled_days": 24,
+      "reps": 3,
       "lapses": 0,
       "state": 2,
-      "last_review": "2024-04-14T15:55:29.880Z"
+      "last_review": "2024-04-27T15:09:35.304Z"
     },
     "land": {
       "due": "2024-05-31T03:41:52.977Z",
@@ -72851,6 +73796,16 @@
       "lapses": 0,
       "state": 0,
       "last_review": "2024-02-22T23:51:11.299Z"
+    },
+    "leave": {
+      "due": "2024-04-27T15:07:38.894Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
     },
     "lecture": {
       "due": "2024-04-20T10:00:34.729Z",
@@ -73732,6 +74687,16 @@
       "state": 0,
       "last_review": "2024-04-17T12:48:10.033Z"
     },
+    "nursery": {
+      "due": "2024-04-27T14:28:02.120Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
+    },
     "nutrition": {
       "due": "2024-04-19T03:50:53.978Z",
       "stability": 0,
@@ -74536,15 +75501,15 @@
       "last_review": "2024-04-22T09:52:13.244Z"
     },
     "phenomenon": {
-      "due": "2024-04-18T15:54:15.687Z",
+      "due": "2024-04-27T15:14:14.458Z",
       "stability": 0.9947157253774396,
       "difficulty": 8.5186,
-      "elapsed_days": 2.9982308680555554,
+      "elapsed_days": 8,
       "scheduled_days": 0,
-      "reps": 16,
+      "reps": 17,
       "lapses": 2,
       "state": 3,
-      "last_review": "2024-04-18T15:49:15.687Z"
+      "last_review": "2024-04-27T15:09:14.458Z"
     },
     "philosopher": {
       "due": "2024-04-26T07:20:40.442Z",
@@ -74578,6 +75543,16 @@
       "lapses": 0,
       "state": 0,
       "last_review": "2024-04-25T12:19:51.084Z"
+    },
+    "phrase": {
+      "due": "2024-04-27T14:37:35.485Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
     },
     "physical": {
       "due": "2024-04-25T12:59:31.108Z",
@@ -75592,15 +76567,15 @@
       "last_review": "2024-04-20T11:01:41.572Z"
     },
     "receive": {
-      "due": "2024-04-18T15:53:20.868Z",
+      "due": "2024-04-28T15:09:06.905Z",
       "stability": 0.9269658577009331,
       "difficulty": 6.815799999999999,
-      "elapsed_days": 3.000974814814815,
-      "scheduled_days": 0,
-      "reps": 9,
+      "elapsed_days": 8,
+      "scheduled_days": 1,
+      "reps": 10,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2024-04-18T15:48:20.868Z"
+      "state": 2,
+      "last_review": "2024-04-27T15:09:06.905Z"
     },
     "recent": {
       "due": "2024-04-22T15:41:56.395Z",
@@ -75634,6 +76609,16 @@
       "lapses": 0,
       "state": 0,
       "last_review": "2024-02-23T04:10:00.134Z"
+    },
+    "recite": {
+      "due": "2024-04-27T14:35:56.282Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
     },
     "recognition": {
       "due": "2024-04-25T13:00:36.588Z",
@@ -75691,15 +76676,15 @@
       "last_review": "2024-04-18T15:42:52.323Z"
     },
     "reference": {
-      "due": "2024-04-18T15:57:24.962Z",
+      "due": "2024-04-28T15:09:57.474Z",
       "stability": 1.2204605768325585,
       "difficulty": 6.815799999999999,
-      "elapsed_days": 2.998701122685185,
-      "scheduled_days": 0,
-      "reps": 8,
+      "elapsed_days": 8,
+      "scheduled_days": 1,
+      "reps": 9,
       "lapses": 1,
-      "state": 3,
-      "last_review": "2024-04-18T15:52:24.962Z"
+      "state": 2,
+      "last_review": "2024-04-27T15:09:57.474Z"
     },
     "reform": {
       "due": "2024-07-26T12:36:35.016Z",
@@ -75955,15 +76940,15 @@
       "last_review": "2024-04-24T14:47:33.005Z"
     },
     "resistance": {
-      "due": "2024-04-18T15:53:06.189Z",
+      "due": "2024-05-01T15:08:59.438Z",
       "stability": 3.5878,
       "difficulty": 5.2239,
-      "elapsed_days": 3.0042998958333333,
-      "scheduled_days": 0,
-      "reps": 2,
+      "elapsed_days": 8,
+      "scheduled_days": 4,
+      "reps": 3,
       "lapses": 0,
-      "state": 1,
-      "last_review": "2024-04-18T15:48:06.189Z"
+      "state": 2,
+      "last_review": "2024-04-27T15:08:59.438Z"
     },
     "resolve": {
       "due": "2024-04-27T10:42:35.216Z",
@@ -75986,6 +76971,16 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-04-18T15:47:29.222Z"
+    },
+    "respectively": {
+      "due": "2024-04-27T14:48:13.833Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
     },
     "rest": {
       "due": "2024-04-21T14:06:54.613Z",
@@ -76063,6 +77058,26 @@
       "lapses": 0,
       "state": 2,
       "last_review": "2024-04-15T15:48:52.135Z"
+    },
+    "rhyme": {
+      "due": "2024-04-27T14:33:24.562Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
+    },
+    "rhythm": {
+      "due": "2024-04-27T14:34:21.183Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
     },
     "ribbon": {
       "due": "2024-04-18T16:07:26.534Z",
@@ -77648,6 +78663,16 @@
       "state": 0,
       "last_review": "2024-04-21T09:07:27.378Z"
     },
+    "syllable": {
+      "due": "2024-04-27T14:46:12.362Z",
+      "stability": 0,
+      "difficulty": 0,
+      "elapsed_days": 0,
+      "scheduled_days": 0,
+      "reps": 0,
+      "lapses": 0,
+      "state": 0
+    },
     "tackle": {
       "due": "2024-04-25T15:10:47.704Z",
       "stability": 3.4574,
@@ -78840,6 +79865,7 @@
   "card2word": {
     "12612744": "platypus",
     "14050790": "authority",
+    "15593038": "nursery",
     "22572090": "investment",
     "23030163": "physique",
     "26316243": "methane",
@@ -78959,6 +79985,7 @@
     "1728181c": "couple",
     "1728ed83": "heal",
     "174c8b0e": "handful",
+    "1750f798": "phrase",
     "180fd82d": "employer",
     "181ff3b2": "prosperous",
     "187c0cc3": "monastery",
@@ -79012,6 +80039,7 @@
     "2382e356": "blessed",
     "23bca36a": "employ",
     "23f0227c": "deliberately",
+    "24212ad8": "syllable",
     "243160bd": "suspected",
     "24875e27": "late",
     "24b6036e": "awe",
@@ -79155,6 +80183,7 @@
     "40c3a47e": "recipe",
     "40ce9acd": "emission",
     "4108c803": "engaged",
+    "41707aa5": "rhythm",
     "417c4687": "nearly",
     "4196698e": "donation",
     "41a11d03": "misty",
@@ -79182,6 +80211,7 @@
     "45f3975d": "roar",
     "45fd8789": "friction",
     "460edcdb": "thin­film",
+    "463a8762": "rhyme",
     "466d5539": "ancient",
     "469289e9": "ski",
     "469e0367": "privilege",
@@ -79254,6 +80284,7 @@
     "54532d4e": "peak",
     "54867e6c": "several",
     "548c579a": "affair",
+    "54ab3604": "flexible",
     "54c97ca6": "participation",
     "54cb648c": "accomplishment",
     "54d8443a": "proceed",
@@ -79407,6 +80438,7 @@
     "766d4c3d": "run",
     "76c4dc42": "access",
     "76daadf9": "relevant",
+    "770f5e9b": "amateur",
     "7720f8e2": "scary",
     "77813f9b": "sight",
     "77b0e199": "prospect",
@@ -79438,6 +80470,7 @@
     "7d23ffc3": "technique",
     "7d712b6d": "contain",
     "7d7876a3": "stimulate",
+    "7db29930": "leave",
     "7dec8bc9": "framework",
     "7e8699d7": "associate",
     "7e8f3e57": "colleague",
@@ -79632,6 +80665,7 @@
     "a4938a9d": "insight",
     "a4c2db24": "entirety",
     "a4c43a95": "sacrifice",
+    "a512beeb": "format",
     "a5505aec": "distinctive",
     "a561961c": "exposure",
     "a58cccb0": "expression",
@@ -79863,7 +80897,9 @@
     "d24afd58": "dustman",
     "d25fd3f1": "feline",
     "d2bca12f": "partner",
+    "d30a3f0c": "folk",
     "d31bb3eb": "sled",
+    "d3432d97": "recite",
     "d351e37d": "component",
     "d3d4eb41": "sustainable",
     "d3dea1a1": "comparison",
@@ -79935,6 +80971,7 @@
     "e120f4cb": "expansion",
     "e16b6eea": "pattern",
     "e1d43a75": "concept",
+    "e248345b": "delicate",
     "e26773a8": "weep",
     "e27b789f": "observe",
     "e28d24a2": "contest",
@@ -80000,6 +81037,7 @@
     "ed39a771": "altogether",
     "ed57eb83": "committee",
     "eda78f4e": "adventure",
+    "ee112977": "respectively",
     "ee2c29f9": "domestic",
     "ee400646": "enclosure",
     "ee5c0fee": "lap",
@@ -123657,6 +124695,270 @@
       "rating": 3,
       "state": 2,
       "duration": 6795
+    },
+    "1714227023901": {
+      "cardId": "1150b2eb",
+      "rating": 3,
+      "state": 2,
+      "duration": 5904
+    },
+    "1714227031187": {
+      "cardId": "5de2d44d",
+      "rating": 3,
+      "state": 2,
+      "duration": 6373
+    },
+    "1714227034388": {
+      "cardId": "29cce7fe",
+      "rating": 4,
+      "state": 2,
+      "duration": 2005
+    },
+    "1714228082120": {
+      "cardId": "nursery",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714228082125": {
+      "cardId": "15593038",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714228404562": {
+      "cardId": "rhyme",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714228404567": {
+      "cardId": "463a8762",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714228437852": {
+      "cardId": "folk",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714228437870": {
+      "cardId": "d30a3f0c",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714228461183": {
+      "cardId": "rhythm",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714228461188": {
+      "cardId": "41707aa5",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714228495632": {
+      "cardId": "0dcd8131",
+      "rating": 4,
+      "state": 2,
+      "duration": 3185
+    },
+    "1714228497976": {
+      "cardId": "30271f0c",
+      "rating": 4,
+      "state": 2,
+      "duration": 1889
+    },
+    "1714228504418": {
+      "cardId": "8b38cb04",
+      "rating": 3,
+      "state": 2,
+      "duration": 5932
+    },
+    "1714228506824": {
+      "cardId": "37ccbd09",
+      "rating": 4,
+      "state": 2,
+      "duration": 1722
+    },
+    "1714228510518": {
+      "cardId": "27d463be",
+      "rating": 4,
+      "state": 2,
+      "duration": 3023
+    },
+    "1714228514656": {
+      "cardId": "2d80a22a",
+      "rating": 4,
+      "state": 2,
+      "duration": 3612
+    },
+    "1714228518549": {
+      "cardId": "5b67e2a7",
+      "rating": 4,
+      "state": 2,
+      "duration": 3305
+    },
+    "1714228556282": {
+      "cardId": "recite",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714228556290": {
+      "cardId": "d3432d97",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714228610565": {
+      "cardId": "flexible",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714228610583": {
+      "cardId": "54ab3604",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714228655485": {
+      "cardId": "phrase",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714228655505": {
+      "cardId": "1750f798",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714228712008": {
+      "cardId": "amateur",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714228712022": {
+      "cardId": "770f5e9b",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714229172362": {
+      "cardId": "syllable",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714229172366": {
+      "cardId": "24212ad8",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714229275998": {
+      "cardId": "format",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714229276022": {
+      "cardId": "a512beeb",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714229293833": {
+      "cardId": "respectively",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714229293838": {
+      "cardId": "ee112977",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714229359609": {
+      "cardId": "e248345b",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714230458894": {
+      "cardId": "leave",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714230458913": {
+      "cardId": "7db29930",
+      "rating": null,
+      "state": null,
+      "duration": null
+    },
+    "1714230520855": {
+      "cardId": "investigate",
+      "rating": 1,
+      "state": 3,
+      "duration": 8950
+    },
+    "1714230539438": {
+      "cardId": "resistance",
+      "rating": 3,
+      "state": 1,
+      "duration": 10769
+    },
+    "1714230546905": {
+      "cardId": "receive",
+      "rating": 3,
+      "state": 3,
+      "duration": 7238
+    },
+    "1714230554458": {
+      "cardId": "phenomenon",
+      "rating": 1,
+      "state": 3,
+      "duration": 7385
+    },
+    "1714230572079": {
+      "cardId": "glance",
+      "rating": 3,
+      "state": 2,
+      "duration": 7797
+    },
+    "1714230575304": {
+      "cardId": "lamp",
+      "rating": 3,
+      "state": 2,
+      "duration": 2972
+    },
+    "1714230590172": {
+      "cardId": "faint",
+      "rating": 3,
+      "state": 1,
+      "duration": 14693
+    },
+    "1714230597474": {
+      "cardId": "reference",
+      "rating": 3,
+      "state": 3,
+      "duration": 7097
+    },
+    "1714230601682": {
+      "cardId": "arouse",
+      "rating": 1,
+      "state": 3,
+      "duration": 3970
     }
   }
 }
