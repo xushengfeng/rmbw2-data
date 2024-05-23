@@ -505,7 +505,7 @@
 "text":"A letter written to a 12­year­old girl in Lithuania was delivered in December，almost 51 years after it was sent by a pen pal in Poland.“I thought that someone was pranking me，” said Genovefa Klonovska after being handed the letter，which included a handmade colored rose and two paper dolls.\n\nThe letter，together with 17 others，fell out of a ventilation hole (通风口) this summer，dirty and wrinkled，as a wall was taken down in a former post office on the suburb of Vilnius. Jurgis Vilnius，owner of the building immediately called the post office.“I'm so happy they got interested，” said he.\n\nStreet names and their numbering have changed in Vilnius，and post office workers spent months looking for the right houses and talking to current renters and neighbors，tracking down where the recipients moved to. Only five were found. In several cases children of late recipients were handed a lost letter.\n\n“We felt a moral duty to do this，” said Deimante Zebrauskaite，head of the customer experience department at Lithuania Post.\n\nOne lady compared the experience to receiving a message from a bottle thrown into the sea. People were emotional.“Some felt they saw a part of daily life of their deceased parents，” Zebrauskaite said.\n\nIn the letter to Klonovska，sent from Koezary in Poland and stamped in 1970，a girl named Ewa complains buses no longer reach her village，so she has to walk in minus 23 degree Celsius cold，and asks for pictures of actors.\n\nNow in her 60s，Klonovska has no memory of Ewa. She probably wrote Ewa after finding her address advertising for pen pals in a newspaper，and the relationship ceased after the letter got undelivered.\n\n“So good that the letter didn't matter much. The loss was not life­changing，” said Klonovska. “What if they delivered a lost letter from a suitor (求婚者) to his love，and their wedding never happened？”\n\n1．What does the underlined word “pranking” in paragraph 1 mean?\n\nA．Brightening.　　　　　\tB．Embarrassing.\n\n_C．Tricking. \tD．Pleasing.\n\n\n2．What happened to the letters in paragraph 2?\n\n_A．They were accidentally found.\n\nB．They remained well­preserved.\n\nC．They were delivered by the former post office.\n\nD．They were hidden by the owner of the building.\n\n\n3．Which of the following best describes the present post office in Vilnius?\n\nA．Generous. \t_B．Dutiful.\n\nC．Honest. \tD．Cautious.\n\n4．What can we learn from what Klonovska said?\n\nA．Klonovska refused a suitor.\n\nB．Klonovska stopped the wedding.\n\nC．The undelivered letter ruined the relationship.\n\n_D．The undelivered letter made little difference to her.\n",
 "words":{
 "8f5dd566":{"id":"prank","index":[163,171],"cIndex":[135,176],"visit":true,"type":"word"},
-"d626b826":{"id":"wrinkled","index":[386,394],"cIndex":[292,468],"visit":true,"type":"word"},
+"d626b826":{"id":"wrinkle","index":[386,394],"cIndex":[292,468],"visit":true,"type":"word"},
 "7ba1ef55":{"id":"suburb","index":[451,457],"cIndex":[292,468],"visit":true,"type":"word"},
 "6bcbcdc6":{"id":"immediately","index":[507,518],"cIndex":[470,541],"visit":true,"type":"word"},
 "5881ef14":{"id":"renter","index":[734,741],"cIndex":[588,799],"visit":true,"type":"word"},
@@ -3945,7 +3945,7 @@
 "a90b3fa3":{"id":"approve","index":[668,676],"cIndex":[609,681],"visit":true,"type":"word"},
 "002bdd88":{"id":"permit","index":[759,768],"cIndex":[681,790],"visit":true,"type":"word"},
 "2611fd20":{"id":"gesture","index":[877,884],"cIndex":[873,940],"visit":true,"type":"word"},
-"c7712600":{"id":"witnesses","index":[962,971],"cIndex":[940,1037],"visit":true,"type":"word"},
+"c7712600":{"id":"witness","index":[962,971],"cIndex":[940,1037],"visit":true,"type":"word"},
 "2f102b53":{"id":"employ","index":[987,996],"cIndex":[940,1037],"visit":true,"type":"word"},
 "1ab62256":{"id":"encounter","index":[1057,1069],"cIndex":[1037,1125],"visit":true,"type":"word"},
 "0da9d95c":{"id":"identical","index":[1073,1082],"cIndex":[1037,1125],"visit":true,"type":"word"},
@@ -5113,7 +5113,7 @@
 "3a3ea858":{"id":"remote","index":[1878,1884],"cIndex":[1838,1930],"visit":true,"type":"word"},
 "6b18e133":{"id":"shade","index":[2069,2075],"cIndex":[2053,2102],"visit":true,"type":"word"},
 "ac737d1f":{"id":"shake","index":[2205,2210],"cIndex":[2202,2241],"visit":true,"type":"word"},
-"4a4658c0":{"id":"wrinkled","index":[2334,2342],"cIndex":[2281,2351],"visit":true,"type":"word"},
+"4a4658c0":{"id":"wrinkle","index":[2334,2342],"cIndex":[2281,2351],"visit":true,"type":"word"},
 "3cd92d86":{"id":"roof","index":[2494,2498],"cIndex":[2459,2531],"visit":true,"type":"word"},
 "d65e4f3e":{"id":"hut","index":[2736,2739],"cIndex":[2693,2741],"visit":true,"type":"word"},
 "80f179de":{"id":"saucer","index":[2796,2803],"cIndex":[2741,2848],"visit":true,"type":"word"},
@@ -37739,8 +37739,8 @@
 "word":"within",
 "means":[{"text":"在……（时间）内","contexts":[{"text":"Within the next decade，I assume，me，my colleagues，and other Dakota­learning relatives will have children and start a new generation of Dakota.","index":[0,6],"source":{"book":"13121a93","sections":"86efd66c","id":"4c6689c3"}}],"card_id":"5ba29faa"}]
 },
-"witnesses":{
-"word":"witnesses",
+"witness":{
+"word":"witness",
 "means":[{"text":"看到，目击","contexts":[{"text":"In Japan, someone who witnesses another person employing the gesture might think it means money.","index":[22,31],"source":{"book":"rjbgz11","sections":"rjbgz1115d7e1","id":"c7712600"}}],"card_id":"5d03843e"}]
 },
 "wonder":{
@@ -37783,9 +37783,9 @@
 "word":"wrap",
 "means":[{"text":"包裹，包","contexts":[{"text":"The pair of planks are wrapped with horsehide (马皮)，which serves a double purpose","index":[23,30],"source":{"book":"13121a93","sections":"9ee04414","id":"7535a610"}},{"text":"you can perform the Heimlich manoeuvre by standing behind him and wrapping your arms around his waist. ","index":[66,74],"source":{"book":"rjbgz12","sections":"rjbgz12b2e179","id":"1e8fe342"}}],"card_id":"ad61cfe0"}]
 },
-"wrinkled":{
-"word":"wrinkled",
-"means":[{"text":"(of the skin) marked by lines or wrinkles (皱的)\n褶的","contexts":[{"text":"The letter，together with 17 others，fell out of a ventilation hole (通风口) this summer，dirty and wrinkled，as a wall was taken down in a former post office on the suburb of Vilnius","index":[94,102],"source":{"book":"13121a93","sections":"2676497f","id":"d626b826"}},{"text":"Tombe’s father, Mukap, a man with a strong jaw and a wrinkled forehead","index":[53,61],"source":{"book":"rjbgz14","sections":"rjbgz14eab47a","id":"4a4658c0"}}],"card_id":"a38d1fef"}]
+"wrinkle":{
+"word":"wrinkle",
+"means":[{"text":"起皱","contexts":[{"text":"The letter，together with 17 others，fell out of a ventilation hole (通风口) this summer，dirty and wrinkled，as a wall was taken down in a former post office on the suburb of Vilnius","index":[94,102],"source":{"book":"13121a93","sections":"2676497f","id":"d626b826"}},{"text":"Tombe’s father, Mukap, a man with a strong jaw and a wrinkled forehead","index":[53,61],"source":{"book":"rjbgz14","sections":"rjbgz14eab47a","id":"4a4658c0"}}],"card_id":"a38d1fef"}]
 },
 "yard":{
 "word":"yard",
@@ -77896,17 +77896,6 @@
 "state":2,
 "last_review":1715954602089
 },
-"witnesses":{
-"due":1713401597619,
-"stability":0,
-"difficulty":0,
-"elapsed_days":0,
-"scheduled_days":0,
-"reps":0,
-"lapses":0,
-"state":0,
-"last_review":1713401597619
-},
 "woman":{
 "due":1716357463922,
 "stability":5.0646,
@@ -78181,17 +78170,6 @@
 "lapses":0,
 "state":2,
 "last_review":1715954602089
-},
-"wrinkled":{
-"due":1708659001824,
-"stability":0,
-"difficulty":0,
-"elapsed_days":0,
-"scheduled_days":0,
-"reps":0,
-"lapses":0,
-"state":0,
-"last_review":1708659001824
 },
 "write":{
 "due":1716357463922,
@@ -84951,7 +84929,7 @@
 "5cc88b2b":"seldom",
 "5cfa81ec":"shapely",
 "5d01c882":"integrity",
-"5d03843e":"witnesses",
+"5d03843e":"witness",
 "5d47fd2b":"furthermore",
 "5d7a765a":"郭",
 "5d7daef4":"egotism",
@@ -85564,7 +85542,7 @@
 "a3641944":"church",
 "a370e88f":"结",
 "a376a15f":"present",
-"a38d1fef":"wrinkled",
+"a38d1fef":"wrinkle",
 "a3affbbd":"sweat",
 "a3dc2bfb":"immortal",
 "a3e2a54f":"roll",
@@ -87386,7 +87364,7 @@
 "1708658762279":["0fe90dae"],
 "1708658976039":["prank"],
 "1708658976048":["72772ebf"],
-"1708659001824":["wrinkled"],
+"1708659001824":["wrinkle"],
 "1708659001832":["a38d1fef"],
 "1708659078953":["suburb"],
 "1708659078965":["fa0b5e8f"],
@@ -91741,7 +91719,7 @@
 "1713401269751":["dbdfd786"],
 "1713401298102":["gesture"],
 "1713401298156":["dc89c49f"],
-"1713401597619":["witnesses"],
+"1713401597619":["witness"],
 "1713401597707":["5d03843e"],
 "1713401639379":["employ"],
 "1713401639457":["23bca36a"],
