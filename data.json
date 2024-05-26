@@ -5092,7 +5092,7 @@
 "10d11d99":{"id":"circuit","index":[2088,2095],"cIndex":[2066,2146],"visit":true,"type":"word"},
 "89b81317":{"id":"rural","index":[2103,2108],"cIndex":[2066,2146],"visit":true,"type":"word"},
 "8422294d":{"id":"relay","index":[2367,2372],"cIndex":[2350,2458],"visit":true,"type":"word"},
-"4797995d":{"id":"criteria","index":[2555,2563],"cIndex":[2544,2599],"visit":true,"type":"word"},
+"4797995d":{"id":"criterion","index":[2555,2563],"cIndex":[2544,2599],"visit":true,"type":"word"},
 "2f9f8662":{"id":"interest","index":[2646,2656],"cIndex":[2609,2675],"visit":true,"type":"word"},
 "898c17e9":{"id":"fair","index":[2806,2810],"cIndex":[2786,2827],"visit":true,"type":"word"},
 "15650d05":{"id":"deserve","index":[2795,2803],"cIndex":[2786,2827],"visit":true,"type":"word"},
@@ -34470,8 +34470,8 @@
 "word":"crisis",
 "means":[{"text":"危机","contexts":[{"text":"To tackle this crisis, he chose to study agriculture and received an education at Southwest Agricultural College in Chongqing.","index":[15,21],"source":{"book":"rjbgz11","sections":"rjbgz1152c449","id":"f8a93fce"}}],"card_id":"b4bc6c26"}]
 },
-"criteria":{
-"word":"criteria",
+"criterion":{
+"word":"criterion",
 "means":[{"text":"a standard by which you judge, decide about, or deal with something\n标准，准则","contexts":[{"text":"But by any criteria this work is worth it to us as well","index":[11,19],"source":{"book":"rjbgz14","sections":"rjbgz147adc70","id":"4797995d"}}],"card_id":"29e5654b"}]
 },
 "critic":{
@@ -51153,7 +51153,7 @@
 "state":1,
 "last_review":1714057251455
 },
-"criteria":{
+"criterion":{
 "due":1714619046208,
 "stability":0,
 "difficulty":0,
@@ -88685,7 +88685,7 @@
 "29cce7fe":"concern",
 "29d4d54c":"civilization",
 "29e2da74":"opt",
-"29e5654b":"criteria",
+"29e5654b":"criterion",
 "2a1fcbad":"protein",
 "2a35e31f":"称谢",
 "2a5ca43d":"bucket",
@@ -98703,7 +98703,7 @@
 "1714618821818":["e231b26d"],
 "1714618945665":["relay"],
 "1714618945681":["9fc6fa1d"],
-"1714619046208":["criteria"],
+"1714619046208":["criterion"],
 "1714619046330":["29e5654b"],
 "1714619129193":["54163df5"],
 "1714619167525":["community"],
