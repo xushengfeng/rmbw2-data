@@ -185,7 +185,7 @@
 "rjbgz21":{
 "name":"人教版高中选修一",
 "id":"rjbgz21",
-"visitTime":1719969700935,
+"visitTime":1719970530179,
 "updateTime":1716744543015,
 "type":"text",
 "sections":["rjbgz211a001b","rjbgz2104b210","rjbgz21a47e72","rjbgz21f3e7e4","rjbgz219e7f8a","rjbgz21af5ae3","rjbgz21ebe405","rjbgz21598e95","rjbgz21747c54","rjbgz21fb7c8e","rjbgz213a38d1","rjbgz2108574d"],
@@ -3530,7 +3530,7 @@
 },
 "rjbgz21ebe405":{
 "title":"The Blue Bird",
-"lastPosi":0.05941329372447085,
+"lastPosi":0.3646490902339398,
 "words":{
 "94fbb438":{"id":"marvellous","index":[79,89],"cIndex":[0,140],"visit":false,"type":"word"},
 "030ca859":{"id":"underlying","index":[293,303],"cIndex":[234,325],"visit":false,"type":"word"},
