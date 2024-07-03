@@ -185,7 +185,7 @@
 "rjbgz21":{
 "name":"人教版高中选修一",
 "id":"rjbgz21",
-"visitTime":1719970530179,
+"visitTime":1720020095886,
 "updateTime":1716744543015,
 "type":"text",
 "sections":["rjbgz211a001b","rjbgz2104b210","rjbgz21a47e72","rjbgz21f3e7e4","rjbgz219e7f8a","rjbgz21af5ae3","rjbgz21ebe405","rjbgz21598e95","rjbgz21747c54","rjbgz21fb7c8e","rjbgz213a38d1","rjbgz2108574d"],
@@ -3530,7 +3530,7 @@
 },
 "rjbgz21ebe405":{
 "title":"The Blue Bird",
-"lastPosi":0.3646490902339398,
+"lastPosi":0.3520237653174898,
 "words":{
 "94fbb438":{"id":"marvellous","index":[79,89],"cIndex":[0,140],"visit":false,"type":"word"},
 "030ca859":{"id":"underlying","index":[293,303],"cIndex":[234,325],"visit":false,"type":"word"},
@@ -3540,7 +3540,10 @@
 "83eddad8":{"id":"humble","index":[441,447],"cIndex":[382,489],"visit":false,"type":"word"},
 "263110de":{"id":"fairy","index":[570,575],"cIndex":[489,627],"visit":false,"type":"word"},
 "3cb62583":{"id":"escort","index":[718,724],"cIndex":[627,792],"visit":false,"type":"word"},
-"ca08bf2f":{"id":"temptation","index":[770,780],"cIndex":[627,792],"visit":false,"type":"word"}
+"ca08bf2f":{"id":"temptation","index":[770,780],"cIndex":[627,792],"visit":false,"type":"word"},
+"8d5b06e7":{"id":"bonus","index":[878,883],"cIndex":[793,942],"visit":false,"type":"word"},
+"d5479c9c":{"id":"signalling","index":[1059,1069],"cIndex":[942,1159],"visit":false,"type":"word"},
+"2146d304":{"id":"treasure","index":[1113,1121],"cIndex":[942,1159],"visit":false,"type":"word"}
 }
 },
 "rjbgz21f3e7e4":{
