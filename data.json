@@ -185,12 +185,12 @@
 "rjbgz21":{
 "name":"人教版高中选修一",
 "id":"rjbgz21",
-"visitTime":1720364561296,
+"visitTime":1720437838642,
 "updateTime":1716744543015,
 "type":"text",
 "sections":["rjbgz211a001b","rjbgz2104b210","rjbgz21a47e72","rjbgz21f3e7e4","rjbgz219e7f8a","rjbgz21af5ae3","rjbgz21ebe405","rjbgz21598e95","rjbgz21747c54","rjbgz21fb7c8e","rjbgz213a38d1","rjbgz2108574d"],
 "canEdit":false,
-"lastPosi":7,
+"lastPosi":6,
 "language":"en",
 "shortName":"选修一"
 },
@@ -3278,7 +3278,7 @@
 },
 "rjbgz21598e95":{
 "title":"The Pursuit of Happiness",
-"lastPosi":0.9057365274234694,
+"lastPosi":0.4257365672831633,
 "words":{
 "4b0f1374":{"id":"seminar","index":[25,32],"cIndex":[0,62],"visit":false,"type":"word"},
 "2e2c5e17":{"id":"Pursuit","index":[39,46],"cIndex":[0,62],"visit":false,"type":"word"},
@@ -3579,7 +3579,7 @@
 },
 "rjbgz21ebe405":{
 "title":"The Blue Bird",
-"lastPosi":0.8738958812256779,
+"lastPosi":0.36701437040037344,
 "words":{
 "94fbb438":{"id":"marvellous","index":[79,89],"cIndex":[0,140],"visit":false,"type":"word"},
 "030ca859":{"id":"underlying","index":[293,303],"cIndex":[234,325],"visit":false,"type":"word"},
@@ -5255,7 +5255,7 @@
 "c2f6747b":{"due":1717033722482,"stability":1.30959113,"difficulty":5.8598,"elapsed_days":27,"scheduled_days":0,"reps":2,"lapses":1,"state":3,"last_review":1717033422482},
 "c3a85c27":{"due":1718295259471,"stability":77.02978386416082,"difficulty":4.078599999999999,"elapsed_days":28.640819733796295,"scheduled_days":77,"reps":4,"lapses":0,"state":2,"last_review":1711642459471},
 "c3b2a130":{"due":1717417943723,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
-"c3b500a7":{"due":1717766088570,"stability":3.5878,"difficulty":6.4738,"elapsed_days":15,"scheduled_days":0,"reps":4,"lapses":0,"state":1,"last_review":1717765488570},
+"c3b500a7":{"due":1720407017492,"stability":3.5878,"difficulty":6.4738,"elapsed_days":30,"scheduled_days":0,"reps":5,"lapses":0,"state":1,"last_review":1720406417492},
 "c3b7e6dd":{"due":1731754493243,"stability":218.71578822690796,"difficulty":3.9871,"elapsed_days":36.91964206018518,"scheduled_days":219,"reps":5,"lapses":0,"state":2,"last_review":1712832893243},
 "c3cbfc86":{"due":1727150026218,"stability":190.90820178053426,"difficulty":3.135699999999999,"elapsed_days":27.38180005787037,"scheduled_days":191,"reps":4,"lapses":0,"state":2,"last_review":1710647626218},
 "c3e846d8":{"due":1724383205360,"stability":112.98909045,"difficulty":3.0311,"elapsed_days":16,"scheduled_days":113,"reps":2,"lapses":0,"state":2,"last_review":1714620005360},
@@ -31137,6 +31137,7 @@
 "1720360701061":["2c3a2469",2,0,17376],
 "1720360731460":["2709e5a7",3,0,28996],
 "1720360735853":["16aec448",4,0,3301],
-"1720360751188":["676d1f7c",3,0,12967]
+"1720360751188":["676d1f7c",3,0,12967],
+"1720406417492":["c3b500a7",2,1,21134]
 }
 }
