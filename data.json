@@ -185,7 +185,7 @@
 "rjbgz21":{
 "name":"人教版高中选修一",
 "id":"rjbgz21",
-"visitTime":1720441472727,
+"visitTime":1720518050692,
 "updateTime":1716744543017,
 "type":"text",
 "sections":["rjbgz211a001b","rjbgz2104b210","rjbgz21a47e72","rjbgz21f3e7e4","rjbgz219e7f8a","rjbgz21af5ae3","rjbgz21ebe405","rjbgz21598e95","rjbgz21747c54","rjbgz21fb7c8e","rjbgz213a38d1","rjbgz2108574d"],
@@ -2310,7 +2310,7 @@
 },
 "rjbgz12545573":{
 "title":"Healthy Eating",
-"lastPosi":0.6834061135371179,
+"lastPosi":0.6833004738430392,
 "words":{
 "fb7bc6a9":{"id":"enemy","index":[125,130],"cIndex":[66,156],"visit":true,"type":"word"},
 "d0614d85":{"id":"fatty","index":[144,149],"cIndex":[66,156],"visit":true,"type":"word"},
@@ -3278,35 +3278,31 @@
 },
 "rjbgz21598e95":{
 "title":"The Pursuit of Happiness",
-"lastPosi":0,
+"lastPosi":0.5391336679680238,
 "words":{
-"4b0f1374":{"id":"seminar","index":[25,32],"cIndex":[0,62],"visit":false,"type":"word"},
-"2e2c5e17":{"id":"Pursuit","index":[39,46],"cIndex":[0,62],"visit":false,"type":"word"},
-"ae571074":{"id":"reveal","index":[179,185],"cIndex":[62,252],"visit":false,"type":"word"},
-"31dea294":{"id":"all","index":[298,301],"cIndex":[275,320],"visit":false,"type":"word"},
-"4a19fb6b":{"id":"conceived","index":[350,359],"cIndex":[340,447],"visit":false,"type":"word"},
-"55d333e1":{"id":"stems","index":[477,482],"cIndex":[447,544],"visit":false,"type":"word"},
-"a3c77120":{"id":"manifest","index":[594,602],"cIndex":[544,639],"visit":false,"type":"word"},
-"d88139f9":{"id":"age","index":[732,735],"cIndex":[700,793],"visit":false,"type":"word"},
-"c400b567":{"id":"confess","index":[753,760],"cIndex":[700,793],"visit":false,"type":"word"},
-"5e8bd05b":{"id":"married","index":[905,912],"cIndex":[894,919],"visit":false,"type":"word"},
-"1e29b0d5":{"id":"divorced","index":[990,998],"cIndex":[919,1012],"visit":false,"type":"word"},
-"342ebde6":{"id":"parenthood","index":[1102,1112],"cIndex":[1089,1157],"visit":false,"type":"word"},
-"f6e3dcda":{"id":"presume","index":[1265,1272],"cIndex":[1243,1396],"visit":false,"type":"word"},
-"adea1047":{"id":"looks","index":[1342,1347],"cIndex":[1243,1396],"visit":false,"type":"word"},
+"4b0f1374":{"id":"seminar","index":[25,32],"cIndex":[0,62],"visit":true,"type":"word"},
+"2e2c5e17":{"id":"pursuit","index":[39,46],"cIndex":[0,62],"visit":true,"type":"word"},
+"ae571074":{"id":"reveal","index":[179,185],"cIndex":[166,252],"visit":true,"type":"word"},
+"4a19fb6b":{"id":"conceive","index":[350,359],"cIndex":[340,447],"visit":true,"type":"word"},
+"55d333e1":{"id":"stem","index":[477,482],"cIndex":[447,544],"visit":false,"type":"word"},
+"a3c77120":{"id":"manifest","index":[594,602],"cIndex":[544,639],"visit":true,"type":"word"},
+"d88139f9":{"id":"age","index":[732,735],"cIndex":[700,793],"visit":true,"type":"word"},
+"c400b567":{"id":"confess","index":[753,760],"cIndex":[700,793],"visit":true,"type":"word"},
+"1e29b0d5":{"id":"divorce","index":[990,998],"cIndex":[919,1012],"visit":true,"type":"word"},
+"342ebde6":{"id":"parenthood","index":[1102,1112],"cIndex":[1089,1157],"visit":true,"type":"word"},
+"f6e3dcda":{"id":"presume","index":[1265,1272],"cIndex":[1243,1373],"visit":true,"type":"word"},
+"adea1047":{"id":"look","index":[1342,1347],"cIndex":[1243,1373],"visit":true,"type":"word"},
 "589b5e72":{"id":"concentrate","index":[1406,1419],"cIndex":[1396,1518],"visit":true,"type":"word"},
-"bd0fd836":{"id":"maintaining","index":[1438,1449],"cIndex":[1396,1575],"visit":false,"type":"word"},
-"b42378c5":{"id":"Well","index":[1692,1696],"cIndex":[1664,1784],"visit":false,"type":"word"},
-"3bb290d8":{"id":"extent","index":[1744,1750],"cIndex":[1664,1784],"visit":false,"type":"word"},
-"d0876002":{"id":"correlates","index":[1923,1933],"cIndex":[1894,2060],"visit":false,"type":"word"},
-"4d2c4a0a":{"id":"salary","index":[1993,1999],"cIndex":[1894,2060],"visit":false,"type":"word"},
-"5dabc6ec":{"id":"previously","index":[2240,2250],"cIndex":[2111,2267],"visit":false,"type":"word"},
-"77dd68c2":{"id":"relevant","index":[2312,2320],"cIndex":[2268,2340],"visit":false,"type":"word"},
-"3c3a90dc":{"id":"status","index":[2441,2447],"cIndex":[2340,2484],"visit":false,"type":"word"},
-"d6f42a7c":{"id":"regardless","index":[2421,2431],"cIndex":[2340,2484],"visit":false,"type":"word"},
-"f0db48aa":{"id":"positivity","index":[2621,2631],"cIndex":[2567,2699],"visit":false,"type":"word"},
-"8c8e8282":{"id":"interests","index":[2853,2862],"cIndex":[2800,2911],"visit":false,"type":"word"},
-"85bfb8fc":{"id":"hobby","index":[2879,2884],"cIndex":[2800,2911],"visit":false,"type":"word"},
+"bd0fd836":{"id":"maintain","index":[1438,1449],"cIndex":[1396,1518],"visit":true,"type":"word"},
+"3bb290d8":{"id":"extent","index":[1744,1750],"cIndex":[1692,1784],"visit":true,"type":"word"},
+"d0876002":{"id":"correlate","index":[1923,1933],"cIndex":[1894,2009],"visit":true,"type":"word"},
+"4d2c4a0a":{"id":"salary","index":[1993,1999],"cIndex":[1894,2009],"visit":true,"type":"word"},
+"77dd68c2":{"id":"relevant","index":[2312,2320],"cIndex":[2268,2340],"visit":true,"type":"word"},
+"3c3a90dc":{"id":"status","index":[2441,2447],"cIndex":[2340,2484],"visit":true,"type":"word"},
+"d6f42a7c":{"id":"regardless","index":[2421,2431],"cIndex":[2340,2484],"visit":true,"type":"word"},
+"f0db48aa":{"id":"positivity","index":[2621,2631],"cIndex":[2567,2699],"visit":true,"type":"word"},
+"8c8e8282":{"id":"interest","index":[2853,2862],"cIndex":[2800,2911],"visit":true,"type":"word"},
+"85bfb8fc":{"id":"hobby","index":[2879,2884],"cIndex":[2800,2911],"visit":true,"type":"word"},
 "d19b06e8":{"id":"apply","index":[3188,3193],"cIndex":[3113,3216],"visit":false,"type":"word"},
 "1f118922":{"id":"incorporate","index":[3274,3285],"cIndex":[3216,3333],"visit":false,"type":"word"},
 "2f83c588":{"id":"realistic","index":[3513,3522],"cIndex":[3493,3588],"visit":false,"type":"word"},
@@ -3326,8 +3322,10 @@
 "02e5d105":{"id":"unprecedented","index":[5073,5086],"cIndex":[5003,5125],"visit":false,"type":"word"},
 "06134217":{"id":"applause","index":[5212,5220],"cIndex":[5180,5258],"visit":false,"type":"word"},
 "4701bd7d":{"id":"presentation","index":[5240,5252],"cIndex":[5180,5258],"visit":false,"type":"word"},
-"215c4dac":{"id":"attractive","index":[1278,1288],"cIndex":[1243,1396],"visit":false,"type":"word"},
-"7130b974":{"id":"preferably","index":[4699,4709],"cIndex":[4603,4835],"visit":false,"type":"word"}
+"215c4dac":{"id":"attractive","index":[1278,1288],"cIndex":[1243,1373],"visit":true,"type":"word"},
+"7130b974":{"id":"preferably","index":[4699,4709],"cIndex":[4603,4835],"visit":false,"type":"word"},
+"1de2a0dc":{"id":"examine","index":[84,91],"cIndex":[62,155],"visit":true,"type":"word"},
+"0e5aa399":{"id":"pursue","index":[2870,2876],"cIndex":[2800,2911],"visit":true,"type":"word"}
 }
 },
 "rjbgz21747c54":{
@@ -3781,6 +3779,7 @@
 "00c9e7d8":{"due":1717765777808,"stability":1.9502,"difficulty":6.4737,"elapsed_days":0,"scheduled_days":0,"reps":1,"lapses":0,"state":1,"last_review":1717765477808},
 "00d1f211":{"due":1719741452246,"stability":38.26177112,"difficulty":4.281,"elapsed_days":6,"scheduled_days":38,"reps":3,"lapses":0,"state":2,"last_review":1716458252246},
 "00ded7e3":{"due":1720350406215,"stability":65.57040255,"difficulty":3.031,"elapsed_days":9,"scheduled_days":66,"reps":2,"lapses":0,"state":2,"last_review":1714648006215},
+"00e55581":{"due":1720499201465,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "012e94d7":{"due":1719741504171,"stability":38.26177112,"difficulty":4.281,"elapsed_days":6,"scheduled_days":38,"reps":3,"lapses":0,"state":2,"last_review":1716458304171},
 "014130e7":{"due":1722563015568,"stability":64.48447688,"difficulty":3.974,"elapsed_days":27,"scheduled_days":64,"reps":2,"lapses":0,"state":2,"last_review":1717033415568},
 "01451bec":{"due":1734146117172,"stability":197.87893112,"difficulty":5.9521,"elapsed_days":48,"scheduled_days":198,"reps":6,"lapses":0,"state":2,"last_review":1717038917172},
@@ -3894,6 +3893,7 @@
 "0fe90dae":{"due":1731236156070,"stability":213.14759162662503,"difficulty":3.9871,"elapsed_days":35.80019363425926,"scheduled_days":213,"reps":5,"lapses":0,"state":2,"last_review":1712832956070},
 "0ffcad17":{"due":1766997887440,"stability":579.47391537,"difficulty":2.1042,"elapsed_days":84,"scheduled_days":579,"reps":3,"lapses":0,"state":2,"last_review":1716972287440},
 "1000191c":{"due":1721033908932,"stability":52.99233609,"difficulty":3.974,"elapsed_days":20,"scheduled_days":53,"reps":2,"lapses":0,"state":2,"last_review":1716454708932},
+"100259a4":{"due":1720499393262,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "10109ca2":{"due":1718787481767,"stability":21.34810648,"difficulty":7.1096,"elapsed_days":27,"scheduled_days":21,"reps":4,"lapses":0,"state":2,"last_review":1716973081767},
 "101f7baa":{"due":1717765833072,"stability":1.29875377,"difficulty":7.87127438,"elapsed_days":36,"scheduled_days":0,"reps":4,"lapses":1,"state":3,"last_review":1717765533072},
 "106ba87c":{"due":1719199363991,"stability":84.71843985150855,"difficulty":3.9994,"elapsed_days":30.080880625,"scheduled_days":85,"reps":3,"lapses":0,"state":2,"last_review":1711855363991},
@@ -4048,6 +4048,7 @@
 "243160bd":{"due":1731322166846,"stability":208.4824657502374,"difficulty":3.9871,"elapsed_days":33.829249930555555,"scheduled_days":208,"reps":5,"lapses":0,"state":2,"last_review":1713350966846},
 "24875e27":{"due":1735721193788,"stability":217.38059846,"difficulty":3.9871,"elapsed_days":83,"scheduled_days":217,"reps":5,"lapses":0,"state":2,"last_review":1716972393788},
 "24b6036e":{"due":1747927073899,"stability":352.33439501,"difficulty":4.0786,"elapsed_days":65,"scheduled_days":352,"reps":5,"lapses":0,"state":2,"last_review":1717514273899},
+"24e3edce":{"due":1720500022668,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "24e9144c":{"due":1724858231630,"stability":85.05507386,"difficulty":5.56736242,"elapsed_days":42,"scheduled_days":85,"reps":4,"lapses":0,"state":2,"last_review":1717514231630},
 "251b62cc":{"due":1717554234869,"stability":3.5878,"difficulty":5.2239,"elapsed_days":0,"scheduled_days":0,"reps":1,"lapses":0,"state":1,"last_review":1717553634869},
 "2551c7b7":{"due":1728449587723,"stability":138.97512371,"difficulty":3.0311,"elapsed_days":21,"scheduled_days":139,"reps":2,"lapses":0,"state":2,"last_review":1716439987723},
@@ -4182,6 +4183,7 @@
 "366d2d72":{"due":1726494221386,"stability":115.72302596,"difficulty":5.49155314,"elapsed_days":30,"scheduled_days":116,"reps":4,"lapses":0,"state":2,"last_review":1716471821386},
 "367cb754":{"due":1718594376451,"stability":45.77299296,"difficulty":3.974,"elapsed_days":16,"scheduled_days":46,"reps":2,"lapses":0,"state":2,"last_review":1714619976451},
 "369bd892":{"due":1728449929111,"stability":138.97512371,"difficulty":3.0311,"elapsed_days":21,"scheduled_days":139,"reps":2,"lapses":0,"state":2,"last_review":1716440329111},
+"36bae175":{"due":1720503270881,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "36c5d611":{"due":1721480333731,"stability":55.8943663,"difficulty":6.3877496,"elapsed_days":32,"scheduled_days":56,"reps":4,"lapses":0,"state":2,"last_review":1716641933731},
 "36d37ac2":{"due":1739453081188,"stability":251.4404241,"difficulty":3.18407065,"elapsed_days":39,"scheduled_days":251,"reps":3,"lapses":0,"state":2,"last_review":1717766681188},
 "36df437b":{"due":1735980352759,"stability":220.29114016,"difficulty":3.9871,"elapsed_days":84,"scheduled_days":220,"reps":5,"lapses":0,"state":2,"last_review":1716972352759},
@@ -4263,6 +4265,7 @@
 "40c3a47e":{"due":1720344768531,"stability":65.57040255,"difficulty":3.031,"elapsed_days":9,"scheduled_days":66,"reps":2,"lapses":0,"state":2,"last_review":1714642368531},
 "40ce9acd":{"due":1742183093523,"stability":335.56527665411573,"difficulty":2.2051000000000003,"elapsed_days":44.56518186342593,"scheduled_days":336,"reps":3,"lapses":0,"state":2,"last_review":1713152693523},
 "4108c803":{"due":1716816073472,"stability":1.92975008,"difficulty":7.658686,"elapsed_days":23,"scheduled_days":2,"reps":7,"lapses":1,"state":2,"last_review":1716643273472},
+"411a6400":{"due":1720506202268,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "414c0cce":{"due":1720442195272,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "41707aa5":{"due":1728031861622,"stability":133.96056032,"difficulty":3.0311,"elapsed_days":20,"scheduled_days":134,"reps":2,"lapses":0,"state":2,"last_review":1716454261622},
 "417c4687":{"due":1717663358762,"stability":35.28294093,"difficulty":6.35864386,"elapsed_days":9,"scheduled_days":35,"reps":4,"lapses":0,"state":2,"last_review":1714639358762},
@@ -4420,6 +4423,7 @@
 "54d8443a":{"due":1720350246384,"stability":65.57040255,"difficulty":3.031,"elapsed_days":9,"scheduled_days":66,"reps":2,"lapses":0,"state":2,"last_review":1714647846384},
 "5505d677":{"due":1716718420583,"stability":3.5878,"difficulty":6.4738,"elapsed_days":0,"scheduled_days":0,"reps":1,"lapses":0,"state":1,"last_review":1716718120583},
 "5517f9cc":{"due":1720361818367,"stability":70.49761859,"difficulty":3.14605614,"elapsed_days":10,"scheduled_days":70,"reps":2,"lapses":0,"state":2,"last_review":1714313818367},
+"55bb9524":{"due":1720503508193,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "55c27a8d":{"due":1716888779887,"stability":25.89347623,"difficulty":3.9739,"elapsed_days":9,"scheduled_days":26,"reps":2,"lapses":0,"state":2,"last_review":1714642379887},
 "55ec478b":{"due":1718189881222,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1717757881222},
 "55fadf8a":{"due":1730690175892,"stability":217.83356343254192,"difficulty":3.135699999999999,"elapsed_days":32.49131008101852,"scheduled_days":218,"reps":4,"lapses":0,"state":2,"last_review":1711854975892},
@@ -4438,6 +4442,7 @@
 "578b21bc":{"due":1723453972730,"stability":101.91366763,"difficulty":3.0311,"elapsed_days":14,"scheduled_days":102,"reps":2,"lapses":0,"state":2,"last_review":1714641172730},
 "57bd51a6":{"due":1742896043882,"stability":306.1860487,"difficulty":4.0786,"elapsed_days":53,"scheduled_days":306,"reps":5,"lapses":0,"state":2,"last_review":1716457643882},
 "57cce1f5":{"due":1720344843995,"stability":65.57040255,"difficulty":3.031,"elapsed_days":9,"scheduled_days":66,"reps":2,"lapses":0,"state":2,"last_review":1714642443995},
+"57f8faae":{"due":1720499291965,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "584efe26":{"due":1717238972087,"stability":50.65049485150762,"difficulty":4.9329,"elapsed_days":36.91700167824074,"scheduled_days":51,"reps":3,"lapses":0,"state":2,"last_review":1712832572087},
 "585cefcd":{"due":1717302482467,"stability":10.4871,"difficulty":3.974,"elapsed_days":0,"scheduled_days":10,"reps":1,"lapses":0,"state":2,"last_review":1716438482467},
 "58e5a2b9":{"due":1721299802209,"stability":98.47307041913112,"difficulty":3.9899999999999998,"elapsed_days":35.79793870370371,"scheduled_days":98,"reps":3,"lapses":0,"state":2,"last_review":1712832602209},
@@ -4472,6 +4477,7 @@
 "5bd4f35b":{"due":1722502774290,"stability":64.48447688,"difficulty":3.974,"elapsed_days":27,"scheduled_days":64,"reps":2,"lapses":0,"state":2,"last_review":1716973174290},
 "5c67d398":{"due":1722009030110,"stability":86.34688982,"difficulty":3.031,"elapsed_days":13,"scheduled_days":86,"reps":2,"lapses":0,"state":2,"last_review":1714578630110},
 "5c6d8a19":{"due":1740362772796,"stability":263.77594151,"difficulty":3.41380928,"elapsed_days":43,"scheduled_days":264,"reps":4,"lapses":0,"state":2,"last_review":1717553172796},
+"5ca0ebfe":{"due":1720517392165,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "5ca1b2b1":{"due":1719929906487,"stability":65.07050952,"difficulty":3.14605614,"elapsed_days":9,"scheduled_days":65,"reps":2,"lapses":0,"state":2,"last_review":1714313906487},
 "5cb0846c":{"due":1725188977841,"stability":143.13251235116573,"difficulty":3.148,"elapsed_days":44.26742113425926,"scheduled_days":143,"reps":3,"lapses":0,"state":2,"last_review":1712833777841},
 "5cc83761":{"due":1718295278866,"stability":77.02576880771704,"difficulty":4.078599999999999,"elapsed_days":28.640736319444443,"scheduled_days":77,"reps":4,"lapses":0,"state":2,"last_review":1711642478866},
@@ -4582,6 +4588,7 @@
 "6a2195d3":{"due":1718197594361,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1717765594361},
 "6a2be9d3":{"due":1722958182033,"stability":105.68238712764955,"difficulty":4.939225319999999,"elapsed_days":39.03045215277778,"scheduled_days":106,"reps":5,"lapses":0,"state":2,"last_review":1713799782033},
 "6a4a4bcb":{"due":1720361811460,"stability":70.49761859,"difficulty":3.14605614,"elapsed_days":10,"scheduled_days":70,"reps":2,"lapses":0,"state":2,"last_review":1714313811460},
+"6a741a68":{"due":1720518216661,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "6ac67829":{"due":1718457716743,"stability":8.01663862,"difficulty":6.77811242,"elapsed_days":15,"scheduled_days":8,"reps":4,"lapses":0,"state":2,"last_review":1717766516743},
 "6ad40a65":{"due":1716606743487,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "6b0f0906":{"due":1719850521152,"stability":95.1983503394863,"difficulty":3.9994,"elapsed_days":34.61631918981482,"scheduled_days":95,"reps":3,"lapses":0,"state":2,"last_review":1711642521152},
@@ -4672,6 +4679,7 @@
 "76daadf9":{"due":1735398933022,"stability":206.78929941,"difficulty":4.62446242,"elapsed_days":42,"scheduled_days":207,"reps":4,"lapses":0,"state":2,"last_review":1717514133022},
 "770f5e9b":{"due":1718614656568,"stability":24.86662137,"difficulty":4.9169,"elapsed_days":20,"scheduled_days":25,"reps":2,"lapses":0,"state":2,"last_review":1716454656568},
 "7720f8e2":{"due":1719929899059,"stability":65.07050952,"difficulty":3.14605614,"elapsed_days":9,"scheduled_days":65,"reps":2,"lapses":0,"state":2,"last_review":1714313899059},
+"7742f17e":{"due":1720518172465,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "77436af3":{"due":1728032494646,"stability":133.96056032,"difficulty":3.0311,"elapsed_days":20,"scheduled_days":134,"reps":2,"lapses":0,"state":2,"last_review":1716454894646},
 "77813f9b":{"due":1731055988091,"stability":163.27178391,"difficulty":3.93733758,"elapsed_days":30,"scheduled_days":163,"reps":3,"lapses":0,"state":2,"last_review":1716972788091},
 "779312c6":{"due":1717580083868,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
@@ -4729,6 +4737,7 @@
 "7d7876a3":{"due":1718600319246,"stability":25.45060939,"difficulty":4.9169,"elapsed_days":21,"scheduled_days":25,"reps":2,"lapses":0,"state":2,"last_review":1716440319246},
 "7db29930":{"due":1722568146282,"stability":64.48447688,"difficulty":3.974,"elapsed_days":27,"scheduled_days":64,"reps":2,"lapses":0,"state":2,"last_review":1717038546282},
 "7dec8bc9":{"due":1723454003011,"stability":101.91366763,"difficulty":3.0311,"elapsed_days":14,"scheduled_days":102,"reps":2,"lapses":0,"state":2,"last_review":1714641203011},
+"7e412f69":{"due":1720503187510,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "7e76e21b":{"due":1718504427359,"stability":10.54685271,"difficulty":7.4167,"elapsed_days":17,"scheduled_days":11,"reps":3,"lapses":0,"state":2,"last_review":1717554027359},
 "7e8699d7":{"due":1761900368066,"stability":520.32303071,"difficulty":3.0442,"elapsed_days":84,"scheduled_days":520,"reps":5,"lapses":0,"state":2,"last_review":1716972368066},
 "7e8f3e57":{"due":1719586474912,"stability":106.15777778948227,"difficulty":3.9871,"elapsed_days":16.960436331018517,"scheduled_days":106,"reps":4,"lapses":0,"state":2,"last_review":1710428074912},
@@ -4762,6 +4771,7 @@
 "82b00a71":{"due":1730732522663,"stability":212.73632862054544,"difficulty":3.978585999999999,"elapsed_days":35.56690585648148,"scheduled_days":213,"reps":5,"lapses":0,"state":2,"last_review":1712329322663},
 "82ca31a7":{"due":1718547756619,"stability":10.4871,"difficulty":3.974,"elapsed_days":0,"scheduled_days":10,"reps":1,"lapses":0,"state":2,"last_review":1717683756619},
 "82e29700":{"due":1717302497786,"stability":10.4871,"difficulty":3.974,"elapsed_days":0,"scheduled_days":10,"reps":1,"lapses":0,"state":2,"last_review":1716438497786},
+"82fc66f5":{"due":1720506628193,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "830f4908":{"due":1716973399609,"stability":1.15117115,"difficulty":8.0525,"elapsed_days":27,"scheduled_days":0,"reps":4,"lapses":1,"state":3,"last_review":1716973099609},
 "836a948b":{"due":1723454253318,"stability":101.91366763,"difficulty":3.0311,"elapsed_days":14,"scheduled_days":102,"reps":2,"lapses":0,"state":2,"last_review":1714641453318},
 "83919fe4":{"due":1725778443280,"stability":97.22007736,"difficulty":6.69418,"elapsed_days":80,"scheduled_days":97,"reps":6,"lapses":0,"state":2,"last_review":1717397643280},
@@ -4925,6 +4935,7 @@
 "967759f6":{"due":1717594973339,"stability":10.9355,"difficulty":3.9437,"elapsed_days":0,"scheduled_days":11,"reps":1,"lapses":0,"state":2,"last_review":1716644573339},
 "967908d3":{"due":1725333166460,"stability":123.6631654,"difficulty":3.0311,"elapsed_days":18,"scheduled_days":124,"reps":2,"lapses":0,"state":2,"last_review":1714619566460},
 "967fd0bb":{"due":1716712956935,"stability":3.5878,"difficulty":5.2239,"elapsed_days":0,"scheduled_days":0,"reps":1,"lapses":0,"state":1,"last_review":1716712356935},
+"96a2a624":{"due":1720506257940,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "96aeac35":{"due":1716561399567,"stability":25.89347623,"difficulty":4.01314686,"elapsed_days":9,"scheduled_days":26,"reps":2,"lapses":0,"state":2,"last_review":1714314999567},
 "96b523a7":{"due":1723030922599,"stability":96.21710978,"difficulty":3.0311,"elapsed_days":13,"scheduled_days":96,"reps":2,"lapses":0,"state":2,"last_review":1714736522599},
 "96c8975c":{"due":1740382014189,"stability":263.78741894,"difficulty":3.41380928,"elapsed_days":43,"scheduled_days":264,"reps":4,"lapses":0,"state":2,"last_review":1717572414189},
@@ -5048,6 +5059,7 @@
 "a4c43a95":{"due":1716812071140,"stability":39.1254928849039,"difficulty":4.356806140000001,"elapsed_days":6.025812604166667,"scheduled_days":39,"reps":3,"lapses":0,"state":2,"last_review":1713442471140},
 "a4dea25c":{"due":1716557646677,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "a512beeb":{"due":1728032264251,"stability":133.96056032,"difficulty":3.0311,"elapsed_days":20,"scheduled_days":134,"reps":2,"lapses":0,"state":2,"last_review":1716454664251},
+"a520df6a":{"due":1720503602510,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "a53a6160":{"due":1717416901574,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "a5505aec":{"due":1716643928175,"stability":3.5878,"difficulty":6.4738,"elapsed_days":23,"scheduled_days":0,"reps":2,"lapses":0,"state":1,"last_review":1716643328175},
 "a56146a8":{"due":1717576816006,"stability":10.4871,"difficulty":3.974,"elapsed_days":0,"scheduled_days":10,"reps":1,"lapses":0,"state":2,"last_review":1716712816006},
@@ -5245,6 +5257,7 @@
 "bdc423db":{"due":1740363170975,"stability":263.73711915,"difficulty":3.41380928,"elapsed_days":43,"scheduled_days":264,"reps":4,"lapses":0,"state":2,"last_review":1717553570975},
 "bdca3a27":{"due":1718417612721,"stability":10.4871,"difficulty":3.974,"elapsed_days":0,"scheduled_days":10,"reps":1,"lapses":0,"state":2,"last_review":1717553612721},
 "be096a14":{"due":1716872761233,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
+"be25a7d3":{"due":1720506504021,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "be26a0c9":{"due":1743047108084,"stability":346.47116665640704,"difficulty":2.2051000000000003,"elapsed_days":46.121673703703706,"scheduled_days":346,"reps":3,"lapses":0,"state":2,"last_review":1713152708084},
 "be470f4b":{"due":1716784967729,"stability":3.5878,"difficulty":5.2239,"elapsed_days":20,"scheduled_days":4,"reps":3,"lapses":0,"state":2,"last_review":1716439367729},
 "be83e294":{"due":1717417921938,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
@@ -5440,6 +5453,7 @@
 "d53ca39c":{"due":1720350371348,"stability":65.57040255,"difficulty":3.031,"elapsed_days":9,"scheduled_days":66,"reps":2,"lapses":0,"state":2,"last_review":1714647971348},
 "d587c78d":{"due":1716733008371,"stability":27.7773004,"difficulty":4.01314686,"elapsed_days":10,"scheduled_days":28,"reps":2,"lapses":0,"state":2,"last_review":1714313808371},
 "d5a09ab3":{"due":1718600306036,"stability":25.45060939,"difficulty":4.9169,"elapsed_days":21,"scheduled_days":25,"reps":2,"lapses":0,"state":2,"last_review":1716440306036},
+"d5e25123":{"due":1720518136715,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "d60290b1":{"due":1716553495369,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "d6272f6d":{"due":1720438776582,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "d63d4164":{"due":1721143992283,"stability":85.1814503975333,"difficulty":3.146153,"elapsed_days":11.181496168981482,"scheduled_days":85,"reps":2,"lapses":0,"state":2,"last_review":1713799992283},
@@ -5471,6 +5485,7 @@
 "d9bd7e52":{"due":1716384293752,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "d9f98d4e":{"due":1717554246993,"stability":3.5878,"difficulty":6.4738,"elapsed_days":0,"scheduled_days":0,"reps":1,"lapses":0,"state":1,"last_review":1717553946993},
 "da07b406":{"due":1724383225325,"stability":112.98909045,"difficulty":3.0311,"elapsed_days":16,"scheduled_days":113,"reps":2,"lapses":0,"state":2,"last_review":1714620025325},
+"da52d5c9":{"due":1720503421420,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "da75b9ef":{"due":1719930839762,"stability":65.07050952,"difficulty":3.14605614,"elapsed_days":9,"scheduled_days":65,"reps":2,"lapses":0,"state":2,"last_review":1714314839762},
 "da75e026":{"due":1718031145589,"stability":88.0055706041511,"difficulty":3.0471,"elapsed_days":12.251293055555555,"scheduled_days":88,"reps":2,"lapses":0,"state":2,"last_review":1710427945589},
 "da7d4905":{"due":1716994947000,"stability":76.06645393696655,"difficulty":4.899879999999999,"elapsed_days":13.036219895833334,"scheduled_days":76,"reps":5,"lapses":0,"state":2,"last_review":1710428547000},
@@ -5581,6 +5596,7 @@
 "e7bf08b3":{"due":1718283551173,"stability":18.97113602,"difficulty":7.21921986,"elapsed_days":32,"scheduled_days":19,"reps":4,"lapses":0,"state":2,"last_review":1716641951173},
 "e7f15466":{"due":1716910342745,"stability":36.427833176653806,"difficulty":4.01324372,"elapsed_days":11.187618761574074,"scheduled_days":36,"reps":2,"lapses":0,"state":2,"last_review":1713799942745},
 "e7f83467":{"due":1732955842355,"stability":187.77478708,"difficulty":4.93,"elapsed_days":41,"scheduled_days":188,"reps":8,"lapses":1,"state":2,"last_review":1716712642355},
+"e8057542":{"due":1720499225826,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "e80d6355":{"due":1716788892886,"stability":3.5878,"difficulty":6.4738,"elapsed_days":0,"scheduled_days":0,"reps":1,"lapses":0,"state":1,"last_review":1716788592886},
 "e824076c":{"due":1724594057870,"stability":48.86504266,"difficulty":5.75660214,"elapsed_days":72,"scheduled_days":49,"reps":3,"lapses":0,"state":2,"last_review":1720360457870},
 "e833dbdf":{"due":1720350362131,"stability":65.57040255,"difficulty":3.031,"elapsed_days":9,"scheduled_days":66,"reps":2,"lapses":0,"state":2,"last_review":1714647962131},
@@ -5597,6 +5613,7 @@
 "e9905ab1":{"due":1722563101641,"stability":64.48447688,"difficulty":3.974,"elapsed_days":27,"scheduled_days":64,"reps":2,"lapses":0,"state":2,"last_review":1717033501641},
 "e996d4e3":{"due":1716889429161,"stability":25.89347623,"difficulty":3.9739,"elapsed_days":9,"scheduled_days":26,"reps":2,"lapses":0,"state":2,"last_review":1714643029161},
 "e9bae94a":{"due":1717580331838,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
+"e9c62b0e":{"due":1720518092429,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "e9e40a76":{"due":1717579889576,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "e9ec1486":{"due":1717608079181,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "ea0f170f":{"due":1716642588770,"stability":4.1386,"difficulty":5.1443,"elapsed_days":0,"scheduled_days":0,"reps":1,"lapses":0,"state":1,"last_review":1716641988770},
@@ -6017,6 +6034,10 @@
 "word":"afterwards",
 "means":[{"text":"after the time mentioned","contexts":[{"text":"Playing was fun, but I felt even more worn out afterwards!","index":[47,57],"source":{"book":"rjbgz13","sections":"rjbgz13a7a218","id":"cac2df61"}}],"card_id":"6f6e5b2e"}]
 },
+"age":{
+"word":"age",
+"means":[{"text":"衰老，长大","contexts":[{"text":"We usually become happier as we age, although I must confess this hasn’t happened to me yet!","index":[32,35],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"d88139f9"}}],"card_id":"36bae175"}]
+},
 "agency":{
 "word":"agency",
 "means":[{"text":"a government organization\n政府专门机构;政府内的局，部，处","contexts":[{"text":"The American space agency NASA believes that sending people to Mars would cost about US$100 billion, although this estimate is based on bringing them back to Earth, too.","index":[19,25],"source":{"book":"rjbgz03","sections":"rjbgz03ba8a76","id":"cd53300c"}}],"card_id":"76b966f3"}]
@@ -6334,6 +6355,10 @@
 "attraction":{
 "word":"attraction",
 "means":[{"text":"景点","contexts":[{"text":"preview local attractions as they plan their trips","index":[14,25],"source":{"book":"13121a93","sections":"6ea57e6e","id":"86778fc2"}}],"card_id":"aee09927"}]
+},
+"attractive":{
+"word":"attractive",
+"means":[{"text":"漂亮的，有魅力的","contexts":[{"text":"Similarly, many of us presume that attractive people lead a really happy life, but in reality, our looks only have a slight effect","index":[35,45],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"215c4dac"}}],"card_id":"411a6400"}]
 },
 "attractiveness":{
 "word":"attractiveness",
@@ -7193,6 +7218,10 @@
 "word":"comradeship",
 "means":[{"text":"朋友情谊;战友情谊;同志情谊","contexts":[{"text":"The children’s performances were especially potent, their passion and comradeship reminding us how rewarding watching live performances can really be.","index":[70,81],"source":{"book":"rjbgz21","sections":"rjbgz21ebe405","id":"c8e2c4d2"}}],"card_id":"038b42db"}]
 },
+"conceive":{
+"word":"conceive",
+"means":[{"text":"to imagine","contexts":[{"text":"It can be conceived of as just a reflection of the pleasure and excitement that we all experience in life.","index":[10,19],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"4a19fb6b"}}],"card_id":"24e3edce"}]
+},
 "concentrate":{
 "word":"concentrate",
 "means":[{"text":"专注，集中（注意力）","contexts":[{"text":"As a result, painters concentrated less on religious themes.","index":[22,34],"source":{"book":"rjbgz13","sections":"rjbgz1356d831","id":"817ab744"}},{"text":"Actually, concentrating on our inside and maintaining a positive attitude is a much more proven way to boost our happiness","index":[10,23],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"589b5e72"}}],"card_id":"4901dd01"}]
@@ -7225,6 +7254,10 @@
 "conduct":{
 "word":"conduct",
 "means":[{"text":"组织，进行","contexts":[{"text":"Qian helped conduct important research into rocket propulsion,","index":[12,19],"source":{"book":"rjbgz12","sections":"rjbgz12e3fab8","id":"bb9ce87e"}}],"card_id":"89637193"}]
+},
+"confess":{
+"word":"confess",
+"means":[{"text":"坦白，承认 （错误的愧疚的行为）","contexts":[{"text":"We usually become happier as we age, although I must confess this hasn’t happened to me yet!","index":[53,60],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"c400b567"}}],"card_id":"da52d5c9"}]
 },
 "conflict":{
 "word":"conflict",
@@ -7375,6 +7408,10 @@
 "correctly":{
 "word":"correctly",
 "means":[{"text":"正确地","contexts":[{"text":"A big achievement of the telescope has been to help scientists correctly measure how quickly the universe is expanding.","index":[63,72],"source":{"book":"rjbgz03","sections":"rjbgz032b19eb","id":"fc39c055"}}],"card_id":"7bdcf2c0"}]
+},
+"correlate":{
+"word":"correlate",
+"means":[{"text":"相关（统计上，数学上）","contexts":[{"text":"In fact, some say our income correlates directly with our happiness, meaning we get happier as our salary increases","index":[29,39],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"d0876002"}}],"card_id":"5ca0ebfe"}]
 },
 "correspond":{
 "word":"correspond",
@@ -7938,7 +7975,7 @@
 },
 "divorce":{
 "word":"divorce",
-"means":[{"text":"to legally end a marriage by a court\n（通过法院）结束婚姻\n- marry","contexts":[{"text":" His parents divorced when he was young, and he was moved frequently throughout his childhood","index":[13,21],"source":{"book":"13121a93","sections":"bdfa761b","id":"3b33d833"}}],"card_id":"4240af13"}]
+"means":[{"text":"to legally end a marriage by a court\n（通过法院）结束婚姻\n- marry","contexts":[{"text":" His parents divorced when he was young, and he was moved frequently throughout his childhood","index":[13,21],"source":{"book":"13121a93","sections":"bdfa761b","id":"3b33d833"}},{"text":"Studies suggest that being married makes us happier than being single, divorced, or widowed. ","index":[71,79],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"1e29b0d5"}}],"card_id":"4240af13"}]
 },
 "dizzy":{
 "word":"dizzy",
@@ -8365,6 +8402,10 @@
 "word":"exalt",
 "means":[{"text":"提拔","contexts":[{"text":"But, as Pushkin said,‘the illusion which exalts us is dearer to us than ten thousand truths.’","index":[41,47],"source":{"book":"rjbgz21","sections":"rjbgz219e7f8a","id":"62a03b15"}}],"card_id":"6462f5e9"}]
 },
+"examine":{
+"word":"examine",
+"means":[{"text":"to look at someone or something very carefully in order to learn more","contexts":[{"text":"Today, we’re going to examine the factors that can contribute towards our levels of happiness","index":[22,29],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"1de2a0dc"}}],"card_id":"57f8faae"}]
+},
 "except":{
 "word":"except",
 "means":[{"text":"除了……之外","contexts":[{"text":"Up in the sky there were many stars, and from them came all the light that there was, except the lantern’s beams.","index":[86,92],"source":{"book":"rjbgz21","sections":"rjbgz21f3e7e4","id":"d1619418"}}],"card_id":"3aa08374"}]
@@ -8456,6 +8497,10 @@
 "extend":{
 "word":"extend",
 "means":[{"text":"延伸","contexts":[{"text":"A trading route across the sea was also extended along the coasts of the Indian Ocean","index":[40,48],"source":{"book":"rjbgz14","sections":"rjbgz14d4687b","id":"e2e0f22e"}}],"card_id":"4fbe83f3"}]
+},
+"extent":{
+"word":"extent",
+"means":[{"text":"程度（面积、长度等值）","contexts":[{"text":"Well, interestingly, studies show that money, to an extent, can indeed influence happiness. ","index":[52,58],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"3bb290d8"}}],"card_id":"82fc66f5"}]
 },
 "external":{
 "word":"external",
@@ -9177,6 +9222,10 @@
 "word":"historic",
 "means":[{"text":"历史性的","contexts":[{"text":"with Jeff Bezos' historic commercial flight to the edge of space this past summer","index":[17,25],"source":{"book":"13121a93","sections":"0c4d4732","id":"3d8129e7"}}],"card_id":"26b04eaa"}]
 },
+"hobby":{
+"word":"hobby",
+"means":[{"text":"业余爱好","contexts":[{"text":"It’s like when we find work that uses our talents or interests, or we pursue a hobby that really satisfies us.","index":[79,84],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"85bfb8fc"}}],"card_id":"6a741a68"}]
+},
 "hollow":{
 "word":"hollow",
 "means":[{"text":"空心的","contexts":[{"text":"The didgeridoo is made from a tree branch which is hollow.","index":[51,57],"source":{"book":"rjbgz14","sections":"rjbgz14677f90","id":"4e8666f9"}}],"card_id":"453af559"}]
@@ -9561,7 +9610,7 @@
 },
 "interest":{
 "word":"interest",
-"means":[{"text":"利益","contexts":[{"text":"the government began to make laws against touching koalas, in the interest of animal protection","index":[66,74],"source":{"book":"rjbgz14","sections":"rjbgz148354ee","id":"1e4d3f8b"}}],"card_id":"e046f9f7"},{"text":"使……感兴趣","contexts":[{"text":"it shows that we are global citizens interested in world stability","index":[37,47],"source":{"book":"rjbgz14","sections":"rjbgz147adc70","id":"2f9f8662"}}],"card_id":"54163df5"}]
+"means":[{"text":"利益","contexts":[{"text":"the government began to make laws against touching koalas, in the interest of animal protection","index":[66,74],"source":{"book":"rjbgz14","sections":"rjbgz148354ee","id":"1e4d3f8b"}}],"card_id":"e046f9f7"},{"text":"使……感兴趣","contexts":[{"text":"it shows that we are global citizens interested in world stability","index":[37,47],"source":{"book":"rjbgz14","sections":"rjbgz147adc70","id":"2f9f8662"}}],"card_id":"54163df5"},{"text":"兴趣","contexts":[{"text":"It’s like when we find work that uses our talents or interests, or we pursue a hobby that really satisfies us.","index":[53,62],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"8c8e8282"}}],"card_id":"7742f17e"}]
 },
 "intermediate":{
 "word":"intermediate",
@@ -9904,6 +9953,10 @@
 "word":"log",
 "means":[{"text":"记录","contexts":[{"text":"Logging new species will improve our understanding of life on the earth.","index":[0,7],"source":{"book":"rjbgz14","sections":"rjbgz144319a3","id":"6fbea181"}}],"card_id":"d4887475"}]
 },
+"look":{
+"word":"look",
+"means":[{"text":"相貌","contexts":[{"text":"Similarly, many of us presume that attractive people lead a really happy life, but in reality, our looks only have a slight effect","index":[99,104],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"adea1047"}}],"card_id":"96a2a624"}]
+},
 "lookout":{
 "word":"lookout",
 "means":[{"text":"放哨者","contexts":[{"text":"Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, huge iceberg was suddenly spotted by a lookout.","index":[143,150],"source":{"book":"NCE3","sections":"nce310","id":"82692dd6"}}],"card_id":"3a0fbf2c"}]
@@ -9960,6 +10013,10 @@
 "word":"mail",
 "means":[{"text":"邮递过来的东西","contexts":[{"text":"I’ve been dying to have some of my favourite sweets, and it’s always nice to get mail!","index":[81,85],"source":{"book":"rjbgz14","sections":"rjbgz14eab47a","id":"53e2b347"}}],"card_id":"9a826b84"}]
 },
+"maintain":{
+"word":"maintain",
+"means":[{"text":"to keep, exist or continue without changing","contexts":[{"text":"Actually, concentrating on our inside and maintaining a positive attitude is a much more proven way to boost our happiness","index":[42,53],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"bd0fd836"}}],"card_id":"be25a7d3"}]
+},
 "major":{
 "word":"major",
 "means":[{"text":"（大学生的）专业，主修课程","contexts":[{"text":"However, as I major in social studies, I’m more interested in meeting people in Australia and experiencing ......","index":[14,19],"source":{"book":"rjbgz14","sections":"rjbgz14677f90","id":"0af790ae"}}],"card_id":"935ef048"}]
@@ -9999,6 +10056,10 @@
 "mania":{
 "word":"mania",
 "means":[{"text":"痴迷;…狂;…癖;...妄想症","contexts":[{"text":"Ambition produced by unhappiness in youth, by injustices in later life, or by any of the cause which lead to persecution mania.","index":[121,126],"source":{"book":"rjbgz21","sections":"rjbgz21af5ae3","id":"e44ae264"}}],"card_id":"3efd4b95"}]
+},
+"manifest":{
+"word":"manifest",
+"means":[{"text":"表现，表明","contexts":[{"text":"And some people might also say that happiness can manifest itself through our faith or beliefs.","index":[50,58],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"a3c77120"}}],"card_id":"7e412f69"}]
 },
 "mankind":{
 "word":"mankind",
@@ -10649,6 +10710,10 @@
 "word":"parcel",
 "means":[{"text":"包裹📦","contexts":[{"text":"I just got a parcel from home! It took about two weeks to arrive","index":[13,19],"source":{"book":"rjbgz14","sections":"rjbgz14eab47a","id":"32c0c85d"}}],"card_id":"5a0fa91f"}]
 },
+"parenthood":{
+"word":"parenthood",
+"means":[{"text":"为人父母","contexts":[{"text":"Well, as for parenthood, it doesn’t necessarily increase happiness.","index":[13,23],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"342ebde6"}}],"card_id":"55bb9524"}]
+},
 "park":{
 "word":"park",
 "means":[{"text":"to leave a vehicle somewhere\n把车停在特定地点","contexts":[{"text":" I carelessly knocked into your parked car","index":[32,38],"source":{"book":"13121a93","sections":"5f953380","id":"10a94f97"}}],"card_id":"dbff337d"}]
@@ -10994,6 +11059,10 @@
 "word":"positive",
 "means":[{"text":"积极","contexts":[{"text":"Because of her, I have learnt to stay positive even when times are hard.","index":[38,46],"source":{"book":"rjbgz11","sections":"rjbgz111e2d79","id":"7123f451"}}],"card_id":"d094a99b"}]
 },
+"positivity":{
+"word":"positivity",
+"means":[{"text":"积极","contexts":[{"text":"It means enjoying everyday pleasures that add fun and positivity to our lives, like meeting with our friends or taking a nice walk.","index":[54,64],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"f0db48aa"}}],"card_id":"d5e25123"}]
+},
 "possession":{
 "word":"possession",
 "means":[{"text":"拥有; 拥有、拥有或控制某物的状态","contexts":[{"text":" As no pumas had been reported missing from any zoo in the country, this one must have been in the possession of a private collector and somehow managed to escape","index":[99,109],"source":{"book":"NCE3","sections":"nce31","id":"fcf96ffa"}}],"card_id":"3f5d2345"},{"text":"所有物","contexts":[{"text":"The sea is home to life, not human beings’ possessions.","index":[43,54],"source":{"book":"rjbgz14","sections":"rjbgz144319a3","id":"cbb9781a"}}],"card_id":"17bdf84b"}]
@@ -11078,6 +11147,10 @@
 "pressure":{
 "word":"pressure",
 "means":[{"text":"压力","contexts":[{"text":"To begin with, many students who study abroad face great economic pressure.","index":[66,74],"source":{"book":"rjbgz12","sections":"rjbgz121df2c6","id":"8f7d2907"}}],"card_id":"e94e0831"}]
+},
+"presume":{
+"word":"presume",
+"means":[{"text":"believe\n假定，认定","contexts":[{"text":"Similarly, many of us presume that attractive people lead a really happy life, but in reality, our looks only have a slight effect","index":[22,29],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"f6e3dcda"}}],"card_id":"a520df6a"}]
 },
 "pretty":{
 "word":"pretty",
@@ -11262,7 +11335,11 @@
 },
 "pursue":{
 "word":"pursue",
-"means":[{"text":"从事，追求\nachieve sth, usually over a long period of time","contexts":[{"text":"His parents wanted him to pursue a career in science or medicine.","index":[26,32],"source":{"book":"rjbgz11","sections":"rjbgz1152c449","id":"bd567935"}},{"text":"Qian went to the United States in 1935 to pursue his graduate studies. ","index":[42,48],"source":{"book":"rjbgz12","sections":"rjbgz12e3fab8","id":"97c33159"}}],"card_id":"33112287"}]
+"means":[{"text":"从事，追求\nachieve sth, usually over a long period of time","contexts":[{"text":"His parents wanted him to pursue a career in science or medicine.","index":[26,32],"source":{"book":"rjbgz11","sections":"rjbgz1152c449","id":"bd567935"}},{"text":"Qian went to the United States in 1935 to pursue his graduate studies. ","index":[42,48],"source":{"book":"rjbgz12","sections":"rjbgz12e3fab8","id":"97c33159"}},{"text":"It’s like when we find work that uses our talents or interests, or we pursue a hobby that really satisfies us. ","index":[70,76],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"0e5aa399"}}],"card_id":"33112287"}]
+},
+"pursuit":{
+"word":"pursuit",
+"means":[{"text":"attempt\n追求","contexts":[{"text":"Welcome, everyone, to my seminar: “The Pursuit of Happiness”.","index":[39,46],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"2e2c5e17"}}],"card_id":"e8057542"}]
 },
 "qualification":{
 "word":"qualification",
@@ -11481,7 +11558,7 @@
 },
 "regardless":{
 "word":"regardless",
-"means":[{"text":"无论，尽管","contexts":[{"text":"This is true regardless of how healthy the rest of their diet might be.","index":[13,23],"source":{"book":"rjbgz12","sections":"rjbgz12545573","id":"97159ec1"}},{"text":"Regardless, it seems that humans living on Mars may well happen a lot sooner than most people believe.","index":[0,10],"source":{"book":"rjbgz03","sections":"rjbgz03ba8a76","id":"39a48e39"}}],"card_id":"d526e5ba"}]
+"means":[{"text":"无论，尽管","contexts":[{"text":"This is true regardless of how healthy the rest of their diet might be.","index":[13,23],"source":{"book":"rjbgz12","sections":"rjbgz12545573","id":"97159ec1"}},{"text":"Regardless, it seems that humans living on Mars may well happen a lot sooner than most people believe.","index":[0,10],"source":{"book":"rjbgz03","sections":"rjbgz03ba8a76","id":"39a48e39"}},{"text":"But luckily for us, modern psychology offers a theory that can apply to everyone regardless of their status: the “three elements of happiness”. ","index":[81,91],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"d6f42a7c"}}],"card_id":"d526e5ba"}]
 },
 "region":{
 "word":"region",
@@ -11517,7 +11594,7 @@
 },
 "relevant":{
 "word":"relevant",
-"means":[{"text":"有关的，切题的","contexts":[{"text":"For example, if a water pipe starts leaking, or if there is a short in the electrical wiring, your smart home will detect it and provide you with the relevant information.","index":[150,158],"source":{"book":"rjbgz11","sections":"rjbgz1131f160","id":"d8ca87fe"}},{"text":"For a century-old play, it was still very relevant to modern times.","index":[42,50],"source":{"book":"rjbgz21","sections":"rjbgz21ebe405","id":"7756b655"}}],"card_id":"76daadf9"}]
+"means":[{"text":"有关的，切题的","contexts":[{"text":"For example, if a water pipe starts leaking, or if there is a short in the electrical wiring, your smart home will detect it and provide you with the relevant information.","index":[150,158],"source":{"book":"rjbgz11","sections":"rjbgz1131f160","id":"d8ca87fe"}},{"text":"For a century-old play, it was still very relevant to modern times.","index":[42,50],"source":{"book":"rjbgz21","sections":"rjbgz21ebe405","id":"7756b655"}},{"text":"Of course, not all of these factors will be relevant to all of us here. ","index":[44,52],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"77dd68c2"}}],"card_id":"76daadf9"}]
 },
 "religious":{
 "word":"religious",
@@ -11666,6 +11743,10 @@
 "reunite":{
 "word":"reunite",
 "means":[{"text":"使重聚","contexts":[{"text":"More importantly, it is a special occasion to return home and gratefully reunite with family members.","index":[73,80],"source":{"book":"rjbgz03","sections":"rjbgz03121a4c","id":"7a824f68"}}],"card_id":"732e0698"}]
+},
+"reveal":{
+"word":"reveal",
+"means":[{"text":"to make known, to show or prove","contexts":[{"text":"I’m going to reveal to you all my special five-point plan to become a happier person. ","index":[13,19],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"ae571074"}}],"card_id":"100259a4"}]
 },
 "review":{
 "word":"review",
@@ -11821,7 +11902,7 @@
 },
 "salary":{
 "word":"salary",
-"means":[{"text":"薪金，薪水","contexts":[{"text":"Larry wanted to improve his social position with a bigger salary.","index":[58,64],"source":{"book":"rjbgz14","sections":"rjbgz14c2c557","id":"2230fabe"}}],"card_id":"f1719a16"}]
+"means":[{"text":"薪金，薪水","contexts":[{"text":"Larry wanted to improve his social position with a bigger salary.","index":[58,64],"source":{"book":"rjbgz14","sections":"rjbgz14c2c557","id":"2230fabe"}},{"text":"In fact, some say our income correlates directly with our happiness, meaning we get happier as our salary increases","index":[99,105],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"4d2c4a0a"}}],"card_id":"f1719a16"}]
 },
 "salty":{
 "word":"salty",
@@ -11942,6 +12023,10 @@
 "selfish":{
 "word":"selfish",
 "means":[{"text":"自私的","contexts":[{"text":"How could I become as selfish and bad-tempered as Thomas Orde-Lees!","index":[22,29],"source":{"book":"rjbgz13","sections":"rjbgz13a6b0da","id":"8215ef34"}},{"text":"But life will sooner or later show its claws to those who are selfish. ","index":[62,69],"source":{"book":"rjbgz21","sections":"rjbgz219e7f8a","id":"95a19a86"}}],"card_id":"80fc9ca6"}]
+},
+"seminar":{
+"word":"seminar",
+"means":[{"text":"讲座，研讨会","contexts":[{"text":"Welcome, everyone, to my seminar: “The Pursuit of Happiness”.","index":[25,32],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"4b0f1374"}}],"card_id":"00e55581"}]
 },
 "senior":{
 "word":"senior",
@@ -12358,7 +12443,7 @@
 },
 "status":{
 "word":"status",
-"means":[{"text":"地位","contexts":[{"text":" These accomplishments offered him a type of superstar status, but friends and colleagues said the polite Southerner remained down to earth","index":[55,61],"source":{"book":"13121a93","sections":"bdfa761b","id":"814cecb9"}}],"card_id":"a7e3ad68"}]
+"means":[{"text":"地位","contexts":[{"text":" These accomplishments offered him a type of superstar status, but friends and colleagues said the polite Southerner remained down to earth","index":[55,61],"source":{"book":"13121a93","sections":"bdfa761b","id":"814cecb9"}}],"card_id":"a7e3ad68"},{"text":"状况","contexts":[{"text":"But luckily for us, modern psychology offers a theory that can apply to everyone regardless of their status: the “three elements of happiness”.","index":[101,107],"source":{"book":"rjbgz21","sections":"rjbgz21598e95","id":"3c3a90dc"}}],"card_id":"e9c62b0e"}]
 },
 "steadily":{
 "word":"steadily",
@@ -13541,7 +13626,7 @@
 "afterwards":{"due":1714132324179,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":1714132324179},
 "again":{"due":1718192758219,"stability":19.79778615,"difficulty":3.9739,"elapsed_days":6,"scheduled_days":20,"reps":2,"lapses":0,"state":2,"last_review":1716464758219},
 "against":{"due":1718192767980,"stability":19.79778615,"difficulty":3.9739,"elapsed_days":6,"scheduled_days":20,"reps":2,"lapses":0,"state":2,"last_review":1716464767980},
-"age":{"due":1716465071653,"stability":0.79923362,"difficulty":5.8597,"elapsed_days":6,"scheduled_days":0,"reps":2,"lapses":1,"state":3,"last_review":1716464771653},
+"age":{"due":1720503270819,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "agency":{"due":1717576412187,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "ago":{"due":1718192780909,"stability":19.79778615,"difficulty":3.9739,"elapsed_days":6,"scheduled_days":20,"reps":2,"lapses":0,"state":2,"last_review":1716464780909},
 "agree":{"due":1718192785164,"stability":19.79778615,"difficulty":3.9739,"elapsed_days":6,"scheduled_days":20,"reps":2,"lapses":0,"state":2,"last_review":1716464785164},
@@ -13702,6 +13787,7 @@
 "attitude":{"due":1716359050553,"stability":0.8132602,"difficulty":5.7473283,"elapsed_days":5,"scheduled_days":0,"reps":2,"lapses":1,"state":3,"last_review":1716358750553},
 "attract":{"due":1716359763046,"stability":0.8132602,"difficulty":5.7473283,"elapsed_days":5,"scheduled_days":0,"reps":2,"lapses":1,"state":3,"last_review":1716359463046},
 "attraction":{"due":1713542135286,"stability":3.5878,"difficulty":5.2239,"elapsed_days":0.13204164351851852,"scheduled_days":4,"reps":2,"lapses":0,"state":2,"last_review":1713196535286},
+"attractive":{"due":1720506202235,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "attractiveness":{"due":1717573040215,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "attribute":{"due":1716384391742,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "at­length":{"due":1708619551824,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":1708619551824},
@@ -14179,6 +14265,7 @@
 "compromise":{"due":1717040702416,"stability":59.568392979675124,"difficulty":4.93,"elapsed_days":28.51931076388889,"scheduled_days":60,"reps":4,"lapses":0,"state":2,"last_review":1711856702416},
 "computer":{"due":1720776294879,"stability":39.30484457,"difficulty":3.9739,"elapsed_days":17,"scheduled_days":39,"reps":2,"lapses":0,"state":2,"last_review":1717406694879},
 "comradeship":{"due":1720441957181,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
+"conceive":{"due":1720500022644,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "concentrate":{"due":1714047297678,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":1714047297678},
 "concept":{"due":1713606191637,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":1713606191637},
 "concern":{"due":1715179834157,"stability":13.762364680457294,"difficulty":6.815799999999999,"elapsed_days":8.95457767361111,"scheduled_days":14,"reps":7,"lapses":1,"state":2,"last_review":1713970234157},
@@ -14188,6 +14275,7 @@
 "concrete":{"due":1716384913112,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "condition":{"due":1716454489025,"stability":3.5878,"difficulty":5.2239,"elapsed_days":0,"scheduled_days":0,"reps":1,"lapses":0,"state":1,"last_review":1716453889025},
 "conduct":{"due":1715689804742,"stability":3.5878,"difficulty":5.2239,"elapsed_days":0,"scheduled_days":0,"reps":1,"lapses":0,"state":1,"last_review":1715689204742},
+"confess":{"due":1720503421342,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "confidence":{"due":1717493941716,"stability":0.94994325,"difficulty":5.8597,"elapsed_days":0,"scheduled_days":1,"reps":3,"lapses":1,"state":2,"last_review":1717407541716},
 "confident":{"due":1716818602089,"stability":10.4871,"difficulty":3.974,"elapsed_days":0,"scheduled_days":10,"reps":1,"lapses":0,"state":2,"last_review":1715954602089},
 "confirm":{"due":1717407852615,"stability":0.94994325,"difficulty":5.8597,"elapsed_days":17,"scheduled_days":0,"reps":2,"lapses":1,"state":3,"last_review":1717407552615},
@@ -14254,6 +14342,7 @@
 "corner":{"due":1714557851781,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "correct":{"due":1716804875005,"stability":3.5878,"difficulty":5.2239,"elapsed_days":20,"scheduled_days":4,"reps":2,"lapses":0,"state":2,"last_review":1716459275005},
 "correctly":{"due":1717577341409,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
+"correlate":{"due":1720517392139,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "correspond":{"due":1716623818576,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "cost":{"due":1716453656159,"stability":3.5878,"difficulty":5.2239,"elapsed_days":0,"scheduled_days":0,"reps":1,"lapses":0,"state":1,"last_review":1716453056159},
 "costume":{"due":1720443352790,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
@@ -14721,7 +14810,7 @@
 "exalt":{"due":1716559926955,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "exam":{"due":1716357463922,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1715925463922},
 "examination":{"due":1718038983850,"stability":10.4871,"difficulty":3.974,"elapsed_days":0,"scheduled_days":10,"reps":1,"lapses":0,"state":2,"last_review":1717174983850},
-"examine":{"due":1716357463922,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1715925463922},
+"examine":{"due":1720499291934,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "example":{"due":1716357463922,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1715925463922},
 "excellent":{"due":1716357463922,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1715925463922},
 "except":{"due":1716459815692,"stability":3.5878,"difficulty":5.2239,"elapsed_days":0,"scheduled_days":0,"reps":1,"lapses":0,"state":1,"last_review":1716459215692},
@@ -14763,6 +14852,7 @@
 "express":{"due":1713618970946,"stability":3.5878,"difficulty":5.2239,"elapsed_days":0,"scheduled_days":0,"reps":1,"lapses":0,"state":1,"last_review":1713618370946},
 "expression":{"due":1718016384511,"stability":3.4574,"difficulty":5.2238,"elapsed_days":42,"scheduled_days":3,"reps":2,"lapses":0,"state":2,"last_review":1717757184511},
 "extend":{"due":1714559618251,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
+"extent":{"due":1720506628106,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "external":{"due":1714963682618,"stability":3.4574,"difficulty":5.2238,"elapsed_days":14,"scheduled_days":3,"reps":2,"lapses":0,"state":2,"last_review":1714704482618},
 "extinction":{"due":1713964123699,"stability":4.149015791938072,"difficulty":10,"elapsed_days":5.895741412037037,"scheduled_days":4,"reps":12,"lapses":4,"state":2,"last_review":1713618523699},
 "extra":{"due":1716357463922,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1715925463922},
@@ -15179,7 +15269,7 @@
 "historical":{"due":1716818602089,"stability":10.4871,"difficulty":3.974,"elapsed_days":0,"scheduled_days":10,"reps":1,"lapses":0,"state":2,"last_review":1715954602089},
 "history":{"due":1721647673936,"stability":44.84827238,"difficulty":4.01314686,"elapsed_days":21,"scheduled_days":45,"reps":2,"lapses":0,"state":2,"last_review":1717759673936},
 "hit":{"due":1721645189946,"stability":44.84827238,"difficulty":4.01314686,"elapsed_days":21,"scheduled_days":45,"reps":2,"lapses":0,"state":2,"last_review":1717757189946},
-"hobby":{"due":1716357463922,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1715925463922},
+"hobby":{"due":1720518216568,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "hold":{"due":1716357463922,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1715925463922},
 "hole":{"due":1721645353499,"stability":44.84827238,"difficulty":4.01314686,"elapsed_days":21,"scheduled_days":45,"reps":2,"lapses":0,"state":2,"last_review":1717757353499},
 "holiday":{"due":1716357463922,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1715925463922},
@@ -15551,7 +15641,7 @@
 "logo":{"due":1717066653162,"stability":10.4871,"difficulty":3.974,"elapsed_days":0,"scheduled_days":10,"reps":1,"lapses":0,"state":2,"last_review":1716202653162},
 "lonely":{"due":1716357463922,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1715925463922},
 "long":{"due":1716357463922,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1715925463922},
-"look":{"due":1721645187213,"stability":44.84827238,"difficulty":4.01314686,"elapsed_days":21,"scheduled_days":45,"reps":2,"lapses":0,"state":2,"last_review":1717757187213},
+"look":{"due":1720506257867,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "lookout":{"due":1713150009041,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":1713150009041},
 "loose":{"due":1713779868013,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":1713779868013},
 "lord":{"due":1716554923190,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
@@ -15584,6 +15674,7 @@
 "mail":{"due":1716454476672,"stability":3.5878,"difficulty":5.2239,"elapsed_days":0,"scheduled_days":0,"reps":1,"lapses":0,"state":1,"last_review":1716453876672},
 "main":{"due":1716357463922,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1715925463922},
 "mainly":{"due":1717066653162,"stability":10.4871,"difficulty":3.974,"elapsed_days":0,"scheduled_days":10,"reps":1,"lapses":0,"state":2,"last_review":1716202653162},
+"maintain":{"due":1720506503996,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "major":{"due":1716358927541,"stability":3.4574,"difficulty":5.2238,"elapsed_days":0,"scheduled_days":0,"reps":1,"lapses":0,"state":1,"last_review":1716358327541},
 "majority":{"due":1716387097819,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "make":{"due":1721651375564,"stability":44.84827238,"difficulty":4.01314686,"elapsed_days":21,"scheduled_days":45,"reps":2,"lapses":0,"state":2,"last_review":1717763375564},
@@ -15598,6 +15689,7 @@
 "manager":{"due":1716357463922,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1715925463922},
 "manhood":{"due":1714782856862,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "mania":{"due":1717422959489,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
+"manifest":{"due":1720503187430,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "mankind":{"due":1720530320920,"stability":84.76701427585401,"difficulty":4.93,"elapsed_days":31.909653969907406,"scheduled_days":85,"reps":4,"lapses":0,"state":2,"last_review":1713186320920},
 "manner":{"due":1714745463027,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "manoeuvre":{"due":1713691937055,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":1713691937055},
@@ -15984,6 +16076,7 @@
 "parcel":{"due":1714570892164,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "pardon":{"due":1717066653162,"stability":10.4871,"difficulty":3.974,"elapsed_days":0,"scheduled_days":10,"reps":1,"lapses":0,"state":2,"last_review":1716202653162},
 "parent":{"due":1717814875721,"stability":1.05351195,"difficulty":5.7473283,"elapsed_days":21,"scheduled_days":0,"reps":2,"lapses":1,"state":3,"last_review":1717814575721},
+"parenthood":{"due":1720503508163,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "park":{"due":1719058595589,"stability":39.26392916,"difficulty":5.2239,"elapsed_days":28,"scheduled_days":39,"reps":3,"lapses":0,"state":2,"last_review":1715688995589},
 "part":{"due":1717299090175,"stability":62.77992496970186,"difficulty":4.93,"elapsed_days":31.033356655092593,"scheduled_days":63,"reps":4,"lapses":0,"state":2,"last_review":1711855890175},
 "participant":{"due":1714652006187,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
@@ -16130,6 +16223,7 @@
 "port":{"due":1714576943250,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "position":{"due":1716357463922,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1715925463922},
 "positive":{"due":1717754178946,"stability":3.4574,"difficulty":5.2238,"elapsed_days":0,"scheduled_days":0,"reps":1,"lapses":0,"state":1,"last_review":1717753578946},
+"positivity":{"due":1720518136663,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "possession":{"due":1714479839074,"stability":0.14585548637556503,"difficulty":8.6958,"elapsed_days":10,"scheduled_days":1,"reps":9,"lapses":1,"state":2,"last_review":1714393439074},
 "possibility":{"due":1717066653162,"stability":10.4871,"difficulty":3.974,"elapsed_days":0,"scheduled_days":10,"reps":1,"lapses":0,"state":2,"last_review":1716202653162},
 "possible":{"due":1717764792454,"stability":1.05351195,"difficulty":5.7473283,"elapsed_days":21,"scheduled_days":0,"reps":2,"lapses":1,"state":3,"last_review":1717764492454},
@@ -16170,6 +16264,7 @@
 "president":{"due":1718038899790,"stability":10.4871,"difficulty":3.974,"elapsed_days":0,"scheduled_days":10,"reps":1,"lapses":0,"state":2,"last_review":1717174899790},
 "press":{"due":1716357463922,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1715925463922},
 "pressure":{"due":1718022664869,"stability":3.4574,"difficulty":5.2238,"elapsed_days":16,"scheduled_days":3,"reps":2,"lapses":0,"state":2,"last_review":1717763464869},
+"presume":{"due":1720503602485,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "pretty":{"due":1718109975288,"stability":3.5878,"difficulty":5.2239,"elapsed_days":15,"scheduled_days":4,"reps":2,"lapses":0,"state":2,"last_review":1717764375288},
 "prevent":{"due":1716357463922,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1715925463922},
 "preview":{"due":1713542341158,"stability":3.5878,"difficulty":5.2239,"elapsed_days":0.1252507175925926,"scheduled_days":4,"reps":2,"lapses":0,"state":2,"last_review":1713196741158},
@@ -16250,6 +16345,7 @@
 "purpose":{"due":1717759855144,"stability":1.05351195,"difficulty":5.7473283,"elapsed_days":21,"scheduled_days":0,"reps":2,"lapses":1,"state":3,"last_review":1717759555144},
 "purse":{"due":1714652742507,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "pursue":{"due":1714057843141,"stability":3.4574,"difficulty":5.2238,"elapsed_days":0,"scheduled_days":0,"reps":1,"lapses":0,"state":1,"last_review":1714057243141},
+"pursuit":{"due":1720499225748,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "push":{"due":1721644789294,"stability":44.84827238,"difficulty":4.01314686,"elapsed_days":21,"scheduled_days":45,"reps":2,"lapses":0,"state":2,"last_review":1717756789294},
 "put":{"due":1716357463922,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1715925463922},
 "puzzle":{"due":1718038983850,"stability":10.4871,"difficulty":3.974,"elapsed_days":0,"scheduled_days":10,"reps":1,"lapses":0,"state":2,"last_review":1717174983850},
@@ -16427,6 +16523,7 @@
 "return":{"due":1716357463922,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1715925463922},
 "reunion":{"due":1716870158485,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "reunite":{"due":1716870485803,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
+"reveal":{"due":1720499393239,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "review":{"due":1713801920652,"stability":3.4574,"difficulty":5.2238,"elapsed_days":0,"scheduled_days":0,"reps":1,"lapses":0,"state":1,"last_review":1713801320652},
 "revise":{"due":1718038899790,"stability":10.4871,"difficulty":3.974,"elapsed_days":0,"scheduled_days":10,"reps":1,"lapses":0,"state":2,"last_review":1717174899790},
 "revision":{"due":1714232932135,"stability":12.395266586449521,"difficulty":5.2239,"elapsed_days":4.174328958333334,"scheduled_days":12,"reps":3,"lapses":0,"state":2,"last_review":1713196132135},
@@ -16562,6 +16659,7 @@
 "selfie":{"due":1712839182634,"stability":2.4,"difficulty":4.93,"elapsed_days":54.74623635416667,"scheduled_days":0,"reps":2,"lapses":0,"state":1,"last_review":1712838882634},
 "selfish":{"due":1714214037209,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":1714214037209},
 "sell":{"due":1716357463922,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1715925463922},
+"seminar":{"due":1720499201395,"stability":0,"difficulty":0,"elapsed_days":0,"scheduled_days":0,"reps":0,"lapses":0,"state":0,"last_review":0},
 "send":{"due":1716357463922,"stability":5.0646,"difficulty":3.9739,"elapsed_days":0,"scheduled_days":5,"reps":1,"lapses":0,"state":2,"last_review":1715925463922},
 "senior":{"due":1715179845102,"stability":13.762340647956552,"difficulty":6.815799999999999,"elapsed_days":8.954642870370371,"scheduled_days":14,"reps":7,"lapses":1,"state":2,"last_review":1713970245102},
 "sense":{"due":1716453008224,"stability":3.5878,"difficulty":5.2239,"elapsed_days":32,"scheduled_days":0,"reps":2,"lapses":0,"state":1,"last_review":1716452708224},
@@ -17503,6 +17601,7 @@
 "00c9e7d8":"tender",
 "00d1f211":"entry",
 "00ded7e3":"nerve",
+"00e55581":"seminar",
 "012e94d7":"belongings",
 "014130e7":"sleepy",
 "01451bec":"occasionally",
@@ -17612,6 +17711,7 @@
 "0fe90dae":"compare",
 "0ffcad17":"historian",
 "1000191c":"suspend",
+"100259a4":"reveal",
 "10109ca2":"enemy",
 "101f7baa":"stew",
 "106ba87c":"optimism",
@@ -17761,6 +17861,7 @@
 "243160bd":"suspected",
 "24875e27":"late",
 "24b6036e":"awe",
+"24e3edce":"conceive",
 "24e9144c":"intervene",
 "251b62cc":"cheek",
 "2551c7b7":"influential",
@@ -17893,6 +17994,7 @@
 "366d2d72":"advance",
 "367cb754":"deal",
 "369bd892":"bowling",
+"36bae175":"age",
 "36c5d611":"circumstances",
 "36d37ac2":"lean",
 "36df437b":"identity",
@@ -17969,6 +18071,7 @@
 "40c3a47e":"recipe",
 "40ce9acd":"emission",
 "4108c803":"engaged",
+"411a6400":"attractive",
 "414c0cce":"dishearten",
 "41707aa5":"rhythm",
 "417c4687":"nearly",
@@ -18125,6 +18228,7 @@
 "54d8443a":"proceed",
 "5505d677":"infancy",
 "5517f9cc":"leak",
+"55bb9524":"parenthood",
 "55c27a8d":"burn",
 "55ec478b":"bright",
 "55fadf8a":"potential",
@@ -18142,6 +18246,7 @@
 "578b21bc":"landscape",
 "57bd51a6":"merchant",
 "57cce1f5":"twice",
+"57f8faae":"examine",
 "584efe26":"suit",
 "585cefcd":"adjacent",
 "58e5a2b9":"clinging",
@@ -18176,6 +18281,7 @@
 "5bd4f35b":"accurate",
 "5c67d398":"ongoing",
 "5c6d8a19":"quality",
+"5ca0ebfe":"correlate",
 "5ca1b2b1":"buffet",
 "5cb0846c":"rainfall",
 "5cc83761":"generally",
@@ -18282,6 +18388,7 @@
 "6a2195d3":"twin",
 "6a2be9d3":"adaptively",
 "6a4a4bcb":"toilet",
+"6a741a68":"hobby",
 "6ac67829":"royal",
 "6ad40a65":"consolation",
 "6b0f0906":"forth",
@@ -18371,6 +18478,7 @@
 "76daadf9":"relevant",
 "770f5e9b":"amateur",
 "7720f8e2":"scary",
+"7742f17e":"interest",
 "77436af3":"pouch",
 "77813f9b":"sight",
 "779312c6":"discreetly",
@@ -18425,6 +18533,7 @@
 "7d7876a3":"stimulate",
 "7db29930":"leave",
 "7dec8bc9":"framework",
+"7e412f69":"manifest",
 "7e76e21b":"negotiate",
 "7e8699d7":"associate",
 "7e8f3e57":"colleague",
@@ -18457,6 +18566,7 @@
 "82b00a71":"permanent",
 "82ca31a7":"quarter",
 "82e29700":"faintly",
+"82fc66f5":"extent",
 "830f4908":"curtain",
 "836a948b":"judge",
 "83919fe4":"desirable",
@@ -18616,6 +18726,7 @@
 "967759f6":"conclusion",
 "967908d3":"pass",
 "967fd0bb":"flea",
+"96a2a624":"look",
 "96aeac35":"convinced",
 "96b523a7":"deliver",
 "96c8975c":"miracle",
@@ -18736,6 +18847,7 @@
 "a4c43a95":"sacrifice",
 "a4dea25c":"windowpane",
 "a512beeb":"format",
+"a520df6a":"presume",
 "a53a6160":"stimulus",
 "a5505aec":"distinctive",
 "a56146a8":"wood",
@@ -18927,6 +19039,7 @@
 "bdc423db":"generate",
 "bdca3a27":"golden",
 "be096a14":"sidewalk",
+"be25a7d3":"maintain",
 "be26a0c9":"race",
 "be470f4b":"absurd",
 "be83e294":"solely",
@@ -19115,6 +19228,7 @@
 "d53ca39c":"sunburn",
 "d587c78d":"appliance",
 "d5a09ab3":"pessimistic",
+"d5e25123":"positivity",
 "d60290b1":"notion",
 "d6272f6d":"depict",
 "d63d4164":"fire",
@@ -19145,6 +19259,7 @@
 "d9bd7e52":"lovable",
 "d9f98d4e":"constantly",
 "da07b406":"tragic",
+"da52d5c9":"confess",
 "da75b9ef":"amuse",
 "da75e026":"accessible",
 "da7d4905":"fascinated",
@@ -19254,6 +19369,7 @@
 "e7bf08b3":"fertiliser",
 "e7f15466":"thorough",
 "e7f83467":"surplus",
+"e8057542":"pursuit",
 "e80d6355":"grim",
 "e824076c":"mutilated",
 "e833dbdf":"radiation",
@@ -19269,6 +19385,7 @@
 "e9905ab1":"cost",
 "e996d4e3":"as",
 "e9bae94a":"desperately",
+"e9c62b0e":"status",
 "e9e40a76":"shuck",
 "e9ec1486":"pride",
 "ea0f170f":"condition",
@@ -31390,6 +31507,42 @@
 "1720443317172":["refound"],
 "1720443317249":["8cf3b6d1"],
 "1720443352790":["costume"],
-"1720443352878":["3a1938e9"]
+"1720443352878":["3a1938e9"],
+"1720499201395":["seminar"],
+"1720499201465":["00e55581"],
+"1720499225748":["pursuit"],
+"1720499225826":["e8057542"],
+"1720499291934":["examine"],
+"1720499291965":["57f8faae"],
+"1720499393239":["reveal"],
+"1720499393262":["100259a4"],
+"1720500022644":["conceive"],
+"1720500022668":["24e3edce"],
+"1720503187430":["manifest"],
+"1720503187510":["7e412f69"],
+"1720503270819":["age"],
+"1720503270881":["36bae175"],
+"1720503421343":["confess"],
+"1720503421420":["da52d5c9"],
+"1720503508163":["parenthood"],
+"1720503508193":["55bb9524"],
+"1720503602485":["presume"],
+"1720503602510":["a520df6a"],
+"1720506202235":["attractive"],
+"1720506202268":["411a6400"],
+"1720506257867":["look"],
+"1720506257940":["96a2a624"],
+"1720506503996":["maintain"],
+"1720506504021":["be25a7d3"],
+"1720506628106":["extent"],
+"1720506628193":["82fc66f5"],
+"1720517392139":["correlate"],
+"1720517392165":["5ca0ebfe"],
+"1720518092429":["e9c62b0e"],
+"1720518136663":["positivity"],
+"1720518136715":["d5e25123"],
+"1720518172465":["7742f17e"],
+"1720518216568":["hobby"],
+"1720518216661":["6a741a68"]
 }
 }
